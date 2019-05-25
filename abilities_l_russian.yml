@@ -1,6 +1,6 @@
 ﻿l_russian:
  ABILITY_TOOLTIP_NAME:0 "$NAME|H$"
- ABILITY_TOOLTIP_NAME_CANCEL:0 "§RОтменить: $NAME|H$§!"
+ ABILITY_TOOLTIP_NAME_CANCEL:0 "§RОтменddsdsdь: $NAME|H$§!"
  ABILITY_TOOLTIP_COST:0 "Расход командного ресурса: $VALUE|H$"
  ABILITY_TOOLTIP_DETAILED_COST:0 "    - Базовая стоимость: $VALUE|H2$ (за каждый из $UNITS|H0$ батальонов)"
  ABILITY_TOOLTIP_DAILY_COST:0 "Ежедневный расход командного ресурса: $VALUE|H2$"
