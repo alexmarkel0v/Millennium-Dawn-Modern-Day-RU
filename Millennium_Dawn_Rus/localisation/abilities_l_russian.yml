@@ -42,14 +42,14 @@
  ABILITY_ON_HOURLY:0 "Каждый час:"
  ABILITY_ON_DAILY:0 "Каждый день:"
  
- UNLOCK_ABILITY_ARMORED_SPEARHEAD:0 "Unlock Ability: §YArmored Spearhead§!"
- UNLOCK_ABILITY_UNIT_FLEXIBILITY:0 "Unlock Ability: §YFlexible Defense§!"
- UNLOCK_ABILITY_INFILTRATION_ASSULT:0 "Unlock Ability: §YInfiltration Assault§!"
- UNLOCK_ABILITY_LAST_STAND:0 "Unlock Ability: §YLast Stand§!"
- UNLOCK_ABILITY_WELL_PNANNED_ATTACK:0 "Unlock Ability: §YWell Planned Attack§!"
- UNLOCK_ABILITY_DEEP_BATTLE:0 "Unlock Ability: §YDeep Battle§!"
- UNLOCK_ABILITY_SIEGE_ARTILLERY:0 "Unlock Ability: §YSiege Artillery§!"
- UNLOCK_ABILITY_RELENTLESS_ASSAULT:0 "Unlock Ability: §YRelentless Assault§!"
- UNLOCK_ABILITY_GUERILLA_WARFARE:0 "Unlock Ability: §YGuerilla Warfare§!"
+ UNLOCK_ABILITY_ARMORED_SPEARHEAD:0 "Разблокировать способность: §YБронетанковый клин§!"
+ UNLOCK_ABILITY_UNIT_FLEXIBILITY:0 "Разблокировать способность: §YГибкая оборона§!"
+ UNLOCK_ABILITY_INFILTRATION_ASSULT:0 "Разблокировать способность: §YМассированный штурм§!"
+ UNLOCK_ABILITY_LAST_STAND:0 "Разблокировать способность: §YПоследний бой§!"
+ UNLOCK_ABILITY_WELL_PNANNED_ATTACK:0 "Разблокировать способность: §YХорошо спланированная атака§!"
+ UNLOCK_ABILITY_DEEP_BATTLE:0 "Разблокировать способность: §YГлубокий бой§!"
+ UNLOCK_ABILITY_SIEGE_ARTILLERY:0 "Разблокировать способность: §YОсадная артиллерия§!"
+ UNLOCK_ABILITY_RELENTLESS_ASSAULT:0 "Разблокировать способность: §YБезжалостная атака§!"
+ UNLOCK_ABILITY_GUERILLA_WARFARE:0 "Разблокировать способность: §YПартизанская война§!"
  
  
