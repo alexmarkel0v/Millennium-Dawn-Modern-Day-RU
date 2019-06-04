@@ -195,13 +195,13 @@
  election_SOV.1.o4:0 "Явлинский"
  
  ## custom effect tool-tips
- SOV_appease_chechnya_tooltip:0 "§GThis will end the Chechen terror attacks.§! This will also cause the Communist to gain §G5%§! Support and Social Liberals to gain §G3%§! Support in our country.\n"
- SOV_nationalistic_sentiment_tooltip:0 "The Chechen terror attacks will continue.\n"
- SOV_support_the_oligarchs_tooltip_1:0 "§Y10 Civilian Industries§! will be built throughout Russia.\n"
- SOV_support_the_oligarchs_tooltip_2:0 "§RThis will cause corruption to become even more difficult to purge in our country and the Oligarchs to gain seats in the government!§!\n"
- SOV_the_red_menace_tt_1:0 "Communists begin to pick up power. This causes them to gain §G15%§! Support!\n"
- SOV_red_union_state_tt:0 "This will also cause the Communist to gain §G5%§! Support in the Country.\n"
- SOV_oligarchic_republic_tt:0 "This will also cause Reactionary party to lose §R3%§! Support and the Oligarchs to gain §G2%§! Support across the Country.\n"
- SOV_tsarist_restoration_tt:0 "Monarchist gain §G15%§! Support and the Tsar has returned to power!"
- SOV_economic_focus_TT:0 "This will cost §Y$30 Billion Dollars§!\n"
+ SOV_appease_chechnya_tooltip:0 "§GЭто положит конец чеченским терактам.§! Коммунисты получают §G5%§! Сочиальные либералы получают §G3%§! поддержки в нашей стране.\n"
+ SOV_nationalistic_sentiment_tooltip:0 "Чеченские теракты продолжатся.\n"
+ SOV_support_the_oligarchs_tooltip_1:0 "§Y10 гражданских фабрик§! будет построено по всей России.\n"
+ SOV_support_the_oligarchs_tooltip_2:0 "§RЭто приведет к тому, что коррупцию в нашей стране станет еще труднее очистить, а олигархи получат места в правительстве!§!\n"
+ SOV_the_red_menace_tt_1:0 "Коммунисты начинают набирать силу. Это дает им  §G15%§! поддержки!\n"
+ SOV_red_union_state_tt:0 "Это даст коммунистам §G5%§! поддержки в нашей стране.\n"
+ SOV_oligarchic_republic_tt:0 "Партия реакционеров потеряет §R3%§! поддержки и олигархи получат §G2%§! поддержки по всей стране.\n"
+ SOV_tsarist_restoration_tt:0 "Монархисты получат §G15%§! поддержи, и Царь вернется к власти!"
+ SOV_economic_focus_TT:0 "Это будет стоить §Y$30 миллиардов долларов§!\n"
  
