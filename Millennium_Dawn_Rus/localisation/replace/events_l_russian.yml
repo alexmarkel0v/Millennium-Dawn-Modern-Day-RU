@@ -52,7 +52,7 @@
  md4.13.a:0 "О, нет!"
 
 
-  generic.1.t:0 "[From.GetName] влияет на нашу политику"
+ generic.1.t:0 "[From.GetName] влияет на нашу политику"
  generic.1.d_neutral_good:0 "В течение долгого времени правительство [From.GetAdjective] стремилось выровнять путь наших стран и проявляло большой интерес к политике [Root.GetAdjective]. В последнее время это усилилось, когда [From.GetRulingParty] начал продвигать свою пропаганду [From.GetRulingIdeology] с множеством выступлений и материалов для чтения, распространенных среди людей [Root.GetAdjective]. \n\nТеперь даже ряд политиков и других должностных лиц склонены к пропаганде [From.GetAdjective] и начали выступать за [From.GetRulingIdeologyNoun] в [Root.GetName]."
  generic.1.d_bad:0 "В течение долгого времени правительство [From.GetAdjective] стремилось выровнять путь наших стран и часто пыталось вмешаться в политику [Root.GetName]. В последнее время это усилилось, поскольку [From.GetRulingParty] начал продвигать свою пропаганду [From.GetRulingIdeology], не уважая политические традиции [Root.GetAdjective]. Ряд выступлений и другой материал [From.GetRulingIdeology] уже распространяется среди людей [Root.GetAdjective]. Похоже, что к пропаганде [From.GetAdjective] склонны также ряд политиков и других чиновников, и они начали выступать за [From.GetRulingIdeologyNoun] в [Root.GetName]."
  generic.1.a:0 "Интересно."
@@ -283,7 +283,7 @@
  political.27.d_communism:0 "Вскоре после прихода партии [Root.GetRulingParty] к власти [Root.GetLeader] объявил, что [Root.GetName] откажется от своей внешней политики нейтралитета.\n«Мир стал слишком сложным и запутанным. Наша страна всегда придерживалась своих принципов и готова их защищать. В одиночку нам не продержаться. Сегодня нейтралитет не дает гарантий безопасности, и те, кто рвется к власти над миром, не чтут его. Мы должны объединиться с нашими товарищами-коммунистами против угнетателей. Против мировой буржуазии, которая только и думает, как нас остановить. Если не будем бороться вместе, то погибнем поодиночке»."
  political.27.a:0 "За будущее государства [Root.GetName]"
  political.28.t:0 "[Root.GetNameDef] Reunited"
- political.28.d:0 "The end of the terrible civil war that has devastated our land draws to an end, and we have finally reached a political agreement. We now see eye to eye with our fellow [Root.GetAdjective]s, and together we will rebuild our great nation. The enemies that have sought to capitalize on our infighting must now face a united [Root.GetAdjective] state.\n\nThe new [Root.GetRulingIdeology] [Root.GetName] will never be divided again!"
+ political.28.d:0 "Конец ужасной гражданской войны, опустошившей нашу землю, подходит к концу, и мы наконец достигли политического соглашения. Теперь мы встречаемся с нашими коллегами [Root.GetAdjective], и вместе мы восстановим нашу великую нацию. Враги, которые стремились извлечь выгоду из нашей борьбы, теперь столкнутся с единым народом [Root.GetAdjective].\n\nНовое [Root.GetRulingIdeology] [Root.GetName] больше никогда не будет разделено!"
  political.28.a:0 "Наконец-то мы едины!"
  THREAT_FROM_EFFECT:0 "Угроза действием"
  war_justification.1.t:0 "[Root.GetLeader] высказывается против государства [From.GetName]"
