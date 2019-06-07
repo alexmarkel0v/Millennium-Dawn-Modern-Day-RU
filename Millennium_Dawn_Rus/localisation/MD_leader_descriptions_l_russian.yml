@@ -4,15 +4,15 @@
 
  ###USA###
 
- DONALD_TRUMP_LEADER_DESC:0 "Donald John Trump (born June 14, 1946) is the multi billionaire son of real estate developer Frederick Christ Trump. With a small loan of a million dollars, Trump founded and expanded numerous businesses under the Trump Organization since 1971. Known for virulent rants and an impulsive style of leadership inherited from his days as a television personality, Trump has quickly made as many enemies as he has friends. Upon taking the presidency, Trump vows to curb illegal immigration, increase military spending, install protectionist tariffs and firmly put America First."
+ DONALD_TRUMP_LEADER_DESC:0 "Дональд Джон Трамп (родился 14 июня 1946 года) - сын мультимиллиардера-застройщика Фредерика Христа Трампа. Получив небольшой заем в размере миллиона долларов, с 1971 года Трамп основал и расширил множество предприятий в рамках Организации Трампа. Известный яростными настроениями и импульсивным стилем руководства, унаследованным от его отца, он быстро нажил себе много врагов, но столько же друзей. Принимая президентство, Трамп обещает обуздать нелегальную иммиграцию, увеличить военные расходы, установить протекционистские тарифы и утвердить Америку на первом месте."
  
- MITT_ROMNEY_LEADER_DESC:0 "Willard Mitt Romney (born March 12, 1978) is one of four children born to automobile executive George W. Romney. A devout Mormon and firm believer in laissez-faire economics and conservative family values; Romney vows to use his years of business experience to cut government waste, increase military spending, and remove restrictions put on Wall Street and large corporations."
+ MITT_ROMNEY_LEADER_DESC:0 "Уиллард Митт Ромни (родился 12 марта 1978 года) - один из четырех детей, рожденных руководителем автомобильной промышленности Джорджем Ромни. Набожный мормон и твердо верящий в экономику и консервативные семейные ценности; Ромни обещает использовать свой многолетний опыт ведения бизнеса для сокращения государственных расходов, увеличения военных расходов и снятия ограничений, наложенных на Уолл-стрит и крупные корпорации."
  
- GEORGE_BUSH_LEADER_DESC:0 "George Walker Bush (born July 6, 1946) is the first child of George Herbert Walker Bush, who served as the 41st American president from 1989 to 1993. After a brief stint in the oil industry, Bush entered politics and eventually became governor of Texas. Portraying himself as a compassionate conservative, Bush vows to cut taxes, increase military spending, and deregulate the corporate sector from unnecessary restrictions on greenhouse emissions."
+ GEORGE_BUSH_LEADER_DESC:0 "Джордж Уокер Буш (родился 6 июля 1946 года) - первый ребенок Джорджа Герберта Уокера Буша, который был 41-м американским президентом с 1989 по 1993 год. После недолгого пребывания в нефтяной промышленности Буш занялся политикой и в конечном итоге стал губернатором Техаса. , Представляя себя сочувствующим консерватором, Буш клянется сократить налоги, увеличить военные расходы и дерегулировать корпоративный сектор от ненужных ограничений на выбросы парниковых газов."
  
  MARCO_RUBIO_LEADER_DESC:0 ""
 
- BERNIE_SANDERS_LEADER_DESC:0 "Bernard Sanders (born September 8, 1941) is the son of working class Polish immigrants to the United States. Joining the Young People’s Socialist League during his college years, Sanders advocated for the equal treatment of whites and blacks during the Civil Rights Movement. Sanders later became mayor of Burlington, Vermont, and was eventually elected to the U.S. House of Representatives and U.S. Senate. A self-described democratic socialist and progressive, Bernie Sanders vows to reduce military spending, increase the power of labor unions and create a universal healthcare system."
+ BERNIE_SANDERS_LEADER_DESC:0 "Бернард Сандерс (род. 8 сентября 1941 г.) - сын польских иммигрантов из рабочего класса в США. Вступая в Молодежную социалистическую лигу в студенческие годы, Сандерс выступал за равное отношение к белым и черным во время движения за гражданские права. Позже Сандерс стал мэром Берлингтона, штат Вермонт, и в конечном итоге был избран в Палату представителей США и Сенат США. Берни Сандерс, самопровозглашенный демократический социалист и прогрессивист, обещает сократить военные расходы, увеличить влияние профсоюзов и создать универсальную систему здравоохранения."
  
  HILLARY_CLINTON_LEADER_DESC:0 ""
  
@@ -53,6 +53,5 @@
 
 ##### AFRICA #####
 
- POLITICS_PAUL_KAGAME_DESC:0 "When Paul Kagame was 28, he helped topple the government of Uganda. At 36 he overthrew the genocidal Hutu-led government of Rwanda. At 39 he ousted Mobutu of DR Congo, Africa's most corrupt and repressive dictator. Kagame is probably the most successful military leader alive, having won more wars than anyone - all on a shoestring budget. While repressing all opposition at home, the Tutsi general is constantly fixing his eyes on further foreign ambitions, hunting down Hutu rebels and exploiting mineral riches."
+ POLITICS_PAUL_KAGAME_DESC:0 "Когда Полу Кагаме было 28 лет, он помог свергнуть правительство Уганды. В 36 лет он сверг геноцидное правительство Руанды, возглавляемое хуту. В 39 лет он сверг Мобуту из ДР Конго, самого коррумпированного и репрессивного диктатора Африки. Кагаме, вероятно, самый успешный военный лидер из всех, выигравший больше войн, чем кто-либо, - и все это с ограниченным бюджетом. Подавляя всякую оппозицию у себя на родине, генерал тутси постоянно наблюдает за дальнейшими иностранными действиями, выслеживая повстанцев хуту и эксплуатируя минеральные богатства."
 
- 
