@@ -1,32 +1,32 @@
 ﻿l_russian:
 
- POL_prepare_for_october_elections:0 "Prepare for October Elections"
- POL_prepare_for_october_elections_desc:0 "In 1995 Aleksander Kwaśniewski won elections. Five years have passed quickly and now the next elections are drawing near. By starting preparations for the elections in October, we could support our candidate to the next president of Poland."
+ POL_prepare_for_october_elections:0 "Готовиться к октябрьским выборам"
+ POL_prepare_for_october_elections_desc:0 "В 1995 году Александр Квасьневский победил на выборах. Пять лет прошло быстро, и вот приближаются следующие выборы. Начав подготовку к выборам в октябре, мы могли бы поддержать нашего кандидата на пост следующего президента Польши."
 
- POL_abolish_the_elections:0 "Abolish the Elections"
- POL_abolish_the_elections_desc:0 "For a decade, our nation was republic, where people could elect new president. Now, when the next elections are very close, we could just stop organizing it. People will not be happy, but we'll have a chance to appoint new and better government for Poland."
+ POL_abolish_the_elections:0 "Отменить выборы"
+ POL_abolish_the_elections_desc:0 "В течение десятилетия нашей нацией была республика, где люди могли выбирать нового президента. Теперь, когда следующие выборы будут совсем близко, мы можем просто прекратить их организовывать. Люди не будут счастливы, но у нас будет шанс назначить новое и лучшее правительство для Польши."
  
- POL_kwasniewski:0 "Kwasniewski's Reforms"
- POL_kwasniewski_desc:0 "Aleksander Kwaśniewski ruled our nation since his victory in 1995 elections. He wants to strengthen ties with the west and join the EU. But he has to reform Polish economy too."
+ POL_kwasniewski:0 "Реформы Квасьневского"
+ POL_kwasniewski_desc:0 "Александр Квасьневский правил нашей нацией с момента его победы на выборах 1995 года. Он хочет укрепить связи с Западом и вступить в ЕС. Но он должен реформировать и польскую экономику."
 
  POL_korwin_mikke:0 "Korwin-Mikke"
- POL_korwin_mikke_desc:0 "Janusz Korwin-Mikke is a conservative with his own ideas to reform Poland. If he'll become president, he'll strengthen presidential power and he'll also keep Poland away from the west and east."
+ POL_korwin_mikke_desc:0 "Януш Корвин-Микке - консерватор со своими идеями по реформированию Польши. Если он станет президентом, он усилит президентскую власть, и он также будет держать Польшу подальше от запада и востока."
 
  POL_lepper:0 "Lepper's Poland"
- POL_lepper_desc:0 "Andrzej Lepper wants to rebuild Poland after becoming new president. He wants to strengthen presidential power and align to eastern countries. But he has to reform Polish economy too."
+ POL_lepper_desc:0 "Анджей Леппер хочет восстановить Польшу, став новым президентом. Он хочет укрепить президентскую власть и присоединиться к восточным странам. Но он должен реформировать и польскую экономику."
  
- POL_reform_polish_state:0 "Reform the Polish State"
- POL_reform_polish_state_desc:0 "After the fall of the USSR, Poland still has weak economy and it still has a lot of old systems. Now it's our time to step up and make Polish nation better each day."
+ POL_reform_polish_state:0 "Реформа польского государства"
+ POL_reform_polish_state_desc:0 "После распада СССР у Польши все еще была слабая экономика, и у нее все еще много старых систем. Теперь пришло время сделать шаг вперед и сделать польскую нацию лучше с каждым днем."
 
- POL_reform_banking_system:0 "Reform the Banking System"
- POL_reform_banking_system_desc:0 "Even if communists have fallen, we still have our debt and our banks are not reformed yet. It's our task to improve banking systems to have a chance to repay our loans and debts."
+ POL_reform_banking_system:0 "Реформировать банковскую систему"
+ POL_reform_banking_system_desc:0 "Даже если коммунисты пали, у нас все еще есть долги, а наши банки еще не реформированы. Наша задача - улучшить банковские системы, чтобы иметь возможность погашать наши кредиты и долги."
 
  POL_take_the_money_001_tooltip:0 "We'll gain §Y$10 billion§W into our treasury.§."
 
  POL_repay_debt_001_tooltip:0 "We'll lower our debt by §Y$10 billion§W.§."
 
- POL_reform_education:0 "Education Reform"
- POL_reform_education_desc:0 "Education is very imporant in XXI century. We need intelligent society to develop our cities, technologies and even army, to protect our nation."
+ POL_reform_education:0 "Реформа образования"
+ POL_reform_education_desc:0 "Образование очень важно в XXI веке. Нам нужно разумное общество, чтобы развивать наши города, технологии и даже армию, чтобы защитить нашу нацию."
 
  POL_higher_education_tooltip:0 "§GHigher budget§W will be spent on §YEducation§W.§."
 
@@ -36,70 +36,70 @@
 
  POL_protectionism_trade_tooltip:0 "Polish government will §Gclose§W its trade with §Yforeign countries§W and it'll fully embrace §Gprotectionism§W.§."
 
- POL_question_of_polish_economy:0 "Question of the Polish Economy"
- POL_question_of_polish_economy_desc:0 "We've been supporting interventionist trade policy since the end of the World War II. We should decide, which way we'll go, to efficiency reform other parts of our economy and society."
+ POL_question_of_polish_economy:0 "Вопрос о польской экономике"
+ POL_question_of_polish_economy_desc:0 "Мы поддерживаем интервенционистскую торговую политику с конца Второй мировой войны. Мы должны решить, каким путем мы пойдем, реформировать эффективность других частей нашей экономики и общества."
 
- POL_pro_european_policy:0 "Appoint Pro-European Politics"
- POL_pro_european_policy_desc:0 "The European Union is a economic union of countries, where richer ones helps the poor ones. If we'll join it, we surely get some benefits!"
+ POL_pro_european_policy:0 "Назначить проевропейскую политику"
+ POL_pro_european_policy_desc:0 "Европейский Союз - это экономический союз стран, где более богатые помогают бедным. Если мы к этому присоединимся, мы обязательно получим некоторые преимущества!"
 
- POL_abandon_nato:0 "Leave NATO"
- POL_abandon_nato_desc:0 "Western, capitalist world is a real threat to Poland. If somebody'll decide to attack us, they probably won't help us. Maybe we should abandon our 'friends' and focus on new diplomacy?"
+ POL_abandon_nato:0 "Выйти из НАТО"
+ POL_abandon_nato_desc:0 "Западный, капиталистический мир представляет собой реальную угрозу для Польши. Если кто-то решит напасть на нас, он, вероятно, не поможет нам. Может быть, мы должны отказаться от наших «друзей» и сосредоточиться на новой дипломатии?"
 
- POL_diplomacy_towards_brics:0 "Diplomacy towards BRICS"
- POL_diplomacy_towards_brics_desc:0 "Eastern countries are much better than the western capitalists. We should support their politics and maybe they'll help us with our development."
+ POL_diplomacy_towards_brics:0 "Дипломатия в отношении БРИКС"
+ POL_diplomacy_towards_brics_desc:0 "Восточные страны намного лучше западных капиталистов. Мы должны поддержать их политику, и, возможно, они помогут нам в нашем развитии."
  
- POL_strengthen_presidental_power:0 "Strengthen Presidential Power"
- POL_strengthen_presidental_power_desc:0 "Since the fall of communism and since Lech Wałęsa has won elections, we are a parliamentary republic. Many of us says, that we shouldn't give all power to one person, but some parties wants to establish a republic, fully controled by president."
+ POL_strengthen_presidental_power:0 "Усиление президентской власти"
+ POL_strengthen_presidental_power_desc:0 "После падения коммунизма и победы на выборах Леха Валенсы мы являемся парламентской республикой. Многие из нас говорят, что мы не должны отдавать всю власть одному человеку, но некоторые партии хотят создать республику, полностью контролируемую президентом."
 
- POL_agrarian_reform:0 "Agricultural Reform"
- POL_agrarian_reform_desc:0 "According to Lepper's party, Poland should focus its industry on agriculture to gain best benefits. We can help our farmers by establishing National Council of Agriculture, which will help them and protect their rights and privileges."
+ POL_agrarian_reform:0 "Сельскохозяйственная реформа"
+ POL_agrarian_reform_desc:0 "По мнению партии Леппера, Польша должна сосредоточить свою промышленность на сельском хозяйстве, чтобы получить максимальную выгоду. Мы можем помочь нашим фермерам, создав Национальный совет сельского хозяйства, который будет помогать им и защищать их права и привилегии."
 
  POL_change_army_law_001_tooltip:0 "§GHigher budget§W will be spent on §Ymilitary§W.§."
 
- POL_professional_army:0 "Polish Professional Army"
- POL_professional_army_desc:0 "We won't defend our nation from foreign threats without a professional army. We have to start trainings to improve our army's strength."
+ POL_professional_army:0 "Польская профессиональная армия"
+ POL_professional_army_desc:0 "Мы не защитим нашу нацию от внешних угроз без профессиональной армии. Мы должны начать тренировки, чтобы улучшить силу нашей армии."
 
- POL_civilian_army:0 "Polish Civilian Army"
- POL_civilian_army_desc:0 "We have to give our people right to defend themselves and give them legal weapons. That'll definitely increase amount of armed civilians, but they'll be less experienced than our national army."
+ POL_civilian_army:0 "Польская гражданская армия"
+ POL_civilian_army_desc:0 "Мы должны дать нашим людям право защищать себя и предоставлять им законное оружие. Это определенно увеличит количество вооруженных мирных жителей, но они будут менее опытными, чем наша национальная армия."
 
- POL_higher_army_budget:0 "Higher Army Budget"
- POL_higher_army_budget_desc:0 "Increasing our army budget is the basic step for improving the efficiency of our troops. Without right budget we won't be able to get needed equipment for them, so we have to expand money support for army."
+ POL_higher_army_budget:0 "Высший армейский бюджет"
+ POL_higher_army_budget_desc:0 "Увеличение бюджета нашей армии является основным шагом для повышения эффективности наших войск. Без правильного бюджета мы не сможем получить необходимое оборудование для них, поэтому мы должны увеличить денежную поддержку армии."
 
- POL_death_penalty:0 "Death Penalty"
- POL_death_penalty_desc:0 "If somebody commits a crime, we can only imprison him for life. But we could gain discipline and respect if we'll expand law and police, by restoring a death penalty."
+ POL_death_penalty:0 "Смертный приговор"
+ POL_death_penalty_desc:0 "Если кто-то совершает преступление, мы можем только лишить его свободы на всю жизнь. Но мы могли бы получить дисциплину и уважение, если мы расширим закон и полицию, восстановив смертную казнь."
 
- POL_support_polish_traditions:0 "Strengthen Polish Traditions"
- POL_support_polish_traditions_desc:0 "Poland is catholic since year 966. We had many crisis's, but our religion and traditions are still alive. If we're true christian country, we have to strengthen base traditions like family and faith."
+ POL_support_polish_traditions:0 "Укреплять польские традиции"
+ POL_support_polish_traditions_desc:0 "Польша является католиком с 966 года. У нас было много кризисов, но наша религия и традиции все еще живы. Если мы истинная христианская страна, мы должны укреплять базовые традиции, такие как семья и вера."
 
- POL_open_gddkia:0 "Open GDDKiA"
- POL_open_gddkia_desc:0 "General Directorate of National Roads and Highways (GDDKiA) is the central administration set up to manage the national roads and highways. It's already ready for opening, so maybe we should do it now?"
+ POL_open_gddkia:0 "Открыть GDDKiA"
+ POL_open_gddkia_desc:0 "Главное управление национальных дорог и автомагистралей (GDDKiA) является центральной администрацией, созданной для управления национальными дорогами и автомагистралями. Он уже готов к открытию, так что, может быть, мы должны сделать это сейчас?"
 
- POL_founding_of_central_anticorruption_bureau:0 "Founding of the Central Anti-corruption Bureau"
- POL_founding_of_central_anticorruption_bureau_desc:0 "Our corruption is very high, but it doesn't mean that it won't grow higher. We have to establish an institution which would try to fight the high corruption in Poland."
+ POL_founding_of_central_anticorruption_bureau:0 "Основание Центрального антикоррупционного бюро"
+ POL_founding_of_central_anticorruption_bureau_desc:0 "Наша коррупция очень высока, но это не значит, что она не будет расти выше. Мы должны создать институт, который будет пытаться бороться с высокой коррупцией в Польше."
 
- POL_help_from_brics:0 "Help from Russia"
- POL_help_from_brics_desc:0 "Russia is our northern neighbor and they're also a strong nation. We have to get some foreign support to root out our corruption. Maybe it's the time to ask them for help?"
+ POL_help_from_brics:0 "Помощь из России"
+ POL_help_from_brics_desc:0 "Россия - наш северный сосед, и они также сильная нация. Мы должны получить некоторую иностранную поддержку, чтобы искоренить нашу коррупцию. Может быть, пришло время обратиться к ним за помощью?"
 
- POL_help_from_germany:0 "Help from Germany"
- POL_help_from_germany_desc:0 "Our western neighbor is part of the EU. We need more help with our corruption, but Russia won't help us probably. We're in EU, so we can send our diplomats to Berlin."
+ POL_help_from_germany:0 "Помощь из Германии"
+ POL_help_from_germany_desc:0 "Наш западный сосед является частью ЕС. Нам нужно больше помочь с нашей коррупцией, но Россия, вероятно, не поможет нам. Мы находимся в ЕС, поэтому мы можем отправить наших дипломатов в Берлин."
 
  POL_join_the_sco:0 "Join the SCO"
- POL_join_the_sco_desc:0 "The Shanghai Cooperation Organization is a Eurasian political, economic, and security organization. We should join it after supporting the BRICS, so we could expand our development and economy."
+ POL_join_the_sco_desc:0 "Шанхайская организация сотрудничества является евразийской политической, экономической организацией и организацией безопасности. Мы должны присоединиться к нему после поддержки БРИКС, чтобы мы могли расширять свое развитие и экономику."
 
  POL_expand_rural_roads:0 "Expand Rural Roads"
- POL_expand_rural_roads_desc:0 "Our rural regions of the country aren't well-developed. They have small and very old roads, and not too many railroads. We need to focus at this regions to improve our economy there."
+ POL_expand_rural_roads_desc:0 "Наши сельские районы страны недостаточно развиты. У них маленькие и очень старые дороги и не слишком много железных дорог. Мы должны сосредоточиться на этих регионах, чтобы улучшить нашу экономику там."
 
  POL_expand_highways:0 "Expand Highways"
- POL_expand_highways_desc:0 "If we want to improve the efficiency of our reinforcements and deliveries, we obviously have to expand our highways."
+ POL_expand_highways_desc:0 "Если мы хотим повысить эффективность наших подкреплений и поставок, мы, очевидно, должны расширить наши магистрали."
 
  POL_silesian_industry:0 "Silesian Industry"
- POL_silesian_industry_desc:0 "After the World War II, the most industrialized region in Poland was Silesia. There's still a lot of place for more factories and industrial buildings, so we can still expand Silesian Industry."
+ POL_silesian_industry_desc:0 "После Второй мировой войны самым промышленно развитым регионом в Польше была Силезия. Там еще много места для новых фабрик и промышленных зданий, поэтому мы все еще можем расширить Силезскую индустрию."
 
- POL_industrial_expansion:0 "Industrial Expansion"
- POL_industrial_expansion_desc:0 "Our industry is much worse than other European nations. We have to reform it to begin modernization of factories. If we'll do that, we'll be able to build more efficient factories in Poland."
+ POL_industrial_expansion:0 "Промышленная экспансия"
+ POL_industrial_expansion_desc:0 "Наша промышленность намного хуже, чем в других европейских странах. Мы должны реформировать его, чтобы начать модернизацию заводов. Если мы сделаем это, мы сможем построить более эффективные заводы в Польше."
 
- POL_further_silesian_industry:0 "Further Industrial Expansion in Silesia"
- POL_further_silesian_industry_desc:0 "Now, when we started expanding industry in Silesia, we should continue it to gain bigger benefits from production. "
+ POL_further_silesian_industry:0 "Дальнейшее расширение промышленности в Силезии"
+ POL_further_silesian_industry_desc:0 "Теперь, когда мы начали расширять промышленность в Силезии, мы должны продолжать ее, чтобы получать большие выгоды от производства. "
 
- POL_heavy_indsutry:0 "Heavy Industry"
- POL_heavy_indsutry_desc:0 "We need to expand our heavy industry to produce equipment for our troops."
+ POL_heavy_indsutry:0 "Тяжелая промышленность"
+ POL_heavy_indsutry_desc:0 "Нам необходимо расширить нашу тяжелую промышленность, чтобы производить оборудование для наших войск."
