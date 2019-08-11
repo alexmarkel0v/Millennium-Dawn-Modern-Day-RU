@@ -1,5 +1,5 @@
 ﻿l_russian:
- AIR_WING_NAME_FIN_FALLBACK:0 "Эскадрильяскадрилья $NUMBER$"
+ AIR_WING_NAME_FIN_FALLBACK:0 "Эскадрилья $NUMBER$"
  AIR_WING_NAME_FIN_GENERIC:0 "$NAME$ $NR$"
  AIR_WING_NAME_SWE_FALLBACK:0 "Авиационное командование $NUMBER$"
  AIR_WING_NAME_SWE_GENERIC:0 "$NR$ $NAME$"
