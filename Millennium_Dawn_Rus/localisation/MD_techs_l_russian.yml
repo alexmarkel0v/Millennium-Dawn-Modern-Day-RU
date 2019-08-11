@@ -622,7 +622,7 @@
  Cat_CARRIER:0 "All Carriers"
  Cat_N_CV:0 "Nuclear Carriers"
  Cat_CV:0 "Aircraft Carriers"
- Cat_LHA:0 "Landing Helicopter Assault Ships (LHA)"
- Cat_LPD:0 "Amphibious Transport Dock Ships (LPD)"
+ Cat_LHA:0 "Десантный вертолет (LHA)"
+ Cat_LPD:0 "Корабли-амфибии (LPD)"
  
- Early_Tunnel_Warfare_Buff:0"§GProvides a terrain buff to several units, click for more details§!"
+ Early_Tunnel_Warfare_Buff:0"§GПредоставляет положительный эффект для нескольких юнитов. Нажмите для более подробной информации.§!"
