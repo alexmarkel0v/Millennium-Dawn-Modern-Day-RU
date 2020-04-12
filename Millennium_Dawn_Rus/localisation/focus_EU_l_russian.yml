@@ -10,43 +10,43 @@
  ### Tutorial ###
  
  
- EU_Voting_tutorial:0 "EU Tutorial"
- EU_Voting_tutorial_desc:0 "Tutorial on how §Y[EUU.GetFlag] The European Union§! is modeled and works in Millennium Dawn."
+ EU_Voting_tutorial:0 "Руководство ЕС"
+ EU_Voting_tutorial_desc:0 "Руководство о том, как §Y[EUU.GetFlag] Европейский союз§! is modeled and works in Millennium Dawn."
  
- EU_tutorial.1.t:0 "Introduction - Main Menu"
- EU_tutorial.1.d:0 "Introduction - Main Menu\nChapter 1 - The European Union\nChapter 2 - The EU Focus Tree\nChapter 3 - The EU Voting\n\nIntroduction - Main Menu - Page 2\nChapter 4 - The EU Laws and Ideas\nChapter 5 - The EU Offices\nChapter 6 – Euroscepticism\n\nIntroduction - Main Menu - Page 3\nChapter 7 - Leaving the EU\nChapter 8 - Enlargement and Joining the EU\nChapter 9 - EU Events\n\nIntroduction - Main Menu - Page 4\nChapter 10 - Uniting the EU\nChapter 11 - EU AI\nChapter 12 - Hints and Cheats\nEnd Tutorial"
- EU_tutorial.1.a:0 "Chapter 1 - The European Union"
- EU_tutorial.1.b:0 "Chapter 2 - The EU Focus Tree"
- EU_tutorial.1.c:0 "Chapter 3 - The EU Voting"
- EU_tutorial.1.e:0 "Next Page" 
+ EU_tutorial.1.t:0 "Введение - Главное меню"
+ EU_tutorial.1.d:0 "Введение - Главное меню\nГлава 1 - Европейский союз\nГлава 2 - Фокусное дерево ЕС\nГлава 3 - Голосование в ЕС\n\nВведение - Главное меню - Страница 2\nChapter 4 - The EU Laws and Ideas\nChapter 5 - The EU Offices\nChapter 6 – Euroscepticism\n\nIntroduction - Main Menu - Page 3\nChapter 7 - Leaving the EU\nChapter 8 - Enlargement and Joining the EU\nChapter 9 - EU Events\n\nIntroduction - Main Menu - Page 4\nChapter 10 - Uniting the EU\nChapter 11 - EU AI\nChapter 12 - Hints and Cheats\nEnd Tutorial"
+ EU_tutorial.1.a:0 "Глава 1 - Европейский союз"
+ EU_tutorial.1.b:0 "Глава 2 - Фокусное дерево ЕС"
+ EU_tutorial.1.c:0 "Глава 3 - Голосование в ЕС"
+ EU_tutorial.1.e:0 "Следующая страница" 
 
- EU_tutorial.2.t:0 "Introduction - Main Menu"
- EU_tutorial.2.d:0 "Introduction - Main Menu - Page 2"
- EU_tutorial.2.a:0 "Chapter 4 - The EU Laws and Ideas"
+ EU_tutorial.2.t:0 "Введение - Главное меню"
+ EU_tutorial.2.d:0 "Введение - Главное меню - Страница 2"
+ EU_tutorial.2.a:0 "Глава 4 - Законы и идеи ЕС"
  EU_tutorial.2.b:0 "Chapter 5 - The EU Offices"
- EU_tutorial.2.c:0 "Chapter 6 - Euroscepticism"
- EU_tutorial.2.e:0 "Next Page"
+ EU_tutorial.2.c:0 "Глава 6 - Евроскептицизм"
+ EU_tutorial.2.e:0 "Следующая страница"
 
- EU_tutorial.3.t:0 "Introduction - Main Menu"
- EU_tutorial.3.d:0 "Introduction - Main Menu - Page 3"
- EU_tutorial.3.a:0 "Chapter 7 - Leaving the EU"
- EU_tutorial.3.b:0 "Chapter 8 - Enlargement and Joining the EU"
- EU_tutorial.3.c:0 "Chapter 9 - EU Events"
- EU_tutorial.3.e:0 "Next Page"
+ EU_tutorial.3.t:0 "Введение - Главное меню"
+ EU_tutorial.3.d:0 "Введение - Главное меню - Страница 3"
+ EU_tutorial.3.a:0 "Глава 7 - Уход из ЕС"
+ EU_tutorial.3.b:0 "Глава 8 - Расширение и вступление в ЕС"
+ EU_tutorial.3.c:0 "Глава 9 - События в ЕС"
+ EU_tutorial.3.e:0 "Следующая страница"
 
- EU_tutorial.4.t:0 "Introduction - Main Menu"
- EU_tutorial.4.d:0 "Introduction - Main Menu"
+ EU_tutorial.4.t:0 "Введение - Главное меню"
+ EU_tutorial.4.d:0 "Введение - Главное меню"
  EU_tutorial.4.a:0 "Chapter 10 - Uniting the EU"
  EU_tutorial.4.b:0 "Chapter 11 - EU AI"
  EU_tutorial.4.c:0 "Chapter 12 - Hints and Cheats"
  EU_tutorial.4.e:0 "End Tutorial"
 
- EU_tutorial.10.t:0 "Chapter 1 - The European Union"
+ EU_tutorial.10.t:0 "Глава 1 - Европейский союз"
  EU_tutorial.10.d:0 "§Y[EUU.GetFlag] The European Union§! is a unique economic and political union between its member states.\n\nThe EU is similar to a confederation, where many policy areas are federalised into common institutions capable of making law; however the member states are sovereign nations but they have limited their sovereignty and transfered some of their powers to the supranational union.\n\nWhat began as a purely economic union has evolved into an organization spanning policy areas, from climate, environment and health to external relations and security, justice and migration. A name change from the European Economic Community (EEC) to the European Union (EU) in 1993 reflected this."
  EU_tutorial.10.a:0 "Chapter 1.1 - The European Union in Millennium Dawn"
  EU_tutorial.10.b:0 "Chapter 1.2 - Institutions of the European Union"
  EU_tutorial.10.c:0 "Chapter 1.3 - Council, Huh?"
- EU_tutorial.10.e:0 "Return to Tutorial Main Menu" 
+ EU_tutorial.10.e:0 "Возврат к главному меню" 
 
  EU_tutorial.11.t:0 "Chapter 1.1 - The European Union in Millennium Dawn"
  EU_tutorial.11.d:0 "In Millennium Dawn §Y[EUU.GetFlag] The European Union§! is not a playable nation (there is an EUU tag for some coding reasons, but this is not a regular Hearts of Iron country). In the mod the EU is represented and played by the member states. Later in the game the player has the possibility to unite (annex) the member states under one cosmetic tag. Two main factors that drive the EU are the influence on the other member states and the Euroscepticism. Besides that the EU is controlled via the EU Focus Tree and Decisions."
@@ -188,7 +188,7 @@
  EU_tutorial.57.d:0 "The President of the European Federation is a unique office in the European Union/Federation because the holding member state is the paramount leader of Europe. Therefore the President of the European Federation can claim every other office for his member states."
  EU_tutorial.57.a:0 "Next Chapter"
 
- EU_tutorial.60.t:0 "Chapter 6 - Euroscepticism"
+ EU_tutorial.60.t:0 "Глава 6 - Евроскептицизм"
  EU_tutorial.60.d:0 "Euroscepticism is one of the basic concepts for the EU in Millennium Dawn.\n\nEuroscepticism, also known as EU-scepticism, means criticism of the European Union (EU) and European integration. According to public opinion surveys this ratio represents the number of people who will likely vote for leaving the European Union in the case of a European Union membership referendum of their country.\nEuropeanism also known as Pro-Europeanism, sometimes called European Unionism, is a political position that favours European integration and membership of the European Union (EU). It includes the more radical European federalists, who seek to create a single superstate known informally as a United States of Europe. A related term is ’Europhile’. The ratio represents the Europhile people throughout the whole Union.\n\nEuroscepticism is one of the main variable driving the EU member states in one direction or the other. Europeanism on the other hand is just a derivative variable from Euroscepticism. It is used as trigger to refer to the Union as a whole."
  EU_tutorial.60.a:0 "Chapter 6.1 - State of the Union"
  EU_tutorial.60.b:0 "Chapter 6.2 - Euroscepticism Change"
@@ -205,14 +205,14 @@
   
  EU_tutorial.63.t:0 "Chapter 6.3 - Euroscepticism and EU Exit"
  EU_tutorial.63.d:0 "Euroscepticism will drive the AI to EU Exit. From 50% Euroscepticism the probability of an exit rises in 10% steps with rising Euroscepticism. But Euroscepticism is not the only factor for an EU exit. The probability from the Euroscepticism is modified by the ruling party. Governments with nationalist outlook will always try to leave the Union. Conservative governments are pro-European in general, but they flip over in the exit camp, when Euroscepticism rises above 60%. All other major European parties try to stay in the EU, but somewhere above 70% Euroscepticism they can't ignore the will of the people."
- EU_tutorial.63.a:0 "Next Chapter"
+ EU_tutorial.63.a:0 "Следующая глава"
  
  EU_tutorial.70.t:0 "Chapter 7 - Leaving the EU"
  EU_tutorial.70.d:0 "Leaving the EU is a longer process which will not take place over night. Never the less an EU exit can also happen by accident."
  EU_tutorial.70.a:0 "Chapter 7.1 - Leaving the EU by Article 50"
  EU_tutorial.70.b:0 "Chapter 7.2 - Leaving the EU by Accident"
  EU_tutorial.70.c:0 "Chapter 7.3 - Leaving the EU by the AI"
- EU_tutorial.70.e:0 "Return to Tutorial Main Menu" 
+ EU_tutorial.70.e:0 "Возврат к главному меню" 
 
  EU_tutorial.71.t:0 "Chapter 7.1 - Leaving the EU by Article 50"
  EU_tutorial.71.d:0 "The first step in leaving the EU is to complete the Article 50 focus. Than the Withdrawal category and the leave decision becomes available. When selected the leaving mission is activated. With the mission activated the player has two years to complete the Withdrawal Treaty focus and select the mission. Otherwise a No Deal Exit will happen. There is an option to have a prepared No Deal Exit, when the No Deal Exit focus is complete or to have an unprepared No Deal Exit when none of the two focuses is completed within the two year.\n\nThe player has also the option to revoke Article 50 and stay in the EU.\n\nIf the player needs more time there is an decision to extend Article 50.\nNote: the extention only set the remaining time to three month. So if it is activated to early, it is not an extention but a shortening."
@@ -231,95 +231,95 @@
  EU_tutorial.80.a:0 "Chapter 8.1 - Enlargement of the EU"
  EU_tutorial.80.b:0 "Chapter 8.2 - Joining the EU"
  EU_tutorial.80.c:0 "Chapter 8.3 - Joining the Euro"
- EU_tutorial.80.e:0 "Return to Tutorial Main Menu" 
+ EU_tutorial.80.e:0 "Возврат к главному меню" 
  
- EU_tutorial.81.t:0 "Chapter 8.1 - Enlargement of the EU"
+ EU_tutorial.81.t:0 "Глава 8.1 - Расширение ЕС"
  EU_tutorial.81.d:0 "The Enlargement of the EU is done by the Enlargement fouces followed by the voting of the member states. At the moment there are only the historical EU Enlargement packages of 2004, 2007 and 2013. Future Enlargement packages will be added in the next update."
- EU_tutorial.81.a:0 "Next Page"
+ EU_tutorial.81.a:0 "Следующая страница"
  
- EU_tutorial.82.t:0 "Chapter 8.2 - Joining the EU"
+ EU_tutorial.82.t:0 "Глава 8.2 - Вступление в ЕС"
  EU_tutorial.82.d:0 "When the EU member states have voted for an Enlargement package the respective countries become a candidate. As candidate the member state gets a decision to join the European Union. At the moment there are no EU accession criteria implemented (but this could change in future updates).\n\nAfter the joining, the new member state gets the national spirit European Union Member. To get the other EU national spirits the member state needs to select the Adopt the EU law decision (see Chapter 4.2 for details)."
- EU_tutorial.82.a:0 "Next Page"
+ EU_tutorial.82.a:0 "Следующая страница"
  
  EU_tutorial.83.t:0 "Chapter 8.3 - Joining the Euro"
  EU_tutorial.83.d:0 "After becoming a EU member states the country can also join the Euro if certain criteria are met. The country needs at least a Stable Growth Economic Cycle, a GDP/C of at least 10.000$ and a Corruption Level of 5 or lesser."
- EU_tutorial.83.a:0 "Next Chapter"
+ EU_tutorial.83.a:0 "Следующая глава"
 
  EU_tutorial.90.t:0 "Chapter 9 - EU Events"
  EU_tutorial.90.d:0 "Some major event effect the whole §Y[EUU.GetFlag] The European Union§!"
- EU_tutorial.90.a:0 "Chapter 9.1 - The European Debt Crisis"
- EU_tutorial.90.b:0 "Chapter 9.2 - The European Migrant Crisis"
+ EU_tutorial.90.a:0 "Глава 9.1 - Европейский долговой кризис"
+ EU_tutorial.90.b:0 "Глава 9.2 - Европейский кризис мигрантов"
  EU_tutorial.90.c:0 "Chapter 9.3 - The other events"
- EU_tutorial.90.e:0 "Return to Tutorial Main Menu"
+ EU_tutorial.90.e:0 "Возврат к главному меню"
 
- EU_tutorial.91.t:0 "Chapter 9.1 - The European Debt Crisis"
- EU_tutorial.91.d:0 "The European Debt Crisis is triggered by date (at the moment) and will hit the southern countries hard."
- EU_tutorial.91.a:0 "Next Page"
+ EU_tutorial.91.t:0 "Глава 9.1 - Европейский долговой кризис"
+ EU_tutorial.91.d:0 "Европейский долговой кризис спровоцирован датой (на данный момент) и сильно ударит по южным странам."
+ EU_tutorial.91.a:0 "Следующая страница"
  
- EU_tutorial.92.t:0 "Chapter 9.2 - The European Migrant Crisis"
- EU_tutorial.92.d:0 "The European Migrant Crisis will be added in the next update."
- EU_tutorial.92.a:0 "Next Page"
+ EU_tutorial.92.t:0 "Глава 9.2 - Европейский кризис мигрантов"
+ EU_tutorial.92.d:0 "Европейский кризис мигрантов будет добавлен в следующем обновлении."
+ EU_tutorial.92.a:0 "Следующая страница"
  
  EU_tutorial.93.t:0 "Chapter 9.3 - The other events"
- EU_tutorial.93.d:0 "Some minor events for the whole Union will be added in future updates."
- EU_tutorial.93.a:0 "Next Chapter"
+ EU_tutorial.93.d:0 "Некоторые незначительные события для всего Союза будут добавлены в будущих обновлениях."
+ EU_tutorial.93.a:0 "Следующая глава"
  
- EU_tutorial.100.t:0 "Chapter 10 - Uniting the EU"
+ EU_tutorial.100.t:0 "Глава 10 - Объединение ЕС"
  EU_tutorial.100.d:0 "There are three ways to unite §Y[EUU.GetFlag] The European Union§!."
- EU_tutorial.100.a:0 "Chapter 10.1 - The United States of Europe"
- EU_tutorial.100.b:0 "Chapter 10.2 - The European Federation"
+ EU_tutorial.100.a:0 "Глава 10.1 - Соединенные Штаты Европы"
+ EU_tutorial.100.b:0 "Глава 10.2 - Европейская федерация"
  EU_tutorial.100.c:0 "Chapter 10.3 - A Europe of Fatherlands"
- EU_tutorial.100.e:0 "Return to Tutorial Main Menu"
+ EU_tutorial.100.e:0 "Возврат к главному меню"
 
- EU_tutorial.101.t:0 "Chapter 10.1 - The United States of Europe"
+ EU_tutorial.101.t:0 "Глава 10.1 - Соединенные Штаты Европы"
  EU_tutorial.101.d:0 "After more than 70 years of European integration the member states of §Y[EUU.GetFlag] The European Union§! are ready to give up their sovereignty and form §Y[EUU.GetFlag] The United States of Europe§!."
- EU_tutorial.101.a:0 "Next Page"
+ EU_tutorial.101.a:0 "Следующая страница"
  
- EU_tutorial.102.t:0 "Chapter 10.2 - The European Federation"
+ EU_tutorial.102.t:0 "Глава 10.2 - Европейская федерация"
  EU_tutorial.102.d:0 "The member states of §Y[EUU.GetFlag] The European Union§! are ready to transfer the Union into §Y[EUU.GetFlag] The European Federation§! with the Qualified Majority Voting as fundamental principle and headed by the §YPresident of the European Federation§!."
- EU_tutorial.102.a:0 "Next Page"
+ EU_tutorial.102.a:0 "Следующая страница"
  
  EU_tutorial.103.t:0 "Chapter 10.3 - A Europe of Fatherlands"
  EU_tutorial.103.d:0 "The Europe of Fatherlands puts an end to the European integration:\n\n Any further European integration will jeopardise the cultural heritage, the national Identities and the sovereignty of the member states. Europe is a Europe of Fatherlands, so the European integration has to stop at this stage."
- EU_tutorial.103.a:0 "Next Chapter"
+ EU_tutorial.103.a:0 "Следующая глава"
 
  EU_tutorial.110.t:0 "Chapter 11 - EU AI"
  EU_tutorial.110.d:0 "For the EU exit AI see Chapter 6.3."
  EU_tutorial.110.a:0 "Chapter 11.1 - The EU focus AI"
  EU_tutorial.110.b:0 "Chapter 11.2 - The EU voting strategy AI"
  EU_tutorial.110.c:0 "Chapter 11.3 - The EU propaganda AI"
- EU_tutorial.110.e:0 "Return to Tutorial Main Menu"
+ EU_tutorial.110.e:0 "Возврат к главному меню"
 
  EU_tutorial.111.t:0 "Chapter 11.1 - The EU focus AI"
  EU_tutorial.111.d:0 "The base factor for the AI to chose EU focuses are 20, so AI will do this from time to time.\n\nFactors that influence the base factor are the following:\n\n- The historical date of the focuses.\n- The AI member state has 5% influence or more on any other member state.\n- The Euroscepticism level of the AI member state; the more Euroscepticism, the more likley to avoid further EU focuses.\n- The national bias againt certain focuses; this corresponds to the special Euroscepticism malus the country gets from that focus."
- EU_tutorial.111.a:0 "Next Page"
+ EU_tutorial.111.a:0 "Следующая страница"
  
  EU_tutorial.112.t:0 "Chapter 11.2 - The EU voting strategy AI"
  EU_tutorial.112.d:0 "At the moment there is no overall EU influence strategy AI. So the AI can't change the chance to get a proposal through the voting or even to get the voting decision available. To deal with that the AI has a special decision to get 3% influence on all member states, if the AI has completed a voting focus."
- EU_tutorial.112.a:0 "Next Page"
+ EU_tutorial.112.a:0 "Следующая страница"
  
  EU_tutorial.113.t:0 "Chapter 11.3 - The EU propaganda AI"
  EU_tutorial.113.d:0 "The Pro-European government with the following ruling parties will try to keep Euroscepticism low:\n[EUU.liberalism_L], [EUU.Neutral_Libertarian_L], [EUU.socialism_L], [EUU.neutral_Social_L], [EUU.Neutral_green_L], [EUU.Communist-State_L], [EUU.anarchist_communism_L], [EUU.Neutral_Communism_L]\nThe following government are also Pro-European as long as Euroscepticism is below 60% [EUU.conservatism_L], [EUU.Conservative_L], [EUU.Neutral_conservatism_L]; they will try to keep the Euroscepticism low in these circumstances. But they flip over in the eurosceptic camp and try to rise Euroscepticism if the level rises above 60%, because they fear the pressure from the nationlists.\n The last one will always try to spread Euroscepticism if they get into power:\n[EUU.Nat_Populism_L], [EUU.Nat_Fascism_L], [EUU.Nat_Autocracy_L], [EUU.Monarchist_L]"
- EU_tutorial.113.a:0 "Next Chapter"
+ EU_tutorial.113.a:0 "Следующая глава"
 
  EU_tutorial.120.t:0 "Chapter 12 - Hints and Cheats"
  EU_tutorial.120.d:0 "Hints and Cheats"
  EU_tutorial.120.a:0 "Chapter 12.1 - Hints"
  EU_tutorial.120.b:0 "Chapter 12.2 - Voting Cheat"
  EU_tutorial.120.c:0 "Chapter 12.3 - Console Commands"
- EU_tutorial.120.e:0 "Return to Tutorial Main Menu"
+ EU_tutorial.120.e:0 "Возврат к главному меню"
 
- EU_tutorial.121.t:0 "Chapter 12.1 - Hints"
+ EU_tutorial.121.t:0 "Глава 12.1 - Подсказки"
  EU_tutorial.121.d:0 "To drive the European integration forward the following should be kept in mind:\n- high influence on the member states is vital to get the proposals through the voting\n- a smaller Union is easier to handle than a bigger one\n- a smaller Union is easier to unify than a bigger one\n- if the European integration progresses to fast, some member states might get lost on the way"
- EU_tutorial.121.a:0 "Next Page"
+ EU_tutorial.121.a:0 "Следующая страница"
  
  EU_tutorial.122.t:0 "Chapter 12.2 - Voting Cheat"
  EU_tutorial.122.d:0 "The Voting Cheat allowes to set all votings to YES or to NO till the cheat is deactivated."
- EU_tutorial.122.a:0 "Next Page"
+ EU_tutorial.122.a:0 "Следующая страница"
  
- EU_tutorial.123.t:0 "Chapter 12.3 - Console Commands"
+ EU_tutorial.123.t:0 "Глава 12.3 - Консольные команды"
  EU_tutorial.123.d:0 "Euroscepticism can be set to X% with this console command:\n\nset_var eurosceptic 0.X\n\nE.g. 10% with: set_var eurosceptic 0.1"
- EU_tutorial.123.a:0 "Return to Tutorial Main Menu"
+ EU_tutorial.123.a:0 "Возврат к главному меню"
  
 
 
@@ -329,7 +329,7 @@
  
  ### EU_GENERIC ###
  
- EU_GENERIC_political_reform:0 "Political Reform"
+ EU_GENERIC_political_reform:0 "Политическая реформа"
  EU_GENERIC_political_reform_desc:0 "To prevent stagnation of our domestic political scenes, the government must keep the country and its people politically engaged and active. Legislation must be drafted, government officials appointed, funding plans passed and public projects planned. The [Root.GetAdjective] government may not become complacent in its effort to modernize and strengthen the country."
  EU_GENERIC_cabinet_reform:0 "Cabinet Reform"
  EU_GENERIC_cabinet_reform_desc:0 "By replacing several key actors in the cabinet that are currently opposed to the head of government's agenda, the executive branch can project strength and determination in dealing with upcoming political questions and crises. In doing so, we must ignore the haters, losers and naysayers."
@@ -365,23 +365,23 @@
  EU_GENERIC_the_rising_powers_desc:0 ""
  EU_GENERIC_us_above_all:0 "Us Above All"
  EU_GENERIC_us_above_all_desc:0 ""
- EU_GENERIC_international_diplomacy:0 "International Diplomacy"
+ EU_GENERIC_international_diplomacy:0 "Международная дипломатия"
  EU_GENERIC_international_diplomacy_desc:0 "The art of making backroom deals, public displays of holier-than-thou attitudes and dividing small countries between their bigger neighbors, the practice of international diplomacy has a long established culture with a mixture of grandstanding and pragmatic machiavellianism. After all, the main goal of diplomacy is to secure the country's oil supply. [Root.GetNameDef] may not fall behind."
  EU_GENERIC_trade_with_the_neighbors:0 "Trade with the Neighbors"
  EU_GENERIC_trade_with_the_neighbors_desc:0 "After closing ranks with our immediate neighbors through both expansion of our diplomatic staffs and expansion of our road network, we can now pursue a closer trade integration with our next door partners. This will help profits for both our large companies and our small businesspeople."
  EU_GENERIC_alignment_debate:0 "Alignment Debate"
  EU_GENERIC_alignment_debate_desc:0 "An open question of international diplomacy is always the conflicting and juxtaposted ideas of neutrality and isolationism versus the idea of interventionism."
- EU_GENERIC_neutrality:0 "Neutrality"
+ EU_GENERIC_neutrality:0 "Нейтралитет"
  EU_GENERIC_neutrality_desc:0 "We should always be concerned with the safety and prosperity of [Root.GetAdjective] citizens first and foremost. We cannot waste our young men, natural resources and financial assets in foreign entanglements. Instead, we must make sure that he homefront is safe by securing our borders and avoiding membership in international alliance networks."
- EU_GENERIC_interventionism:0 "Interventionism"
+ EU_GENERIC_interventionism:0 "Интервенционизм"
  EU_GENERIC_interventionism_desc:0 ""
  EU_GENERIC_build_fortifications:0 "Build Fortifications"
  EU_GENERIC_build_fortifications_desc:0 ""
- EU_GENERIC_militarism:0 "Militarism"
+ EU_GENERIC_militarism:0 "Милитаризм"
  EU_GENERIC_militarism_desc:0 ""
  EU_GENERIC_peaceful_emergence:0 "Peaceful Emergence"
  EU_GENERIC_peaceful_emergence_desc:0 ""
- EU_GENERIC_revanchism:0 "Revanchism"
+ EU_GENERIC_revanchism:0 "Реваншизм"
  EU_GENERIC_revanchism_desc:0 ""
  EU_GENERIC_build_roads:0 "Build Roads"
  EU_GENERIC_build_roads_desc:0 ""
@@ -2455,7 +2455,7 @@
 
 
  ### EU Voting News Events ###
- EUvote_news.2.t:0 "Voting Results"
+ EUvote_news.2.t:0 "Результаты голосования"
  EUvote_news.2.d:0 "This is the result of the voting on [EU_focus_name_Loc]:\nFrom a total of [?global.var_EUvoteTotal] member states, with YES voted [?global.var_EUvoteYes] member states, they represent [?global.var_EUpopYes|%2] of the EU Population and with NO voted [?global.var_EUvoteNo] member states, they represent [?global.var_EUpopNo|%2] of the EU Population.\n[EU_voting_majority_Loc] [EU_voting_result_Loc]\nThe individual voting was this:\n[ALB_Vote_Loc][ARM_Vote_Loc][AUS_Vote_Loc][AZE_Vote_Loc][BEL_Vote_Loc][BLR_Vote_Loc][BOS_Vote_Loc][BUL_Vote_Loc][CAT_Vote_Loc][CRE_Vote_Loc][CRO_Vote_Loc][CYP_Vote_Loc][CZE_Vote_Loc][DEN_Vote_Loc][ENG_Vote_Loc][EST_Vote_Loc][FIN_Vote_Loc][FRA_Vote_Loc][FYR_Vote_Loc][GEO_Vote_Loc][GER_Vote_Loc][GRE_Vote_Loc][HOL_Vote_Loc][HUN_Vote_Loc][ICE_Vote_Loc][IRE_Vote_Loc][ITA_Vote_Loc][KOS_Vote_Loc][LAT_Vote_Loc][LIT_Vote_Loc][LUX_Vote_Loc][MLT_Vote_Loc][MLV_Vote_Loc][MNT_Vote_Loc][NOR_Vote_Loc][POL_Vote_Loc][POR_Vote_Loc][ROM_Vote_Loc][SCL_Vote_Loc][SCO_Vote_Loc][SER_Vote_Loc][SLO_Vote_Loc][SLV_Vote_Loc][SPR_Vote_Loc][SWE_Vote_Loc][SWI_Vote_Loc][TUR_Vote_Loc][UKR_Vote_Loc][WAS_Vote_Loc]" ### adding new memberstates via EU_Memberstates.xlsx sheet EU_news.2.d 0
  EUvote_news.2.a:0 "Okay!"
  
@@ -3298,9 +3298,9 @@
  ### EU Claim Office News Events Los ###
  
  ### President of the European Commission ###
- EU_news.2.t:0 "President of the European Commission"
- EU_news.2.d:0 "[FROM.GetNameWithFlag] will now hold the Office of the President of the European Commission for the next 5 years."
- EU_news.2.a:0 "We are looking forward to a good cooperation!"
+ EU_news.2.t:0 "Председатель Европейской комиссии"
+ EU_news.2.d:0 "[FROM.GetNameWithFlag] будет занимать пост Председателя Европейской комиссии в течение следующих 5 лет.."
+ EU_news.2.a:0 "Мы надеемся на хорошее сотрудничество!"
 ### President of the European Council ###
  EU_news.3.t:0 "President of the European Council"
  EU_news.3.d:0 "[FROM.GetNameWithFlag] will now hold the Office of the President of the European Council for the next 5 years."
@@ -3630,7 +3630,7 @@
  counter_military_exercise_mission:0 "Counter Military Exercise"
  counter_military_exercise_mission_desc:0 "Counter Military Exercise"
 
- EU_military_exercise_threat:0 "Military Exercise"
+ EU_military_exercise_threat:0 "Военные учения"
  
 # EU_military_exercise_execute_mission:0 "Execute EU Joint Military Exercise"
 # EU_military_exercise_execute_mission_desc:0 "Execute EU Joint Military Exercise"
