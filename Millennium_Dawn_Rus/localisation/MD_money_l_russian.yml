@@ -30,5 +30,5 @@
  DECREASE_TAX_delayed_TT:0 "Требование:\n[tax_button_req] \n\nЭффект:\n§HУменьшает доход от налогов§!\n§R-50§!£pol_power_icon \nВеличина налога: §G-1%§!\n\nСнижение налогов §Gувеличивает§! популярность любых несоциалистических и некоммунистических партий в правительстве."
  tax_action_button_req_enable_TT:0 "£trigger_yes  50£pol_power_icon"
  tax_action_button_req_disable_TT:0 "£trigger_no  50£pol_power_icon"
- REFRESH_TAX_RATE:0 "Refresh"
- REFRESH_TAX_RATES_TOOLTIP:0 "Clicking this button will update your income and expense rates"
+ REFRESH_TAX_RATE:0 "Обновить"
+ REFRESH_TAX_RATES_TOOLTIP:0 "Нажав на эту кнопку, вы обновите свои доходы и расходы."
