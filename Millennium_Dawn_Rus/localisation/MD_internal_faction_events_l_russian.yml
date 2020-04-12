@@ -80,8 +80,8 @@
 
  labour_unions_events.0.t: "Профсоюзы требуют повышения заработной платы"
  labour_unions_events.0.d: "Несколько профсоюзов обнародовали заявления о том, что текущая экономическая ситуация требует повышения заработной платы для рабочих. Они утверждают, что повышение заработной платы увеличит покупательную способность населения, что затем будет способствовать росту экономики. \ n \ Представители различных предприятий, с другой стороны, говорят, что это увеличит затраты предприятий, уменьшив их способность делать инвестиции ".
- labour_unions_events.0.o1: "Increase their Wages"
- labour_unions_events.0.o2: "Negotiate Smaller Wage Increases"
+ labour_unions_events.0.o1: "Увеличьте их зарплату"
+ labour_unions_events.0.o2: "Переговоры о повышении заработной платы на меньшую сумму"
  labour_unions_events.0.o3: "Raises Will Cripple the Economy!"
  labour_unions_events.0.o4: "Raises? Lower Them Instead!"
  
