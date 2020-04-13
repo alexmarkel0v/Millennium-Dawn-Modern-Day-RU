@@ -2,12 +2,12 @@
  
  #Generic Events#
  
- Burma.1.t:0 "Myanmar seeks our protection"
+ Burma.1.t:0 "Мьянма ищет нашей защиты"
  Burma.1.d:0 "The government of Myanmar, wary of China’s growing ambitions and pessimistic about ASEAN’s ability to contain these ambitions, has come to us to address their concerns. Should we grant them the assistance that they desire?"
  Burma.1.a:0 "Yes, we need to contain China"
  Burma.1.b:0 "No, Myanmar is not a worthy ally"
  Burma.2.t:0 "The US has accepted our request!"
- Burma.2.d:0 "We stand more securely against our potential enemies."
+ Burma.2.d:0 "Мы более защищены от наших потенциальных врагов."
  Burma.2.a:0 "Rejoice!"
  Burma.3.t:0 "The US has chosen to abandon us..."
  Burma.3.d:0 "Naturally thinking themselves to be too good for us, the Americans have turned down our request for protection."
@@ -62,8 +62,8 @@
  
  #News Events#
  
- Burma_News.1.t:0 "A New Path for Myanmar?"
- Burma_News.1.d:0 "The military government today announced that the decades long process of drafting a new constitution has finally been completed. While the new constitution marks a liberalising shift in Myanmar’s politics, it nonetheless preserves the military’s continued role in government, such as by ensuring its possession of 25% of the seats in parliament. It remains to be seen whether this constitution will be a vehicle for democratisation or a tool for continued military domination."
+ Burma_News.1.t:0 "Новый путь для Мьянмы?"
+ Burma_News.1.d:0 "Военное правительство объявило сегодня, что десятилетний процесс разработки новой конституции, наконец, завершен. Хотя новая конституция знаменует собой либеральный сдвиг в политике Мьянмы, она, тем не менее, сохраняет за военными сохраняющуюся роль в правительстве, например, обеспечивает им 25% мест в парламенте. Пока неясно, будет ли эта конституция служить средством демократизации или инструментом для сохранения военного господства."
  Burma_News.1.a:0 "A cause for celebration?" 
  Burma_News.2.t:0 "Aung San Suu Kyi Released"
  Burma_News.2.d:0 "After an extended period of resistance, the military government has finally caved into local and international pressure to release Aung San Suu Kyi from house arrest. This momentous decision follows the release of other prominent opposition politicians."
@@ -76,9 +76,9 @@
  Burma_News.4.a:0 "An uncertain path lies before this country."
  Burma_News.5.t:0 "An End to Peace"
  Burma_News.5.d:0 "[BRM.GetLeader] today proclaimed that the government will no longer pursue ceasefires with the various rebel groups fighting the central government. This marks a significant shift in policy from the government’s normal cycle of ceasefires and clashes with rebel groups."
- Burma_News.5.a:0 "War is coming"
+ Burma_News.5.a:0 "Грядет война"
  Burma_News.6.t:0 "The [BRM.GetName]"
- Burma_News.6.d:0 "The nation formerly known as the Union of Myanmar has officially become a Federation, marking a major shift in the government’s attitude towards the ethnic minorities that dominate its border regions. The government had previously refused to grant any significant autonomy to these regions, including the Shan, Karen and Kachin states, but after years of conflict the government has finally accepted that this policy was not viable in the long term."
+ Burma_News.6.d:0 "Нация, ранее известная как Союз Мьянмы, официально стала Федерацией, что знаменует собой серьезное изменение в отношении правительства к этническим меньшинствам, доминирующим в его приграничных районах. Ранее правительство отказывалось предоставить какую-либо значительную автономию этим регионам, включая Шанский, Каренский и Качинский штаты, но после многих лет конфликта правительство, наконец, согласилось с тем, что эта политика не является жизнеспособной в долгосрочной перспективе."
  Burma_News.6.a:0 "This was inevitable"
  Burma_News.7.t:0 "Myanmar cracks down on protests"
  Burma_News.7.d:0 "Information coming out of Myanmar has been scarce in recent weeks but it has become clear that the government has responded violently to peaceful pro-democracy demonstrations, launching a crackdown of monumental proportions. Western leaders and the United Nations Secretary-General have vocally denounced the violence in Myanmar. China and Russia have not publicly commented on the crackdown, but have vetoed a Security Council resolution condemning the violence."
@@ -93,8 +93,8 @@
  Burma_News.9.b:0 "Their efforts are adorable."
 
  #Insurgency Events#
- Insurgency.1.t:0 "Kachin Threat"
- Insurgency.1.d:0 "Are intelligence sources are reporting that the Kachin Independence Army is planning an attack on our forces!"
+ Insurgency.1.t:0 "Угроза Качина"
+ Insurgency.1.d:0 "Разведывательные источники сообщают, что Армия независимости Качина планирует нападение на наши силы!"
  Insurgency.1.a:0 "We will be ready."
  Insurgency.2.t:0 "Karen Threat"
  Insurgency.2.d:0 "Are intelligence sources are reporting that the Karen National Liberation Army is planning an attack on our forces!"
@@ -102,8 +102,8 @@
  Insurgency.3.t:0 "Shan Threat"
  Insurgency.3.d:0 "Are intelligence sources are reporting that the Shan State Army - South is planning an attack on our forces!"
  Insurgency.3.a:0 "We will be ready."
- Insurgency.4.t:0 "Tatmadaw Threat"
- Insurgency.4.d:0 "There are rumours that the Tatmadaw is planning an operation against our forces!"
+ Insurgency.4.t:0 "Угроза Татмадау"
+ Insurgency.4.d:0 "Ходят слухи, что "Татмадау" планирует операцию против наших сил!"
  Insurgency.4.a:0 "We will be ready."
  Insurgency.5.t:0 "The Tatmadaw are Victorious"
  Insurgency.5.d:0 "The Tatmadaw have managed to use their advantage in sheer strength and technology to overcome the rebels."
@@ -174,6 +174,6 @@
  Insurgency.26.a:0 "This means war!"
  Insurgency.26.b:0 "Our response should be proportionate."
  Insurgency.26.c:0 "We cannot respond at this point in time."
- Insurgency.27.t:0 "The United Wa State Army has retaliated!"
+ Insurgency.27.t:0 "Армия Объединенного штата Ва нанесла ответный удар!"
  Insurgency.27.d:0 "In response to our attacks on their drug trafficking assets, the UWSA has launched attacks on some of our border outposts. While we managed to repel them, we have suffered some casualties."
  Insurgency.27.a:0 "Regrettable."
