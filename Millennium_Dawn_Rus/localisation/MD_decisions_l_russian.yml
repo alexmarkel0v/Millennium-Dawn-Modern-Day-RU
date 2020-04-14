@@ -389,13 +389,13 @@
  EP_main_cat_desc:0 "Здесь мы можем покупать оружие у иностранных держав. Это позволит нам быстро компенсировать дефицит или получить доступ к более современному оборудованию, которое мы не в состоянии производить сами. Это даст нам преимущество перед нашими противниками, но и обогатит продавца... \n Каждая сделка будет поставлять оборудование для батальона. (Стоимость резко возрастет в зависимости от технического уровня)."
  EP_close_cats:0 "Collapse All Tabs"
  EP_infantry_open:0 "Открыть вкладку Пехота"
- EP_arty_open:0 "Открыть вкладку Артиллерия"
- EP_vhc_open:0 "Открыть вкладку Автомобиль"
- EP_air_open:0 "Открыть вкладку Самолет"
- EP_navy_open:0 "Открыть вкладку ВМС"
+ EP_arty_open: "Открыть вкладку Артиллерия"
+ EP_vhc_open: "Открыть вкладку Автомобиль"
+ EP_air_open: "Открыть вкладку Самолет"
+ EP_navy_open: "Открыть вкладку ВМС"
 
  #Infantry tab
- EP_inf_cat:0 "Buy Foreign Infantry Equipment"
+ EP_inf_cat:0 "Покупка иностранного пехотного оснащения"
  EP_inf_cat_desc:0 ""
  EP_infantry_close:0 "Закрыть вкладку Пехота"
  
@@ -411,8 +411,8 @@
  EP_anti_tank_open:0 "Open ATGMs"
  EP_anti_tank_close:0 "Close ATGMs"
  
- EP_artillery_open:0 "Open Artillery"
- EP_artillery_close:0 "Close Artillery"
+ EP_artillery_open:0 "Открыть Артиллерия"
+ EP_artillery_close:0 "Закрыть Артилерия"
  
  EP_transport_helicopters_open:0 "Open Transport Helicopters"
  EP_transport_helicopters_close:0 "Close Transport Helicopters"
