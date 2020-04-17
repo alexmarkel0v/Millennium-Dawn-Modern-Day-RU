@@ -428,8 +428,8 @@
  FRA_launch_commercial_satellite_TT:0 "Some local companies have banded together to launch a new satellite. \nOur Space Program Enthusiasm will §Rreduce§! somewhat, and this will cost §R$3 billion§! \n§GThis will have a positive impact on our long term revenue!§!\n"
  FRA_international_space_nasa_TT:0 "§GЭта сделка требует 10,0 миллиардов долларов как от Франции, так и от США.§!
  FRA_international_space_nasa_focus_TT:0 "§GIf the USA accepts this deal it will require $10.0 billion from both France and USA. The participating countries each gain a research slot.§!\n"
- FRA_income_1_TT:0 "Collects $10.0 Billion from Space Assets. Collecting income will always cause you to lose popularity."
- FRA_income_2_TT:0 "Collects $20.0 Billion from Space Assets. Collecting income will always cause you to lose popularity."
+ FRA_income_1_TT:0 "Собирает 10,0 миллиардов долларов из космических активов. Собирая доход, вы всегда будете терять популярность."
+ FRA_income_2_TT:0 "Собирает 20,0 миллиардов долларов из космических активов. Собирая доход, вы всегда будете терять популярность."
  FRA_income_3_TT:0 "Collects $30.0 Billion from Space Assets. Collecting income will always cause you to lose popularity."
  FRA_income_4_TT:0 "Collects $40.0 Billion from Space Assets. Collecting income will always cause you to lose popularity."
  fra_has_enough_space_support_tt:0 "We have sufficient §YSpace Program Enthusiasm§! to conduct this operation."
