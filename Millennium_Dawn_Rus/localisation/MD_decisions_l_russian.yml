@@ -123,6 +123,7 @@
  generic_coalition_politics_desicions_desc:0 "Политические законы:\n\nПроводятся выборы: [has_elections_check]\nПорог выборов: [?election_threshold|%0]"
  has_election_no:0 "Нет"
  has_election_yes:0 "Да"
+ remove_usaid: "Расформировать USAID"
 
  retire_current_leader:0 "[Root.GetLeader]: Уйти в отставку как лидер"
  retire_current_leader_desc:0 "Это наверняка станет шоком для многих и дорого обойдётся в политическом плане, а также навсегда исключит возможность [Root.GetLeader] возвращения к политике, однако, это открытая возможность уйти на пенсию, чтобы больше времени проводить с семьей.\n\n§WЭффект:§!\n§H[Root.GetLeader]§! §Wуйдет в отставку в качестве лидера [Root.GetName]§!\n§H[show_ruling_party]§! §Wвыберет нового лидера из рядов его партии или альянса.§!"
@@ -1604,7 +1605,7 @@
  SER_rename_nation_desc:0 "Югославия была распущена в 1989 году, и прошла через кровавую войну годы спустя в 1991-ом. Наша страна по-прежнему названа в честь этой великой державы, но мы контролируем только Сербию и Черногорию."
  
  ### Cheat Decision ###
- game_rule_toggle_cheat_decisions:0 "§Y[show_cheat_decision_status_3] Читовые решения §RGlobally§!"
+ game_rule_toggle_cheat_decisions:0 "§Y[show_cheat_decision_status_3] Cheat Decisions §RGlobally§!"
  game_rule_toggle_cheat_decisions_desc:0 "§YNOTE:§! Any nation in the world can toggle the Cheat Decisions, and the effects are §Rglobal§!. An Event will pop-up telling which nation toggles it.\n§YYou should make sure you are allowed to use this decision in a Multiplayer game!§!"
  cheat_decisions_disabled_TT:0 "Cheats: §RDisabled§!"
  cheat_decisions_enabled_TT:0 "Cheats: §GEnabled§!"
@@ -1614,7 +1615,7 @@
  cheat_decisions_enabled_3_TT:0 "Disable"
  cheat_decisions_enabled_4_TT:0 "Current Status of [show_cheat_decision_status]\n§YNOTE:§! Any nation in the world can toggle the Cheats, and the effects are §Rglobal.§!\n\nAn Event will pop-up telling which nation toggled them.\n§YYou should make sure you are allowed to use this decision in a Multiplayer game!§!"
  cheat_decisions_disabled_4_TT:0 ""
- cheat_decision_categories:0 "Читовые решения"
+ cheat_decision_categories:0 "Cheat Decisions"
  cheat_decision_categories_desc:0 "[show_cheat_decision_status_4]"
  open_cheat_decisions:0 "§YToggle Cheat Decisions§!"
  open_cheat_decisions_factions:0 "§YToggle Faction Cheats§!"
@@ -1622,6 +1623,7 @@
  open_cheat_decisions_parties:0 "§YToggle Parties Cheats§!"
  open_cheat_decisions_money:0 "§YToggle Money Cheats§!"
  open_cheat_decisions_manpower:0 "§YToggle Manpower Cheats§!"
+ open_cheat_decisions_operatives: "§YToggle Spies Cheats§!"
  cheat_decisions_dismantle_all_factions:0 "Dismantle All Factions"
  cheat_decisions_dismantle_russian_faction:0 "Dismantle Russian Faction"
  cheat_decisions_dismantle_nato:0 "Dismantle NATO"
@@ -1663,6 +1665,9 @@
  cheat_decisions_manpower_1000:0 "Add 1000 Manpower"
  cheat_decisions_manpower_10000:0 "Add 10000 Manpower"
  cheat_decisions_manpower_50000:0 "Add 50000 Manpower"
+ cheat_decisions_add_1_operative: "Add 1 Operative"
+ cheat_decisions_add_5_operative: "Add 5 Operatives"
+ cheat_decisions_add_10_operative: "Add 10 Operatives"
  ###Italy 
  ##Rome
  romanization_ITA:0 "Нео-романизация"

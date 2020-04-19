@@ -1,9 +1,8 @@
-version="1.8.*"
+name="Millennium Dawn: Modern Day RUS Translation"
 tags={
 	"Translation"
 }
-name="Millennium Dawn: Modern Day RUS Translation"
 picture="MD.jpg"
-supported_version="1.8.*"
+supported_version="1.9.*"
 path="mod/Millennium_Dawn_Rus/"
 remote_file_id="1516965110"

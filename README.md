@@ -1,6 +1,6 @@
-Русская локализация Millennium Dawn: Modern Day Mod версия 0.8
+Русская локализация Millennium Dawn: Modern Day Mod версия 0.9
 
-Необходимая версия HOI4 (1.8+)
+Необходимая версия HOI4 (1.9+)
 
 Руководитель проекта: Alfabet
 
