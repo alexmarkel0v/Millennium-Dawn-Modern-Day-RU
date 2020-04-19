@@ -302,11 +302,11 @@
  GER_influence_below_tt: "§Y[GER.GetNameWithFlag]§! is not our top influencer"
  RAJ_influence_below_tt: "§Y[RAJ.GetNameWithFlag]§! is not our top influencer"
  JAP_influence_below_tt: "§Y[JAP.GetNameWithFlag]§! is not our top influencer"
- recognition_FSA: "the Syrian National Coalition"
- recognition_SYR: "the Assad Government"
- recognition_TAL: "the Taliban Government"
- recognition_AFG: "the Northern Alliance"
- recognition_generic: "[FROM.GetLeader]'s Government"
+ recognition_FSA: "Сирийская национальная коалиция"
+ recognition_SYR: "Правительство Асcада"
+ recognition_TAL: "Талибанское правительство"
+ recognition_AFG: "Северный Альянс"
+ recognition_generic: "Правительство [FROM.GetLeader]"
 
  #China
  CHI_bribe_decisions_tt: "Unlocks §YBribe Taiwanese Officers§! decision\n"

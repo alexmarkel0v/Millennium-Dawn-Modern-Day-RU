@@ -1,6 +1,6 @@
 ﻿l_russian:
 
- different_country_flags_category:0 "Наш национальный флаг!"
+ different_country_flags_category:0 "Наш национальный флаг"
  different_country_flags_category_desc:0 "Это великий день, чтобы изменить наш флаг!"
  USoE_country_flags_category:0 "Решение о смене флага"
  USoE_country_flags_category_desc:0 "Мы можем поменять флаг, чтобы лучше представлять нынешнюю правящую партию в нашей стране. Нынешняя правящая партия - это [Root.GetRulingParty]."

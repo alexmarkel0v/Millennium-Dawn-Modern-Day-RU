@@ -30,7 +30,7 @@
 
  ##### Influence Desicions #####
 
- influence_desicions:0 "[Root.GetAdjective] [GetYear] Отчет об иностранном влиянии"
+ influence_desicions:0 "[Root.GetAdjective] отчет об иностранном влиянии [GetYear] года"
  influence_desicions_desc:0 "Разведывательные службы [Root.GetNameDef] подготовили доклад о влиянии иностранных правительств на нашу нацию. Ради нашего суверенитета мы должны стремиться ограничить это влияние. Если единственная нация доминирует над нами, они могут попытаться вмешаться в правительство и наш образ жизни.\n\n§HСледующие страны имеют влияние на нас:§!\n[new_position_1] [position_1_var] [position_1_var_integer]   [new_position_2] [position_2_var] [position_2_var_integer]   [new_position_3] [position_3_var] [position_3_var_integer]   [new_position_4] [position_4_var] [position_4_var_integer]   [new_position_5] [position_5_var] [position_5_var_integer]   [new_position_6] [position_6_var] [position_6_var_integer]   [new_position_7] [position_7_var] [position_7_var_integer]\n\nЭто дает нам уровень независимости от иностранного влияния [?domestic_influence_amount_calc|%H0] ([?domestic_influence_amount])."
  combat_foreign_influence:0 "Борьба с иностранным влиянием"
  combat_foreign_influence_desc:0 "Утверждение нашей независимости от иностранного влияния является ключом к сохранению нашей нации."
@@ -42,7 +42,7 @@
 
  ### Japanese Decisions ###
  
- JAP_spirit_of_the_warrior:0 "Proclaim the Spirit Of The Warrior"
+ JAP_spirit_of_the_warrior:0 "Провозглашение духа воина"
  JAP_spirit_of_the_warrior_desc:0 "Сначала мы должны завоевать весь Китай, потом мы покорим мир!"
 
  ### Nationalist Claims ###
@@ -388,12 +388,12 @@
  #Main Menu
  EP_main_cat:0 "Рынок иностранных вооружений"
  EP_main_cat_desc:0 "Здесь мы можем покупать оружие у иностранных держав. Это позволит нам быстро компенсировать дефицит или получить доступ к более современному оборудованию, которое мы не в состоянии производить сами. Это даст нам преимущество перед нашими противниками, но и обогатит продавца... \n Каждая сделка будет поставлять оборудование для батальона. (Стоимость резко возрастет в зависимости от технического уровня)."
- EP_close_cats:0 "Collapse All Tabs"
- EP_infantry_open:0 "Открыть вкладку Пехота"
- EP_arty_open: "Открыть вкладку Артиллерия"
- EP_vhc_open: "Открыть вкладку Автомобиль"
- EP_air_open: "Открыть вкладку Самолет"
- EP_navy_open: "Открыть вкладку ВМС"
+ EP_close_cats:0 "Свернуть все вкладки"
+ EP_infantry_open:0 "Открыть вкладку пехота"
+ EP_arty_open: "Открыть вкладку артиллерия"
+ EP_vhc_open: "Открыть вкладку автомобиль"
+ EP_air_open: "Открыть вкладку самолет"
+ EP_navy_open: "Открыть вкладку флот"
 
  #Infantry tab
  EP_inf_cat:0 "Покупка иностранного пехотного оснащения"
@@ -403,20 +403,20 @@
  EP_small_arms_open:0 "Открыть стрелковое оружие"
  EP_small_arms_close:0 "Закрыть стрелковое оружие"
  
- EP_cc_equi_open:0 "Open C&C equipment"
+ EP_cc_equi_open:0 "Открытое C&C оборудование"
  EP_cc_equi_close:0 "Close C&C equipment"
  
- EP_anti_air_open:0 "Open MANPADS"
- EP_anti_air_close:0 "Close MANPADS"
+ EP_anti_air_open:0 "Открыть ПЗРК"
+ EP_anti_air_close:0 "Закрыть ПЗРК"
  
- EP_anti_tank_open:0 "Open ATGMs"
- EP_anti_tank_close:0 "Close ATGMs"
+ EP_anti_tank_open:0 "Open ПТРК"
+ EP_anti_tank_close:0 "Закрыть ПТРК"
  
  EP_artillery_open:0 "Открыть Артиллерия"
  EP_artillery_close:0 "Закрыть Артилерия"
  
- EP_transport_helicopters_open:0 "Open Transport Helicopters"
- EP_transport_helicopters_close:0 "Close Transport Helicopters"
+ EP_transport_helicopters_open:0 "Открыть вертолетный транспорт"
+ EP_transport_helicopters_close:0 "Закрыть вертолетный транспорт"
  
  #Air tab
  EP_air_cat:0 "Buy Foreign Aircraft"
@@ -504,8 +504,8 @@
  EP_SOV_small_arms_3:0 "£decision_M4_Carbine AK-103 (1995) £treasury 2"
  EP_SOV_small_arms_4:0 "£decision_ACR AK-15 (2005) £treasury 3"
  EP_SOV_small_arms_5:0 "£decision_MARS_L A-545 (2015) £treasury 5"
- EP_SOV_small_arms_6:0 "£decision_Textron_LSAT Small Arms 2025 (2025) £treasury 10"
- EP_SOV_small_arms_7:0 "£decision_Titan_APPL Small Arms 2035 (2035) £treasury 25"
+ EP_SOV_small_arms_6:0 "£decision_Textron_LSAT Стрелковое оружие (2025) £treasury 10"
+ EP_SOV_small_arms_7:0 "£decision_Titan_APPL Стрелковое оружие (2035) £treasury 25"
  EP_buy_SOV_small_arms_1:0 "[Root.EP_buy_SOV_small_arms]"
  
  EP_CHI_small_arms_3:0 "£decision_M4_Carbine QBZ-95 (1995) £treasury 2"
@@ -588,11 +588,11 @@
  EP_USA_manpads_4:0 "HEIL-253 Heartstriker (2035) £treasury 25"
  EP_buy_USA_manpads_1:0 "[Root.EP_buy_USA_manpads]"
   
- EP_SOV_manpads_0:0 "SA-7 Stela-2 (1965) £treasury 2"
- EP_SOV_manpads_1:0 "SA-16 Igla (1985) £treasury 3"
- EP_SOV_manpads_2:0 "SA-24 Igla-S (2005) £treasury 5"
- EP_SOV_manpads_3:0 "MANPADS 2025 (2025) £treasury 10"
- EP_SOV_manpads_4:0 "MANPADS 2035 (2035) £treasury 25"
+ EP_SOV_manpads_0:0 "SA-7 Стела-2 (1965) £treasury 2"
+ EP_SOV_manpads_1:0 "SA-16 Игла (1985) £treasury 3"
+ EP_SOV_manpads_2:0 "SA-24 Игла-С (2005) £treasury 5"
+ EP_SOV_manpads_3:0 "ПЗРК 2025 (2025) £treasury 10"
+ EP_SOV_manpads_4:0 "ПЗРК 2035 (2035) £treasury 25"
  EP_buy_SOV_manpads_1:0 "[Root.EP_buy_SOV_manpads]"
  
  EP_CHI_manpads_0:0 "HN-5 (1965) £treasury 2"
@@ -616,11 +616,11 @@
  EP_USA_atgm_4:0 "HEL-414 Fusion Rifle (2035) £treasury 25"
  EP_buy_USA_atgm_1:0 "[Root.EP_buy_USA_atgm]"
  
- EP_SOV_atgm_0:0 "AT-3 Malyutka (1965) £treasury 2"
- EP_SOV_atgm_1:0 "AT-4 Fagot (1985) £treasury 3"
- EP_SOV_atgm_2:0 "AT-13 Metis-M (2005) £treasury 5"
- EP_SOV_atgm_3:0 "ATGM-2025 (2025) £treasury 10"
- EP_SOV_atgm_4:0 "ATGM-2035 (2035) £treasury 25"
+ EP_SOV_atgm_0:0 "AT-3 Малютка (1965) £treasury 2"
+ EP_SOV_atgm_1:0 "AT-4 Фагот (1985) £treasury 3"
+ EP_SOV_atgm_2:0 "AT-13 Метис-М (2005) £treasury 5"
+ EP_SOV_atgm_3:0 "ПТРК-2025 (2025) £treasury 10"
+ EP_SOV_atgm_4:0 "ПТРК-2035 (2035) £treasury 25"
  EP_buy_SOV_atgm_1:0 "[Root.EP_buy_SOV_atgm]"
  
  EP_CHI_atgm_0:0 "HJ-73 (1965) £treasury 2"
@@ -755,14 +755,14 @@
  EP_GER_apc_8:0 "GTK Shepherd (2035)"
  EP_buy_GER_apc_1:0 "[Root.EP_buy_GER_apc]"
  
- EP_SOV_apc_1:0 "BTR-60 (1965)"
- EP_SOV_apc_2:0 "MT-LB (1975)"
- EP_SOV_apc_3:0 "BTR-70 (1985)"
- EP_SOV_apc_4:0 "BTR-80 (1995)"
- EP_SOV_apc_5:0 "BTR-90 (2005)"
- EP_SOV_apc_6:0 "Kurganets-25 (2015)"
- EP_SOV_apc_7:0 "Kurganets-35 (2025)"
- EP_SOV_apc_8:0 "Kurganets-45 (2035)"
+ EP_SOV_apc_1:0 "БТР-60 (1965)"
+ EP_SOV_apc_2:0 "МТ-ЛБ (1975)"
+ EP_SOV_apc_3:0 "БТР-70 (1985)"
+ EP_SOV_apc_4:0 "БТР-80 (1995)"
+ EP_SOV_apc_5:0 "БТР-90 (2005)"
+ EP_SOV_apc_6:0 "Курганец-25 (2015)"
+ EP_SOV_apc_7:0 "Курганец-35 (2025)"
+ EP_SOV_apc_8:0 "Курганец-45 (2035)"
  EP_buy_SOV_apc_1:0 "[Root.EP_buy_SOV_apc]"  
  
  EP_CHI_apc_1:0 "Type-63 (1965)"
@@ -972,14 +972,14 @@
  EP_USA_utility_7:0 "AOPIMU (2035)"
  EP_buy_USA_utility_1:0 "[Root.EP_buy_USA_utility]"
  
- EP_SOV_utility_0:0 "ZIL-131 (1965)"
- EP_SOV_utility_1:0 "UAZ-469 (1975)"
- EP_SOV_utility_2:0 "UAZ-3132 (1985)"
- EP_SOV_utility_3:0 "GAZ Tigr (1995)"
- EP_SOV_utility_4:0 "BPM-97 (2005)"
- EP_SOV_utility_5:0 "VPK-3927 Volk (2015)"
- EP_SOV_utility_6:0 "Utility Vehicle 2025 (2025)"
- EP_SOV_utility_7:0 "Utility Vehicle 2035 (2035)"
+ EP_SOV_utility_0:0 "ЗИЛ-131 (1965)"
+ EP_SOV_utility_1:0 "УАЗ-469 (1975)"
+ EP_SOV_utility_2:0 "УАЗ-3132 (1985)"
+ EP_SOV_utility_3:0 "ГАЗ «Тигр» (1995)"
+ EP_SOV_utility_4:0 "БПМ-97 (2005)"
+ EP_SOV_utility_5:0 "ВПК-3927 «Волк» (2015)"
+ EP_SOV_utility_6:0 "Грузовик 2025 (2025)"
+ EP_SOV_utility_7:0 "Грузовик 2035 (2035)"
  EP_buy_SOV_utility_1:0 "[Root.EP_buy_SOV_utility]"
  
  EP_CHI_utility_0:0 "Shaanxi SX2110 (1965)"
@@ -1008,8 +1008,8 @@
 
  EP_buy_USA_MR_Fighter_1:0 "£decision_F16C_Fighting_Falcon F16C (1995)"
  EP_buy_USA_AS_Fighter_1:0 "£decision_F15E_Strike_Eagle F15C (1995)"
- EP_buy_SOV_MR_Fighter_1:0 "£decision_F16C_Fighting_Falcon MiG 35 (1995)"
- EP_buy_SOV_AS_Fighter_1:0 "£decision_F15E_Strike_Eagle Su-27 (1985)"
+ EP_buy_SOV_MR_Fighter_1:0 "£decision_F16C_Fighting_Falcon МИГ 35 (1995)"
+ EP_buy_SOV_AS_Fighter_1:0 "£decision_F15E_Strike_Eagle СУ-27 (1985)"
 
  
  
@@ -1397,9 +1397,9 @@
  SOV_Propaganda_1_desc:0 "ОРТ является самым популярным каналом, поэтому контроль над ним даст нам большую популярность."
  SOV_crush_da_opositon:0 "Уничтожить оппозицию!"
  SOV_crush_da_opositon_desc:0 "Оппозиция достаточно сильна, чтобы свергнуть наше коррумпированное правительство, если мы потратим немного денег, они закроются."
- SOV_tv_1:0 "Дайте немного денег Соловьеву."
+ SOV_tv_1:0 "Дать немного денег Соловьеву."
  SOV_tv_1_desc:0 "Соловьев - один из ненавистников Путина, но за некоторые деньги он станет одним из его последователей."
- SOV_tv_2:0 "Дайте немного денег Киселеву."
+ SOV_tv_2:0 "Дать немного денег Киселеву."
  SOV_tv_2_desc:0 "Киселев тоже оппозиционер, но за какие-то деньги он будет на Вести (новости) и привлечет людей, чтобы проголосовать за Путина."
  SOV_tv_3:0 "Закрытие оппозиционного телешоу «Куклы» на НТВ"
  SOV_tv_3_desc:0 "Куклы - это еженедельное российское телешоу политической сатиры, созданное Василием Григорьевым и показанное по субботам на телеканале НТВ. Он использовал марионеток для представления знаменитостей, главным образом крупных политиков. Это было вдохновлено британским шоу Spitting Image 1980-х-90-х годов."
@@ -1915,14 +1915,14 @@
  invest_in_cyber_security_infrastructure_1_desc:0 "Чтобы предотвратить взлом наших систем и кражу жизненно важной информации, мы должны улучшить нашу инфраструктуру кибербезопасности."
  invest_in_cyber_security_infrastructure_2:0 "Крупные инвестиции в инфраструктуру кибербезопасности"
  invest_in_cyber_security_infrastructure_2_desc:0 "Чтобы предотвратить взлом наших систем и кражу жизненно важной информации, мы должны улучшить нашу инфраструктуру кибербезопасности."
- cyber_attack:0 "Steal [FROM.GetAdjective] State Secrets"
+ cyber_attack:0 "Украсть [FROM.GetAdjective] государственные секреты"
  cyber_attack_desc:0 "Чтобы подготовиться к любой конфронтации с этой страной, мы должны взломать их военные, правительственные и разведывательные сети, чтобы обезопасить информацию об их возможностях."
- steal_tank_designs:0 "Steal [FROM.GetAdjective] Tank Designs"
- steal_tank_designs_desc:0 "The [FROM.GetAdjective] defence industry has advanced beyond ours. We can use cyber warfare to secure the knowledge that will help us catch up."
- steal_aircraft_designs:0 "Steal [FROM.GetAdjective] Stealth Fighter Designs"
- steal_aircraft_designs_desc:0 "The [FROM.GetAdjective] defence industry has advanced beyond ours. We can use cyber warfare to secure the knowledge that will help us catch up."
- targeted_propaganda:0 "Target [FROM.GetAdjective] Citizens with Propaganda"
- targeted_propaganda_desc:0 "By specifically and subtly targeting [FROM.GetAdjective] citizens on the internet with our propaganda, we should be able to increase our influence there somewhat."
+ steal_tank_designs:0 "Украсть [FROM.GetAdjective] модели танков"
+ steal_tank_designs_desc:0 "[FROM.GetAdjective] оборонная промышленность лучше нашей. Мы можем использовать кибер-войну для получения знаний, которые помогут нам наверстать упущенное."
+ steal_aircraft_designs:0 "Украсть [FROM.GetAdjective] модели стелс-истребителя"
+ steal_aircraft_designs_desc:0 "[FROM.GetAdjective] оборонная промышленность лучше нашей. Мы можем использовать кибер-войну для получения знаний, которые помогут нам наверстать упущенное."
+ targeted_propaganda:0 "Особые [FROM.GetAdjective] граждане для пропаганды"
+ targeted_propaganda_desc:0 "Некоторые скрытные [FROM.GetAdjective] граждане для пропаганды в интернете, которые в состоянии немного увеличить наше влияние там."
 
  ###International Recognition
  statehood_category:0 "Международное признание"
@@ -1933,27 +1933,29 @@
  show_recognised_countries_desc:0 "Благодаря сочетанию симпатии к нашему делу и нашей собственной яростной кампании за рубежом, некоторые страны начинают придать нам международное признание."
  show_non_recognised_countries:0 "Показать страны, которые нас не признали"
  show_non_recognised_countries_desc:0 "There are still countries that have not granted us international recognition. To win them to our side we should either pursue better relations with those individual countries or win over regional powers that will provide an example for them to follow. We should also strive to comply with international law as much as we possibly can and chose our international outlook and form of government wisely."
- campaign_for_recognition_USA:0 "Campaign for Recognition in the U.S."
+ campaign_for_recognition_USA:0 "Кампания по признанию в США"
  campaign_for_recognition_USA_desc:0 "As a permanent member of the Security Council, America's support is essential for our membership of the U.N., and by extension the international community, to be approved. In addition, the U.S. wields considerable influence over a large number of Western-aligned countries around the world, who will be much more likely to support our accession with an American endorsement."
- campaign_for_recognition_ENG:0 "Campaign for Recognition in the U.K."
+ campaign_for_recognition_ENG:0 "Кампания по признанию в Великобритании"
  campaign_for_recognition_ENG_desc:0 "While the United Kingdom may not be the superpower it once was, its international influence is preserved by its membership of the U.N. Security Council. It also wields a degree of influence in many of its former colonies that could follow suit if the U.K. were to grant us recognition."
- campaign_for_recognition_FRA:0 "Campaign for Recognition in France"
+ campaign_for_recognition_FRA:0 "Кампания признания во Франции"
  campaign_for_recognition_FRA_desc:0 "France is an important nation in Europe and the Francophone world. This fact, coupled with its permanent membership of the U.N. Security Council, makes its support for our international recognition campaign essential."
- campaign_for_recognition_SOV:0 "Campaign for Recognition in Russia"
- campaign_for_recognition_SOV_desc:0 "Russia's support for us will be invaluable in winning over those parts of the world that resist American influence or possess close cultural and geographical links to Russia. In addition, its permanent membership of the U.N. Security Council means they could kill our attempts at international recognition with a simple use of the veto." 
- campaign_for_recognition_CHI:0 "Campaign for Recognition in China"
+ campaign_for_recognition_SOV:0 "Кампания за признание в России"
+ campaign_for_recognition_SOV_desc:0 "Поддержка России для нас будет неоценимой для завоевания тех частей мира, которые сопротивляются американскому влиянию или имеют тесные культурно-географические связи с Россией. Кроме того, ее постоянное членство в Совете Безопасности ООН означает, что они могут сбить наши попытки международного признания простым применением права вето." 
+ campaign_for_recognition_CHI:0 "Кампания по признанию в Китае"
  campaign_for_recognition_CHI_desc:0 "China wields enormous economic power in Asia and beyond, meaning the support of China would most likely win us the support of a large proportion of those countries that depend on China in some shape or form. Moreover, we cannot afford to let a veto-wielding permanent member of the U.N. Security Council remain opposed to the prospect of our statehood."
- become_a_UN_member_state:0 "Become a U.N. Member State"
+ become_a_UN_member_state:0 "Стать государством-членом ООН"
  become_a_UN_member_state_desc:0 "Наконец-то! Нам удалось заручиться поддержкой государственности всех 5 постоянных членов Совета Безопасности Организации Объединенных Наций и достаточного числа государств, чтобы обеспечить нам большинство в две трети голосов в Генеральной Ассамблее по вопросу о нашем членстве. Присоединение к Организации Объединенных Наций, наконец, приведет нашу страну в более широкое международное сообщество в качестве равноправного с правовой точки зрения члена."
  recognition_category:0 "Международное признание"
  recognition_category_desc:0 "Есть некоторые непризнанные государства, которые хотели бы войти в международное сообщество. Мы должны подумать о том, хотим ли мы оказать поддержку их кампании. Если они получат достаточную поддержку со стороны государств - членов ООН, они могут быть приняты в Организацию Объединенных Наций, потеряв свой непризнанный статус и те недостатки, которые он им предоставляет. Мы можем помочь кампаниям государств, которые мы признали, оказывая влияние на государства-члены ООН, которые еще не признали их."
- switch_recognition:0 "Recognize [recognition_target]"
+ switch_recognition:0 "Признать [recognition_target]"
  switch_recognition_desc:0 "We currently recognize this government's rival as the legitimate representative of its people, but it may suit our interests and values more to switch our recognition to this government. Currently [?FROM.Granted_Recognition] states are recognizing this government."
- grant_recognition:0 "Признать независимость [From.Getname]."
+ grant_recognition:0 "Признать независимость [From.Getname]"
  grant_recognition_desc:0 "Мы должны рассмотреть вопрос о том, отвечает ли предоставление признания [From.GetnameDef] нашим национальным интересам и считаем ли мы их достойным дополнением к международному сообществу. В настоящее время [?FROM.Granted_Recognition] государства предоставили им признание."
- rescind_recognition:0 "Rescind Our Recognition of [From.GetnameDef]"
+ rescind_recognition:0 "Отменить признание нами [From.GetnameDef]"
  rescind_recognition_desc:0 "Мы должны рассмотреть вопрос о том, отвечает ли дальнейшее признание независимости [From.GetnameDef] нашим наилучшим интересам. В настоящее время [?FROM.Granted_Recognition] государства предоставили им признание."
-
+ pressure_countries_to_recognize: "Страны под давлением, влияющие на признание [FROM.GetNameDef]"
+ pressure_countries_to_recognize_desc: "Народ [FROM.GetNameDef] заслуживает независимоcти. Мы должны использовать наше влияние, чтобы помочь им достичь этой цели."
+ 
  ### Party and governmnet type triggers
  has_socialist_government:0 "Socialist ruling party"
  has_communist_government:0 "Communist ruling party"
