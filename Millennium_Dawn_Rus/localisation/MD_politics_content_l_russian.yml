@@ -2,7 +2,7 @@
  
  ### Generic Election System ###
  #Needs rework
- MD4_election_campaign.0.t: "Election campaigning heating up as race enter final two weeks"
+ MD4_election_campaign.0.t: "Предвыборная кампания разгорается, так как гонка вступает в заключительные две недели."
  MD4_election_campaign.0.d: "The since last election on [Root.GetLastElection], [Root.GetLeader] have been steadily steering [Root.GetName]. With the final votes being cast in 2 weeks, this direction will be challenged by powerful rivals.\n\nMost of the campaign's advertisement spending has already happened, and polls are starting to pick up the effects."
  MD4_election_campaign.0.a: "Let's go!"
 
@@ -16,7 +16,7 @@
  MD4_election_campaign.1.g: "Attack the [Root.GetDemocraticParty] morons"
  MD4_election_campaign.1.h: "Refrain from attacking anyone"
 
- MD4_election_campaign.2.t: "Negative ad campaign against opposition a failure"
+ MD4_election_campaign.2.t: "Отрицательная рекламная кампания против оппозиции провалилась"
  MD4_election_campaign.2.d: "While our barrage of ads had some initial effectiveness, the opposition has unfortunately successfully countered it. Several of our claims turned out to be based on bad information at best, and the outrageousness of some of the claims have turned public opinion against [Root.GetLeader], with the conversation instead being turned towards \"[Root.GetLeader]'s unkept promises and lack of substance\". "
  MD4_election_campaign.2.a: "Damn it!"
 
@@ -242,10 +242,10 @@
  coalition.21.a: "Yeah! Let's team up."
  coalition.21.b: "Government? You all belong in a different institution..."
 
- coalition.22.t: "Negotiations with [Nat_Autocracy_L] ([?party_pop_elect_array^22|%0])"
- coalition.22.d: "Dear [Root.GetLeader]. There comes a time, of national peril, when the military establishment must step up it's role, to fill dangerous power vacuums, safeguard the national sovereignty and our independence and patriotic values. In our view, this time for military rule - is always. However, we realize that doing so now might bring certain undesirable effects on our foreign relations. It would be... less complicated - if you just discretely do as we say.\n\nAs long as you know your place, we certainly would be a very powerful political ally for you."
- coalition.22.a: "Politics is too important to be left to the politicians"
- coalition.22.b: "Politics is too important to be left to the generals"
+ coalition.22.t: "Переговоры с [Nat_Autocracy_L] ([?party_pop_elect_array^22|%0])"
+ coalition.22.d: "Дорогой [Root.GetLeader]. Наступает время национальной опасности, когда военное ведомство должно усилить свою роль, заполнить опасные энергетические вакуумы, защитить национальный суверенитет, нашу независимость и патриотические ценности. На наш взгляд, это время военного правления - всегда. Однако мы понимаем, что сейчас это может иметь определенные нежелательные последствия для наших внешних отношений. Это было бы... менее сложно - если бы вы просто дискретно делали то, что мы говорим.\n\n Пока вы знаете свое место, мы, безусловно, были бы для вас очень мощным политическим союзником."
+ coalition.22.a: "Политика слишком важна, чтобы оставлять ее политикам."
+ coalition.22.b: "Политика слишком важна, чтобы оставлять ее на усмотрение генералов."
 
  coalition.23.t: "Negotiations with [Monarchist_L] ([?party_pop_elect_array^23|%0])"
  coalition.23.d: "Respected [Root.GetLeader]. Us royalists scoff at the notion that you, a commoner, could ever provide [Root.GetName] with the necessary stability and other splendid advantages that only a absolute monarch can provide. We all know that true supreme executive power can only be properly wielded by royalty in all their holiness. It truly would be a unifying force and a powerful symbol of our greatness, as we march towards full national restoration. Clearly, absolute monarchies, blessed by divine right, outperform all other forms of government in all metrics.\n\nAlright, so we are obviously not going to crown you, so we might keep the outdated and anachronistic republican government for some time, while we royalists in the coalition search for the best candidate for the throne."
