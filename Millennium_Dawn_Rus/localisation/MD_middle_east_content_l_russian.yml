@@ -1,7 +1,7 @@
 ﻿l_russian:
 
  #Ideas
- joint_oil_extraction: "Joint Oil Extraction"
+ joint_oil_extraction: "Совместная добыча нефти"
  construction_boom: "Construction Boom"
  oil_dependency: "Oil Dependency"
  oil_dependency_desc: "This country's economy is heavily reliant on the export of oil and other fossil fuels. While this dependence is lucrative in the short term, it is widely known that this over-reliance is unsustainable."
@@ -142,16 +142,16 @@
  GCC_secularize_the_state: "Secularize the State"
  GCC_secularize_the_state_desc: "The religiosity of our state is enshrined in our laws, symbols and rhetoric. To secularize our society we must purge religion from every aspect of our government."
 
- shia_decisions: "Sectarianism"
- shia_decisions_desc: "The death of the Prophet resulted in a division between Sunni and Shia that has persisted for more than a thousand years. While Sunni and Shia have often shown themselves to be capable of living alongside each other peacefully, rising tensions in the region due to events such as the Iranian Revolution of 1979 have added to Sunni-Shia hostility. In the context of the regional geopolitical struggle between Sunni Saudi Arabia and Shia Iran, we must decide our approach to our own Shia population carefully.\n\n£population_texticon  §YShia Population§!: [?shia_population]%\n       Determines emerging drift and access to the Shia tree."
+ shia_decisions: "Сектантство"
+ shia_decisions_desc: "Смерть Пророка привела к расколу между суннитами и шиитами, который продолжался более тысячи лет. Хотя сунниты и шииты часто показывали свою способность мирно жить рядом друг с другом, рост напряженности в регионе, вызванный такими событиями, как иранская революция 1979 года, добавил суннитско-шиитской враждебности. В контексте региональной геополитической борьбы между суннитской Саудовской Аравией и шиитским Ираном мы должны тщательно определиться с нашим подходом к собственному шиитскому населению.\n\n£population_texticon  §YShia Population§!: [?shia_population]%\n       Determines emerging drift and access to the Shia tree."
  encourage_shia_immigration: "Encourage Shia Immigration"
- encourage_shia_immigration_desc: "By reducing the requirements that migrants from Shia-majority countries such as Iraq and Iran have to meet in order to move to our country, we can increase the percentage of our country's Muslim population that adheres to the Shia faith."
+ encourage_shia_immigration_desc: "Сокращая требования, которым должны удовлетворять мигранты из стран с преобладающим шиитским населением, таких как Ирак и Иран, для того чтобы переехать в нашу страну, мы можем увеличить долю мусульманского населения нашей страны, придерживающегося шиитской веры."
  encourage_sunni_immigration: "Encourage Sunni Immigration"
- encourage_sunni_immigration_desc: "By reducing the requirements that migrants from Sunni-majority countries in the wider Middle East and South Asia have to meet in order to move to our country, we can increase the percentage of our country's Muslim population that adheres to the Sunni faith."
+ encourage_sunni_immigration_desc: "Сокращая требования, которые предъявляются к мигрантам из стран суннитского большинства на всем Ближнем Востоке и в Южной Азии для переезда в нашу страну, мы можем увеличить процент мусульманского населения нашей страны, придерживающегося суннитского вероисповедания."
  deport_foreign_shia: "Deport Foreign Shia"
  deport_foreign_shia_desc: "Shia immigrants from Iraq, Iran, Lebanon, Pakistan, Syria and other countries with large Shia populations can be deported fairly easily using accusations that these immigrants support Shia terror and therefore constitute threats to our government."
  deport_foreign_sunnis: "Deport Foreign Sunnis"
- deport_foreign_sunnis_desc: "Sunni immigrants from the wider Middle East and South Asia can be deported fairly easily using accusations that these immigrants support Sunni terror and therefore constitute threats to our government."
+ deport_foreign_sunnis_desc: "Иммигрантов-суннитов из стран Ближнего Востока и Южной Азии можно довольно легко депортировать, используя обвинения в том, что эти иммигранты поддерживают суннитский террор и, следовательно, представляют угрозу для нашего правительства."
 
  gcc_decisions: "Gulf Cooperation Council"
  gcc_decisions_desc: "Formed in 1981, the GCC is one of the most prominent intergovernmental organizations in the Middle East. It seeks to bring together the majority of the Arab states of the Gulf in a political and economic union. While the members of the GCC share similar forms of government and have normally adopted similar foreign policies, disputes between the various member states have presented a barrier to greater integration.\n\n§YGCC Unity§! can be increased by progressing down the GCC tree, resolving disputes between GCC members and campaigning for GCC unity. It is also affected by world tension, the Iranian threat, and whether GCC countries conform to the regional model of pro-American Sunni monarchies.\n\n§YGCC Unity§!: [?global.gcc_unity]%\n\nDominant Member: §Y[gcc_dominant_member]§!\nExternal Backer: §Y[gcc_foreign]§!"
@@ -368,7 +368,7 @@
  has_not_repressive_government_tt: "Has §YReformist§! or §YLiberal§! Government"
 
  #Arab Spring
- arab_spring_category: "Arab Spring"
+ arab_spring_category: "Арабская весна"
  arab_spring_category_desc: "Our country is in crisis. If we are to avoid the downfall of our government, we must be prepared to use both carrot and stick to placate the protesters while dissuading them from continuing their dangerous actions."
  arab_spring_encourage_supporters: "Encourage Supporters"
  arab_spring_deploy_the_military: "Deploy the Army"
@@ -384,13 +384,13 @@
  clashes_fatalities_tt: "Clashes may lead to fatalities.\n"
 
  #Terrorism
- terror_gulf_category: "Counter-Terror Operations: Middle East"
+ terror_gulf_category: "Операции по борьбе с терроризмом: Ближний Восток"
  terror_gulf_category_desc: "The higher the §YTerror Threat§! of a country is, the higher the likelihood of jihadist groups launching attacks on domestic targets (such as government offices) and foreign targets (like military bases) in that country. Attacks may be launched in a neighboring country if its border is left unguarded. The severity of terror attacks and the likelihood of them succeeding can be decreased by raising internal security spending and conducting counter-terrorism training.\n\nThe ability of a country to decrease its §YTerror Threat§! beyond a certain point depends on whether it is at war, its stability, GDP/c and level of corruption. §YTerror Threat§! can increase due to the level of §YRadicalization§! and infiltration by jihadists from neighboring countries. It will decrease at low levels of §YRadicalization§! and as a result of raids and external intervention. The minimum level of §YRadicalization§! can be decreased by fighting corruption, increasing stability and growing the economy. §YRadicalization§! increases along with the popularity of [Caliphate_L] and as a result of rapid social liberalization."
- ct_states_title: "Country"
+ ct_states_title: "Страна"
  MENA_ct_states: "[ALG.GetNamewithFlag]\n[BHR.GetNamewithFlag]\n[EGY.GetNamewithFlag]\n[IRQ.GetNamewithFlag]\n[JOR.GetNamewithFlag]\n[KUW.GetNamewithFlag]\n[LEB.GetNamewithFlag]\n[LBA.GetNamewithFlag]\n[MOR.GetNamewithFlag]\n[OMA.GetNamewithFlag]\n[QAT.GetNamewithFlag]\n[SAU.GetNamewithFlag]\n[SYR.GetNamewithFlag]\n[TUN.GetNamewithFlag]\n[TUR.GetNamewithFlag]\n[UAE.GetNamewithFlag]\n[YEM.GetNamewithFlag]\n"
- threat_title: "Terror Threat"
+ threat_title: "Угроза террора"
  MENA_threat: "[ALG.threat_level_flag]\n[BHR.threat_level_flag]\n[EGY.threat_level_flag]\n[IRQ.threat_level_flag]\n[JOR.threat_level_flag]\n[KUW.threat_level_flag]\n[LEB.threat_level_flag]\n[LBA_threat_level_flag]\n[MOR.threat_level_flag]\n[OMA.threat_level_flag]\n[QAT.threat_level_flag]\n[SAU.threat_level_flag]\n[SYR.threat_level_flag]\n[TUN.threat_level_flag]\n[TUR.threat_level_flag]\n[UAE.threat_level_flag]\n[YEM.threat_level_flag]\n"
- radicalization_title: "Radicalization"
+ radicalization_title: "Радикализация"
  MENA_radicalization: "[ALG.radicalization]\n[BHR.radicalization]\n[EGY.radicalization]\n[IRQ.radicalization]\n[JOR.radicalization]\n[KUW.radicalization]\n[LEB.radicalization]\n[LBA_radicalization]\n[MOR.radicalization]\n[OMA.radicalization]\n[QAT.radicalization]\n[SAU.radicalization]\n[SYR.radicalization]\n[TUN.radicalization]\n[TUR.radicalization]\n[UAE.radicalization]\n[YEM.radicalization]\n"
  MOR_promote_tolerant_islam: "Promote al-Wasatiyyah"
  MOR_promote_tolerant_islam_desc: "Morocco is well-known for its moderate interpretations of Islam. The Moroccan principle of al-Wasatiyyah, or moderation, combines the Maliki school of Islamic jurisprudence, Ashari theology and Sunni Sufism. The kingdom has always maintained that the most effective way to prevent terrorism is to spread this form of moderate Islam to counteract extremist interpretations."
@@ -746,7 +746,7 @@
  gcc.12.d: "[FROM.GetLeader] has informed us that while the [FROM.GetAdjective] people values our relationship, they are unwilling to commit themselves to the GCC's security by guaranteeing it against external threats."
  gcc.12.a: "Maybe we should turn elsewhere for protection..."
 
- gcc.13.t: "Choosing a new guarantor"
+ gcc.13.t: "Выбор нового гаранта"
  gcc.13.d: "Since the Americans can no longer be depended upon to defend the GCC from its enemies, we must look elsewhere for our protection."
  gcc.13.a: "Go with Turkey."
  gcc.13.b: "Go with Iran."
@@ -908,7 +908,7 @@
  oman_royal.1.c: "Go with Haitham."
 
  #Saudi Arabia Events
- saudi_royal.1.t: "The Death of King Fahd"
+ saudi_royal.1.t: "Смерть короля Фахда"
  saudi_royal.1.d1: "Saudi Arabia, along with a sizable proportion of the Muslim world, is in mourning today as the ailing King Fahd finally succumbed to a decade long illness following a stroke in 1995. King Fahd has been hailed by Arab and Western leaders alike as a visionary leader. His rule saw Saudi Arabia grow closer to the United States in an effort to undermine al-Qaeda, a group which has quickly become the most significant domestic threat to the Saudi monarchy. Crown Prince Abdullah, who has been de facto ruler since King Fahd's stroke, has now been crowned King Abdullah bin Abdul Aziz of Saudi Arabia, and has pledged to continue his half-brother's modernization efforts."
  saudi_royal.1.d2: "Saudi Arabia, along with a sizable proportion of the Muslim world, is in mourning today as the ailing King Fahd finally succumbed to a decade long illness following a stroke in 1995. Crown Prince Abdullah, who has been the de facto head of the royal family since King Fahd's debilitating stroke in 1995, will now assume the mostly ceremonial title of King of Saudi Arabia. The last few years has seen the former absolute monarchy transform into a constitutional one where power is vested in elected leaders. Nonetheless, the widespread lamentation in Saudi Arabia of King Fahd's death demonstrates the continued significance of the royal family."
  saudi_royal.1.d3: "Reports indicate that Fahd bin Abdulaziz al-Saud, the last King of Saudi Arabia, has succumbed to a decade long illness following a stroke in 1995. His rule saw a rapid process of political reform that swept the royal family from power, replacing the absolute monarchy with what is now known as [SAU.GetNameDef]. No longer holding an official position, Fahd nonetheless retained a significant entourage of loyal followers who have mourned his death. The majority of the population of [SAU.GetNameDef], however, has remained largely apathetic, while a small minority has openly celebrated Fahd's passing as marking the formal end of monarchical rule in Saudi Arabia and an important step forward in the establishment of the republic."
