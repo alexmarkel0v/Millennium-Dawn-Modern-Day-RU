@@ -11,10 +11,10 @@
  
  
  EU_Voting_tutorial:0 "Руководство ЕС"
- EU_Voting_tutorial_desc:0 "Руководство о том, как §Y[EUU.GetFlag] Европейский союз§! is modeled and works in Millennium Dawn."
+ EU_Voting_tutorial_desc:0 "Руководство о том, как §Y[EUU.GetFlag] Европейский союз§! смоделирован и работает в Millennium Dawn."
  
  EU_tutorial.1.t:0 "Введение - Главное меню"
- EU_tutorial.1.d:0 "Введение - Главное меню\nГлава 1 - Европейский союз\nГлава 2 - Фокусное дерево ЕС\nГлава 3 - Голосование в ЕС\n\nВведение - Главное меню - Страница 2\nChapter 4 - The EU Laws and Ideas\nChapter 5 - The EU Offices\nChapter 6 – Euroscepticism\n\nIntroduction - Main Menu - Page 3\nChapter 7 - Leaving the EU\nChapter 8 - Enlargement and Joining the EU\nChapter 9 - EU Events\n\nIntroduction - Main Menu - Page 4\nChapter 10 - Uniting the EU\nChapter 11 - EU AI\nChapter 12 - Hints and Cheats\nEnd Tutorial"
+ EU_tutorial.1.d:0 "Введение - Главное меню\nГлава 1 - Европейский союз\nГлава 2 - Фокусное дерево ЕС\nГлава 3 - Голосование в ЕС\n\nВведение - Главное меню - Страница 2\nГлава 4 - Законы и идеи ЕС\nChapter 5 - The EU Offices\nГлава 6 - Евроскептицизм\n\nВведение - Главное меню - Страница 3\nГлава 7 - Уход из ЕС\nГлава 8 - Расширение и вступление в ЕС\nГлава 9 - События в ЕС\n\nВведение - Главное меню - Страница 4\nГлава 10 - Объединение ЕС\nГлава 11 - ИИ ЕС\nГлава 12 - Подсказки и читы\nКонец руководства"
  EU_tutorial.1.a:0 "Глава 1 - Европейский союз"
  EU_tutorial.1.b:0 "Глава 2 - Фокусное дерево ЕС"
  EU_tutorial.1.c:0 "Глава 3 - Голосование в ЕС"
@@ -36,9 +36,9 @@
 
  EU_tutorial.4.t:0 "Введение - Главное меню"
  EU_tutorial.4.d:0 "Введение - Главное меню"
- EU_tutorial.4.a:0 "Chapter 10 - Uniting the EU"
+ EU_tutorial.4.a:0 "Глава 10 - Объединение ЕС"
  EU_tutorial.4.b:0 "Chapter 11 - EU AI"
- EU_tutorial.4.c:0 "Chapter 12 - Hints and Cheats"
+ EU_tutorial.4.c:0 "Глава 12 - Подсказки и читы"
  EU_tutorial.4.e:0 "End Tutorial"
 
  EU_tutorial.10.t:0 "Глава 1 - Европейский союз"
@@ -76,12 +76,12 @@
  EU_tutorial.17.d:0 "The Council of the European Union (in the treaties simply the Council) is one of two legislative bodies together with the European Parliament. The Council represents the executive governments of the EU's member states and has a between the member states rotating Presidency.\n\nIn Millennium Dawn the European Council and the Council of the European Union are combined and represented by the voting of the member states. The President of the European Council is a claimable office in the mod, while the rotating Presidency of the Council of the European Union is not implemented at the moment."
  EU_tutorial.17.a:0 "Next Chapter"
 
- EU_tutorial.20.t:0 "Chapter 2 - The EU Focus Tree"
+ EU_tutorial.20.t:0 "Глава 2 - Фокусное дерево ЕС"
  EU_tutorial.20.d:0 "The EU Focus Tree is other than any other Focus Tree in the game. The EU Focus Tree is a shared focus tree and does not only belong to a single country, but to all (49 potential) member states. Every EU member state has the shared EU Focus Tree, but these trees are connected. Only one member state can complete a shared voting focus at the same time. If a focus for one country is completed it is bypassed for every other member state. There is one exceptions to this: the Withdrawal Policies branch."
  EU_tutorial.20.a:0 "Chapter 2.1 - The Voting Tree"
  EU_tutorial.20.b:0 "Chapter 2.2 - The Withdrawal Tree"
  EU_tutorial.20.c:0 "Chapter 2.3 - The Member State Focuses"
- EU_tutorial.20.e:0 "Return to Tutorial Main Menu"
+ EU_tutorial.20.e:0 "Возврат к главному меню"
 
  EU_tutorial.21.t:0 "Chapter 2.1 - The Voting Tree"
  EU_tutorial.21.d:0 "The Voting Tree consists of all other branches than the Withdrawal Policies branch. The focuses of the Voting Tree apply there effect not simply through completing the focus, they need to be accepted by the voting of the member states. The only effects that are directly applied are the Euroscepticism bonuses and malus. Some of the branch header have no (other) effect and need no voting. As the focuses need to be accepted by the voting of the member states, there are no mutually exclusive focuses. But some focuses are mutually exclusive in the result. If one is accepted the other can't be completed. See the requires tooltip for details."
@@ -102,15 +102,15 @@
  EU_tutorial.30.c:0 "Chapter 3.3 - Majority Types"
  EU_tutorial.30.e:0 "Return to Tutorial Main Menu"
 
- EU_tutorial.31.t:0 "Chapter 3.1 - The Voting Decisions"
+ EU_tutorial.31.t:0 "Глава 3.1 - Решения по голосованию"
  EU_tutorial.31.d:0 "The first decision of the voting proceeding is the voting decision. It becomes available if the proposing country has at least 3% influence on any other member state or holds one of the three major offices of the EU (President of the European Commission, President of the European Council, President of the European Parliament). When the decision is selected every member states gets a Yes/No voting event."
  EU_tutorial.31.a:0 "Next Page"
 
- EU_tutorial.32.t:0 "Chapter 3.1 - The Voting Decisions (p.2)"
+ EU_tutorial.32.t:0 "Глава 3.1 - Решения по голосованию (стр.2)"
  EU_tutorial.32.d:0 "After the vote the result decision becomes available. When selected the result of the voting is shown by a sequence of two events. If the proposal was accepted the effect of the focus is applied to every member state by the event. If the proposal was dismissed the retry proceeding is started.\n\nNote: In some rare circumstances the voting process could be locked. In this case you have to wait round about three month til the voting is cleared in the background. Than just try again."
  EU_tutorial.32.a:0 "Next Page"
 
- EU_tutorial.33.t:0 "Chapter 3.1 - The Voting Decisions (p.3)"
+ EU_tutorial.33.t:0 "Глава 3.1 - Решения по голосованию (стр.3)"
  EU_tutorial.33.d:0 "90 days after the dismissal the retry decision becomes available for every member state. If one member state selects that decision the decision is removed for every other member state and a new voting decision becomes visible for the member state. So that member state can start the voting proceeding again. The AI (in this order President of the European Commission, President of the European Council or President of the European Parliament) will take the retry decision. If you want to select the retry, you should pause the game or disable the AI retry. The retry of the AI can be disabled via a decision."
  EU_tutorial.33.a:0 "Next Page"
 
@@ -134,14 +134,14 @@
  EU_tutorial.38.d:0 "In the case of Majority voting more member states have to vote with Yes than with No."
  EU_tutorial.38.a:0 "Next Chapter"
 
- EU_tutorial.40.t:0 "Chapter 4 - The EU Laws and Ideas"
+ EU_tutorial.40.t:0 "Глава 4 - Законы и идеи ЕС"
  EU_tutorial.40.d:0 "A important part of the focus effects are national spirits. They represent the legislation of §Y[EUU.GetFlag] The European Union§!."
  EU_tutorial.40.a:0 "Chapter 4.1 - The EU Laws"
  EU_tutorial.40.b:0 "Chapter 4.2 - Adopting EU law by new member states"
  EU_tutorial.40.c:0 "Chapter 4.3 - EU law and EU exit"
  EU_tutorial.40.e:0 "Return to Tutorial Main Menu"
 
- EU_tutorial.41.t:0 "Chapter 4.1 - The EU Laws"
+ EU_tutorial.41.t:0 "Глава 4.1 - Законы ЕС"
  EU_tutorial.41.d:0 "There are two kinds of national spirits for EU member states. The first one are crisis or negative circumstances that are applied by events or from the start. The effect of some of the focuses are to remove or prevent these negative national spirits when the voting is accepted. The other one apply bonuses to the member states. They are added when the proposal is accepted by the voting of the member states."
  EU_tutorial.41.a:0 "Next Page"
  
