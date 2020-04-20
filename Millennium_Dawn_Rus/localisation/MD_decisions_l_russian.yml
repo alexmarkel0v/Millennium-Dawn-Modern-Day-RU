@@ -1769,7 +1769,7 @@
  BRM_no_influence:0 "0%"
  
  BRM_Administrative_Decisions:0 "Административные решения" 
- BRM_Administrative_Decisions_desc:0 "Our military strategists have concluded that having Yangon as a capital leaves us vulnerable to the possibility of an amphibious invasion. Relocating the capital to a more remote location would, in the event of a war with a stronger foreign power, allow the Tatmadaw to organize guerrilla warfare from a secure command post." 
+ BRM_Administrative_Decisions_desc:0 "Наши военные стратеги пришли к выводу, что наличие Янгона в качестве столицы делает нас уязвимыми перед возможностью амфибийного вторжения. Перемещение столицы в более отдалённое место позволило бы в случае войны с более сильной иностранной державой организовать партизанскую войну с безопасного командного пункта." 
  BRM_plans_for_new_capital:0 "Draw Up Plans for a New Capital" 
  BRM_begin_construction_capital:0 "Begin Construction of Naypyidaw" 
  
@@ -1848,7 +1848,7 @@
  
  south_china_sea_category:0 "Южно-Китайское море"
  south_china_sea_category_desc:0 "As the region through which one third of global trade flows and where military bases lie to protect the interests of our nation, the importance of the South China Sea both strategically and economically cannot be overstated. With disputes and tensions with other nations occurring frequently, notably over the vast fields of oil only recently discovered in the sea, outmaneuvering our rivals and projecting our power into the region is of the utmost importance.\n\n§YChinese Aggression§!: [?CHI.chinese_aggression]"
- oil_exploration_paracels:0 "Drill for Oil near the Paracel Islands"
+ oil_exploration_paracels:0 "Бурение в поисках нефти возле Парасельских островов"
  oil_exploration_paracels_desc:0 "По некоторым оценкам, Южно-Китайское море содержит 17,7 миллиардов тонн сырой нефти, что является огромными запасами, сопоставимыми с некоторыми районами Ближнего Востока. Мы должны стремиться к освоению этого огромного богатства ресурсов."
  oil_exploration_chinese_spratlys:0 "Drill for Oil near the Chinese Spratlys"
  oil_exploration_chinese_spratlys_desc:0 "По некоторым оценкам, Южно-Китайское море содержит 17,7 миллиардов тонн сырой нефти, что является огромными запасами, сопоставимыми с некоторыми районами Ближнего Востока. Мы должны стремиться к освоению этого огромного богатства ресурсов."
@@ -1883,11 +1883,11 @@
  apply_to_join_as_a_member:0 "Apply for Full Membership Status"
  give_up_observer_status:0 "Give up Observer Status"
  give_up_membership_status:0 "Покинуть организацию"
- provide_development_assistance:0 "Give Development Assistance to [FROM.GetName]"
- provide_development_assistance_CHI:0 "Give Development Assistance to [FROM.GetName]"
+ provide_development_assistance:0 "Оказать помощь в целях развития [FROM.GetName]"
+ provide_development_assistance_CHI:0 "Оказать помощь в целях развития [FROM.GetName]"
  host_joint_exercises:0 "Host SCO Joint Exercises"
- offer_joint_exercises_specific:0 "Offer Joint Exercises with [FROM.GetName]"
- start_joint_exercises_specific:0 "Conduct Joint Exercises with [FROM.GetName]"
+ offer_joint_exercises_specific:0 "Предложить совместные упражнения с [FROM.GetName]"
+ start_joint_exercises_specific:0 "Проводить совместные учения с [FROM.GetName]"
 
  ###Child Soldiers
  child_soldiers_category:0 "Дети-солдаты"
@@ -1957,11 +1957,11 @@
  pressure_countries_to_recognize_desc: "Народ [FROM.GetNameDef] заслуживает независимоcти. Мы должны использовать наше влияние, чтобы помочь им достичь этой цели."
  
  ### Party and governmnet type triggers
- has_socialist_government:0 "Socialist ruling party"
+ has_socialist_government:0 "Социалистическая правящая партия"
  has_communist_government:0 "Communist ruling party"
- has_environmentalist_government:0 "Environmentalist ruling party"
- has_liberal_government:0 "Liberal ruling party"
- has_conservative_government:0 "Conservative ruling party"
+ has_environmentalist_government:0 "Экологическая правящая партия"
+ has_liberal_government:0 "Либеральная правящая партия"
+ has_conservative_government:0 "Консервативная правящая партия"
  has_reactionary_government:0 "Reactionary ruling party"
  has_autocratic_government:0 "Autocratic ruling party"
 
