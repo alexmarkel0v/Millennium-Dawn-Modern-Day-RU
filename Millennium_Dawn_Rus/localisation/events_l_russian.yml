@@ -512,9 +512,9 @@
  news.2.t:0 "[mct_inviter.GetNameDef]-[mct_applicant.GetName] договор о военном сотрудничестве"
  news.2.d:0 "Сегодня [mct_inviter.GetNameDef] и [mct_applicant.GetNameDef] подписали договор о военном сотрудничестве, желая укрепления своих военных связей."
  news.2.a:0 "Понятно."
- news.3.t:0 "Атака на америкий эсминец "Коул""
- news.3.d:0 "Военно-морское командование США сообщило, что эсминец "Коул" подвергся нападению со стороны сети Аль-Каиды. 17 американских военнослужащих были убиты. Американские спецслужбы указывают на то, что правительство Судана является возможным сторонником нападавших."
- news.3.a:0 "Они будут сожалеть об этом."
+ news.3.t:0 "Атака на америкий эсминец «Коул»"
+ news.3.d:0 "Военно-морское командование США сообщило, что эсминец «Коул» подвергся нападению со стороны сети Аль-Каиды. 17 американских военнослужащих были убиты. Американские спецслужбы указывают на то, что правительство Судана является возможным сторонником нападавших."
+ news.3.a:0 "Они об этом пожалеют."
  news.3.b:0 "Отправить наши соболезнования американцам."
  news.3.c:0 "Мертвые американцы? Хорошо."
  news.3.e:0 "Они обвиняют нас?!"
@@ -791,9 +791,9 @@
  MD4_election.5.a:0 "[show_biggest_party_elect] ([show_biggest_elect_percentage]) will try"
  MD4_election.5.b:0 "[show_second_biggest_party_elect] ([show_second_biggest_elect_percentage]) will try"
  
- News_MD4_election.0.t:0 "[From.GetAdjective] Election: [From.GetLeader] Re-elected"
- News_MD4_election.0.d:0 "[From.GetLeader] of the [From.GetRulingParty] ([From.GetRulingIdeology]) handedly defeated all the challengers, and will continue another term as [From.GetAdjective] leader."
- News_MD4_election.0.a:0 "Ok"
+ News_MD4_election.0.t:0 "[From.GetAdjective] выборы: [From.GetLeader] переизбран"
+ News_MD4_election.0.d:0 "[From.GetLeader] из [From.GetRulingParty] ([From.GetRulingIdeology]) победил всех претендентов и останется еще на один срок, как [From.GetAdjective] лидер."
+ News_MD4_election.0.a:0 "Ок"
  
  News_MD4_election.1.t:0 "[From.GetAdjective] Election: [From.GetLeader] forms new government"
  News_MD4_election.1.d:0 "[From.GetLeader] of the [From.GetRulingParty] ([From.GetRulingIdeology]) emerged victorious in the elections, and with support from other parties in the government is now tasked with leading [From.GetName] forward."
@@ -1600,9 +1600,9 @@
  cyber.1.d:0 "Advancements in hacking technology mean that our existing infrastructure cannot meet the same threats that it once could. Our networks are therefore more vulnerable to attacks by hostile foreign powers."
  cyber.1.a:0 "We should probably do something about this."
  
- cyber.2.t:0 "[FROM.GetAdjective] Hackers have Stolen Classified Military Intelligence!"
- cyber.2.d:0 "Our military has reported that hackers from an advanced state actor, most likely [FROM.GetNameDef], has breached our cyber defences and stolen classified information. This information would give [FROM.GetName] an edge in the event of a conflict with us."
- cyber.2.a:0 "We should probably improve our infrastructure."
+ cyber.2.t:0 "[FROM.GetAdjective] Хакеры украли секретную военную информацию!"
+ cyber.2.d:0 "Наши военные сообщили, что хакеры из передового государственного субъекта, скорее всего [FROM.GetNameDef], нарушили нашу киберзащиту и украли секретную информацию. Эта информация даст [FROM.GetName] преимущество в случае конфликта с нами."
+ cyber.2.a:0 "Наверное, нам следует улучшить нашу инфраструктуру."
  
  cyber.3.t:0 "[FROM.GetAdjective] Hackers have Stolen our Technology!"
  cyber.3.d:0 "Our strategic industries have been targeted by hackers from [FROM.GetNameDef] and designs have been stolen. These designs could be used to further [FROM.GetName]'s own research."
