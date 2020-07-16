@@ -126,14 +126,14 @@
  SWI_southern_air_bases_desc:0 "Мы должны обеспечить, чтобы мы имели воздушное преимущество над нашей страной и вокруг нее."
  ##Rafael New
  
- SWI_european_tank_license:0 "European Tank License"
- SWI_european_tank_license_desc:0 "The members of the European Union have pretty advanced tanks, those which could be useful for our use."
- SWI_adopt_euro:0 "Adopt The Euro"
- SWI_adopt_euro_desc:0 "By adopting the euro, our economy should grow in a constant way, attracting more immigrants and investors to our nation."
- SWI_peace_at_switzerland:0 "Peace For Switzerland"
- SWI_peace_at_switzerland_desc:0 "By enacting a non-agression pact with our fellow European Union members we can guarantee the continuous stage of Swiss Stability."
- SWI_german_trade_deals:0 "German Trade Deals"
- SWI_german_trade_deals_desc:0 "Our relations with our northen neighbors should increase as we make more trade treaties with them."
+ SWI_european_tank_license:0 "Европейская лицензия на танки"
+ SWI_european_tank_license_desc:0 "У членов Европейского Союза есть довольно продвинутые танки, которые могут быть полезны для нашего использования."
+ SWI_adopt_euro:0 "Переход на евро"
+ SWI_adopt_euro_desc:0 "Приняв валюту евро, наша экономика должна постоянно расти, привлекая все больше иммигрантов и инвесторов в нашу страну. С другой стороны, мы теперь сильно зависим от состояния общего блока стран ЕС."
+ SWI_peace_at_switzerland:0 "Мир для Швейцарии"
+ SWI_peace_at_switzerland_desc:0 "Приняв пакт о ненападении с нашими коллегами-членами Европейского Союза, мы можем гарантировать непрерывный этап швейцарской стабильности."
+ SWI_german_trade_deals:0 "Немецкие торговые сделки"
+ SWI_german_trade_deals_desc:0 "Наши отношения с северными соседями должны расширяться по мере того, как мы заключаем с ними все больше торговых договоров."
  
  ### Tooltip
  

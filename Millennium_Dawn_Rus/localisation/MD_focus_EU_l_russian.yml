@@ -330,24 +330,24 @@
  ### EU_GENERIC ###
  
  EU_GENERIC_political_reform:0 "Политическая реформа"
- EU_GENERIC_political_reform_desc:0 "Чтобы не допустить стагнации нашей внутриполитической обстановки, правительство должно поддерживать политическую активность страны и ее народа. Необходимо разработать законодательство, назначить государственных чиновников, принять планы финансирования и запланировать общественные проекты. [Root.GetAdjective] правительство должно продолжать модернизацию и укрепление страны."
- EU_GENERIC_cabinet_reform:0 "Реформа правительства"
- EU_GENERIC_cabinet_reform_desc:0 "By replacing several key actors in the cabinet that are currently opposed to the head of government's agenda, the executive branch can project strength and determination in dealing with upcoming political questions and crises. In doing so, we must ignore the haters, losers and naysayers."
- EU_GENERIC_expand_the_secret_service:0 "Развитие секретной службы"
- EU_GENERIC_expand_the_secret_service_desc:0 "The security of [Root.GetNameDef] is greatly dependent upon the strength of its military and civilian intelligence agencies. We must find effective countermeasures against hostile agents, subversive elements of society, terrorists or the (at least not impossible) potential of an enemy nuclear attack."
- EU_GENERIC_build_intelligence_stations:0 "Построить станции разведки"
- EU_GENERIC_build_intelligence_stations_desc:0 "A follow-up to World War 2's RADAR stations, the Intelligence Stations will provide us with detailed reports on enemy troops movements and incoming aircraft. We will use the experiences from the espionage affairs and intrigue of the Cold War era."
- EU_GENERIC_strengthen_government:0 "Укрепить правительство"
+ EU_GENERIC_political_reform_desc:0 "Чтобы не допустить стагнации наших внутриполитических сцен, правительство должно поддерживать политическую активность страны и ее народа. Необходимо разработать законодательство, назначить государственных чиновников, принять планы финансирования и спланировать общественные проекты. [Root.GetAdjective] правительство не может успокоиться в своих усилиях по модернизации и укреплению страны."
+ EU_GENERIC_cabinet_reform:0 "Реформа Кабинета министров"
+ EU_GENERIC_cabinet_reform_desc:0 "Заменив несколько ключевых действующих лиц в кабинете министров, которые в настоящее время выступают против повестки дня главы правительства, исполнительная власть может продемонстрировать силу и решимость в ликвидации предстоящих политических вопросов и кризисов. При этом мы должны игнорировать ненавистников, неудачников и скептиков."
+ EU_GENERIC_expand_the_secret_service:0 "Расширить секретную службу"
+ EU_GENERIC_expand_the_secret_service_desc:0 "Безопасность [Root.GetNameDef] в значительной степени зависит от силы своих военных и гражданских разведывательных органов. Мы должны найти эффективные контрмеры против враждебных агентов, подрывных элементов общества, террористов или (по крайней мере, не исключено) потенциального ядерного удара противника."
+ EU_GENERIC_build_intelligence_stations:0 "Построить разведывательные станции"
+ EU_GENERIC_build_intelligence_stations_desc:0 "В дополнение к радиолокационным станциям Второй мировой войны разведывательные станции будут предоставлять нам подробные отчеты о передвижениях вражеских войск и приближающихся самолетах. Мы будем использовать опыт из шпионских дел и интриг эпохи Холодной войны."
+ EU_GENERIC_strengthen_government:0 "Укрепление правительства"
  EU_GENERIC_strengthen_government_desc:0 ""
  EU_GENERIC_political_games:0 "Политические игры"
  EU_GENERIC_political_games_desc:0 ""
- EU_GENERIC_public_service_annoucement:0 "Обращение к общественности"
+ EU_GENERIC_public_service_annoucement:0 "Объявление о государственной службе"
  EU_GENERIC_public_service_annoucement_desc:0 ""
- EU_GENERIC_the_establishment:0 "Учреждение"
+ EU_GENERIC_the_establishment:0 "Истеблишмент"
  EU_GENERIC_the_establishment_desc:0 ""
  EU_GENERIC_the_state:0 "Государство"
  EU_GENERIC_the_state_desc:0 "" 
- EU_GENERIC_diplomatic_positions:0 "Дипломатические должности"
+ EU_GENERIC_diplomatic_positions:0 "Дипломатические позиции"
  EU_GENERIC_diplomatic_positions_desc:0 ""
  EU_GENERIC_our_place:0 "Наше место"
  EU_GENERIC_our_place_desc:0 ""
@@ -355,9 +355,9 @@
  EU_GENERIC_station_in_the_world_desc:0 ""
  EU_GENERIC_the_west:0 "Запад"
  EU_GENERIC_the_west_desc:0 ""
- EU_GENERIC_eastern_emergence:0 "Восточное развитие"
+ EU_GENERIC_eastern_emergence:0 "Восточное становление"
  EU_GENERIC_eastern_emergence_desc:0 ""
- EU_GENERIC_the_nationalist_rise:0 "Националистический подъем"
+ EU_GENERIC_the_nationalist_rise:0 "Подъем национализма"
  EU_GENERIC_the_nationalist_rise_desc:0 ""
  EU_GENERIC_the_salafist_rise: "Салафитский подъём"
  EU_GENERIC_the_salafist_rise_desc: ""
@@ -365,95 +365,95 @@
  EU_GENERIC_western_ideas_desc:0 ""
  EU_GENERIC_the_rising_powers:0 "Растущая мощь"
  EU_GENERIC_the_rising_powers_desc:0 ""
- EU_GENERIC_us_above_all:0 "Мы превыше всего"
+ EU_GENERIC_us_above_all:0 "Мы - прежде всего"
  EU_GENERIC_us_above_all_desc:0 ""
  EU_GENERIC_jihad: "Джихад"
  EU_GENERIC_jihad_desc: ""
  EU_GENERIC_international_diplomacy:0 "Международная дипломатия"
- EU_GENERIC_international_diplomacy_desc:0 "The art of making backroom deals, public displays of holier-than-thou attitudes and dividing small countries between their bigger neighbors, the practice of international diplomacy has a long established culture with a mixture of grandstanding and pragmatic machiavellianism. After all, the main goal of diplomacy is to secure the country's oil supply. [Root.GetNameDef] may not fall behind."
+ EU_GENERIC_international_diplomacy_desc:0 "Искусство заключать закулисные сделки, публично демонстрировать более священные отношения и разделять малые страны между их более крупными соседями, практика международной дипломатии имеет давно сложившуюся культуру со смесью напыщенности и прагматического макиавеллизма. Ведь главная цель дипломатии - обеспечить безопасность поставок нефти в страну. [Root.GetNameDef] может и не отстать."
  EU_GENERIC_trade_with_the_neighbors:0 "Торговля с соседями"
- EU_GENERIC_trade_with_the_neighbors_desc:0 "After closing ranks with our immediate neighbors through both expansion of our diplomatic staffs and expansion of our road network, we can now pursue a closer trade integration with our next door partners. This will help profits for both our large companies and our small businesspeople."
- EU_GENERIC_alignment_debate:0 "Полемика вокруг ориентации"
- EU_GENERIC_alignment_debate_desc:0 "An open question of international diplomacy is always the conflicting and juxtaposted ideas of neutrality and isolationism versus the idea of interventionism."
+ EU_GENERIC_trade_with_the_neighbors_desc:0 "После сближения позиций с нашими ближайшими соседями как за счет расширения наших дипломатических штабов, так и за счет расширения нашей дорожной сети, мы теперь можем стремиться к более тесной торговой интеграции с нашими партнерами. Это будет способствовать получению прибыли как для наших крупных компаний, так и для наших мелких предпринимателей."
+ EU_GENERIC_alignment_debate:0 "Дебаты о политическом курсе"
+ EU_GENERIC_alignment_debate_desc:0 "Открытый вопрос международной дипломатии - это всегда противоречивые и противопоставленные идеи нейтралитета и изоляционизма против идеи интервенционизма."
  EU_GENERIC_neutrality:0 "Нейтралитет"
- EU_GENERIC_neutrality_desc:0 "We should always be concerned with the safety and prosperity of [Root.GetAdjective] citizens first and foremost. We cannot waste our young men, natural resources and financial assets in foreign entanglements. Instead, we must make sure that he homefront is safe by securing our borders and avoiding membership in international alliance networks."
+ EU_GENERIC_neutrality_desc:0 "Мы всегда должны заботиться о безопасности и процветании [Root.GetAdjective] граждан в первую очередь. Мы не можем растрачивать наших молодых людей, природные ресурсы и финансовые активы на чужие нужды. Вместо этого мы должны обеспечить безопасность родного фронта, безопасность наших границ и избегать членства в международных союзнических сетях."
  EU_GENERIC_interventionism:0 "Интервенционизм"
  EU_GENERIC_interventionism_desc:0 ""
- EU_GENERIC_build_fortifications:0 "Строить укрепления"
+ EU_GENERIC_build_fortifications:0 "Строительство укреплений"
  EU_GENERIC_build_fortifications_desc:0 ""
  EU_GENERIC_militarism:0 "Милитаризм"
  EU_GENERIC_militarism_desc:0 ""
- EU_GENERIC_peaceful_emergence:0 "Мирное развитие"
+ EU_GENERIC_peaceful_emergence:0 "Мирное становление"
  EU_GENERIC_peaceful_emergence_desc:0 ""
  EU_GENERIC_revanchism:0 "Реваншизм"
  EU_GENERIC_revanchism_desc:0 ""
- EU_GENERIC_build_roads:0 "Строить дороги"
+ EU_GENERIC_build_roads:0 "Постройка дорог"
  EU_GENERIC_build_roads_desc:0 ""
- EU_GENERIC_build_railways:0 "Строить железные дороги"
+ EU_GENERIC_build_railways:0 "Строительство железных дорог"
  EU_GENERIC_build_railways_desc:0 ""
- EU_GENERIC_build_highways:0 "Строить шоссе"
+ EU_GENERIC_build_highways:0 "Строительство шоссе"
  EU_GENERIC_build_highways_desc:0 ""
- EU_GENERIC_expand_urban_areas:0 "Развитие городских районов"
+ EU_GENERIC_expand_urban_areas:0 "Расширение городских районов"
  EU_GENERIC_expand_urban_areas_desc:0 ""
- EU_GENERIC_developmentalism:0 "Развитие"
+ EU_GENERIC_developmentalism:0 "Девелопментализм"
  EU_GENERIC_developmentalism_desc:0 ""
- EU_GENERIC_increase_resource_production:0 "Увеличить добычу ресурсов"
+ EU_GENERIC_increase_resource_production:0 "Увеличение добычи ресурсов"
  EU_GENERIC_increase_resource_production_desc:0 ""
  EU_GENERIC_economic_autonomy:0 "Экономическая автономия"
  EU_GENERIC_economic_autonomy_desc:0 ""
  EU_GENERIC_autarky:0 "Автаркия"
  EU_GENERIC_autarky_desc:0 ""
- EU_GENERIC_assure_the_national_fuel_reserve:0 "Обеспечить национальный топливный резерв"
+ EU_GENERIC_assure_the_national_fuel_reserve:0 "Обеспечение национального топливного резерва"
  EU_GENERIC_assure_the_national_fuel_reserve_desc:0 ""
- EU_GENERIC_ease_of_business_reforms:0 "Простота реформ бизнеса"
+ EU_GENERIC_ease_of_business_reforms:0 "Простые бизнес-реформы"
  EU_GENERIC_ease_of_business_reforms_desc:0 ""
- EU_GENERIC_attract_foreign_investors:0 "Привлечь иностранных инвесторов"
+ EU_GENERIC_attract_foreign_investors:0 "Привлечение иностранных инвесторов"
  EU_GENERIC_attract_foreign_investors_desc:0 ""
- EU_GENERIC_mobilize_the_working_class:0 "Мобилизовать рабочий класс"
+ EU_GENERIC_mobilize_the_working_class:0 "Мобилизация рабочего класса"
  EU_GENERIC_mobilize_the_working_class_desc:0 ""
  EU_GENERIC_light_industry_investments:0 "Инвестиции в легкую промышленность"
  EU_GENERIC_light_industry_investments_desc:0 ""
  EU_GENERIC_heavy_industry_investments:0 "Инвестиции в тяжелую промышленность"
  EU_GENERIC_heavy_industry_investments_desc:0 ""
- EU_GENERIC_satisfy_the_middle_class:0 "Удовлетворить средний класс"
+ EU_GENERIC_satisfy_the_middle_class:0 "Удовлетворение нужд среднего класса"
  EU_GENERIC_satisfy_the_middle_class_desc:0 ""
- EU_GENERIC_build_churches:0 "Строить церкви"
+ EU_GENERIC_build_churches:0 "Строительство церквей"
  EU_GENERIC_build_churches_desc:0 ""
- EU_GENERIC_please_the_upper_class:0 "Просьба высшего общества"
+ EU_GENERIC_please_the_upper_class:0 "Благоденствие для высшего класса"
  EU_GENERIC_please_the_upper_class_desc:0 ""
- EU_GENERIC_import_foreign_automobiles:0 "Импорт иностранных автомобилей"
+ EU_GENERIC_import_foreign_automobiles:0 "Ввоз иностранных автомобилей"
  EU_GENERIC_import_foreign_automobiles_desc:0 ""
- EU_GENERIC_invest_in_biofuels:0 "Инвестировать в биотопливо"
+ EU_GENERIC_invest_in_biofuels:0 "Инвестиции в биотопливо"
  EU_GENERIC_invest_in_biofuels_desc:0 ""
- EU_GENERIC_assure_intellectual_freedoms:0 "Обеспечить интеллектуальную свободу"
+ EU_GENERIC_assure_intellectual_freedoms:0 "Обеспечение интеллектуальных свобод"
  EU_GENERIC_assure_intellectual_freedoms_desc:0 ""
- EU_GENERIC_create_an_automotive_industry:0 "Создать автомобильную промышленность"
+ EU_GENERIC_create_an_automotive_industry:0 "Создание автомобильной промышленности"
  EU_GENERIC_create_an_automotive_industry_desc:0 ""
- EU_GENERIC_build_primary_schools:0 "Построить начальные школы"
+ EU_GENERIC_build_primary_schools:0 "Строительство начальных школ"
  EU_GENERIC_build_primary_schools_desc:0 ""
  EU_GENERIC_assure_access_to_education:0 "Обеспечение доступа к образованию"
  EU_GENERIC_assure_access_to_education_desc:0 ""
- EU_GENERIC_expand_the_universities:0 "Развитие университетов"
+ EU_GENERIC_expand_the_universities:0 "Расширение университетов"
  EU_GENERIC_expand_the_universities_desc:0 ""
  EU_GENERIC_industrial_research_task_forces:0 "Целевые группы по промышленным исследованиям"
  EU_GENERIC_industrial_research_task_forces_desc:0 ""
  EU_GENERIC_naval_reform:0 "Морская реформа"
  EU_GENERIC_naval_reform_desc:0 ""
- EU_GENERIC_naval_bases:0 "Морские базы"
+ EU_GENERIC_naval_bases:0 "Военно-морские базы"
  EU_GENERIC_naval_bases_desc:0 ""
  EU_GENERIC_submarines:0 "Подводные лодки"
  EU_GENERIC_submarines_desc:0 ""
- EU_GENERIC_surface_ships:0 "Наземные корабли"
+ EU_GENERIC_surface_ships:0 "Надводные суда"
  EU_GENERIC_surface_ships_desc:0 ""
  EU_GENERIC_dockyards:0 "Верфи"
  EU_GENERIC_dockyards_desc:0 ""
  EU_GENERIC_nuclear_submarines:0 "Атомные подводные лодки"
  EU_GENERIC_nuclear_submarines_desc:0 ""
- EU_GENERIC_naval_doctrine_innovations:0 "Инновации морской доктрины"
+ EU_GENERIC_naval_doctrine_innovations:0 "Инновации военно-морских доктрин"
  EU_GENERIC_naval_doctrine_innovations_desc:0 ""
  EU_GENERIC_aircraft_carriers:0 "Авианосцы"
  EU_GENERIC_aircraft_carriers_desc:0 ""
- EU_GENERIC_naval_doctrine_expertise:0 "Экспертиза морской доктрины"
+ EU_GENERIC_naval_doctrine_expertise:0 "Экспертиза военно-морской доктрины"
  EU_GENERIC_naval_doctrine_expertise_desc:0 ""
  EU_GENERIC_air_force_reform:0 "Реформа ВВС"
  EU_GENERIC_air_force_reform_desc:0 ""
@@ -465,13 +465,13 @@
  EU_GENERIC_countermeasures_against_aircraft_desc:0 ""
  EU_GENERIC_bomber_planes:0 "Бомбардировщики"
  EU_GENERIC_bomber_planes_desc:0 ""
- EU_GENERIC_drones:0 "Беспилотники"
+ EU_GENERIC_drones:0 "Дроны"
  EU_GENERIC_drones_desc:0 ""
  EU_GENERIC_air_doctrine_expertise:0 "Экспертиза воздушной доктрины"
  EU_GENERIC_air_doctrine_expertise_desc:0 ""
- EU_GENERIC_army_reform:0 "Реформа армии"
+ EU_GENERIC_army_reform:0 "Армейская реформа"
  EU_GENERIC_army_reform_desc:0 ""
- EU_GENERIC_military_emergency:0 "Чрезвычайная военная ситуация"
+ EU_GENERIC_military_emergency:0 "Военная чрезвычайная ситуация"
  EU_GENERIC_military_emergency_desc:0 ""
  EU_GENERIC_land_doctrine_innovations:0 "Инновации сухопутной доктрины"
  EU_GENERIC_land_doctrine_innovations_desc:0 ""
@@ -479,19 +479,19 @@
  EU_GENERIC_military_exercises_desc:0 ""
  EU_GENERIC_military_education_reform:0 "Реформа военного образования"
  EU_GENERIC_military_education_reform_desc:0 ""
- EU_GENERIC_infantry_equipment_development:0 "Развитие пехотного снаряжения"
+ EU_GENERIC_infantry_equipment_development:0 "Разработка пехотной техники"
  EU_GENERIC_infantry_equipment_development_desc:0 ""
  EU_GENERIC_land_doctrine_expertise:0 "Экспертиза сухопутной доктрины"
  EU_GENERIC_land_doctrine_expertise_desc:0 ""
  EU_GENERIC_artillery_experiments:0 "Артиллерийские эксперименты"
  EU_GENERIC_artillery_experiments_desc:0 ""
- EU_GENERIC_uniform_improvements:0 "Улучшение униформы"
+ EU_GENERIC_uniform_improvements:0 "Улучшения униформы"
  EU_GENERIC_uniform_improvements_desc:0 ""
  EU_GENERIC_self_propelled_artillery:0 "Самоходная артиллерия"
  EU_GENERIC_self_propelled_artillery_desc:0 ""
- EU_GENERIC_develop_armor_prototypes:0 "Разработка прототипов бронетехники"
+ EU_GENERIC_develop_armor_prototypes:0 "Разработка прототипов брони"
  EU_GENERIC_develop_armor_prototypes_desc:0 ""
- EU_GENERIC_countermeasures_against_armored_units:0 "Контрмеры против бронированных подразделений"
+ EU_GENERIC_countermeasures_against_armored_units:0 "Контрмеры против бронетанковых подразделений"
  EU_GENERIC_countermeasures_against_armored_units_desc:0 ""
 
  
@@ -734,10 +734,10 @@
 
 
  ### EU Decision Category ###
- EU_voting_category:0 "The European Union"
- EU_voting_category_desc:0 "[ROOT.GetFlag] Euroscepticism: [?ROOT.eurosceptic|§%R1]\nEuroscepticism, also known as EU-scepticism, means criticism of the European Union (EU) and European integration. According to public opinion surveys this ratio represents the number of people who will likely vote for leaving the European Union in the case of a European Union membership referendum of their country.\n[EUU.GetFlag] Europeanism: [?global.var_europeanism|§%G1]\nEuropeanism also known as Pro-Europeanism, sometimes called European Unionism, is a political position that favours European integration and membership of the European Union (EU). It includes the more radical European federalists, who seek to create a single superstate known informally as a United States of Europe. A related term is ’Europhile’. The ratio represents the Europhile people throughout the whole Union."
- EU_SOTEU_category:0 "State of the European Union"
- EU_SOTEU_category_desc:0 "[EUU.GetFlag] The European Union - Population: [?global.var_EUpopTotal|Y0]§YK§! - Europeanism: [?global.var_europeanism|§%G1]\n\n\nFlag - Name - §YPopulation§! - §MRatio of Total EU§! - §REuroscepticism§!\n[ROOT.ALB_SOTEU_Loc][ROOT.ARM_SOTEU_Loc][ROOT.AUS_SOTEU_Loc][ROOT.AZE_SOTEU_Loc][ROOT.BEL_SOTEU_Loc][ROOT.BLR_SOTEU_Loc][ROOT.BOS_SOTEU_Loc][ROOT.BUL_SOTEU_Loc][ROOT.CAT_SOTEU_Loc][ROOT.CRE_SOTEU_Loc][ROOT.CRO_SOTEU_Loc][ROOT.CYP_SOTEU_Loc][ROOT.CZE_SOTEU_Loc][ROOT.DEN_SOTEU_Loc][ROOT.ENG_SOTEU_Loc][ROOT.EST_SOTEU_Loc][ROOT.FIN_SOTEU_Loc][ROOT.FRA_SOTEU_Loc][ROOT.FYR_SOTEU_Loc][ROOT.GEO_SOTEU_Loc][ROOT.GER_SOTEU_Loc][ROOT.GRE_SOTEU_Loc][ROOT.HOL_SOTEU_Loc][ROOT.HUN_SOTEU_Loc][ROOT.ICE_SOTEU_Loc][ROOT.IRE_SOTEU_Loc][ROOT.ITA_SOTEU_Loc][ROOT.KOS_SOTEU_Loc][ROOT.LAT_SOTEU_Loc][ROOT.LIT_SOTEU_Loc][ROOT.LUX_SOTEU_Loc][ROOT.MLT_SOTEU_Loc][ROOT.MLV_SOTEU_Loc][ROOT.MNT_SOTEU_Loc][ROOT.NOR_SOTEU_Loc][ROOT.POL_SOTEU_Loc][ROOT.POR_SOTEU_Loc][ROOT.ROM_SOTEU_Loc][ROOT.SCL_SOTEU_Loc][ROOT.SCO_SOTEU_Loc][ROOT.SER_SOTEU_Loc][ROOT.SLO_SOTEU_Loc][ROOT.SLV_SOTEU_Loc][ROOT.SPR_SOTEU_Loc][ROOT.SWE_SOTEU_Loc][ROOT.SWI_SOTEU_Loc][ROOT.TUR_SOTEU_Loc][ROOT.UKR_SOTEU_Loc][ROOT.WAS_SOTEU_Loc]"
+ EU_voting_category:0 "Европейский Союз"
+ EU_voting_category_desc:0 "[ROOT.GetFlag] Евроскептицизм: [?ROOT.eurosceptic|§%R1]\nЕвроскептицизм, также известный как ЕС-скептицизм, означает критику Европейского союза (ЕС) и европейской интеграции. Согласно опросам общественного мнения, это соотношение представляет собой огромное количество людей, которые скорее всего, проголосуют за выход из Европейского Союза в случае проведения референдума о членстве своей страны в Европейском Союзе.\n[EUU.GetFlag] Европеизм: [?global.var_europeanism|§%G1]\nЕвропеизм, также известный как проевропейский, иногда называемый Европейским Юнионизмом, - это политическая позиция, которая выступает за европейскую интеграцию и членство в Европейском союзе (ЕС). Она включает в себя более радикальных европейских федералистов, которые стремятся создать единую сверхдержаву, неофициально известную как Соединенные Штаты Европы. Родственный термин - "Еврофил". Это соотношение представляет еврофилов по всему Союзу."
+ EU_SOTEU_category:0 "Государства Европейского Союза"
+ EU_SOTEU_category_desc:0 "[EUU.GetFlag] Европейский Союз - население: [?global.var_EUpopTotal|Y0]§YK§! - Европеизм: [?global.var_europeanism|§%G1]\n\n\nФлаг - Страна - §YНаселение§! - §MРейтинг от целого ЕС§! - §RЕвроскептицизм§!\n[ROOT.ALB_SOTEU_Loc][ROOT.ARM_SOTEU_Loc][ROOT.AUS_SOTEU_Loc][ROOT.AZE_SOTEU_Loc][ROOT.BEL_SOTEU_Loc][ROOT.BLR_SOTEU_Loc][ROOT.BOS_SOTEU_Loc][ROOT.BUL_SOTEU_Loc][ROOT.CAT_SOTEU_Loc][ROOT.CRE_SOTEU_Loc][ROOT.CRO_SOTEU_Loc][ROOT.CYP_SOTEU_Loc][ROOT.CZE_SOTEU_Loc][ROOT.DEN_SOTEU_Loc][ROOT.ENG_SOTEU_Loc][ROOT.EST_SOTEU_Loc][ROOT.FIN_SOTEU_Loc][ROOT.FRA_SOTEU_Loc][ROOT.FYR_SOTEU_Loc][ROOT.GEO_SOTEU_Loc][ROOT.GER_SOTEU_Loc][ROOT.GRE_SOTEU_Loc][ROOT.HOL_SOTEU_Loc][ROOT.HUN_SOTEU_Loc][ROOT.ICE_SOTEU_Loc][ROOT.IRE_SOTEU_Loc][ROOT.ITA_SOTEU_Loc][ROOT.KOS_SOTEU_Loc][ROOT.LAT_SOTEU_Loc][ROOT.LIT_SOTEU_Loc][ROOT.LUX_SOTEU_Loc][ROOT.MLT_SOTEU_Loc][ROOT.MLV_SOTEU_Loc][ROOT.MNT_SOTEU_Loc][ROOT.NOR_SOTEU_Loc][ROOT.POL_SOTEU_Loc][ROOT.POR_SOTEU_Loc][ROOT.ROM_SOTEU_Loc][ROOT.SCL_SOTEU_Loc][ROOT.SCO_SOTEU_Loc][ROOT.SER_SOTEU_Loc][ROOT.SLO_SOTEU_Loc][ROOT.SLV_SOTEU_Loc][ROOT.SPR_SOTEU_Loc][ROOT.SWE_SOTEU_Loc][ROOT.SWI_SOTEU_Loc][ROOT.TUR_SOTEU_Loc][ROOT.UKR_SOTEU_Loc][ROOT.WAS_SOTEU_Loc]"
  ALB_EU_YES:0 "[ALB.GetNameWithFlag] - [?ALB.max_manpower_k|§Y0]§YK§! - [?ALB.var_EUpopRatio|§%M2] - [?ALB.eurosceptic|§%R1]\n"
  ARM_EU_YES:0 "[ARM.GetNameWithFlag] - [?ARM.max_manpower_k|§Y0]§YK§! - [?ARM.var_EUpopRatio|§%M2] - [?ARM.eurosceptic|§%R1]\n"
  AUS_EU_YES:0 "[AUS.GetNameWithFlag] - [?AUS.max_manpower_k|§Y0]§YK§! - [?AUS.var_EUpopRatio|§%M2] - [?AUS.eurosceptic|§%R1]\n"
@@ -855,8 +855,8 @@
  EUcheat.1.c:0 "Stop cheating!"   
  
  ### EU Decisions ###
- State_of_the_European_Union:0 "Состояние Европейского союза (обновленная информация)"
- State_of_the_European_Union_desc:0 "Со временем государство Европейский Союз изменилось, пришло время обновить статистику."
+ State_of_the_European_Union:0 "Государство Европейского Союза (обновление)"
+ State_of_the_European_Union_desc:0 "За прошедшее время состояние Европейского Союза изменилось, пришло время обновить статистику."
 
  ### SOTEU Decisions ###
  pro_european_campaign:0 "[EUU.GetFlag] Pro-European Campaign"
@@ -988,7 +988,7 @@
  EU_voting_decision_EU206_retry_desc:0 "Enough time hat passed since the proposal of Fiscal Union was DISMISSED, so we can prepare put it to the vote again."
 
  ### European Economic Government ###
- EU_voting_decision_focus_EU207:0 "Европейское экономическое правительство (Unanimity)"
+ EU_voting_decision_focus_EU207:0 "Европейское экономическое правительство (Единодушие)"
  EU_voting_decision_focus_EU207_desc:0 "We can put the European Economic Government to the vote. It is a unanimity voting, so every member state has to vote with YES for the proposal to be ACCEPTED."
  EU_voting_decision_focus_EU207_result:0 "European Economic Government Voting Result"
  EU_voting_decision_focus_EU207_result_desc:0 "The member states have voted on the European Economic Government. Time to show the result."
@@ -1006,7 +1006,7 @@
  ### EU Defense Policies ###
 
  ### European Defence Agency (EDA) ###
- EU_voting_decision_focus_EU301:0 "Европейское оборонное агентство (EDA) (Unanimity)"
+ EU_voting_decision_focus_EU301:0 "Европейское оборонное агентство (ЕАО) (Единодушие)"
  EU_voting_decision_focus_EU301_desc:0 "We can put the European Defence Agency (EDA) to the vote. It is a unanimity voting, so every member state has to vote with YES for the proposal to be ACCEPTED."
  EU_voting_decision_focus_EU301_QMV:0 "European Defence Agency (EDA) (QMV)"
  EU_voting_decision_focus_EU301_QMV_desc:0 "We can put the European Defence Agency (EDA) to the vote. It is a Qualified majority voting (QMV), so a majority of 55% of the member states, which represent 65% of the population of the EU has to vote with YES for the proposal to be ACCEPTED."
@@ -1054,7 +1054,7 @@
  EU_voting_decision_EU304_retry_desc:0 "Enough time hat passed since the proposal of European Security Council was DISMISSED, so we can prepare put it to the vote again."
 
  ### EuroArmy ###
- EU_voting_decision_focus_EU305:0 "ЕвроАрмия (Unanimity)"
+ EU_voting_decision_focus_EU305:0 "ЕвроАрмия (Единодушие)"
  EU_voting_decision_focus_EU305_desc:0 "We can put the EuroArmy to the vote. It is a unanimity voting, so every member state has to vote with YES for the proposal to be ACCEPTED."
  EU_voting_decision_focus_EU305_QMV:0 "EuroArmy (QMV)"
  EU_voting_decision_focus_EU305_QMV_desc:0 "We can put the EuroArmy to the vote. It is a Qualified majority voting (QMV), so a majority of 55% of the member states, which represent 65% of the population of the EU has to vote with YES for the proposal to be ACCEPTED."
@@ -1104,7 +1104,7 @@
  ### EU Secondary Legislation ###
 
  ### General Data Protection Regulation ###
- EU_voting_decision_focus_EU401:0 "Общее положение о защите данных (Unanimity)"
+ EU_voting_decision_focus_EU401:0 "Общее положение о защите данных (Единодушие)"
  EU_voting_decision_focus_EU401_desc:0 "We can put the General Data Protection Regulation to the vote. It is a unanimity voting, so every member state has to vote with YES for the proposal to be ACCEPTED."
  EU_voting_decision_focus_EU401_QMV:0 "Общее положение о защите данных (QMV)"
  EU_voting_decision_focus_EU401_QMV_desc:0 "We can put the General Data Protection Regulation to the vote. It is a Qualified majority voting (QMV), so a majority of 55% of the member states, which represent 65% of the population of the EU has to vote with YES for the proposal to be ACCEPTED."
@@ -1116,7 +1116,7 @@
  EU_voting_decision_EU401_retry_desc:0 "Enough time hat passed since the proposal of General Data Protection Regulation was DISMISSED, so we can prepare put it to the vote again."
 
  ### Directive on Copyright in the Digital Single Market ###
- EU_voting_decision_focus_EU402:0 "Директива об авторском праве на едином цифровом рынке (Unanimity)"
+ EU_voting_decision_focus_EU402:0 "Директива об авторском праве на едином цифровом рынке (Единодушие)"
  EU_voting_decision_focus_EU402_desc:0 "We can put the Directive on Copyright in the Digital Single Market to the vote. It is a unanimity voting, so every member state has to vote with YES for the proposal to be ACCEPTED."
  EU_voting_decision_focus_EU402_QMV:0 "Directive on Copyright in the Digital Single Market (QMV)"
  EU_voting_decision_focus_EU402_QMV_desc:0 "We can put the Directive on Copyright in the Digital Single Market to the vote. It is a Qualified majority voting (QMV), so a majority of 55% of the member states, which represent 65% of the population of the EU has to vote with YES for the proposal to be ACCEPTED."
@@ -1140,7 +1140,7 @@
  EU_voting_decision_EU403_retry_desc:0 "Enough time hat passed since the proposal of Dublin II Regulation was DISMISSED, so we can prepare put it to the vote again."
 
  ### Relocation and Resettlement of Asylum Seekers ###
- EU_voting_decision_focus_EU404:0 "Перемещение и переселение лиц, ищущих убежище (Unanimity)"
+ EU_voting_decision_focus_EU404:0 "Перемещение и переселение лиц, ищущих убежище (Единодушие)"
  EU_voting_decision_focus_EU404_desc:0 "We can put the Relocation and Resettlement of Asylum Seekers to the vote. It is a unanimity voting, so every member state has to vote with YES for the proposal to be ACCEPTED."
  EU_voting_decision_focus_EU404_QMV:0 "Relocation and Resettlement of Asylum Seekers (QMV)"
  EU_voting_decision_focus_EU404_QMV_desc:0 "We can put the Relocation and Resettlement of Asylum Seekers to the vote. It is a Qualified majority voting (QMV), so a majority of 55% of the member states, which represent 65% of the population of the EU has to vote with YES for the proposal to be ACCEPTED."
@@ -1152,7 +1152,7 @@
  EU_voting_decision_EU404_retry_desc:0 "Enough time hat passed since the proposal of Relocation and Resettlement of Asylum Seekers was DISMISSED, so we can prepare put it to the vote again."
 
  ### EU–Turkey deal ###
- EU_voting_decision_focus_EU405:0 "Сделка ЕС-Турция (Unanimity)"
+ EU_voting_decision_focus_EU405:0 "Сделка ЕС-Турция (Единодушие)"
  EU_voting_decision_focus_EU405_desc:0 "We can put the EU–Turkey deal to the vote. It is a unanimity voting, so every member state has to vote with YES for the proposal to be ACCEPTED."
  EU_voting_decision_focus_EU405_QMV:0 "EU–Turkey deal (QMV)"
  EU_voting_decision_focus_EU405_QMV_desc:0 "We can put the EU–Turkey deal to the vote. It is a Qualified majority voting (QMV), so a majority of 55% of the member states, which represent 65% of the population of the EU has to vote with YES for the proposal to be ACCEPTED."
@@ -1188,7 +1188,7 @@
  EU_voting_decision_EU407_retry_desc:0 "Enough time hat passed since the proposal of Frontex was DISMISSED, so we can prepare put it to the vote again."
 
  ### European Border and Coast Guard Agency ###
- EU_voting_decision_focus_EU408:0 "Европейское агентство пограничной и береговой охраны (Unanimity)"
+ EU_voting_decision_focus_EU408:0 "Европейское агентство пограничной и береговой охраны (Единодушие)"
  EU_voting_decision_focus_EU408_desc:0 "We can put the European Border and Coast Guard Agency to the vote. It is a unanimity voting, so every member state has to vote with YES for the proposal to be ACCEPTED."
  EU_voting_decision_focus_EU408_QMV:0 "European Border and Coast Guard Agency (QMV)"
  EU_voting_decision_focus_EU408_QMV_desc:0 "We can put the European Border and Coast Guard Agency to the vote. It is a Qualified majority voting (QMV), so a majority of 55% of the member states, which represent 65% of the population of the EU has to vote with YES for the proposal to be ACCEPTED."
@@ -1204,7 +1204,7 @@
  ### EU Enlargement ###
 
  ### 2004 enlargement of the European Union ###
- EU_voting_decision_focus_EU601:0 "Расширение Европейского Союза в 2004 году (Unanimity)"
+ EU_voting_decision_focus_EU601:0 "Расширение Европейского Союза в 2004 году (Единодушие)"
  EU_voting_decision_focus_EU601_desc:0 "We can put the 2004 enlargement of the European Union to the vote. It is a unanimity voting, so every member state has to vote with YES for the proposal to be ACCEPTED."
  EU_voting_decision_focus_EU601_QMV:0 "2004 enlargement of the European Union (QMV)"
  EU_voting_decision_focus_EU601_QMV_desc:0 "We can put the 2004 enlargement of the European Union to the vote. It is a Qualified majority voting (QMV), so a majority of 55% of the member states, which represent 65% of the population of the EU has to vote with YES for the proposal to be ACCEPTED."
@@ -1216,7 +1216,7 @@
  EU_voting_decision_EU601_retry_desc:0 "Enough time hat passed since the proposal of 2004 enlargement of the European Union was DISMISSED, so we can prepare put it to the vote again."
 
  ### 2007 enlargement of the European Union ###
- EU_voting_decision_focus_EU602:0 "Расширение Европейского Союза в 2007 году (Unanimity)"
+ EU_voting_decision_focus_EU602:0 "Расширение Европейского Союза в 2007 году (Единодушие)"
  EU_voting_decision_focus_EU602_desc:0 "We can put the 2007 enlargement of the European Union to the vote. It is a unanimity voting, so every member state has to vote with YES for the proposal to be ACCEPTED."
  EU_voting_decision_focus_EU602_QMV:0 "2007 enlargement of the European Union (QMV)"
  EU_voting_decision_focus_EU602_QMV_desc:0 "We can put the 2007 enlargement of the European Union to the vote. It is a Qualified majority voting (QMV), so a majority of 55% of the member states, which represent 65% of the population of the EU has to vote with YES for the proposal to be ACCEPTED."
@@ -1228,7 +1228,7 @@
  EU_voting_decision_EU602_retry_desc:0 "Enough time hat passed since the proposal of 2007 enlargement of the European Union was DISMISSED, so we can prepare put it to the vote again."
 
  ### 2013 enlargement of the European Union ###
- EU_voting_decision_focus_EU603:0 "Расширение Европейского Союза в 2013 году (Unanimity)"
+ EU_voting_decision_focus_EU603:0 "Расширение Европейского Союза в 2013 году (Единодушие)"
  EU_voting_decision_focus_EU603_desc:0 "We can put the 2013 enlargement of the European Union to the vote. It is a unanimity voting, so every member state has to vote with YES for the proposal to be ACCEPTED."
  EU_voting_decision_focus_EU603_QMV:0 "2013 enlargement of the European Union (QMV)"
  EU_voting_decision_focus_EU603_QMV_desc:0 "We can put the 2013 enlargement of the European Union to the vote. It is a Qualified majority voting (QMV), so a majority of 55% of the member states, which represent 65% of the population of the EU has to vote with YES for the proposal to be ACCEPTED."
@@ -1248,7 +1248,7 @@
  ### No Deal Exit ###
 
  ### Federalisation of the European Union ###
- EU_voting_decision_focus_EU110_maj:0 "Федерализация Европейского Союза (Majority)"
+ EU_voting_decision_focus_EU110_maj:0 "Федерализация Европейского Союза (Большинство)"
  EU_voting_decision_focus_EU110_maj_desc:0 "Federalisation of the European UnionWe can put the Federalisation of the European Union to the vote. It is a majority voting, so more than half of the voting member states have to vote with YES for the proposal to be ACCEPTED."
  EU_voting_decision_focus_EU110_maj_result:0 "Federalisation of the European Union Voting Result"
  EU_voting_decision_focus_EU110_maj_result_desc:0 "The member states have voted on the Federalisation of the European Union. Time to show the result."
@@ -1256,7 +1256,7 @@
  EU_voting_decision_EU110_retry_desc:0 "Enough time hat passed since the proposal of Federalisation of the European Union was DISMISSED, so we can prepare put it to the vote again."
 
  ### United States of Europe ###
- EU_voting_decision_focus_EU111:0 "Соединенные Штаты Европы (Unanimity)"
+ EU_voting_decision_focus_EU111:0 "Соединенные Штаты Европы (Единодушие)"
  EU_voting_decision_focus_EU111_desc:0 "We can put the United States of Europe to the vote. It is a unanimity voting, so every member state has to vote with YES for the proposal to be ACCEPTED."
  EU_voting_decision_focus_EU111_result:0 "United States of Europe Voting Result"
  EU_voting_decision_focus_EU111_result_desc:0 "The member states have voted on the United States of Europe. Time to show the result."
@@ -1264,7 +1264,7 @@
  EU_voting_decision_EU111_retry_desc:0 "Enough time hat passed since the proposal of United States of Europe was DISMISSED, so we can prepare put it to the vote again."
 
  ### European Federation ###
- EU_voting_decision_focus_EU112:0 "Европейская Федерация (Unanimity)"
+ EU_voting_decision_focus_EU112:0 "Европейская Федерация (Единодушие)"
  EU_voting_decision_focus_EU112_desc:0 "We can put the European Federation to the vote. It is a unanimity voting, so every member state has to vote with YES for the proposal to be ACCEPTED."
  EU_voting_decision_focus_EU112_result:0 "European Federation Voting Result"
  EU_voting_decision_focus_EU112_result_desc:0 "The member states have voted on the European Federation. Time to show the result."
@@ -1298,7 +1298,7 @@
  EU_voting_decision_EU605_retry_desc:0 "Enough time hat passed since the proposal of Western Balkans Enlargement was DISMISSED, so we can prepare put it to the vote again."
 
  ### Turkey ###
- EU_voting_decision_focus_EU606:0 "Турция (Unanimity)"
+ EU_voting_decision_focus_EU606:0 "Турция (Единодушие)"
  EU_voting_decision_focus_EU606_desc:0 "We can put the Turkey to the vote. It is a unanimity voting, so every member state has to vote with YES for the proposal to be ACCEPTED."
  EU_voting_decision_focus_EU606_QMV:0 "Turkey (QMV)"
  EU_voting_decision_focus_EU606_QMV_desc:0 "We can put the Turkey to the vote. It is a Qualified majority voting (QMV), so a majority of 55% of the member states, which represent 65% of the population of the EU has to vote with YES for the proposal to be ACCEPTED."
@@ -1334,7 +1334,7 @@
  EU_voting_decision_EU608_retry_desc:0 "Enough time hat passed since the proposal of Caucasus Enlargement was DISMISSED, so we can prepare put it to the vote again."
 
  ### European Economic Area ###
- EU_voting_decision_focus_EU609:0 "Европейское экономическое пространство (Unanimity)"
+ EU_voting_decision_focus_EU609:0 "Европейское экономическое пространство (Единодушие)"
  EU_voting_decision_focus_EU609_desc:0 "Мы можем поставить Европейское экономическое пространство на голосование. Это единогласное голосование, поэтому каждое государство-член должно голосовать вместе с ДА за то, чтобы предложение было ПРИНЯТО."
  EU_voting_decision_focus_EU609_QMV:0 "European Economic Area (QMV)"
  EU_voting_decision_focus_EU609_QMV_desc:0 "We can put the European Economic Area to the vote. It is a Qualified majority voting (QMV), so a majority of 55% of the member states, which represent 65% of the population of the EU has to vote with YES for the proposal to be ACCEPTED."
@@ -1346,7 +1346,7 @@
  EU_voting_decision_EU609_retry_desc:0 "Enough time hat passed since the proposal of European Economic Area was DISMISSED, so we can prepare put it to the vote again."
 
  ### Belarus ###
- EU_voting_decision_focus_EU610:0 "Беларусь (Unanimity)"
+ EU_voting_decision_focus_EU610:0 "Беларусь (Единодушие)"
  EU_voting_decision_focus_EU610_desc:0 "We can put the Belarus to the vote. It is a unanimity voting, so every member state has to vote with YES for the proposal to be ACCEPTED."
  EU_voting_decision_focus_EU610_QMV:0 "Belarus (QMV)"
  EU_voting_decision_focus_EU610_QMV_desc:0 "We can put the Belarus to the vote. It is a Qualified majority voting (QMV), so a majority of 55% of the member states, which represent 65% of the population of the EU has to vote with YES for the proposal to be ACCEPTED."
@@ -1358,7 +1358,7 @@
  EU_voting_decision_EU610_retry_desc:0 "Enough time hat passed since the proposal of Belarus was DISMISSED, so we can prepare put it to the vote again."
 
  ### Internal Enlargement ###
- EU_voting_decision_focus_EU611:0 "Внутреннее расширение (Unanimity)"
+ EU_voting_decision_focus_EU611:0 "Внутреннее расширение (Единодушие)"
  EU_voting_decision_focus_EU611_desc:0 "We can put the Internal Enlargement to the vote. It is a unanimity voting, so every member state has to vote with YES for the proposal to be ACCEPTED."
  EU_voting_decision_focus_EU611_QMV:0 "Internal Enlargement (QMV)"
  EU_voting_decision_focus_EU611_QMV_desc:0 "We can put the Internal Enlargement to the vote. It is a Qualified majority voting (QMV), so a majority of 55% of the member states, which represent 65% of the population of the EU has to vote with YES for the proposal to be ACCEPTED."
@@ -1378,9 +1378,9 @@
  #####################
  
  ### EU country events ###
- EUevent.1.t:0 "Состояние Европейского союза"
- EUevent.1.d:0 "Обновлено состояние Европейского союза."
- EUevent.1.a:0 "Okay!"
+ EUevent.1.t:0 "Государство Европейского союза"
+ EUevent.1.d:0 "Обновлено государство Европейского союза."
+ EUevent.1.a:0 "Ok"
  
  ### EU–Turkey deal ###
  EUevent.2.t:0 "EU–Turkey deal"
@@ -1394,7 +1394,7 @@
  ### United States of Europe ###
  EUevent.3.t:0 "Соединенные Штаты Европы"
  EUevent.3.d:0 "В речи, произнесенной после окончания Второй мировой войны, Черчилль подвел итог:\n\"Мы должны построить нечто вроде Соединенных Штатов Европы. Только так сотни миллионов тружеников смогут вернуть себе те простые радости и надежды, которые делают жизнь достойной жизни. Процесс прост. Все, что необходимо - это решимость сотен миллионов мужчин и женщин поступать правильно, а не плохо, и получать в качестве награды благословение, а не проклятие.\"\n\n\"Therefore I say to you: Let Europe arise!\"\n\n After more than 70 years of European integration the member states of §Y[EUU.GetFlag] The European Union§! have decided to give up their sovereignty and form the §Y[EUU.GetFlag] The United States of Europe§!."
- EUevent.3.a:0 "Ode to Joy!"
+ EUevent.3.a:0 "Ода Радости!"
  
  EUevent.4.t:0 "Соединенные Штаты Европы"
  EUevent.4.d:0 "[FROM.GetNameWithFlag] is uniting the member states of §Y[EUU.GetFlag] The European Union§! to one European Superstate called the §Y[EUU.GetFlag] The United States of Europe§!. [ROOT.GetNameWithFlag] will give up its sovereignty an join §Y[EUU.GetFlag] The United States of Europe§!."
@@ -1483,7 +1483,7 @@
  
  
  ### EU News Events ###
- EU_news.1.t:0 "Состояние Европейского союза"
+ EU_news.1.t:0 "Государство Европейского союза"
  EU_news.1.d:0 "Европейский Союз находится в хорошей форме."
  EU_news.1.a:0 "Okay!"
  
@@ -1499,11 +1499,11 @@
  
  ### Article 50 is revoked ###
  EU_news.22.t:0 "Article 50 is revoked"
- EU_news.22.d:0 "[FROM.GetNameWithFlag] отозвал Статью 50 и остается в §Y[EUU.GetFlag] Европейский союз§!."
+ EU_news.22.d:0 "[FROM.GetNameWithFlag] отменил Статью 50 и остается в §Y[EUU.GetFlag] Европейском союзе§!."
  EU_news.22.a:0 "Okay!" 
   
  ### withdrawal_treaty ###
- EU_news.23.t:0 "Договор о выходе"
+ EU_news.23.t:0 "Договор о снятии"
  EU_news.23.d:0 "[FROM.GetNameWithFlag] and the member states of §Y[EUU.GetFlag] The European Union§! have signed a Withdrawal Treaty. [FROM.GetNameWithFlag] will leave the §Y[EUU.GetFlag] The European Union§! on the conditions stated in the Withdrawal Treaty."
  EU_news.23.a:0 "Goodbye, friends!"  
  
@@ -3645,11 +3645,11 @@
   ### EU_apply_for_membership_category & Decisions ###
  
  EU_apply_for_membership_category:0 "Вступление в ЕС"
- EU_apply_for_membership_category_desc:0 "Becoming a member of the EU is a complex procedure which does not happen overnight. Once an applicant country meets the conditions for membership, it must implement EU rules and regulations in all areas.\nAny country that satisfies the conditions for membership can apply. These conditions are known as the ‘Copenhagen criteria’ and include a free-market economy, a stable democracy and the rule of law, and the acceptance of all EU legislation, including of the euro."
- EU_apply_for_membership:0 "Joining the EU"
- EU_apply_for_membership_desc:0 "§Y[ROOT.GetNameWithFlag]§! can join the §Y[EUU.GetFlag] The European Union§! lets sing the Ode to Joy:\nJoy, beautiful spark of Divinity,\nDaughter of Elysium,\nWe enter, drunk with fire,\nHeavenly One, thy sanctuary!\nYour magic binds again\nWhat custom strictly divided;\nAll people become brothers,\nWhere your gentle wing abides. "
- EU_adopt_EU_law:0 "Adopt the EU law"
- EU_adopt_EU_law_desc:0 "Due to the huge volume of EU rules and regulations each candidate country must adopt as national law, the negotiations take time to complete. The candidates are supported financially, administratively and technically during this pre-accession period."
+ EU_apply_for_membership_category_desc:0 "Вступление в ЕС - это сложная процедура, которая не происходит в одночасье. Как только страна-заявитель удовлетворяет условиям членства, она должна применять правила и положения ЕС во всех областях.\n Любая страна, удовлетворяющая условиям членства, может подать заявку. Эти условия известны как "Копенгагенские критерии" и включают в себя свободную рыночную экономику, стабильную демократию и верховенство закона, а также принятие всего законодательства ЕС, включая последовательное использование валюты евро."
+ EU_apply_for_membership:0 "Вступление в ЕС"
+ EU_apply_for_membership_desc:0 "§Y[ROOT.GetNameWithFlag]§! может присоединиться к §Y[EUU.GetFlag] Европейский Союз§! давайте споем Оду радости:\nРадость, прекрасная Искра божественности,\nДочь Элизиума,\nМы входим, пьяные от огня,\nНебесный, твое святилище!\nТвоя магия снова связывает тебя\nКакой обычай строго разделен;\nВсе люди становятся братьями,\nГде пребывает твое нежное крылышко."
+ EU_adopt_EU_law:0 "Принять закон ЕС"
+ EU_adopt_EU_law_desc:0 "Из-за огромного объема правил и положений ЕС, которые каждая страна-кандидат должна принять в качестве национального закона, переговоры требуют времени для завершения. Кандидаты получают финансовую, административную и техническую поддержку в течение этого периода, предшествующего вступлению в ЕС."
  EU_join_the_Euro:0 "Joining the Euro"
  EU_join_the_Euro_desc:0 "In order to adopt the euro, EU countries have to bring their national legislation in line with relevant EU law and meet specific conditions designed to ensure economic convergence. These requirements, agreed by the EU Member States in Maastricht in 1991, are known as the convergence criteria."
  USoE_integrate_new_members:0 "Integrate new member states"
