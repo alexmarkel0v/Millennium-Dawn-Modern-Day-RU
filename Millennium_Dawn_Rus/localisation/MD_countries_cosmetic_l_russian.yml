@@ -62,8 +62,8 @@
  SER_MNT_nationalist_DEF:0 "Сербия и Черногория"
  SER_MNT_nationalist_ADJ:0 "Сербск. и черногорск."
 
- SOV_SovietUnion_communism:0 "Советский союз"
- SOV_SovietUnion_communism_DEF:0 "Советский союз"
+ SOV_SovietUnion_communism:0 "Советский Союз"
+ SOV_SovietUnion_communism_DEF:0 "Советский Союз"
  SOV_SovietUnion_communism_ADJ:0 "Советск."
 
  QUE_CAN_autonomy_autonomous_state:0 "Национальное собрание Квебека"
