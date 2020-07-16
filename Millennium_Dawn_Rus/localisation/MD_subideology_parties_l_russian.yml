@@ -282,7 +282,7 @@
  
 
  #Salafist
- generic.Kingdom:0 "£generic_Kingdom_small Ваххабитский монархист"
+ generic.Kingdom:0 "£generic_Kingdom_small Салафизм"
  generic.Kingdom_icon:0 "£generic_Kingdom_small"
  generic.Kingdom_desc:0 "Ваххабизм относится к ультраконсервативной ветви суннитского ислама, поддерживаемой многими монархиями государства Персидского залива. Часто используемый взаимозаменяемо с салафизмом, он иногда описывается как «особая ориентация в салафизме»."
  generic.Caliphate:0 "£generic_Caliphate_small Салафитский джихадизм"

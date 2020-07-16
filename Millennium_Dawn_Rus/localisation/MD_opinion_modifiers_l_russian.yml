@@ -105,6 +105,8 @@
  free_license:0 "Бесплатная лицензия"
  huge_increase:0 "Огромный рост мнения"
  embargo:0 "Эмбарго"
+ embargo_opinion: "Эмбарго нам!"
+ recently_embargoed: "Эмбарго нам недавно"
  backed_our_cause:0 "Поддержал наше дело"
  betrayed_our_cause:0 "Предал наше дело"
  refused_alliance:0 "Отказ от альянса"
@@ -162,7 +164,7 @@
  withdrew_recognition:0 "Withdrew Recognition"
  withdrew_recognition_them:0 "Withdrew Recognition of Breakaway State"
  is_trying_to_win_our_favour:0 "Is Trying to Win Our Favour"
-  
+ recognises_israel: "Признает Израиль"
 
  #Myanmar/Burma
  cooperation:0 "Cooperation"

@@ -1,5 +1,5 @@
 ﻿l_russian:
- MD_RULES:0 "Millennium Dawn правила"
+ MD_RULES:0 "Правила Millennium Dawn"
  
  RULE_RELEASE_VATICAN_STATE:0 "Освободить Ватикан"
  RULE_YES_RELEASE_VATICAN_STATE_DESC:0 "Ватикан станет игровой страной. В игре откройте консоль и введите «tag HLS», ​​чтобы играть за него."
@@ -17,9 +17,13 @@
  RULE_YES_DISABLE_EU_DESC:0 "Все страны будут удалены из Европейского Союза"
  RULE_NO_DISABLE_EU_DESC:0 "Европейский Союз будет существовать как есть"
  
- RULE_DISABLE_ANTI_BULLY:0 "Отключить систему Anti Bully"
- RULE_YES_ANTI_BULLY_DESC:0 "Отключите систему Anti Bully, которая позволит вам быть поджигателем войн без штрафов"
- RULE_NO_ANTI_BULLY_DESC:0 "Система Anti Bully будет включена"
+ RULE_DISABLE_ANTI_BULLY:0 "Отключить систему антитравли"
+ RULE_YES_ANTI_BULLY_DESC:0 "Отключите систему антитравли, которая позволит вам быть поджигателем войн без штрафов"
+ RULE_NO_ANTI_BULLY_DESC:0 "Система антитравли будет включена"
+ 
+ RULE_SALAFIST_BRANCH: "Enable Salfist Branch"
+ RULE_YES_SALAFIST_BRANCH_DESC: "Enables the Salafist branch in the generic tree all nations"
+ RULE_NO_SALAFIST_BRANCH_DESC: "The Salafist branch in the generic tree for sunni nations"
  
  RULE_MD_CHAOS_MODE:0 "Включить MD Chaos режим Beta v0.1"
  RULE_YES_MD_CHAOS_MODE_DESC:0 "Включает режим MD Chaos"
@@ -32,7 +36,9 @@
  RULE_ALLOW_TOGGLING_CHEAT_DECISIONS:0 "§Y(Multiplayer)§! (Необязательный) Разрешить переключать решения читерства во всем мире"
  RULE_YES_ALLOW_TOGGLING_CHEAT_DECISIONS_DESC:0 "Включено переключение глобальных чит-решений\n§YNOTE:§! Любая нация в мире может переключать чит-решения, и последствия таковы §Yglobal§!. Появится событие, сообщающее, какая нация его переключает.\n§YВы должны убедиться, что вам разрешено использовать решение в многопользовательской игре!§!\n\n§YNOTE:§! Вам также нужно включить правило игры «Разрешить чит-решения», если вы хотите использовать читы!"
  RULE_NO_ALLOW_TOGGLING_CHEAT_DECISIONS_DESC:0 "Глобальные чит-решения отключены\n§YNOTE:§! Любая нация в мире может переключать чит-решения, и последствия таковы §Yglobal§!. Появится событие, сообщающее, какая нация его переключает.\n§YВы должны убедиться, что вам разрешено использовать решение в многопользовательской игре!§!\n\n§YNOTE:§! Вам также нужно включить правило игры «Разрешить чит-решения», если вы хотите использовать читы!"
-
+ RULE_ALLOW_RECALL_INTERVENTION_FORCES: "Allow Recalling of Intervention Forces"
+ RULE_YES_ALLOW_INTERVENTION_FORCES: "§YNOTE: This is not balanced and is just a temp measure for doing whatever you want. Any issues with volunteers and otherwise are not our concern.§! Allows you to recall Intervention Forces from countries.\n"
+ RULE_NO_ALLOW_INTERVENTION_FORCES: "§YDefault§!. Does not allow you to recall intervention forces from foreign conflicts."
  RULE_OPTION_MD_DEFAULT: "Default AI Behaviour"
  RULE_OPTION_MD_DEFAULT_AI_DESC: "The AI will choose focuses randomly with a slight emphasis on historical choices. World state and country status will slightly affect choices"
  AI_CHAOS: "Chaotic AI Behaviour"
@@ -124,6 +130,8 @@
 
  #Saudi Arabia
  SAU_AI_BEHAVIOR: "@SAU Kingdom of Saudi Arabia"
+ RULE_OPTION_GLOBAL_JIHAD_GCC_FIRST: "Global Jihad - GCC First"
+ RULE_OPTION_GLOBAL_JIHAD_GCC_FIRST_AI_DESC: "Saudi Arabia will attempt to reform its economy and unify the GCC as a superstate. Then, the Saudi monarchy will be overthrown by an al-Qaeda uprising, leading to the establishment of a radical Islamic state that seeks to spread its fundamentalist ideology through violent means."
  RULE_OPTION_GLOBAL_JIHAD: "Global Jihad"
  RULE_OPTION_GLOBAL_JIHAD_AI_DESC: "The Saudi monarchy will be overthrown by an al-Qaeda uprising, leading to the establishment of a radical Islamic state that seeks to spread its fundamentalist ideology through violent means."
  RULE_OPTION_ISLAMIC_AWAKENING: "Islamic Awakening"

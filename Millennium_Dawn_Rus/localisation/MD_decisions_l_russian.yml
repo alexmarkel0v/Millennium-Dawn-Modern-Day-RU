@@ -37,6 +37,13 @@
  target_hostile_influence:0 "Борьба с враждебным влиянием со стороны [From.GetNameDef]"
  target_hostile_influence_desc:0 "[From.GetNameDef] имеет плохие отношения с нашим правительством. Это неприемлемая ситуация, поскольку [From.GetAdjective] может использовать свое влияние, чтобы навредить нам."
 
+ ##Jihadist Decision##
+ jihadist_decisions: "Jihad!"
+ jihadist_decisions_desc: "Jihad has been declared by our great Caliph."
+ allow_foreign_recruitment: "Allow Foreign Recruitment"
+ allow_foreign_recruitment_desc: "Allowing foreign recruitment will give us a chance to bolster our numbers so we can continue the fight for Allah. However, this move will be unpopular with some of our more xenophobic Jihadis."
+ draw_in_foreign_recruits: "Draw in Recruits"
+ draw_in_foreign_recruits_desc: "Since [ROOT.GetLeader] has allowed us to draw upon recruits from outside our territory. We should start to draw in additional recruits wherever and whenever we can. A isse arises though. Our great Caliphate will slowly start to integrate ideas from these recruits if they are not devout in their cause."
  ##### Generic Politics Desicions #####
 
 
@@ -127,6 +134,7 @@
 
  retire_current_leader:0 "[Root.GetLeader]: уйти в отставку как лидер"
  retire_current_leader_desc:0 "Это наверняка станет шоком для многих и дорого обойдётся в политическом плане, а также навсегда исключит возможность [Root.GetLeader] возвращения к политике, однако, это открытая возможность уйти на пенсию, чтобы больше времени проводить с семьей.\n\n§WЭффект:§!\n§H[Root.GetLeader]§! §Wуйдет в отставку в качестве лидера [Root.GetName]§!\n§H[show_ruling_party]§! §Wвыберет нового лидера из рядов его партии или альянса.§!"
+
  hold_reelections:0 "Провести новые внеочередные выборы"
  hold_reelections_desc:0 "Новые выборы пройдут через 14 дней. В связи с их экстраординарным характером, следующие выборы после этого все равно состоятся на запланированную будущую дату."
 
@@ -1964,6 +1972,7 @@
  has_conservative_government:0 "Консервативная правящая партия"
  has_reactionary_government:0 "Reactionary ruling party"
  has_autocratic_government:0 "Autocratic ruling party"
+ has_totalitarian_government: "Totalitarian ruling party"
 
  has_socialist_in_coalition:0 "Socialists in coalition"
  has_communist_in_coalition:0 "Communists in coalition"
