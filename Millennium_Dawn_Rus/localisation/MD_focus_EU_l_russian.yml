@@ -198,7 +198,7 @@
  EU_tutorial.61.t:0 "Глава 6.1 - Состояние Союза"
  EU_tutorial.61.d:0 "Категория "Состояние Союза" является основным интерфейсом для игрока, позволяющим получить общее представление о Европейском Союзе и евроскептицизме во всем Союзе. В то время как большинство эффектов евроскептицизма также актуализируют статистику о состоянии Союза, иногда необходимо обновлять статистику вручную. Для этого может быть использовано решение об обновлении."
  EU_tutorial.61.a:0 "Next Page"
- 
+
  EU_tutorial.62.t:0 "Chapter 6.2 - Euroscepticism Change"
  EU_tutorial.62.d:0 "One source of Euroscepticism are the focuses on completition. Most of them add Euroscepticism to all current and potential member states. Some add a special amount to certain countries. This reflects the unique national tradition in some policies areas, like financial discipline in the nothern countries or soft currency in the southern member states.\n\nAnother source of Euroscepticism are the Euroscepticism Campaign Decisions. On the other side of the coin the Pro-European Campaigns can reduce the Euroscepticism.\n\nFinally there are some events and decision, which can add or reduce the Euroscepticism. E.g. the OMT Program decisions."
  EU_tutorial.62.a:0 "Next Page"
@@ -398,7 +398,7 @@
  EU_GENERIC_developmentalism:0 "Девелопментализм"
  EU_GENERIC_developmentalism_desc:0 ""
  EU_GENERIC_increase_resource_production:0 "Увеличение добычи ресурсов"
- EU_GENERIC_increase_resource_production_desc:0 ""
+ EU_GENERIC_increase_resource_production_desc: ""
  EU_GENERIC_economic_autonomy:0 "Экономическая автономия"
  EU_GENERIC_economic_autonomy_desc:0 ""
  EU_GENERIC_autarky:0 "Автаркия"
@@ -494,12 +494,12 @@
  EU_GENERIC_countermeasures_against_armored_units:0 "Контрмеры против бронетанковых подразделений"
  EU_GENERIC_countermeasures_against_armored_units_desc:0 ""
 
- 
+
  ### End of Generic Focuses ###
- 
- 
+
+
  ### [EU_focus_name_Loc] ###
- 
+
  EU001:0 "Политика ЕС"
  EU001_desc:0 "The policies of §Y[EUU.GetFlag] The EU§! are determined by the Union’s values, objectives and principles. Because the EU started as an economic community, economic policy is still an important area in the EU. In keeping with its values, the EU seeks to promote the wellbeing, security and interests of the citizens. The EU wishes to keep the economy stable and competitive. The EU tries to reform itself..."
  EU002:0 "Кандидат ЕС"
@@ -569,14 +569,14 @@
  EU407:0 "Фронтекс"
  EU407_desc:0 "Frontex helps EU countries and Schengen associated countries manage their external borders. It also to helps to harmonise border controls across the EU. The agency facilitates cooperation between border authorities in each EU country, providing technical support and expertise."
  EU408:0 "Европейское агентство пограничной и береговой охраны"
- EU408_desc:0 "Frontex becomes the European Border and Coast Guard Agency. Europe’s external borders have seen an unprecedented rise in the number of migrants and refugees wishing to enter the EU in recent years. Countries that have an external border have sole responsibility for border control. But Frontex can provide additional technical support for EU countries facing severe migratory pressure."
- EU500:0 "Политика европейской комиссии"
- EU500_desc:0 "Политика европейской комиссии"
- EU600:0 "Расширение ЕС"
- EU600_desc:0 "Enlargement policy applies to countries currently aspiring to join the EU and potential candidates. The prospect of membership is a powerful stimulus for democratic and economic reforms in countries that want to become EU members."
- EU601:0 "Расширение ЕС в 2004 году"
- EU601_desc:0 "On 1 May 2004 ten new countries with a combined population of almost 75 million joined the EU. The 25-member EU now has 450 million citizens and includes three former Soviet republics (§Y[EST.GetNameWithFlag]§!, §Y[LAT.GetNameWithFlag]§! and §Y[LIT.GetNameWithFlag]§!), four former satellites of the USSR (§Y[POL.GetNameWithFlag]§!, §Y[CZE.GetNameWithFlag]§!, §Y[HUN.GetNameWithFlag]§! and §Y[SLO.GetNameWithFlag]§!), a former Yugoslav republic (§Y[SLV.GetNameWithFlag]§!) and two Mediterranean islands (§Y[CYP.GetNameWithFlag]§! and §Y[MLT.GetNameWithFlag]§!)."
- EU602:0 Расширение ЕС в 2007 году"
+ EU408_desc: "Frontex becomes the European Border and Coast Guard Agency. Europe’s external borders have seen an unprecedented rise in the number of migrants and refugees wishing to enter the EU in recent years. Countries that have an external border have sole responsibility for border control. But Frontex can provide additional technical support for EU countries facing severe migratory pressure."
+ EU500: "Политика европейской комиссии "
+ EU500_desc: "Политика европейской комиссии "
+ EU600: "Расширение ЕС"
+ EU600_desc: "Enlargement policy applies to countries currently aspiring to join the EU and potential candidates. The prospect of membership is a powerful stimulus for democratic and economic reforms in countries that want to become EU members."
+ EU601: "Расширение ЕС в 2004 году"
+ EU601_desc: "On 1 May 2004 ten new countries with a combined population of almost 75 million joined the EU. The 25-member EU now has 450 million citizens and includes three former Soviet republics (§Y[EST.GetNameWithFlag]§!, §Y[LAT.GetNameWithFlag]§! and §Y[LIT.GetNameWithFlag]§!), four former satellites of the USSR (§Y[POL.GetNameWithFlag]§!, §Y[CZE.GetNameWithFlag]§!, §Y[HUN.GetNameWithFlag]§! and §Y[SLO.GetNameWithFlag]§!), a former Yugoslav republic (§Y[SLV.GetNameWithFlag]§!) and two Mediterranean islands (§Y[CYP.GetNameWithFlag]§! and §Y[MLT.GetNameWithFlag]§!)."
+ EU602: "Расширение ЕС в 2007 году"
  EU602_desc:0 "Two more countries from eastern Europe - §Y[BUL.GetNameWithFlag]§!and §Y[ROM.GetNameWithFlag]§! - join the EU, bringing the number of member states to 27."
  EU603:0 "Расширение ЕС в 2013 году"
  EU603_desc:0 "2013 §Y[CRO.GetNameWithFlag]§! joined the EU, bringing the number of member states to 28."
@@ -2588,12 +2588,12 @@
  ### EU Ideas Localisation ###
  EUU_idea_gdpr:0 "Общее положение о защите данных"
  EUU_idea_gdpr_desc:0 "Общее положение о защите данных"
- foreign_data_kraken:0 "Foreign Data Kraken"
- foreign_data_kraken_desc:0 "Foreign Data Kraken"
+ foreign_data_kraken:0 "Зарубежные данные Кракен"
+ foreign_data_kraken_desc:0 "Зарубежные данные Кракен"
  EU_copyright:0 "Директива об авторском праве на едином цифровом рынке"
  EU_copyright_desc:0 "Директива об авторском праве на едином цифровом рынке"
- asylum_shopping:0 "Asylum Shopping"
- asylum_shopping_desc:0 "Asylum Shopping"
+ asylum_shopping:0 "Поиск удобного убежища"
+ asylum_shopping_desc:0 "Поиск удобного убежища"
  relocation_asylum_seekers:0 "Relocation and Resettlement of Asylum Seekers"
  relocation_asylum_seekers_desc:0 "Relocation and Resettlement of Asylum Seekers"
  EU_Turkey_deal:0 "EU–Turkey deal"
@@ -3780,4 +3780,4 @@
  
  EDU:0 "Европейский союз обороны"
  EDU_desc:0 "The European Defence Union (EDU) is the military arm of the  Common Security and Defence Policy (CSDP) of the European Union (EU)."
- 
+

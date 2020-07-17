@@ -114,7 +114,7 @@
  NIG_the_anpp_desc:0 "[Root.anpp_pdc_desc_switch]"
  NIG_anpp_1:0 "Все нигерийская народная партия"
  NIG_anpp_1_desc:0 "ВННП была образована в конце 1998 года как правоконсервативная партия. Она главным образом пользуется поддержкой со стороны религиозного исламского региона на Севере. Идеологически это были социальные консерваторы и неолибералы. Однако со временем партия медленно начала движение влево."
- NIG_anpp_2:0 "All Progressives Congress"
+ NIG_anpp_2:0 "Всеобщий прогрессивный конгресс"
  NIG_anpp_2_desc:0 "The All Progressives Congress (formed by a merger of the ANPP, APGA and other parties) represents the center-left of the Nigerian political spectrum. Some of their most notable policies are their take on progressive social policy and economic populism. The party also predominantly draws its support from the Northwest and Southeast regions of the country."
  ##PDP
  NIG_social_conservatism:0 "Социальный консерватизм"
@@ -386,8 +386,8 @@
  NIG_nigerian_secularism_idea_desc:0 "Различия в религии Нигерии заставили правительство выбрать ни одну из сторон. Секуляризм действительно в интересах Нигерии."
  NIG_nigerian_land_of_harmony_idea:0 "Страна гармонии"
  
- NIG_unrestrained_piracy_idea:0 "Unrestrained Piracy"
- NIG_unrestrained_piracy_idea_desc:0 "Nigeria's religious strife and political instability has paved the way for pirates to run loose off the coast. Piracy in the region is mostly impacting our oil and gas enterprises."
+ NIG_unrestrained_piracy_idea:0 "Безудержное пиратство"
+ NIG_unrestrained_piracy_idea_desc:0 "Религиозные распри в Нигерии и политическая нестабильность проложили путь пиратам к свободному бегству от побережья. Пиратство в регионе в основном влияет на наши нефтегазовые предприятия."
  NIG_restrained_piracy_idea:0 "Сдерживаемое пиратство"
  NIG_restrained_piracy_idea_desc:0 "Федеральное правительство приняло некоторые меры предосторожности и шаги по борьбе с пиратством. В настоящее время пиратство стало менее свирепым, чем раньше. Однако оно все еще присутствует."
  NIG_efficent_government_spending_idea:0 "Эффективные государственные расходы"
