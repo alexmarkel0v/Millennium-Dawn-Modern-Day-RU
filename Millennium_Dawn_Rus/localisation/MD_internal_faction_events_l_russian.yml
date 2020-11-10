@@ -84,10 +84,10 @@
  labour_unions_events.0.o4: "Поднимать? Вместо этого лучше опустить их!"
  
  labour_unions_events.1.t: "Трудовые забастовки!"
- labour_unions_events.1.d: "Labour unions in [Root.GetName] have started to get uppity about their current job prospects. They are complaining about the lack of benefits and guaranteed wages. Factories have begun to grind to a halt as the union members start to take up the striking line. They are demanding that the state mediate between the workers and the company. However, they are making a valid point.\n\nShould we outright accept their demands, or negotiate them down?"
- labour_unions_events.1.o1: "Accept the Demands"
- labour_unions_events.1.o2: "Negotiate Their Demands"
- labour_unions_events.1.o3: "Send in Strikebreakers"
+ labour_unions_events.1.d: "Профсоюзы в [Root.GetName] начали высокомерно относиться к своим нынешним перспективам трудоустройства. Они жалуются на отсутствие льгот и гарантированной заработной платы. Фабрики начали останавливаться, когда члены профсоюзов начали занимать решающую позицию. Они требуют, чтобы государство выступило посредником между рабочими и компанией. Тем не менее, они делают вескую точку зрения. \ N \ nСледует ли нам сразу принять их требования или обсудить их?"
+ labour_unions_events.1.o1: "Примите требования"
+ labour_unions_events.1.o2: "Обсудите их требования"
+ labour_unions_events.1.o3: "Отправить ударников"
  
  farmers_events.0.t:0 "Крестьянские крестьяне противостоят неоклассическим доктринам аграрных перемен!"
  farmers_events.0.d:0 "Мелкие фермеры, ведущие натуральное хозяйство, восстали и требуют, чтобы в развитие сельских районов было включено множество факторов. Ссылаясь на то, что неоклассическая теория производства сельскохозяйственной продукции принесла трудности только тем, кто зависит от ресурсов фермерских хозяйств, которые подвержены к рыночным императивам. \n \nГосударственные субъекты утверждают, что превращение натуральных фермеров в экспортно-ориентированных производителей позволит сельской местности развиваться за счет сбыта ".

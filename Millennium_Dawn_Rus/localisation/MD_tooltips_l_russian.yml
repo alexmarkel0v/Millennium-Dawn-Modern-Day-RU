@@ -1,11 +1,11 @@
 ﻿l_russian:
 
  #Custom tooltips
- TT_RIO_PACT: "§R[From.GetName] can call their Rio Pact allies to help them in the war§!\n"
- TT_CALL_NATO: "§R[From.GetName] can call their NATO allies to help them in the war§!\n"
- TT_JOIN_NATO: "We join NATO"
- TT_LEAVE_NATO: "We leave NATO"
- TT_NATO_DISBANDED: "NATO faction is disbanded"
+ TT_RIO_PACT: "§R[From.GetName] могут призвать своих союзников по пакту Рио, чтобы помочь им в войне§!\n"
+ TT_CALL_NATO: "§R[From.GetName] могут призвать своих союзников по НАТО помочь им в войне§!\n"
+ TT_JOIN_NATO: "Вступаем в НАТО"
+ TT_LEAVE_NATO: "Выходим из НАТО"
+ TT_NATO_DISBANDED: "Фракция НАТО расформирована"
  TT_NO_MILITARY_INTERNAL_FACTION: "§HThe Military§! is not one of our active §HInternal Factions§!"
  TT_AT_LEAST_SMALL_MILITARY_SPENDING: "We need to have at least §HSmall Military Spending§!"
  TT_AT_LEAST_BASIC_POLICE: "We need to have at least §HBasic Police and Security Funding§!"
@@ -480,7 +480,7 @@
  farmers_tt: "Has §YFarmers§! as an internal faction\n"
 
  #France
- FRA_infrastructure_projects_TT: "Due to the immense amount of labor required, this will be costly. §YRemoves 5 Billion§!\n"
+ FRA_infrastructure_projects_TT: "Из-за огромного количества труда это будет стоить дорого. §YRemoves 5 Billion§!\n"
  FRA_central_decentral_TT: "§RThese are fundamental decisions. The process of centralizing or decentralizing is quite expensive and is near permanent§!\n"
  FRA_armed_forces_TT: "§YEach reform will cost around ~10 billion dollars per reform. Ensure you are focusing appropriately§!\n"
  FRA_med_naval_bases_TT: "\nDue to the construction of new naval bases, §Y7.5 billion dollars is removed from the treasury.§!\n"
@@ -509,22 +509,22 @@
  FRA_french_candian_TT2: "§YFrench Canadian Happiness is Lowered due to the French supporting the Quebecers.§!\n"
  FRA_idea_french_armored_production_TT: "§YRemoves $10.0 Billion from Treasury for the investment.§!\n"
  ##Things
- customs_union_tt: "§YCreates a Customs Union.§! \n"
- common_market_tt: "§YCreates a Common Market.§! \n"
- economic_union_tt: "§YCreates an Economic Union.§! \n"
- unasur_must_control_tt: "Every country in Unasur must: \n - Have compatible Outlooks §YOR§! \n - Be in the same alliance §YOR§! \n - Be puppets of Brazil. \n"
- mercosur_must_control_tt: "Every country in Mercosur must: \n - Have compatible Outlooks §YOR§! \n - Be in the same alliance §YOR§! \n - Be puppets of Brazil. \n"
- form_unasur_tt: "§YForm the Unasur Federation!§! \n"
- form_mercosur_tt: "§YForm the Mercosur Federation!§! \n"
- common_market: "Common Market"
+ customs_union_tt: "§YСоздает Таможенный союз.§! \n"
+ common_market_tt: "§YСоздает общий рынок.§! \n"
+ economic_union_tt: "§YСоздает экономический союз.§! \n"
+ unasur_must_control_tt: "Каждая страна в УНАСУР должна: \n - Иметь совместимые прогнозы §YOR§! \n - Быть в одном союзе §YOR§! \n - Будьте марионетками Бразилии. \n"
+ mercosur_must_control_tt: "Каждая страна в МЕРКОСУР должна: \n - Иметь совместимые прогнозы §YOR§! \n - Быть в одном союзе §YOR§! \n - Будьте марионетками Бразилии. \n"
+ form_unasur_tt: "§YСформируйте Федерацию УНАСУР!§! \n"
+ form_mercosur_tt: "§YСформируйте Федерацию МЕРКОСУР!§! \n"
+ common_market: "Общий рынок"
  consumption_economy_TT:0 "Ресурсы для выхода на рынок: §Y0%§!\n"
  reset_internal_faction_opinion:0 "Будут сброшены все внутренние фракционные мнения. \n"
  airstrike_prepare_tooltip:0 "§R%60§! chance of producing §R3§! missiles\n§G%40§! chance of producing §G5§! missiles"
  airstrike_thingy_tooltip:0 "§R%20§! chance of failing\nIf successful:\n§R%20§! chance of reducing PKK's power by §R2§!\n§G%80§! chance of reducing PKK's power by §G5§!\n\n§GThis decision could also grant us more party popularity and approval rate!§!"
  got_missiles:0 "Ракетные запасы еще не закончились"
  stockpile_not_full:0 "Мы все еще можем хранить больше ракет"
- investment_propaganda_1_tooltip:0 "§GGives approval rating and party popularity. Decreases PKK's Power by 10 and Max Power by 5, if they are still around.§!"
- investment_propaganda_2_tooltip:0 "§GGives more approval rating and party popularity. Decreases PKK's Power by 10 and Max Power by 5, if they are still around.§!"
+ investment_propaganda_1_tooltip:0 "§GДает рейтинг одобрения и партийную популярность. Уменьшает мощность PKK на 10 и максимальную мощность на 5, если они все еще рядом.§!"
+ investment_propaganda_2_tooltip:0 "§GДает больший рейтинг одобрения и партийную популярность. Уменьшает мощность PKK на 10 и максимальную мощность на 5, если они все еще рядом.§!"
  operation_thingy:0 "§GРазблокирует решения об атаке после их завершения.§!"
  anti_bully_tooltip_L_NU.1:0 "§RПотеряна поддержка войны§"
  debates_agree_tt:0 "\n§GУступки могут увеличить число сторонников закона§!\n"
@@ -1051,25 +1051,25 @@
  ###England Tooltips
  ##Party Gains/Losses
  #Monarchists
- ENG_gain_2_monarchist_support_TT: "£eng_nationalist_monarchist §YHouse of Windsor§! Gains §G2%§! Support (Relative Popularity).\n"
- ENG_gain_5_monarchist_support_TT: "£eng_nationalist_monarchist §YHouse of Windsor§! Gains §G5%§! Support (Relative Popularity).\n"
- ENG_gain_7_5_monarchist_support_TT: "£eng_nationalist_monarchist §YHouse of Windsor§! Gains §G7.5%§! Support (Relative Popularity).\n"
- ENG_gain_10_monarchist_support_TT: "£eng_nationalist_monarchist §YHouse of Windsor§! Gains §G10%§! Support (Relative Popularity).\n"
+ ENG_gain_2_monarchist_support_TT: "£eng_nationalist_monarchist §YДом Виндзор§! Gains §G2%§! Support (Relative Popularity).\n"
+ ENG_gain_5_monarchist_support_TT: "£eng_nationalist_monarchist §YДом Виндзор§! Gains §G5%§! Support (Relative Popularity).\n"
+ ENG_gain_7_5_monarchist_support_TT: "£eng_nationalist_monarchist §YДом Виндзор§! Gains §G7.5%§! Support (Relative Popularity).\n"
+ ENG_gain_10_monarchist_support_TT: "£eng_nationalist_monarchist §YДом Виндзор§! Gains §G10%§! Support (Relative Popularity).\n"
  #Fascists
- ENG_gain_2_fascism_support_TT: "£eng_nationalist_fascism  §YBritish National Party§! Gains §G2%§! Support (Relative Popularity).\n"
- ENG_gain_5_fascism_support_TT: "£eng_nationalist_fascism  §YBritish National Party§! Gains §G5%§! Support (Relative Popularity).\n"
- ENG_gain_10_fascism_support_TT: "£eng_nationalist_fascism  §YBritish National Party§! Gains §G10%§! Support (Relative Popularity).\n"
+ ENG_gain_2_fascism_support_TT: "£eng_nationalist_fascism  §YБританская национальная партия§! Gains §G2%§! Support (Relative Popularity).\n"
+ ENG_gain_5_fascism_support_TT: "£eng_nationalist_fascism  §YБританская национальная партия§! Gains §G5%§! Support (Relative Popularity).\n"
+ ENG_gain_10_fascism_support_TT: "£eng_nationalist_fascism  §YБританская национальная партия§! Gains §G10%§! Support (Relative Popularity).\n"
  ##Focus Tooltips
- ENG_fight_capitalism_TT: "§YThe Communists Seize Power to Bring the Revolution Abroad!§!\n"
- ENG_break_the_banks_TT: "Swaps Internal Faction §YInternational Bankers§! with §YLabour Unions§!"
+ ENG_fight_capitalism_TT: "§YКоммунисты захватывают власть, чтобы перенести революцию за границу!§!\n"
+ ENG_break_the_banks_TT: "Свопы внутренней фракции §YМеждународные банкиры§! с участием §YПрофсоюзы§!"
 
 
  ##Switerzland
- SWI_italian_forts_TT: "Remove §Y$5.6 Billion§! from our Treasury\n"
- SWI_german_forts_TT: "Remove §Y$2.2 Billion§! from our Treasury\n"
- SWI_french_forts_TT: "Remove §Y$3.2 Billion§! from our Treasury\n"
- SWI_additional_military_facilities_TT: "§RIf you control Austria this focus will add more military factories§!.\nEach factory built with this focus will cost §Y$5 Billion§! to our Treasury\n"
+ SWI_italian_forts_TT: "Удалить §Y$5.6 Billion§! из нашей казны\n"
+ SWI_german_forts_TT: "Удалить §Y$2.2 Billion§! из нашей казны\n"
+ SWI_french_forts_TT: "Удалить §Y$3.2 Billion§! из нашей казны\n"
+ SWI_additional_military_facilities_TT: "§RЕсли вы контролируете Австрию, этот фокус добавит больше военных заводов.§!.\nСтоимость каждой фабрики, построенной с учетом этой цели,§Y$5 Billion§! в нашу казну\n"
 
  ##
  ##Iran
-PER_increase_influence_5_TT: "Increase 5 Iranian Influence"
+PER_increase_influence_5_TT: "Увеличить 5 иранское влияние"

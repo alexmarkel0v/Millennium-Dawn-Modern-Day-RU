@@ -21,9 +21,9 @@
  RULE_YES_ANTI_BULLY_DESC:0 "Отключите систему антитравли, которая позволит вам быть поджигателем войн без штрафов"
  RULE_NO_ANTI_BULLY_DESC:0 "Система антитравли будет включена"
  
- RULE_SALAFIST_BRANCH: "Enable Salfist Branch"
- RULE_YES_SALAFIST_BRANCH_DESC: "Enables the Salafist branch in the generic tree all nations"
- RULE_NO_SALAFIST_BRANCH_DESC: "The Salafist branch in the generic tree for sunni nations"
+ RULE_SALAFIST_BRANCH: "Включить Salfist Branch"
+ RULE_YES_SALAFIST_BRANCH_DESC: "Включает ветвь салафитов в общем дереве всех наций"
+ RULE_NO_SALAFIST_BRANCH_DESC: "Салафитская ветвь в общем древе суннитских народов"
  
  RULE_MD_CHAOS_MODE:0 "Включить MD Chaos режим Beta v0.1"
  RULE_YES_MD_CHAOS_MODE_DESC:0 "Включает режим MD Chaos"
@@ -36,15 +36,15 @@
  RULE_ALLOW_TOGGLING_CHEAT_DECISIONS:0 "§Y(Multiplayer)§! (Необязательный) Разрешить переключать решения читерства во всем мире"
  RULE_YES_ALLOW_TOGGLING_CHEAT_DECISIONS_DESC:0 "Включено переключение глобальных чит-решений\n§YNOTE:§! Любая нация в мире может переключать чит-решения, и последствия таковы §Yglobal§!. Появится событие, сообщающее, какая нация его переключает.\n§YВы должны убедиться, что вам разрешено использовать решение в многопользовательской игре!§!\n\n§YNOTE:§! Вам также нужно включить правило игры «Разрешить чит-решения», если вы хотите использовать читы!"
  RULE_NO_ALLOW_TOGGLING_CHEAT_DECISIONS_DESC:0 "Глобальные чит-решения отключены\n§YNOTE:§! Любая нация в мире может переключать чит-решения, и последствия таковы §Yglobal§!. Появится событие, сообщающее, какая нация его переключает.\n§YВы должны убедиться, что вам разрешено использовать решение в многопользовательской игре!§!\n\n§YNOTE:§! Вам также нужно включить правило игры «Разрешить чит-решения», если вы хотите использовать читы!"
- RULE_ALLOW_RECALL_INTERVENTION_FORCES: "Allow Recalling of Intervention Forces"
+ RULE_ALLOW_RECALL_INTERVENTION_FORCES: "Разрешить отозвать силы вмешательства"
  RULE_YES_ALLOW_INTERVENTION_FORCES: "§YNOTE: This is not balanced and is just a temp measure for doing whatever you want. Any issues with volunteers and otherwise are not our concern.§! Allows you to recall Intervention Forces from countries.\n"
  RULE_NO_ALLOW_INTERVENTION_FORCES: "§YDefault§!. Does not allow you to recall intervention forces from foreign conflicts."
- RULE_OPTION_MD_DEFAULT: "Default AI Behaviour"
- RULE_OPTION_MD_DEFAULT_AI_DESC: "The AI will choose focuses randomly with a slight emphasis on historical choices. World state and country status will slightly affect choices"
- AI_CHAOS: "Chaotic AI Behaviour"
- AI_CHAOS_DESC: "The AI will always choose a completely random focus out of all of its currently available focuses. All focuses are equal, maximum confusion guaranteed."
- RULE_OPTION_RANDOM: "Random AI Behaviour"
- RULE_OPTION_RANDOM_DESC: "A non-chaotic path will be randomly chosen for the AI to follow."
+ RULE_OPTION_MD_DEFAULT: "Поведение ИИ по умолчанию"
+ RULE_OPTION_MD_DEFAULT_AI_DESC: "ИИ будет выбирать фокусы случайным образом с небольшим акцентом на исторический выбор. Мировое состояние и статус страны немного повлияют на выбор"
+ AI_CHAOS: "Хаотическое поведение ИИ"
+ AI_CHAOS_DESC: "ИИ всегда будет выбирать совершенно случайный фокус из всех доступных в настоящее время фокусов. Все фокусы равны, максимальная путаница гарантирована."
+ RULE_OPTION_RANDOM: "Случайное поведение ИИ"
+ RULE_OPTION_RANDOM_DESC: "ИИ будет случайным образом выбирать нехаотический путь."
 
  ###Country AI Game Rules
  RUS_AI_BEHAVIOR:0 "@SOV Российская Федерация"
@@ -124,9 +124,9 @@
  RULE_OPTION_SYR_DAMASCUS_SPRING:0 "Дамасская весна"
  RULE_OPTION_SYR_DAMASCUS_SPRING_DESC:0 "Сирия будет поглощена движением "Дамасская весна" и превращена в демократию."
  #Bahrain
- BHR_AI_BEHAVIOR: "@BHR Bahrain"
- RULE_OPTION_DAY_OF_RAGE: "Day of Rage"
- RULE_OPTION_DAY_OF_RAGE_AI_DESC: "The people of Bahrain, in the spirit of the anti-government protests of the 90s, will push for greater political liberalization, culminating in the establishment of a fully democratic, Shia state. This new Shia republic will align itself with Iran."
+ BHR_AI_BEHAVIOR: "@BHR Бахрейн"
+ RULE_OPTION_DAY_OF_RAGE: "День гнева"
+ RULE_OPTION_DAY_OF_RAGE_AI_DESC: "Народ Бахрейна в духе антиправительственных протестов 90-х годов будет добиваться большей политической либерализации, кульминацией которой станет создание полностью демократического, шиитского государства. Эта новая шиитская республика присоединится к Ирану."
 
  #Saudi Arabia
  SAU_AI_BEHAVIOR: "@SAU Kingdom of Saudi Arabia"

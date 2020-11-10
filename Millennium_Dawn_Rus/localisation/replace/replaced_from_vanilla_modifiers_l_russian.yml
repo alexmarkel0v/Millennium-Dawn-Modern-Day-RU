@@ -49,7 +49,7 @@
  MODIFIER_SEND_VOLUNTEER_SIZE:0 "Максимум добровольцев"
  MODIFIER_SEND_VOLUNTEER_FACTOR:0 "Максимум добровольцев"
  MODIFIER_SEND_VOLUNTEER_DIVISIONS_REQUIRED:0 "Конвои, необходимые для отправки добровольцев"
- MODIFIER_AIR_VOLUNTEER_CAP:0 "Air campaign cap"
+ MODIFIER_AIR_VOLUNTEER_CAP:0 "Кэп воздушной кампании"
  MODIFIER_CONVERSION_COST_MIL_TO_CIV_FACTOR:0 "Стоимость конверсии военного завода в гражданскую фабрику"
  MODIFIER_CONVERSION_COST_MIL_TO_CIV_FACTOR_DESC:0 "Насколько эффективно можно конвертировать военный завод в гражданскую фабрику?"
  MODIFIER_CONVERSION_COST_CIV_TO_MIL_FACTOR:0 "Стоимость конверсии гражданской фабрики в военный завод"
