@@ -264,7 +264,6 @@
  AC_construction_target_CIC_decision9_desc: "Right click to see the target state."
  AC_construction_target_CIC_decision10: "[From.GetName] is constructing a Biofuel Refinery in [From.From.GetName]"
  AC_construction_target_CIC_decision10_desc: "Right click to see the target state."
-
  AC_construction_opinion:0 "Строительные проекты"
  AC_construction_opinion1:0 "Строительные проекты"
  AC_construction_opinion2:0 "Строительные проекты"

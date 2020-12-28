@@ -1,3 +1,4 @@
+version="0.12"
 name="Millennium Dawn: Modern Day RUS Translation"
 tags={
 	"Translation"

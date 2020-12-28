@@ -28,15 +28,6 @@
  help_events.3.t:0 "Юниты"
  help_events.3.d:0 "В MD4 все ваши юниты начинаются с 0 силы. Это сделано для того, чтобы мы могли добавить правильное реальное оборудование к юнитам через запас. В связи с этим вам следует избегать обучения новых юнитов в течение первой недели или около того, чтобы не отнимать оборудование у ваших юнитов. Не пугайтесь большого количества доступного оборудования. Большинство основных пехотных подразделений могут быть развернуты только из стрелкового оружия. Очевидно, что отсутствие оборудования ПВО или ПТ повлияет на способность ваших подразделений сражаться с самолетами или бронетехникой. Играя за меньшие страны, вам придется изменять производственные линии, чтобы получить все необходимое оборудование.\n\nСамый эффективный способ получить больше резервов - это увеличить свои военные расходы."
 
- ##### Influence Desicions #####
-
- influence_desicions:0 "[Root.GetAdjective] [GetYear] Отчет об иностранном влиянии"
- influence_desicions_desc:0 "Разведывательные службы [Root.GetNameDef] подготовили доклад о влиянии иностранных правительств на нашу нацию. Ради нашего суверенитета мы должны стремиться ограничить это влияние. Если единственная нация доминирует над нами, они могут попытаться вмешаться в правительство и наш образ жизни.\n\n§HСледующие страны имеют влияние на нас:§!\n[new_position_1] [position_1_var] [position_1_var_integer]   [new_position_2] [position_2_var] [position_2_var_integer]   [new_position_3] [position_3_var] [position_3_var_integer]   [new_position_4] [position_4_var] [position_4_var_integer]   [new_position_5] [position_5_var] [position_5_var_integer]   [new_position_6] [position_6_var] [position_6_var_integer]   [new_position_7] [position_7_var] [position_7_var_integer]\n\nЭто дает нам уровень независимости от иностранного влияния [?domestic_influence_amount_calc|%H0] ([?domestic_influence_amount])."
- combat_foreign_influence:0 "Борьба с иностранным влиянием"
- combat_foreign_influence_desc:0 "Утверждение нашей независимости от иностранного влияния является ключом к сохранению нашей нации."
- target_hostile_influence:0 "Борьба с враждебным влиянием со стороны [From.GetNameDef]"
- target_hostile_influence_desc:0 "[From.GetNameDef] имеет плохие отношения с нашим правительством. Это неприемлемая ситуация, поскольку [From.GetAdjective] может использовать свое влияние, чтобы навредить нам."
-
  ##Jihadist Decision##
  jihadist_decisions: "Джихад!"
  jihadist_decisions_desc: "Джихад объявлен нашим великим халифом."
@@ -48,96 +39,93 @@
 
 
  ### Japanese Decisions ###
- 
  JAP_spirit_of_the_warrior:0 "Провозглашение духа воина"
  JAP_spirit_of_the_warrior_desc:0 "Сначала мы должны завоевать весь Китай, потом мы покорим мир!"
-
+ 
  ### Nationalist Claims ###
- 
- 
- ALB_nationalist_claims_FYR:0 "Вернуть наши земли у [FYR.GetNameWithFlag]"
- ALB_nationalist_claims_FYR_desc:0 "Мы должны объединить всех албанцев в великую и единую Албанию."
- ALB_nationalist_claims_KOS:0 "Претензия на Косово"
- ALB_nationalist_claims_KOS_desc:0 "Мы должны объединить всех албанцев в великую и единую Албанию."
- ALB_nationalist_claims_SER:0 "Претензия на Косово"
- ALB_nationalist_claims_SER_desc:0 "Мы должны объединить всех албанцев в великую и единую Албанию."
- AUS_nationalist_claims_ITA:0 "Претензия на Судтироль"
- AUS_nationalist_claims_ITA_desc:0 "Судтироль по праву Австрийский. Настало время вернуть его обратно."
- DEN_nationalist_claims_GER:0 "Претензия на Шлезвиг-Гольштейн"
- DEN_nationalist_claims_GER_desc:0 "Исторически и культурно Датский, мы слишком долго позволяли датскому населению Шлезвиг-Гольштейна терпеть угнетение [GER.GetNameWithFlag]."
- DEN_nationalist_claims_SWE:0 "Претензия на Сконе"
- DEN_nationalist_claims_SWE_desc:0 "Исторически и культурно Датский, мы слишком долго позволяли датскому населению Сконе терпеть угнетение [SWE.GetNameWithFlag]."
- FRA_nationalist_claims_BEL:0 "Прерензия на Валлонию [BEL.GetNameWithFlag]"
- FRA_nationalist_claims_BEL_desc:0 " [BEL.GetNameWithFlag] искусственное образование. Нас боее не заботит сделанный в прошлом выбор фламандского населения. Сейчас важно только одно - Франция говорит Валлония должна вернуться в [FRA.GetNameWithFlag]."
- FRA_nationalist_claims_SWI:0 "Претензия на франкоговорящий регион Швейцарии"
- FRA_nationalist_claims_SWI_desc:0 "Мы уверены, что французы в Швейцарии были бы жить намного счастливее как часть [FRA.GetNameWithFlag]."
- HOL_nationalist_claims_BEL:0 "Претензия на Влаандерен и Брабант"
- HOL_nationalist_claims_BEL_desc:0 " [BEL.GetNameWithFlag] искусственное образование. Слишком долго фламандское население стремилось к объединению с [FRA.GetNameWithFlag]. Настало время сделать это реальностью."
- HUN_nationalist_claims_ROM:0 "Претензия на Венгерскую часть Трансильвании"
- HUN_nationalist_claims_ROM_desc:0 "Угнетение венгерского народа в Румынии продолжается слишком долго. Нам нужно добиваться их возвращения в собственно Венгрию."
- HUN_nationalist_claims_UKR:0 "Претензия на Вергерские Карпаты"
- HUN_nationalist_claims_UKR_desc:0 "Венгерское население в Украине страдало слишком долго. Мы должны стремиться к воссоединению с ними."
- ITA_nationalist_claims_CRO:0 "Претензия на Далмацию"
- ITA_nationalist_claims_CRO_desc:0 "Далмация является исторической и неотъемлемой частью [ITA.GetNameWithFlag]. Несомненно."
- ITA_nationalist_claims_FRA:0 "Претензия на Корсику [FRA.GetNameWithFlag]."
- ITA_nationalist_claims_FRA_desc:0 "Долго итальянцы на Корсике молились о дне освобождения. Этот день скоро придет."
- ITA_nationalist_claims_MLT:0 "Претензия на [MLT.GetNameWithFlag]"
- ITA_nationalist_claims_MLT_desc:0 " [MLT.GetNameWithFlag] как независимая нация это шутка. И, к сожалению, это не смешно. Как крошечный остров на итальянском побережье, вся логика подсказывает, что он должен быть под итальянским покровительством."
- ITA_nationalist_claims_SLV:0 "Претензия на часть [SLV.GetNameWithFlag]"
- ITA_nationalist_claims_SLV_desc:0 "Югославия, возможно, изгнала большинство итальянцев, но воровство земли - это не то, что можно сделать против Италии. То, что когда-то было Итальянским, всега останется Итальянским."
- ITA_nationalist_claims_SWI:0 "Претензии на Итальянскую и Римскую части Швейцарии"
- ITA_nationalist_claims_SWI_desc:0 "Итальянцем это лучше всего в Италии."
- NOR_nationalist_claims_DEN:0 "Претензии на Гронланд и Фёрёне"
- NOR_nationalist_claims_DEN_desc:0 "Гронланд и Фёрёне всегда были исторической частью Норвегии, наши владения были незаконно переданы [DEN.GetNameWithFlag] [SWE.GetNameWithFlag]. Не шорошо. Должно быть очевидно, что мы хотим их вернуть."
- NOR_nationalist_claims_ENG:0 "Претензия на Шетланд"
- NOR_nationalist_claims_ENG_desc:0 "Шетланд культурно ближе к Норвегии, чем к Шотландии или [ENG.GetNameWithFlag]. Они были бы счастливее с нами."
- NOR_nationalist_claims_SCO:0 "Претензия на Шетланд"
- NOR_nationalist_claims_SCO_desc:0 "Шетландские острова как часть независимой [SCO.GetNameWithFlag] это жестокая шутка. Люди жаждут дня, когда они будут объединены со своими братьями-викингами."
- NOR_nationalist_claims_ICE:0 "Претензия на [ICE.GetNameWithFlag]"
- NOR_nationalist_claims_ICE_desc:0 " [ICE.GetNameWithFlag] был заселен норвежцами и долгое время был частью Королевства Норвегия, прежде чем он был незаконно передан [DEN.GetNameWithFlag] [SWE.GetNameWithFlag] как часть поселения в наполеоновских войнах. Хотя [ICE.GetNameWithFlag] теперь независима, мы знаем их предпочтительный выбор - Норвегия."
- POL_nationalist_claims_BLR:0 "Претензия на Польскую часть [BLR.GetNameWithFlag]"
- POL_nationalist_claims_BLR_desc:0 "Польские земли незаконно отобраны у нас, мы вернем нашу потерянную землю и освободим угнетенное польское население."
- POL_nationalist_claims_LIT:0 "Претензия на Польскую часть [LIT.GetNameWithFlag]"
- POL_nationalist_claims_LIT_desc:0 "В Литве много полюсов, и особенно восточном культурно польском регионе."
- POL_nationalist_claims_UKR:0 "Пренетзия на Галицию и Волынь"
- POL_nationalist_claims_UKR_desc:0 "Львов является историческим сердцем польской нации. Ясно, что этот жизненно важный исторический польский регион должен быть снова под надлежащим руководством."
- POL_nationalist_MonarchistPLC_flag:0 "Польша-Литва Титул"
- POL_nationalist_MonarchistPLC_flag_desc:0 "Пора вернуть себе титул Польша-Литва."
- SWE_nationalist_claims_FIN:0 "Претензия на Аландские острова к [FIN.GetNameWithFlag]"
- SWE_nationalist_claims_FIN_desc:0 "Аландцы этнически шведы, и низшие финны должны немедленно передать его или столкнуться с последствиями!"
- 
- GER_nationalist_claims_enable:0 "Денонсировать договор об окончательном урегулировании"
- GER_nationalist_claims_enable_desc:0 "Договор об окончательном урегулировании в отношении Германии, также называемый соглашением «два плюс четыре», препятствует нашему суверенному праву на милитаризацию. Это также запрещает нам требовать наших законных территорий, позорно отнятых у нас. Отмена этого подлого договора, безусловно, спровоцирует определенные страны, но пока он действует Германия страдает. Германия превыше всего!"
- GER_expansionist:0 "Националистическая Германия: Нарушает договор"
- GER_nationalist_claims_AUS:0 "Требование законной территории: [AUS.GetNameWithFlag]"
- GER_nationalist_claims_AUS_desc:0 "Не должно быть двух немецких государств. Когда то иностранцы пытались разлучить нас, но пришло время объединить наш народ!"
- GER_nationalist_claims_FRA:0 "Претензия на Эльзас-Лотарингию"
- GER_nationalist_claims_FRA_desc:0 "Эльзасс-Лотрингия имеет четкую немецкую идентичность, большое немецкое население и поэтому по праву является частью [GER.GetNameWithFlag]."
- GER_nationalist_claims_ITA:0 "Претензия на Судтироль"
- GER_nationalist_claims_ITA_desc:0 "Немецкий народ в Судтироле был угнетен достаточно долго. С северным Тиролем под надлежащим руководством мы должны освободить южных кузенов."
- GER_nationalist_claims_LUX:0 "Требование законной территории: [LUX.GetNameWithFlag]"
- GER_nationalist_claims_LUX_desc:0 " [люкс.GetNameWithFlag] претендует на звание государства, но мы то знаем. Они явно Немцы."
- GER_nationalist_claims_POL:0 "Возвращение потерянных земель от [POL.GetNameWithFlag]"
- GER_nationalist_claims_POL_desc:0 "Антигерманская коалиция и советские дегенераты украли основные германские земли. Этнические чистки убедили, что немцы в настоящее время являются явным меньшинством в регионе, но все потомки изгнанного немецкого народа жаждут возвращения - как только эта территория окажется под надлежащим германским правлением."
- GER_nationalist_claims_SLV:0 "Потребовать южный Штайермарк"
- GER_nationalist_claims_SLV_desc:0 "Теперь, когда мы твердо держим Австрию, мы обязаны убедиться, что ВСЯ Австрия находится в руках Германии. Это явно включает в себя южный Штайермарк."
- GER_nationalist_claims_SOV:0 "Претензия на Калининград"
- GER_nationalist_claims_SOV_desc:0 "Советы незаслуженно отобрали у нас эту часть Восточной Пруссии после Второй мировой войны. [Сов.GetNameWithFlag] должены собраться и уйти. Разве большинство населения там не солдаты?"
- GER_nationalist_claims_SWI:0 "Потребовать немецкоязычные части [SWI.GetNameWithFlag]"
- GER_nationalist_claims_SWI_desc:0 "Большинство швейцарцев - немцы. Эти территории должны быть воссоединены в [GER.GetNameWithFlag]!"
- 
- generic_coalition_politics_desicions:0 "[Root.GetAdjective] политические решения"
- generic_coalition_politics_desicions_desc:0 "Политические законы:\n\nПроводятся выборы: [has_elections_check]\nПорог выборов: [?election_threshold|%0]"
- has_election_no:0 "Нет"
- has_election_yes:0 "Да"
- remove_usaid: "Расформировать USAID"
 
- retire_current_leader:0 "[Root.GetLeader]: уйти в отставку как лидер"
- retire_current_leader_desc:0 "Это наверняка станет шоком для многих и дорого обойдётся в политическом плане, а также навсегда исключит возможность [Root.GetLeader] возвращения к политике, однако, это открытая возможность уйти на пенсию, чтобы больше времени проводить с семьей.\n\n§WЭффект:§!\n§H[Root.GetLeader]§! §Wуйдет в отставку в качестве лидера [Root.GetName]§!\n§H[show_ruling_party]§! §Wвыберет нового лидера из рядов его партии или альянса.§!"
+ ALB_nationalist_claims_FYR: "Claim back our lands from [FYR.GetNameWithFlag]"
+ ALB_nationalist_claims_FYR_desc: "We should unite all Albanians into the a great and unified Albania."
+ ALB_nationalist_claims_KOS: "Claim Kosovo"
+ ALB_nationalist_claims_KOS_desc: "We should unite all Albanians into the a great and unified Albania."
+ ALB_nationalist_claims_SER: "Claim Kosovo"
+ ALB_nationalist_claims_SER_desc: "We should unite all Albanians into the a great and unified Albania."
+ AUS_nationalist_claims_ITA: "Claim Südtirol"
+ AUS_nationalist_claims_ITA_desc: "Südtirol is rightfully Austrian. It is high time we take it back."
+ DEN_nationalist_claims_GER: "Claim Schleswig-Holstein"
+ DEN_nationalist_claims_GER_desc: "Historically and culturally Danish, we have for too long let the Danish people of Schleswig-Holstein be oppressed by [GER.GetNameWithFlag]."
+ DEN_nationalist_claims_SWE: "Claim Skåne"
+ DEN_nationalist_claims_SWE_desc: "Historically and culturally Danish, we have for too long let our people of Skåne be oppressed by [SWE.GetNameWithFlag]."
+ FRA_nationalist_claims_BEL: "Claim Wallonie from [BEL.GetNameWithFlag]"
+ FRA_nationalist_claims_BEL_desc: "[BEL.GetNameWithFlag] is an artificial construct. We could not care less about what the Flemish people of Flanders choose to do with the remains. But one thing is certain - the French speaking Wallonie-Region must return to [FRA.GetNameWithFlag]."
+ FRA_nationalist_claims_SWI: "Claim French-speaking Swiss Region"
+ FRA_nationalist_claims_SWI_desc: "We are certain that the French people in Switzerland would be much happier as part of [FRA.GetNameWithFlag]."
+ HOL_nationalist_claims_BEL: "Claim Vlaanderen and Brabant"
+ HOL_nationalist_claims_BEL_desc: "[BEL.GetNameWithFlag] is an artificial construct. For too long have the Flemish population sought unification with the [FRA.GetNameWithFlag]. It is time to make it a reality."
+ HUN_nationalist_claims_ROM: "Claim Hungarian parts of Transylvania"
+ HUN_nationalist_claims_ROM_desc: "The oppression of the Hungarian people in Romania has gone on for too long. We need to seek their return to Hungary proper."
+ HUN_nationalist_claims_UKR: "Claim Hungarian Carpathia"
+ HUN_nationalist_claims_UKR_desc: "The Hungarian population in Ukraine have suffered for too long. We must seek reunification with them."
+ ITA_nationalist_claims_CRO: "Claim Dalmatia"
+ ITA_nationalist_claims_CRO_desc: "Dalmatia are a historic and integral part of [ITA.GetNameWithFlag]. Clearly."
+ ITA_nationalist_claims_FRA: "Claim Corsica, Savoy and Nice from [FRA.GetNameWithFlag]."
+ ITA_nationalist_claims_FRA_desc: "Long have the Italian people in France prayed for the day of liberation. That day will come soon."
+ ITA_nationalist_claims_MLT: "Claim [MLT.GetNameWithFlag]"
+ ITA_nationalist_claims_MLT_desc: "[MLT.GetNameWithFlag] as a independent nation is a joke. And sadly - it's not a funny one. As a tiny island on the Italian coast, all logic dictates that it should be under Italian guardianship."
+ ITA_nationalist_claims_SLV: "Claim parts of [SLV.GetNameWithFlag]"
+ ITA_nationalist_claims_SLV_desc: "Yugoslavia might have expelled most of the Italians, but stealing land is simply not something one does against Italy. What was once Italian, always is."
+ ITA_nationalist_claims_SWI: "Claim Italian and Romansh parts of Switzerland"
+ ITA_nationalist_claims_SWI_desc: "Italians have it best in Italy."
+ NOR_nationalist_claims_DEN: "Claim back Grønland and Færøyene"
+ NOR_nationalist_claims_DEN_desc: "Always historical parts of Norway, our possesions were illegally handed away to [DEN.GetNameWithFlag] by [SWE.GetNameWithFlag]. Not cool. It should be self-evident that we want them back."
+ NOR_nationalist_claims_ENG: "Claim Shetland"
+ NOR_nationalist_claims_ENG_desc: "Shetland is closer culturally to Norway than to Scotland or [ENG.GetNameWithFlag]. They would be happier under us."
+ NOR_nationalist_claims_SCO: "Claim Shetland"
+ NOR_nationalist_claims_SCO_desc: "Shetland as a part of independent [SCO.GetNameWithFlag] is a cruel joke. The  people there are longing for the day they will be united with their viking brethren."
+ NOR_nationalist_claims_ICE: "Claim [ICE.GetNameWithFlag]"
+ NOR_nationalist_claims_ICE_desc: "[ICE.GetNameWithFlag] was settled by Norwegians and was for the longest time part of the Kingdom of Norway, before it was illegally handed away to [DEN.GetNameWithFlag] by [SWE.GetNameWithFlag] as part of the settlement in the Napoleonic Wars. While [ICE.GetNameWithFlag] is independent now, we know their preferred choice - Norway."
+ POL_nationalist_claims_BLR: "Claim Polish [BLR.GetNameWithFlag]"
+ POL_nationalist_claims_BLR_desc: "Illegally taken from us, we shall take back our lost land and liberate the oppressed Polish population."
+ POL_nationalist_claims_LIT: "Claim Polish parts of [LIT.GetNameWithFlag]"
+ POL_nationalist_claims_LIT_desc: "There are many poles in Lithuania, and especially the eastern region is culturally Polish."
+ POL_nationalist_claims_UKR: "Claim Galacia and Volhylnia"
+ POL_nationalist_claims_UKR_desc: "Lwów is the historic heart of the Polish nation. It is clear this vital historic Polish region must be brought under proper leadership again."
+ POL_nationalist_MonarchistPLC_flag: "Poland-Lithuania Title"
+ POL_nationalist_MonarchistPLC_flag_desc: "It is time to reclaim the title of Poland-Lithuania"
+ SWE_nationalist_claims_FIN: "Claim Åland from [FIN.GetNameWithFlag]"
+ SWE_nationalist_claims_FIN_desc: "Åland is ethnically Swedish, and the inferior Finns should hand it over immediately or face the consequences!"
+
+ GER_nationalist_claims_enable: "Dismantle the Final Settlement Treaty"
+ GER_nationalist_claims_enable_desc: "The Treaty on the Final Settlement with Respect to Germany, also called the Two Plus Four Agreement, hampers our sovereign right to militarize. It also forbids us to claim our rightful territories shamefully taken away from us. Revoking this vile treaty surely will provoke certain nations, but with it in place, Germany is suffering. Deutschland Über Alles!"
+ GER_expansionist: "Nationalist Germany: broke treaties"
+ GER_nationalist_claims_AUS: "Claim rightful territory: [AUS.GetNameWithFlag]"
+ GER_nationalist_claims_AUS_desc: "There should not be two German states. Long have the evil foreigners tried to keep us seperate, but the time has come to unify our people!"
+ GER_nationalist_claims_FRA: "Claim Alsace-Lorraine"
+ GER_nationalist_claims_FRA_desc: "Elsaß-Lothringen has a clear German identity, a large German population and so is rightfully part of [GER.GetNameWithFlag]."
+ GER_nationalist_claims_ITA: "Claim Südtirol"
+ GER_nationalist_claims_ITA_desc: "The German people in Südtirol have been oppressed for long enough. With northern Tirol under proper leadership, it is urgent that we liberate their southern cousins."
+ GER_nationalist_claims_LUX: "Claim rightful territory: [LUX.GetNameWithFlag]"
+ GER_nationalist_claims_LUX_desc: "[LUX.GetNameWithFlag] claim to be a nation, but we know better. They are clearly German."
+ GER_nationalist_claims_POL: "Claim back our lost land in [POL.GetNameWithFlag]"
+ GER_nationalist_claims_POL_desc: "The anti-German allies and the Soviet degenerates stole core German lands. Ethnic cleansing have made sure the Germans nowadays are a clear minority, but all the decendants of the expelled German people long to return - once it is under proper German rule again."
+ GER_nationalist_claims_SLV: "Claim southern Steiermark"
+ GER_nationalist_claims_SLV_desc: "With our grip on Austria now firm, it is our duty to make sure that ALL of Austria is in German hands. That clearly includes southern Steiermark."
+ GER_nationalist_claims_SOV: "Claim Kaliningrad"
+ GER_nationalist_claims_SOV_desc: "The Soviets took unfairly took this part of East Prussia from us after World War 2. [SOV.GetNameWithFlag] should pack up and leave. Isn't most of their people there soldiers anyway?"
+ GER_nationalist_claims_SWI: "Claim the German-speaking parts of [SWI.GetNameWithFlag]"
+ GER_nationalist_claims_SWI_desc: "The majority of the Swiss are Germans. Those parts should be reunited into [GER.GetNameWithFlag]!"
+
+ generic_coalition_politics_desicions: "[Root.GetAdjective] Political Decisions"
+ generic_coalition_politics_desicions_desc: "Political Laws:\n\nHas Elections: [has_elections_check]\nElection Threshold: [?election_threshold|%0]"
+ has_election_no: "No"
+ has_election_yes: "Yes"
+ remove_usaid: "Request the removal of USAID"
+
+ retire_current_leader: "[Root.GetLeader]: Retire as leader"
+ retire_current_leader_desc: "While it certainly would come as a shock, and cost a high political price, and forever rule out the possibility of [Root.GetLeader] returning to politics, there is the open possibility to retire to spend more time with the family.\n\n§WEffect:§!\n§H[Root.GetLeader]§! §Wwill retire as leader of [Root.GetName]§!\n§H[show_ruling_party]§! §Wwill select a new leader from within it's ranks.§!"
 
  hold_reelections:0 "Провести новые внеочередные выборы"
  hold_reelections_desc:0 "Новые выборы пройдут через 14 дней. В связи с их экстраординарным характером, следующие выборы после этого все равно состоятся на запланированную будущую дату."
-
  increase_election_threshold:0 "Повышение избирательного порога"
  increase_election_threshold_desc:0 "§WПовысит избирательный порог на:§! §H1%§!.\nИзменения будут применяться на следующих выборах, что делает их более трудными для небольших партий, затрудняя получить власть."
  decrease_election_threshold:0 "Понижение избирательного порога"
@@ -145,13 +133,16 @@
 
  permanently_suspend_elections:0 "Навсегда приостановить выборы"
  permanently_suspend_elections_desc:0 "Поскольку в настоящее время мы являемся правительством, склонным к автократии, было бы глупо снова проводить выборы, которые могли бы угрожать нашей власти."
-
  return_democracy:0 "Разрешить демократию и выборы в [Root.GetName]"
  return_democracy_desc:0 "Мы можем выбрать демократизацию страны и начать проводить реальные выборы. Однако, пока мы все еще оставались бы у власти, было бы опасно позволить народу решать, кто будет править."
  
  fascism_extremist_civil_war:0 "[Nat_Fascism_L] ([?party_pop_array^21|%0]) начнет восстание с целью свержения правительства"
  fascism_extremist_civil_war_desc:0 "Экстремистские силы от ультраправых, возглавляемые [Nat_Fascism_L] набирают силу. Популярные среди солдат и некоторых военачальников слухи о восстании с целью захвата власти начинают циркулировать повсюду. Гражданские раздоры могут очень сильно подкосить страну. \n\nЭффект:\n§HНачало гражданской войны: 50% сил§!\n\n§RБудет получен контроль над восстанием§!"
  fascism_20_tt:0 "[Nat_Fascism_L] ([?party_pop_array^21|%1]) > 20% популярности"
+
+ nat_autocracy_extremist_civil_war: "[Nat_Autocracy_L] ([?party_pop_array^22|%0]) launch military coup to overthrow the government"
+ nat_autocracy_civil_war_desc: "The military has been gaining power in government. Under the leadership of [Nat_Autocracy_L] it is likely that many elements of the military would support an uprising against the government to establish a junta. \n\nEffect:\n§HStart Civil War: 50% strength§!\n\n§RTriggering this will see you take control over the uprising§!"
+ nat_autocracy_20_tt: "[Nat_Autocracy_L] ([?party_pop_array^22|%1]) > 20% Popularity"
  
  monarchist_extremist_civil_war:0 "[Monarchist_L] ([?party_pop_array^23|%0]) начнет восстание с целью свержения правительства"
  monarchist_extremist_civil_war_desc:0 "Монархические силы, выступающие за Абсолютную Монархию, набирают силу под знаменем [Monarchist_L]. Популярные среди солдат и некоторых военных лидеров слухи о восстании, чтобы захватить власть начинают циркулировать. \n\nЭффект:\n§HНачать гражданскую войну: 50% сопротивления§!\n\n§RПри срабатывании этого вы увидите, как вы контролируете восстание§!"
@@ -191,6 +182,9 @@
  promote_outlook_decision_support_the_salafists_desc:0 "Используя информационную войну, пропагандируя ультраконсервативное духовенство и тому подобное, мы можем влиять и радикализировать общественное мнение о мировой ситуации в пользу салафизма. Однако любая такая кампания будет эффективна только в течение ограниченного периода времени, так как люди постепенно теряют интерес."
  
  treasury_loss_2_bil_TT:0 "Расходы на кампанию: §Hказначейство§! §R-$[variable_cost]§! миллиард\n"
+ treasury_loss_project_TT: "Project Cost: §HTreasury§! §R-$[variable_cost]§! billions"
+ treasury_loss_lease_mils_TT: "[variable_cost_lease_mils]"
+ treasury_loss_lease_civs_TT: "[variable_cost_lease_civs]"
  cost_num_of_factories_3:0 "0.05"
  cost_num_of_factories_8:0 "0.1"
  cost_num_of_factories_16:0 "0.2"
@@ -204,7 +198,6 @@
  cost_num_of_factories_370:0 "5.5"
  cost_num_of_factories_500:0 "7.5"
  cost_num_of_factories_1000:0 "10"
-
  ##### Government Coalition ####
  coalition_countdown:0 "Сформировать новое правительство"
  coalition_countdown_desc:0 "Чтобы избежать опасного вакуума власти, нам нужно как можно скорее сформировать новое правительство."
@@ -218,7 +211,6 @@
  give_up_coalition_0_desc:0 "Признать неудачу для [Root.GetLeader] а также [show_ruling_party] сформировать правительство. Работа сейчас пойдет [show_biggest_party_elect] ([show_biggest_elect_percentage]).\n\n75% политическая власть, потраченная до сих пор на формирование нынешней коалиции, будет возмещена."
  give_up_coalition_1:0 "Сдаваться: [show_second_biggest_party_elect] будет пытаться вместо этого"
  give_up_coalition_1_desc:0 "Признать неудачу для [Root.GetLeader] а также [show_ruling_party] сформировать правительство. Работа сейчас пойдет [show_second_biggest_party_elect] ([show_second_biggest_elect_percentage]).\n\n75% политическая власть, потраченная до сих пор на формирование нынешней коалиции, будет возмещена."
-
  #tooltips
  USA_dems_reps_tt:0 "[USA_dem_rep_loc]"
  USA_dems_reps_tt2:0 " [USA.GetNameWithFlag]: £USA_conservatism_small Республиканцы и £USA_democratic_party Демократы не могут присоединиться друг к другу"
@@ -484,12 +476,6 @@
 
  EP_rec_open:0 "Открыть Recon/Light Tanks"
  EP_rec_close:0 "Закройте Recon/Light Tanks" 
-                                                                          
-                                                                          
-                                                                          
-                                                                          
-                                                                          
-
  EP_utility_open: "Открыть Utility Vehicles"
  EP_utility_close: "Закройте Utility Vehicles"
  
@@ -561,7 +547,6 @@
  EP_USA_cc_equi_5:0 "£decision_CC2025 C5I (2025) £treasury 10"
  EP_USA_cc_equi_6:0 "£decision_CC2035 C5ISTAR (2035) £treasury 25"
  EP_buy_USA_cc_equi_1:0 "[Root.EP_buy_USA_cc_equi]"
-
  EP_CHI_cc_equi_0:0 "£decision_CC1975 C&C Equipment (1975) £treasury 1"
  EP_CHI_cc_equi_1:0 "£decision_CC1985 C3 Equipment (1985) £treasury 1"
  EP_CHI_cc_equi_2:0 "£decision_CC1995 C3ISTAR (1995) £treasury 2"
@@ -823,12 +808,6 @@
  EP_FRA_apc_8:0 "VBMR Griffon (2035)"
  EP_buy_FRA_apc_1:0 "[Root.EP_buy_FRA_apc]" 
  
-                                                         
-                                                                               
-                                                                             
-                                             
-                                             
-                                             
  EP_SAF_apc_1:0 "APC 1965 (1965)"
  EP_SAF_apc_2:0 "Buffel (1975)"
  EP_SAF_apc_3:0 "Ratel 20 (1985)"
@@ -843,16 +822,12 @@
  EP_SWI_apc_2:0 "Piranha I (1975)"
  EP_SWI_apc_3:0 "Piranha II (1985)"
  EP_SWI_apc_4:0 "Piranha III (1995)"
- EP_SWI_apc_5:0 "Piranha V (2005)"
-                                             
-                                                                 
+ EP_SWI_apc_5:0 "Piranha V (2005)"                                                            
  EP_SWI_apc_6:0 "APC 2015 (2015)"
  EP_SWI_apc_7:0 "APC 2025 (2025)"
  EP_SWI_apc_8:0 "APC 2035 (2035)"
  EP_buy_SWI_apc_1:0 "[Root.EP_buy_SWI_apc]" 
- 
-                                             
-                                             
+                            
  EP_TUR_apc_1:0 "APC 1965 (1965)"
  EP_TUR_apc_2:0 "ACV-15 AAPC (1975)"
  EP_TUR_apc_3:0 "APC 1985 (1985)"
@@ -872,13 +847,8 @@
  EP_UKR_apc_7:0 "APC 2025 (2025)"
  EP_UKR_apc_8:0 "APC 2035 (2035)"
  EP_buy_UKR_apc_1:0 "[Root.EP_buy_UKR_apc]"
- 
  ### IFV ###
- 
-                                                               
-                                             
-                                             
-                                             
+
  EP_CHI_ifv_1:0 "Type-86 (1965)"
  EP_CHI_ifv_2:0 "Type-86A (1975)"
  EP_CHI_ifv_3:0 "ZSL-92B (1985)"
@@ -1010,9 +980,7 @@
  EP_JAP_utility_7:0 "Utility Vehicle 2035 (2035)"
  EP_buy_JAP_utility_1:0 "[Root.EP_buy_JAP_utility]"
  
- #EP_test_variable_1:0 "test"
-
-
+ #EP_test_variable_1:0 "test"                           
 
  EP_buy_USA_MR_Fighter_1:0 "£decision_F16C_Fighting_Falcon F16C (1995)"
  EP_buy_USA_AS_Fighter_1:0 "£decision_F15E_Strike_Eagle F15C (1995)"
@@ -1419,16 +1387,6 @@
  TAI_kaoshiung_university:0 "Открыть Национальный университет Гаосюн"
 
 
- #####Canada #####
- CAN_french_happiness:0 "Французско-канадское счастье"
- CAN_french_happiness_desc:0 "Французские канадцы являются этнической группой, которая ведет свое происхождение от французских колонистов, которые поселились в Канаде с 17-го века.\n\nФранцузские канадцы известны своим национализмом Квебека, что способствует большей автономии от правительства Канады. Мы должны держать их счастье на высоком уровне, чтобы сохранить стабильность в провинции и всей Канаде.\n\n§gФранцузско-канадское счастье:§! \n§H[?french_happiness_var]%§! \n\n§gТекущие эффекты:§! \n[CANGetFrenchHappinessEffects]"
- CAN_analyse_french_happiness:0 "Анализ французского канадского счастья"
- CAN_election_2019:0 "Федеральные выборы 2019 года"
- CAN_election_2019_desc:0 "Это 43-е канадские федеральные выборы, одни из самых интенсивных выборов за последние десятилетия."
- CAN_allow_campaigning_2019_decision:0 "Разрешить поход"
- CAN_help_conservatives_2019_decision:0 "Поддержи консерваторов"
- CAN_help_liberals_2019_decision:0 "Поддержи либералов"
- CAN_help_ndp_2019_decision:0 "Поддержите НДП"
 
 
  ### ETHIOPIA ###
@@ -1676,43 +1634,7 @@
  cheat_decisions_add_1_operative: "Добавить 1 оперативников"
  cheat_decisions_add_5_operative: "Добавить 5 оперативников"
  cheat_decisions_add_10_operative: "Добавить 10 оперативников"
- ###Italy 
- ##Rome
- romanization_ITA:0 "Нео-романизация"
- romanization_ITA_desc:0 "Римляне пали давно. Однако их влияние и их наследие остаются неизменными. Теперь наша задача при Новых Римлянах - продвигаться вперед и восстанавливать Рим! Omnium Rerum Principia Parva Sunt.\n\n§YЭти решения очень дороги и требуют от Рима больших вложений. Каждое решение будет стоить вам от 6,0 до 20 миллиардов, чтобы реинтегрировать имперские провинции.§!\n\n§RВы не можете интегрироваться, пока у вас есть национальная идея римской интеграции§!\n\n"
- integration_britannia:0 "Романизация Британии"
- integration_britannia_desc:1 "Британия - одно из последних великих завоеваний римлян. Регионы к югу от Шотландии окажутся замечательными в интеграции. Англичане знали, как работать с землей."
- integration_narbonensis:0 "Романизация Нарбонансис"
- integration_narbonensis_desc:1 "Нарбонансис охватывает большую часть юга Франции. Мы должны начать добиваться интеграции этого региона, поскольку он находится так близко к нашей родине."
- integration_lugdunensis_aquitania:0 "Романизируй Лугдуненсис и Аквитания."
- integration_lugdunensis_aquitania_desc:1 "Лугдуненсис и Аквитания - это большая часть Северной и Центральной Франции. Она также охватывает такие регионы, как Лион. Провинция была одной из больших областей, завоеванных Цезарем в его великих завоеваниях."
- integration_belgica:0 "Романизация Белгика"
- integration_belgica_desc:1 "Белгица - это множество различных регионов в нашем современном мире. Она включает в себя Бельгию, Южные Нидерланды, Люксембург и некоторые части Германии к западу от Рейна. На пике своей территории Белгица является одной из крупнейших пограничных провинций империи."
- integration_raetia_noricum:0 "Романизация Ретии и Норикума"
- integration_raetia_noricum_desc:1 "Земли за Альпами всегда были немного дикими. Горные мальчики в Швейцарии и Австрии будут падать в очереди один за другим. Их земли были одними из первых завоеванных территорий из-за их близости к северным областям империи."
- integration_northwestern_balkans:0 "Романизированные Северо-Западные Балканские регионы"
- integration_northwestern_balkans_desc:1 "Северо-западные Балканские регионы - большой регион со многими старыми имперскими провинциями. Древними провинциями на пике были Великая Паннония, Великая Паннония и Далмация. Эти три провинции близки в некоторых отношениях, так что мы можем массово управлять ими в одной большой имперской провинции."
- integration_dacia_moesia:0 "Романизация Дакии и Мезии"
- integration_dacia_moesia_desc:0 "Имперские провинции Дачия, Мезия Нижняя и Верховная охватывают большую часть центральных и восточных балканских регионов. Мы должны начать восстанавливать управление истинных римлян."
- integration_greece:0 "Романизация Греции"
- integration_greece_desc:1 "Греция - одно из самых ранних крупных завоеваний Римской империи. Она также является одной из силовых основ Византийской империи. Мы должны интегрировать ее еще раз!"
- integration_mauretania:0 "Романизация Мавритании"
- integration_mauretania_desc:0 "Мавритания охватывает большую часть современного прибрежного Магриба. Теперь, когда она снова под нашим контролем, мы должны подтолкнуть к продолжению захвата Средиземноморья."
- integration_africa_proconsularis:0 "Романизация Карфагена"
- integration_africa_proconsularis_desc:0 "Регион Карфагена находится в основном в современном Тунисе. Это поможет иметь точку прыжка с Сицилии и Сардинии для того, чтобы осуществить близость к итальянским завоеваниям."
- integration_tarraconensis_lusitania_baetica:0 "Романизировать Иберийские провинции"
- integration_tarraconensis_lusitania_baetica_desc:0 "Воеводства Тарраконенсис, Луситания и Бетика были первоначально основаны в 27 г. до н.э. Августом в ходе его реорганизации."
- integration_greece:0 "Романизация Греции"
- integration_greece_desc:0 "Греция находится на высоте четырех римских имперских провинций. Ахайя с юга, Эпир с запада, Македония с севера и, наконец, Фракии с востока."
- integration_cyrenaica_aegyptus:0 "Романизация Эгипта и Киренаики"
- integration_cyrenaica_aegyptus_desc:0 "Египет и северо-восточная Ливия когда-то были краеугольным камнем нашей империи. Они смогли накормить значительную часть империи плодородными землями Нила, а также обеспечить нас важными причалами в дельтах. Мы должны вновь начать романизацию проживающих там людей, чтобы вдохнуть больше жизни в Рим."
- integration_anatolia:0 "Романизация Анатолии"
- integration_anatolia_desc:0 "Анатолия охватывала большую часть Восточной Римской империи и была одним из крупнейших завоеваний Рима. Пришло время восстановить их под соответствующим знаменем."
- intgration_levant_syria:0 "Романизировать Сирию и Леванта"
- intgration_levant_syria_desc:0 "Регионы Сирии и Леванта когда-то были большой резервной точкой на нашей дальневосточной границе."
- integration_iraq:0 "Цыганский Ирак"
- integration_iraq_desc:0 "Когда-то Ирак был провинцией Ассирия и Месопотамия. Когда-то он был плодородной житницей великой Римской империи, а также местом конфликта между персидскими войсками."
-
+ cheat_decisions_max_internal_faction_opinion: "Max Internal Faction Opinion"
 
  
  ###Burma
@@ -1963,36 +1885,7 @@
  rescind_recognition_desc:0 "Мы должны рассмотреть вопрос о том, следует ли продолжать признавать независимость [From.GetnameDef] в наших же интересах. В настоящий момент [?FROM.Granted_Recognition] государства дали им признание."
  pressure_countries_to_recognize: "Страны под давлением, влияющие на признание [FROM.GetNameDef]"
  pressure_countries_to_recognize_desc: "Народ [FROM.GetNameDef] заслуживает независимоcти. Мы должны использовать наше влияние, чтобы помочь им достичь этой цели."
- 
- ### Party and governmnet type triggers
- has_socialist_government:0 "Социалистическая правящая партия"
- has_communist_government:0 "Коммунистическая правящая партия"
- has_environmentalist_government:0 "Экологическая правящая партия"
- has_liberal_government:0 "Либеральная правящая партия"
- has_conservative_government:0 "Консервативная правящая партия"
- has_reactionary_government:0 "Реакционная правящая партия"
- has_autocratic_government:0 "Автократическая правящая партия"
- has_totalitarian_government: "Тоталитарная правящая партия"
 
- has_socialist_in_coalition:0 "Социалисты в коалиции"
- has_communist_in_coalition:0 "Коммунисты в коалиции"
- has_environmentalist_in_coalition:0 "Экологи в коалиции"
- has_liberal_in_coalition:0 "Либералы в коалиции"
- has_conservative_in_coalition:0 "Консерваторы в коалиции"
- has_reactionary_in_coalition:0 "Реакционеры в коалиции"
- has_autocratic_in_coalition:0 "Автократы в коалиции"
- 
- has_socialist_governemnt_or_in_coalition:0 "Социалистическая коалиция или правящая партия"
- has_communist_governemnt_or_in_coalition:0 "Коммунистическая коалиция или правящая партия"
- has_environmentalist_in_coalition:0 "Коалиция экологов или правящая партия"
- has_liberal_governemnt_or_in_coalition:0 "Либеральная коалиция или правящая партия"
- has_conservative_governemnt_or_in_coalition:0 "Иметь консервативную правящую партию"
- has_reactionary_governemnt_or_in_coalition:0 "Имейте реакционную правящую партию"
- has_autocratic_governemnt_or_in_coalition:0 "Автократическая коалиция или правящая партия"
- 
- has_economic_faction:0 "Экономическая внутренняя фракция"
- has_religious_faction:0 "Религиозная внутренняя фракция"
- 
  #Ukraine decisions 
  ###Stability of Ukraine/Revolution Decisions
  UKR_stability_of_ukraine_decision_category:0 "Стабильность в Украине"
@@ -2021,3 +1914,84 @@
  UKR_decision_demand_the_return_of_the_crimea_desc:0 "Россия недавно захватила Крым. Оскорбление еще свежее в сознании людей. Мы должны обсудить с русскими вопрос о возвращении Крыма."
  UKR_ukrainian_revolution_mission:0 "Украинская революция"
  UKR_ukrainian_revolution_mission_desc:0 "Новороссийцы пикетируют на улицах, ратуя за несдержанность. Если мы не возьмем ситуацию под контроль, то вполне возможно, что страна может впасть в гражданскую войну..."
+
+ ##Generic Economic Decisions
+ economy_decisions: "Economic Decisions"
+ economy_decisions_desc: "The economy is one of the most important parts of our nation. Investing money here and there can cause our economy to be bolstered when we need it most."
+ infrastructure_building_slot: "Region-Wide Industrial Encouragment"
+ infrastructure_building_slot_desc: "Local infrastructure now far surpasses the local industry. We should spurn local industry to get more money flowing into this region."
+ war_building_slot: "Emergency Industrial Appropriation"
+ war_building_slot_desc: "The conflicts we find ourselves in has become a drain on our economy. Using our nations emergency measure laws we can allow industry to expand in the area."
+ lease_military_factories: "Lease Military Factories"
+ lease_military_factories_desc: "Autartic production of military goods is something of the past. We can contract and lease military factories from abroad to produce the goods we need."
+ lease_civilian_factories: "Lease Industrial Complexes"
+ lease_civilian_factories_desc: "Leasing industrial complexes can help us quickly improve our countries economic position."
+ industrial_projects: "Industrial Projects"
+ industrial_projects_desc: "Investing in local industrial projects can help boost grow GDP and local economic value."
+ infrastructure_projects: "Infrastructure Investiture"
+ infrastructure_projects_desc: "Good Roads = Happy People"
+ arms_factory_projects: "Arms Industry Stipends"
+ arms_factory_projects_desc: "Encouraging local gun companies to be founded can really get the ball rolling!"
+ dockyard_projects: "Retool Shipyards"
+ dockyard_projects_desc: "Retooling Civilian shipyards can help our military build more vessels of war to use against our enemies."
+ temporary_tax_cuts: "Temporary Tax Cuts"
+ temporary_tax_cuts_desc: "Temp tax cuts can help boost economic propsperity when we need it most."
+
+ israel_bombing_category: "Countering our Enemies"
+ israel_bombing_category_desc: "In order to properly counter our enemies such as Iran we must make sure they cannot entrench themselves in neighbouring countries. We will bomb their infrastructure and troops in order to make sure they know this fact"
+ israel_palestine_category: "The Israeli-Palestinian Conflict"
+ israel_palestine_category_desc: "The Israeli Palestnian conflict is a complicated one. We must appease the palestinians without angering our own population"
+ israel_recognition_category: "International Recognition"
+ israel_recognition_category_desc: "International recognition of our terratories must be established if we are to be a stable state"
+ israel_rockets_category: "The Defences of Israel"
+ israel_rockets_category_desc: "In order to preserve the state of Israel we must make sure that the rocket technolgoy we have is ahead of time and that we can deploy it quick enough to counter the rockets launched at us from our enemies"
+ israel_minorities_category: "The Minorities"
+ israel_minorities_category_desc: "In order for Israel to survive we need to encourage the immigration of marginalized minorities within the middle east to join us. Only then can we make sure our state is safe"
+
+ cartels_decision_category: "Crime"
+ cartels_decision_category_desc: "This category deals with crime such as drugs and the mafia"
+ narcos_crisis: "Narcos Crisis"
+ narcos_crisis_desc: "Our government is faltering and the people have chosen to ally with the drug lords. A coup is coming"
+ mafia_crisis: "Mafia Crisis"
+ mafia_crisis_desc: "Our government is faltering and the people have chosen to ally with the mafia. A coup is coming"
+ mexican_cartel_war: "Mexico Cartel War"
+ mexican_cartel_war_desc: "The cartels in our nation have gotten too powerfull, These cartels are going to attack very very soon"
+ MEX_baja_california_sinaloa_cartel: "Reduce Sinaloa Cartel influence"
+ MEX_baja_california_sinaloa_cartel_desc: "The Sinaloa Cartel are getting too strong, we need to curb their influence in Baja California"
+ MEX_baja_california_tierra_cartel: "Reduce Tierra Caliente influence"
+ MEX_baja_california_tierra_cartel_desc: "The Tierra Caliente are getting too strong, we need to curb their influence in Baja California"
+ MEX_sonora_sinaloa_cartel: "Reduce Sinaloa Cartel influence"
+ MEX_sonora_sinaloa_cartel_desc: "The Sinaloa Cartel are getting too strong, we need to curb their influence in Sonora"
+ MEX_chihuahua_sinola_cartel: "Reduce Sinaloa Cartel influence"
+ MEX_chihuahua_sinola_cartel_desc: "The Sinaloa Cartel are getting too strong, we need to curb their influence in Chihuahua"
+ MEX_sinola_durango_sinola_cartel: "Reduce Sinaloa Cartel influence"
+ MEX_sinola_durango_sinola_cartel_desc: "The Sinaloa Cartel are getting too strong, we need to curb their influence in Sinola Durango"
+ MEX_coahuila_tamaulpas_cartel: "Reduce Tamaulpas influence"
+ MEX_coahuila_tamaulpas_cartel_desc: "The Tamaulpas are getting too strong, we need to curb their influence in Coahuila"
+ MEX_guanajuato_tamaulpas_cartel: "Reduce Tamaulpas influence"
+ MEX_guanajuato_tamaulpas_cartel_desc: "The Tamaulpas are getting too strong, we need to curb their influence in Guanajuato"
+ MEX_nuevo_leon_tamaulpas_cartel: "Reduce Tamaulpas influence"
+ MEX_nuevo_leon_tamaulpas_cartel_desc: "The Tamaulpas are getting too strong, we need to curb their influence in Nuevo Leon"
+ MEX_jalisco_tierra_cartel: "Reduce Tierra Caliente influence"
+ MEX_jalisco_tierra_cartel_desc: "The Tierra Caliente are getting too strong, we need to curb their influence in Jalisco"
+ MEX_guerrero_oaxaco_tierra_cartel: "Reduce Tierra Caliente influence"
+ MEX_guerrero_oaxaco_tierra_cartel_desc: "The Tierra Caliente are getting too strong, we need to curb their influence in Guerrero Oaxco"
+ MEX_mexico_tierra_cartel: "Reduce Tierra Caliente influence"
+ MEX_mexico_tierra_cartel_desc: "The Tierra Caliente are getting too strong, we need to curb their influence in Mexico City"
+ MEX_mexico_tamaulpas_cartel: "Reduce Tamaulpas influence"
+ MEX_mexico_tamaulpas_cartel_desc: "The Tamaulpas are getting too strong, we need to curb their influence in Mexico City"
+ MEX_mexico_sinaloa_cartel: "Reduce Sinaloa Cartel influence"
+ MEX_mexico_sinaloa_cartel_desc: "The Sinaloa Cartel are getting too strong, we need to curb their influence in Mexico City"
+ MEX_veracruz_tierra_cartel: "Reduce Tierra Caliente influence"
+ MEX_veracruz_tierra_cartel_desc: "The Tierra Caliente are getting too strong, we need to curb their influence in Veracruz"
+ MEX_veracruz_tamaulpas_cartel: "Reduce Tamaulpas influence"
+ MEX_veracruz_tamaulpas_cartel_desc: "The Tamaulpas are getting too strong, we need to curb their influence in Veracruz"
+ MEX_chiapas_tamaulpas_cartel: "Reduce Tamaulpas influence"
+ MEX_chiapas_tamaulpas_cartel_desc: "The Tamaulpas are getting too strong, we need to curb their influence in Chiapas"
+ MEX_yucatan_tamaulpas_cartel: "Reduce Tamaulpas influence"
+ MEX_yucatan_tamaulpas_cartel_desc: "The Tamaulpas are getting too strong, we need to curb their influence in Yucatan"
+ MEX_already_attacking_cartels_flag: "Already reducing Cartel Influence"
+ flag_mexico_cartel_war: "Mexico Cartel War"
+ reduce_cartel_influece_sinola_TT: "The Sinola Cartel's influence is reduced in the state"
+ reduce_cartel_influece_tierra_TT: "The Tierra Caliente's influence is reduced in the state"
+ reduce_cartel_influece_tamaulpas_TT: "The Tamaulpas's influence is reduced in the state"

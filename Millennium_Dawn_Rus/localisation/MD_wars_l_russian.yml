@@ -1,5 +1,6 @@
 ﻿l_russian:
  WAR_NAME_SYR_FSA:0 "Гражданская война в Сирии"
+ WAR_NAME_SYR_NUS: "Syrian Civil War"
  WAR_NAME_AGF_SSU:0 "Гражданская война в Южном Судане"
  WAR_NAME_AQY_YEM:0 "Мятеж Аль-Каиды в Демократическом Йемене"
  WAR_NAME_AQY_HOU:0 "Мятеж Аль-Каиды в Хути Йемене"
@@ -43,3 +44,4 @@
  WAR_NAME_BRM_WAA:0 "Внутренний конфликт в Мьянме"
  WAR_NAME_KEN_SHB:0 "Операция "Линда Кантри""
  WAR_NAME_LBA_GNA: "Ливийская гражданская война"
+ WAR_ENVIRONMENTAL_NAME: "Environmental War"
