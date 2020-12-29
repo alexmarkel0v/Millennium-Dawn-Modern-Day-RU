@@ -110,7 +110,7 @@
  TT_SYR_CLOSE_PKK_BORDER: "The §YPKK Strength§! in [TUR.GetName] will decrease by 10\n"
  TT_SYR_HEZ_DIPLOMACY: "Мы получим доступ к решениям, связанным с Хезболлой.\n"
  TT_SYR_INFILTRATE_HEZ: "Наши агенты проникнут в Хезболлу\n"
- TT_SYR_DISCORD_HEZ: "Мы посеяем рознь между Хезболлой и Ираном.\n"
+ TT_SYR_DISCORD_HEZ: "Мы посеем вражду между Хезболлой и Ираном.\n"
  TT_SYR_FORGIVE_SOVIET_DEBT: "Reduce our §YDebt§! by §G$9.8 billion§!\n"
  TT_SYR_FORGIVE_SOVIET_DEBT_COMPLETELY: "Our §YDebt§! is erased!\n"
 
