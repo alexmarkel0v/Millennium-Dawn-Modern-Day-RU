@@ -70,7 +70,7 @@
  TT_RIFAAT_SUPPORT_MONEY_COST: "Мы обеспечим §R$4§! миллиард долларов на финансирование Рифаата\n"
  TT_TEMPORARY_LEADER: "[ROOT.GetLeader] уйдет в отставку и будет заменен временным президентом.\n"
  TT_SYRIAN_ARAB_DEMOCRATIC_PARTY: "Наша правящая партия теперь будет называться §HArab Democratic Party§!\n"
- TT_RESHUFFLE_PARTIES: "§RReshuffle our political landscape!§!\n"
+ TT_RESHUFFLE_PARTIES: "§RПеретасовать наш политический ландшафт!§!\n"
 
  ##Economic Branch
  TT_LOAN_15_BILLION: "Our §YDebt§! increases by §R$15 Billion§!!\n"
@@ -108,9 +108,9 @@
  TT_SYR_ALIGN_RUSSIA: "\nThe willingness of [SOV.GetName] to ally us is §Gstrong§! by default\n\n[SOV.GetName] is less likely to ally us if\n §R-We don't follow the same Outlook\n -We are at war\n§!"
  TT_SYR_INTELLIGENCE_TO_PKK: "The §YPKK Strength§! in [TUR.GetName] will increase by 10\n"
  TT_SYR_CLOSE_PKK_BORDER: "The §YPKK Strength§! in [TUR.GetName] will decrease by 10\n"
- TT_SYR_HEZ_DIPLOMACY: "We will gain access to Hezbollah related decisions\n"
- TT_SYR_INFILTRATE_HEZ: "Our agents will infiltrate Hezbollah\n"
- TT_SYR_DISCORD_HEZ: "We will sow discord between Hezbollah and Iran\n"
+ TT_SYR_HEZ_DIPLOMACY: "Мы получим доступ к решениям, связанным с Хезболлой.\n"
+ TT_SYR_INFILTRATE_HEZ: "Наши агенты проникнут в Хезболлу\n"
+ TT_SYR_DISCORD_HEZ: "Мы посеяем рознь между Хезболлой и Ираном.\n"
  TT_SYR_FORGIVE_SOVIET_DEBT: "Reduce our §YDebt§! by §G$9.8 billion§!\n"
  TT_SYR_FORGIVE_SOVIET_DEBT_COMPLETELY: "Our §YDebt§! is erased!\n"
 

@@ -7,19 +7,19 @@
  UNITED_ARAB_ALLIANCE: "Объединённый арабский альянс"
  #English Factions
  british_commonwealth:0 "Содружество"
- british_alliance:0 "Англо-Саксонскоий Альянс"
+ british_alliance:0 "Англо-саксонскоий альянс"
  
  #Ukraine
- UKR_baltic_black_sea_union_faction:0 "Балтийско-Черноморский Союз"
+ UKR_baltic_black_sea_union_faction:0 "Балтийско-черноморский союз"
 
  #United States 
  monroe_alliance:0 "Альянс Монро"
- freedom_league:0 "Лига Свободы"
- washington_pact:0 "Вашингтонский Пакт"
+ freedom_league:0 "Лига свободы"
+ washington_pact:0 "Вашингтонский пакт"
  
  #Japan
- japanese_alliance_democratic:0 "Восточноазиатский Альянс"
- east_asian_pact:0 "Восточноазиатский Пакт"
- japanese_alliance_communist:0 "Красная Сфера Процветания"
+ japanese_alliance_democratic:0 "Восточноазиатский альянс"
+ east_asian_pact:0 "Восточноазиатский пакт"
+ japanese_alliance_communist:0 "Красная сфера процветания"
  #Brazil
- unasul: "UNASUL"
+ unasul: "Союз южноамериканских наций"
