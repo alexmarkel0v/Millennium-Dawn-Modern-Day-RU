@@ -3,7 +3,7 @@
  SPY_MASTER_STATUS_NONE:1 "Сейчас пост §Hруководителя разведсети§! никто не занимает"
  SPY_MASTER_STATUS_OTHER:0 "$COUNTRY|H$ сейчас руководит разведсетью альянса $FACTION|H$"
  SPY_MASTER_STATUS_YOU:0 "Вы руководитель разведсети"
- BECOME_SPY_MASTER_BUTTON:0 "Стать разведруком"
+ BECOME_SPY_MASTER_BUTTON:0 "Стать руководителем"
  BECOME_SPY_MASTER_ALREADY_MASTER:0 "§RВы уже являетесь руководителем разведсети.§!"
  BECOME_SPY_MASTER_FACTION_NEEDED:0 "§RЧтобы стать руководителем разведсети, вы должны состоять в альянсе.§!"
  BECOME_SPY_MASTER_UPGRADES_NEEDED:1 "§RЧтобы стать руководителем разведсети, у вас должно быть агентство с улучшенными филиалами ($NUMBER$ различных).§!"

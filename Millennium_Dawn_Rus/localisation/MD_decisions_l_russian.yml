@@ -122,10 +122,11 @@
  remove_usaid: "Расформировать USAID"
 
  retire_current_leader:0 "[Root.GetLeader]: уйти в отставку как лидер"
- retire_current_leader_desc:0 "Это наверняка станет шоком для многих и дорого обойдётся в политическом плане, а также навсегда исключит возможность [Root.GetLeader] возвращения к политике, однако, это открытая возможность уйти на пенсию, чтобы больше времени проводить с семьей.\n\n§WЭффект:§!\n§H[Root.GetLeader]§! §Wуйдет в отставку в качестве лидера [Root.GetName]§!\n§H[show_ruling_party]§! §Wвыберет нового лидера из рядов его партии или альянса.§!"
+ retire_current_leader_desc:0 "Это наверняка станет шоком для многих и дорого обойдётся в политическом плане, а также навсегда исключит возможность [Root.GetLeader] возвращения к политике, однако, это открытая возможность уйти на пенсию, чтобы больше времени проводить с семьей.\n\n§WЭффект:§!\n§H[Root.GetLeader]§! §Wуйдет в отставку в качестве лидера [Root.GetName]§!\n§H[show_ruling_party]§! §Wвыберет нового лидера из рядов его партии или альянса.§!"                                                                                                                               
 
  hold_reelections:0 "Провести новые внеочередные выборы"
  hold_reelections_desc:0 "Новые выборы пройдут через 14 дней. В связи с их экстраординарным характером, следующие выборы после этого все равно состоятся на запланированную будущую дату."
+ 
  increase_election_threshold:0 "Повышение избирательного порога"
  increase_election_threshold_desc:0 "§WПовысит избирательный порог на:§! §H1%§!.\nИзменения будут применяться на следующих выборах, что делает их более трудными для небольших партий, затрудняя получить власть."
  decrease_election_threshold:0 "Понижение избирательного порога"
@@ -133,13 +134,13 @@
 
  permanently_suspend_elections:0 "Навсегда приостановить выборы"
  permanently_suspend_elections_desc:0 "Поскольку в настоящее время мы являемся правительством, склонным к автократии, было бы глупо снова проводить выборы, которые могли бы угрожать нашей власти."
+
  return_democracy:0 "Разрешить демократию и выборы в [Root.GetName]"
  return_democracy_desc:0 "Мы можем выбрать демократизацию страны и начать проводить реальные выборы. Однако, пока мы все еще оставались бы у власти, было бы опасно позволить народу решать, кто будет править."
  
  fascism_extremist_civil_war:0 "[Nat_Fascism_L] ([?party_pop_array^21|%0]) начнет восстание с целью свержения правительства"
  fascism_extremist_civil_war_desc:0 "Экстремистские силы от ультраправых, возглавляемые [Nat_Fascism_L] набирают силу. Популярные среди солдат и некоторых военачальников слухи о восстании с целью захвата власти начинают циркулировать повсюду. Гражданские раздоры могут очень сильно подкосить страну. \n\nЭффект:\n§HНачало гражданской войны: 50% сил§!\n\n§RБудет получен контроль над восстанием§!"
  fascism_20_tt:0 "[Nat_Fascism_L] ([?party_pop_array^21|%1]) > 20% популярности"
-
  nat_autocracy_extremist_civil_war: "[Nat_Autocracy_L] ([?party_pop_array^22|%0]) launch military coup to overthrow the government"
  nat_autocracy_civil_war_desc: "The military has been gaining power in government. Under the leadership of [Nat_Autocracy_L] it is likely that many elements of the military would support an uprising against the government to establish a junta. \n\nEffect:\n§HStart Civil War: 50% strength§!\n\n§RTriggering this will see you take control over the uprising§!"
  nat_autocracy_20_tt: "[Nat_Autocracy_L] ([?party_pop_array^22|%1]) > 20% Popularity"
@@ -206,7 +207,6 @@
  
  coalition_desicions:0 "Сформировать новое правительство"
  coalition_desicions_desc:0 "[Root.GetLeader], [show_ruling_party] ([show_ruling_elect_percentage]) не набрал необходимого большинства на выборах, чтобы сформировать правительство в одиночку. Нам нужно пригласить другие стороны присоединиться.\n\nПартии, получившие больше голосов, чем мы, не будут заинтересованы в присоединении. Стоимость политической власти для добавления партии в правительство зависит от их размера и политической дистанции до нас.\n\n§HПока что наша коалиция состоит из:§!\n[show_ruling_party] ([show_ruling_elect_percentage])[L_coal_elect_percent_0][L_coal_elect_percent_1][L_coal_elect_percent_2][L_coal_elect_percent_3][L_coal_elect_percent_4][L_coal_elect_percent_5][L_coal_elect_percent_6][L_coal_elect_percent_7][L_coal_elect_percent_8][L_coal_elect_percent_9][L_coal_elect_percent_10][L_coal_elect_percent_11][L_coal_elect_percent_12][L_coal_elect_percent_13][L_coal_elect_percent_14][L_coal_elect_percent_15][L_coal_elect_percent_16][L_coal_elect_percent_17][L_coal_elect_percent_18][L_coal_elect_percent_19][L_coal_elect_percent_20][L_coal_elect_percent_21][L_coal_elect_percent_22][L_coal_elect_percent_23]\n\n§HСила нынешней коалиции:§! [?government_coalition_strength_elect|%1]. \n§RНеобходимые силы для формирования правительства большинства:§! [?majority_threshold|%1]\nНаш порог §H[?election_threshold|%0]§! делает партии, которые получили меньше голосов, чем это неприемлемо.\n"
-
  give_up_coalition_0:0 "Сдаваться: [show_biggest_party_elect] будет пытаться вместо этого"
  give_up_coalition_0_desc:0 "Признать неудачу для [Root.GetLeader] а также [show_ruling_party] сформировать правительство. Работа сейчас пойдет [show_biggest_party_elect] ([show_biggest_elect_percentage]).\n\n75% политическая власть, потраченная до сих пор на формирование нынешней коалиции, будет возмещена."
  give_up_coalition_1:0 "Сдаваться: [show_second_biggest_party_elect] будет пытаться вместо этого"
@@ -473,7 +473,6 @@
  
  EP_IFV_open:0 "Открыть IFVs"
  EP_IFV_close:0 "Закройте IFVs"
-
  EP_rec_open:0 "Открыть Recon/Light Tanks"
  EP_rec_close:0 "Закройте Recon/Light Tanks" 
  EP_utility_open: "Открыть Utility Vehicles"
@@ -837,7 +836,6 @@
  EP_TUR_apc_7:0 "APC 2025 (2025)"
  EP_TUR_apc_8:0 "APC 2035 (2035)"
  EP_buy_TUR_apc_1:0 "[Root.EP_buy_TUR_apc]"
-
  EP_UKR_apc_1:0 "APC 1965 (1965)"
  EP_UKR_apc_2:0 "APC 1975 (1975)"
  EP_UKR_apc_3:0 "APC 1985 (1985)"
@@ -847,8 +845,7 @@
  EP_UKR_apc_7:0 "APC 2025 (2025)"
  EP_UKR_apc_8:0 "APC 2035 (2035)"
  EP_buy_UKR_apc_1:0 "[Root.EP_buy_UKR_apc]"
- ### IFV ###
-
+ ### IFV ###                                    
  EP_CHI_ifv_1:0 "Type-86 (1965)"
  EP_CHI_ifv_2:0 "Type-86A (1975)"
  EP_CHI_ifv_3:0 "ZSL-92B (1985)"
@@ -858,29 +855,6 @@
  EP_CHI_ifv_7:0 "ZBD-26 (2025)"
  EP_CHI_ifv_8:0 "ZBD-34 (2035)"
  EP_buy_CHI_ifv_1:0 "[Root.EP_buy_CHI_ifv]" 
-                                                                 
-                                                                  
-                                                                   
-                                                                 
-                                             
-                                             
-                                             
-                                             
-                                                              
-                                             
-                                                              
-                                                            
-                                                              
-                                             
-                                             
-                                             
-                                             
-                                             
-                                                        
-                                                        
-                                             
-                                             
-                                             
 
  EP_GER_ifv_1:0 "HS. 30 (1965)"
  EP_GER_ifv_2:0 "Marder 1 (1975)"
@@ -891,7 +865,6 @@
  EP_GER_ifv_7:0 "Puma 2 (2025)"
  EP_GER_ifv_8:0 "Puma 3 (2035)"
  EP_buy_GER_ifv_1:0 "[Root.EP_buy_GER_ifv]"
- 
  EP_FRA_ifv_1:0 "AMX-VCI (1965)"
  EP_FRA_ifv_2:0 "AMX-10P (1975)"
  EP_FRA_ifv_3:0 "VIB (1985)"
@@ -979,28 +952,229 @@
  EP_JAP_utility_6:0 "Utility Vehicle 2025 (2025)"
  EP_JAP_utility_7:0 "Utility Vehicle 2035 (2035)"
  EP_buy_JAP_utility_1:0 "[Root.EP_buy_JAP_utility]"
- 
- #EP_test_variable_1:0 "test"                           
+ #### Aircraft Equipment ####
+ #### Attack Helicopters ####
+ EP_USA_attack_helicopter_1: "AH-1 Cobra (1965)"
+ EP_USA_attack_helicopter_2: "AH-64 Apache (1995)"
+ EP_USA_attack_helicopter_3: "AH-64D Apache (2005)"
+ EP_USA_attack_helicopter_4: "AH-64E Apache (2015)"
+ EP_USA_attack_helicopter_5: "SB-1 Defiant (2035)"
+ EP_buy_USA_attack_helicopter_1: "[Root.EP_buy_USA_attack_helicopter_1]"
 
- EP_buy_USA_MR_Fighter_1:0 "£decision_F16C_Fighting_Falcon F16C (1995)"
- EP_buy_USA_AS_Fighter_1:0 "£decision_F15E_Strike_Eagle F15C (1995)"
- EP_buy_SOV_MR_Fighter_1:0 "£decision_F16C_Fighting_Falcon МИГ 35 (1995)"
- EP_buy_SOV_AS_Fighter_1:0 "£decision_F15E_Strike_Eagle СУ-27 (1985)"
+ EP_SOV_attack_helicopter_1: "Mi-24 (1965)"
+ EP_SOV_attack_helicopter_2: "Mi-28 (1995)"
+ EP_SOV_attack_helicopter_3: "Ka-50 (2005)"
+ EP_SOV_attack_helicopter_4: "ATK Helicopter 2015 (2015)"
+ EP_SOV_attack_helicopter_5: "ATK Helicopter 2035 (2035)"
+ EP_buy_SOV_attack_helicopter_1: "[Root.EP_buy_SOV_attack_helicopter_1]"
 
- 
- 
+ #### TRA helicopters ####
+ EP_USA_transport_helicopter_1: "TRA Helicopter 1965 (1965)"
+ EP_USA_transport_helicopter_2: "Mi-26 (1995)"
+ EP_USA_transport_helicopter_3: "CH-47 Chinook (2005)"
+ EP_USA_transport_helicopter_4: "CH-53K King Stallion (2015)"
+ EP_USA_transport_helicopter_5: "V-280 Valor (2035)"
+ EP_buy_USA_transport_helicopter_1: "[Root.EP_buy_USA_transport_helicopter_1]"
+
+ EP_SOV_transport_helicopter_1: "Mi-8 (1965)"
+ EP_SOV_transport_helicopter_2: "Mi-26 (1995)"
+ EP_SOV_transport_helicopter_3: "Mi-38 (2005)"
+ EP_SOV_transport_helicopter_4: "Mi-60 (2015)"
+ EP_SOV_transport_helicopter_5: "TRA helicopter 2035 (2035)"
+ EP_buy_SOV_transport_helicopter_1: "[Root.EP_buy_SOV_transport_helicopter_1]"
+
+ #### Air Superiority Fighters ####
+ EP_USA_AS_Fighter_1: "F-5 Freedom Fighter (1965)"
+ EP_USA_AS_Fighter_2: "F-15A Eagle (1985)"
+ EP_USA_AS_Fighter_3: "F-15C (1995)"
+ EP_USA_AS_Fighter_4: "F-22 Raptor (2015)"
+ EP_USA_AS_Fighter_5: "F-22C Raptor (2025)"
+ EP_USA_AS_Fighter_6: "F-44 MANTA (2035)"
+ EP_USA_AS_Fighter_7: "F158 Starcharge (2045)"
+ EP_buy_USA_AS_Fighter_1: "[Root.EP_buy_USA_AS_Fighter_1]"
+
+ EP_SOV_AS_Fighter_1: "MiG-23 Flogger (1965)"
+ EP_SOV_AS_Fighter_2: "Su-27 (1985)"
+ EP_SOV_AS_Fighter_3: "Su-35 (1995)"
+ EP_SOV_AS_Fighter_4: "Su-37 (2015)"
+ EP_SOV_AS_Fighter_5: "Su-57 (2025)"
+ EP_SOV_AS_Fighter_6: "MiG-41 (2035)"
+ EP_SOV_AS_Fighter_7: "6.5th Gen AS (2045)"
+ EP_buy_SOV_AS_Fighter_1: "[Root.EP_buy_SOV_AS_Fighter_1]"
+
+ #### Interceptors ####
+ EP_USA_interceptor_1: "F-14 Tomcat (1985)"
+ EP_buy_USA_interceptor_1: "[Root.EP_buy_USA_interceptor_1]"
+
+ EP_SOV_interceptor_1: "MiG-31 (1985)"
+ EP_buy_SOV_interceptor_1: "[Root.EP_buy_SOV_interceptor_1]"
+
+ #### Multi-Role Fighters ####
+ EP_USA_MR_Fighter_1: "F-4 Phantom II (1965)"
+ EP_USA_MR_Fighter_2: "F-16A Fighting Falcon (1985)"
+ EP_USA_MR_Fighter_3: "F-16C Fighting Falcon (1995)"
+ EP_USA_MR_Fighter_4: "F-35 Lightning II (2015)"
+ EP_USA_MR_Fighter_5: "F-35 Lightning III (2025)"
+ EP_USA_MR_Fighter_6: "F-62 Grayflare (2035)"
+ EP_USA_MR_Fighter_7: "Dragonflare (2045)"
+ EP_buy_USA_MR_Fighter_1: "[Root.EP_buy_USA_MR_Fighter_1]"
+
+ EP_SOV_MR_Fighter_1: "MiG-21 Fishbed (1965)"
+ EP_SOV_MR_Fighter_2: "MiG-29 Fulcrum (1985)"
+ EP_SOV_MR_Fighter_3: "MiG-35 Fulcrum-B (1995)"
+ EP_SOV_MR_Fighter_4: "MiG-39 Foxglove (2015)"
+ EP_SOV_MR_Fighter_5: "Mikoyan LMFS (2025)"
+ EP_SOV_MR_Fighter_6: "6th Gen MR (2035)"
+ EP_SOV_MR_Fighter_7: "6.5th Gen MR (2045)"
+ EP_buy_SOV_MR_Fighter_1: "[Root.EP_buy_SOV_MR_Fighter_1]"
+
+ #### Carrier MR Fighters ####
+ EP_USA_CV_MR_1: "F-4J Phantom II (1965)"
+ EP_USA_CV_MR_2: "F/A-18 Hornet (1985)"
+ EP_USA_CV_MR_3: "F/A-18E/F Super Hornet (1995)"
+ EP_USA_CV_MR_4: "F35C Lightning II (2015)"
+ EP_USA_CV_MR_5: "F35C Lightning III (2025)"
+ EP_USA_CV_MR_6: "F/A-47B Black Widow (2035)"
+ EP_USA_CV_MR_7: "F/A-159 Hellcry (2045)"
+ EP_buy_USA_MR_Fighter_1: "[Root.EP_buy_USA_MR_Fighter_1]"
+
+ EP_SOV_CV_MR_1: "Yak-38 (1965)"
+ EP_SOV_CV_MR_2: "Su-30MK2 (1985)"
+ EP_SOV_CV_MR_3: "Su-33 Flanker-D(1995)"
+ EP_SOV_CV_MR_4: "MiG-39K Flatback (2015)"
+ EP_SOV_CV_MR_5: "MiG-39MK Flatback-B (2025)" ### Russian classification for M is Modification. Logically, it will be called MK - Modificirovanniy Korabelniy (K for CV) @Sumimoto
+ EP_SOV_CV_MR_6: "6th Gen CV MR (2035)"
+ EP_SOV_CV_MR_7: "6.5th Gen CV MR (2045)"
+ EP_buy_SOV_MR_Fighter_1: "[Root.EP_buy_SOV_MR_Fighter_1]"
+
+ #### Strike Fighters ####
+
+ EP_USA_strike_1: "F-111 Aardvark (1965)"
+ EP_USA_strike_2: "F-117 Nighthawk (1985)"
+ EP_USA_strike_3: "F-15E Strike Eagle (1995)"
+ EP_USA_strike_4: "FB-22 Strike Raptor (2015)"
+ EP_USA_strike_5: "Lightning Bolt (2025)"
+ EP_USA_strike_6: "F-129 Dark Hawk (2035)"
+ EP_USA_strike_7: "F-132 Heavenshade (2045)"
+ EP_buy_USA_strike_1: "[Root.EP_buy_SOV_MR_Fighter_1]"
+
+ EP_SOV_strike_1: "Su-17 Fitter (1965)"
+ EP_SOV_strike_2: "Su-24 Fencer (1985)"
+ EP_SOV_strike_3: "Su-34 Fullback (1995) "
+ EP_SOV_strike_4: "MiG-40 Flatback-S  (2015)"
+ EP_SOV_strike_5: "MiG-40C Flatback-S (2025)"
+ EP_SOV_strike_6: "6th Gen STR (2035)"
+ EP_SOV_strike_7: "6.5th Gen STR (2045)"
+ EP_buy_SOV_strike_1: "[Root.EP_buy_SOV_MR_Fighter_1]"
+
+ #### Light Strike Fighters ####
+ EP_USA_trainer_1: "A-37 Dragonfly (1965)"
+ EP_USA_trainer_2: "T-38 Talon (1995)"
+ EP_USA_trainer_3: "A-39 Skyflux (2015)"
+ EP_USA_trainer_4: "T-40 Heavenraid (2025)"
+ EP_USA_trainer_5: "T-100 (2035)"
+ EP_buy_USA_trainer_1: "[Root.EP_buy_USA_trainer_1]"
+
+ EP_SOV_trainer_1: "Aero L-29(1965)"
+ EP_SOV_trainer_2: "Aero L-39MS (1995)"
+ EP_SOV_trainer_3: "Yak-130 (2015)"
+ EP_SOV_trainer_4: "Light Jet 2025 (2025)"
+ EP_SOV_trainer_5: "Light Jet 2035 (2035)"
+ EP_buy_SOV_trainer_1: "[Root.EP_buy_SOV_trainer_1]"
+
+ #### Carrier LSF ####
+
+ EP_USA_CV_trainer_1: "CA-37 Waterbug(1965)"
+ EP_USA_CV_trainer_2: "AV-8B Harrier II (1995)"
+ EP_USA_CV_trainer_3: "AC-39 Seaflux (2015)"
+ EP_USA_CV_trainer_4: "CA-40 Depth Raider (2025)"
+ EP_USA_CV_trainer_5: "CT-100 (2035)"
+ EP_buy_USA_CV_trainer_1: "[Root.EP_buy_USA_CV_trainer_1]"
+
+ EP_SOV_CV_trainer_1: "Light Jet CV 1965 (1965)"
+ EP_SOV_CV_trainer_2: "Light Jet CV 1995 (1995)"
+ EP_SOV_CV_trainer_3: "Light Jet CV 2015 (2015)"
+ EP_SOV_CV_trainer_4: "Light Jet CV 2025 (2025)"
+ EP_SOV_CV_trainer_5: "Light Jet CV 2035 (2035)"
+ EP_buy_SOV_CV_trainer_1: "[Root.EP_buy_SOV_CV_trainer_1]"
+
+ #### Close Air Support ####
+ EP_USA_CAS_1: "A-10 (1975)"
+ EP_USA_CAS_2: "A-10C (1995)"
+ EP_USA_CAS_3: "A-15 (2015)"
+ EP_USA_CAS_4: "A-20 (2025)"
+ EP_USA_CAS_5: "A-25 (2035)"
+ EP_buy_USA_CAS_1: "[Root.EP_buy_USA_CAS_1]"
+
+ EP_SOV_CAS_1: "SU-25A (1975)"
+ EP_SOV_CAS_2: "SU-25T (1995)"
+ EP_SOV_CAS_3: "CAS 2015 (2015)"
+ EP_SOV_CAS_4: "CAS 2025 (2025)"
+ EP_SOV_CAS_5: "CAS 2035 (2035)"
+ EP_buy_SOV_CAS_1: "[Root.EP_buy_SOV_CAS_1]"
+
+ #### Marine Patrol Aircraft ####
+ EP_USA_MAR_1: "P-3 Orion (1965)"
+ EP_USA_MAR_2: "P-3C Orion (1975)"
+ EP_USA_MAR_3: "MAR Patrol 1985 (1985)"
+ EP_USA_MAR_4: "P-8 Poseidon (2015)"
+ EP_USA_MAR_5: "MQ-4C Triton (2025)"
+ EP_USA_MAR_6: "MQ-20 Triteia (2035)"
+ EP_buy_USA_MAR_1: "[Root.EP_buy_USA_MAR_1]"
+
+ EP_SOV_MAR_1: "Il-38 (1965)"
+ EP_SOV_MAR_2: "Tu-142M (1975)"
+ EP_SOV_MAR_3: "MAR Patrol 1985 (1985)"
+ EP_SOV_MAR_4: "Be-220 (2015)"
+ EP_SOV_MAR_5: "MAR Patrol 2025 (2025)"
+ EP_SOV_MAR_6: "MAR Patrol 2035 (2035)"
+ EP_buy_SOV_MAR_1: "[Root.EP_buy_SOV_MAR_1]"
+
+ #### Transport Plane ####
+ EP_USA_TRA_1: "C-130 Hercules (1965)"
+ EP_USA_TRA_2: "C-5 Galaxy (1985)"
+ EP_USA_TRA_3: "C-17 (1995)"
+ EP_USA_TRA_4: "C-130J Super Hercules (2015)"
+ EP_USA_TRA_5: "KC-46 Pegasus (2025)"
+ EP_USA_TRA_6: "C-216 Anemoi (2035)"
+ EP_buy_USA_TRA_1: "[Root.EP_buy_USA_TRA_1]"
+
+ EP_SOV_TRA_1: "An-26 (1965)"
+ EP_SOV_TRA_2: "IL-76 (1985)"
+ EP_SOV_TRA_3: "IL-76MD 1985 (1995)"
+ EP_SOV_TRA_4: "PAK-TA (2015)"
+ EP_SOV_TRA_5: "TRA 2025 (2025)"
+ EP_SOV_TRA_6: "TRA 2035 (2035)"
+ EP_buy_SOV_TRA_1: "[Root.EP_buy_SOV_TRA_1]"
+
+ #### Strategic Bomber ####
+ EP_USA_STR_1: "B-52H (1965)"
+ EP_USA_STR_2: "STR Bomber 1975 (1975)"
+ EP_USA_STR_3: "B-1 Lancer (1985)"
+ EP_USA_STR_4: "B-2 Spirit (2015)"
+ EP_USA_STR_5: "B-21 Raider (2025)"
+ EP_USA_STR_6: "B-40 Brute (2035)"
+ EP_buy_USA_STR_1: "[Root.EP_buy_USA_STR_1]"
+
+ EP_SOV_STR_1: "Tu-95 (1965)"
+ EP_SOV_STR_2: "Tu-22M (1975)"
+ EP_SOV_STR_3: "Tu-160 (1985)"
+ EP_SOV_STR_4: "Tu-180(2015)"
+ EP_SOV_STR_5: "Tupolev Pak-DA (2025)"
+ EP_SOV_STR_6: "STR Bomber 2035 (2035)"
+ EP_buy_SOV_STR_1: "[Root.EP_buy_SOV_STR_1]"
 
  #Costs tooltip
-# cost_6_69:0 "Birb Box"
+# cost_6_69: "Birb Box"
 
  EPinfo_0_1:0 ""
+ EPinfo_0_1_blocked: ""
  EPinfo_0_1_tooltip:0 "(Продавец получает 75% от стоимости покупки)"
                                                                                                     
-
  cost_0_05:0 "£treasury 0.05"
  cost_0_05_blocked:0 "£treasury §R0.05§!"
  cost_0_05_tooltip:0 "This purchase will cost 0.05 §Hbillions§!"
- 
+
  cost_0_08:0 "£treasury 0.08"
  cost_0_08_blocked:0 "£treasury §R0.08§!"
  cost_0_08_tooltip:0 "This purchase will cost 0.08 §Hbillions§!"
@@ -1136,7 +1310,6 @@
  cost_5_5:0 "£treasury 5.5"
  cost_5_5_blocked:0 "£treasury §R5.5§!"
  cost_5_5_tooltip:0 "This purchase will cost 5.5 §Hbillions§!"
-
  cost_6_0:0 "£treasury 6.0"
  cost_6_0_blocked:0 "£treasury §R6.0§!"
  cost_6_0_tooltip:0 "This purchase will cost 6.0 §Hbillions§!"
@@ -1165,6 +1338,9 @@
  cost_12_0_blocked:0 "£treasury §R12.0§!"
  cost_12_0_tooltip:0 "This purchase will cost 12.0 §Hbillions§!"
  
+ cost_12_5: "£treasury 12.50"
+ cost_12_5_blocked: "£treasury §R12.50§!"
+ cost_12_5_tooltip: "This purchase will cost 12.50 §Hbillions§!"
  cost_15_0:0 "£treasury 15.0"
  cost_15_0_blocked:0 "£treasury §R15.0§!"
  cost_15_0_tooltip:0 "This purchase will cost 15.0 §Hbillions§!"
@@ -1173,49 +1349,77 @@
  cost_17_5_blocked:0 "£treasury §R17.5§!"
  cost_17_5_tooltip:0 "This purchase will cost 17.5 §Hbillions§!"
  
+ cost_18_0: "£treasury 18.0"
+ cost_18_0_blocked: "£treasury §R18.0§!"
+ cost_18_0_tooltip: "This purchase will cost 18.0 §Hbillions§!"
  cost_20_0:0 "£treasury 20.0"
  cost_20_0_blocked:0 "£treasury §R20.0§!"
  cost_20_0_tooltip:0 "This purchase will cost 20.0 §Hbillions§!"
  
- cost_30_0:0 "£treasury 30.0"
- cost_30_0_blocked:0 "£treasury §R30.0§!"
- cost_30_0_tooltip:0 "This purchase will cost 30.0 §Hbillions§!"
- 
- cost_40_0:0 "£treasury 40.0"
- cost_40_0_blocked:0 "£treasury §R40.0§!"
- cost_40_0_tooltip:0 "This purchase will cost 40.0 §Hbillions§!"
- 
- cost_45_0:0 "£treasury 45.0"
- cost_45_0_blocked:0 "£treasury §R45.0§!"
- cost_45_0_tooltip:0 "This purchase will cost 45.0 §Hbillions§!"
- 
- cost_50_0:0 "£treasury 50.0"
- cost_50_0_blocked:0 "£treasury §R50.0§!"
- cost_50_0_tooltip:0 "This purchase will cost 50.0 §Hbillions§!"
- 
- cost_60_0:0 "£treasury 60.0"
- cost_60_0_blocked:0 "£treasury §R60.0§!"
- cost_60_0_tooltip:0 "This purchase will cost 60.0 §Hbillions§!"
- 
- cost_80_0:0 "£treasury 80.0"
- cost_80_0_blocked:0 "£treasury §R80.0§!"
- cost_80_0_tooltip:0 "This purchase will cost 80.0 §Hbillions§!"
- 
- cost_100_0:0 "£treasury 100.0"
- cost_100_0_blocked:0 "£treasury §R100.0§!"
- cost_100_0_tooltip:0 "This purchase will cost 100.0 §Hbillions§!"
- 
- cost_150_0:0 "£treasury 150.0"
- cost_150_0_blocked:0 "£treasury §R150.0§!"
- cost_150_0_tooltip:0 "This purchase will cost 150.0 §Hbillions§!"
- 
- command_power_more_than_50:0 "§H50§!£command_power"
- command_power_more_than_50_blocked:0 "§R50§!£command_power"
- command_power_more_than_40:0 "§H40§!£command_power"
- command_power_more_than_40_blocked:0 "§R40§!£command_power"
- command_power_more_than_20:0 "§H20§!£command_power"
- command_power_more_than_20_blocked:0 "§R20§!£command_power"
- 
+ cost_22_5: "£treasury 22.5"
+ cost_22_5_blocked: "£treasury §R22.5§!"
+ cost_22_5_tooltip: "This purchase will cost 22.5 §Hbillions§!"
+
+ cost_25_0: "£treasury 25.0"
+ cost_25_0_blocked: "£treasury §R25.0§!"
+ cost_25_0_tooltip: "This purchase will cost 25.0 §Hbillions§!"
+
+ cost_27_5: "£treasury 27.50"
+ cost_27_5_blocked: "£treasury §R27.50§!"
+ cost_27_5_tooltip: "This purchase will cost 27.50 §Hbillions§!"
+
+ cost_30_0: "£treasury 30.0"
+ cost_30_0_blocked: "£treasury §R30.0§!"
+ cost_30_0_tooltip: "This purchase will cost 30.0 §Hbillions§!"
+
+ cost_35_0: "£treasury 35.0"
+ cost_35_0_blocked: "£treasury §R35.0§!"
+ cost_35_0_tooltip: "This purchase will cost 35.0 §Hbillions§!"
+
+ cost_40_0: "£treasury 40.0"
+ cost_40_0_blocked: "£treasury §R40.0§!"
+ cost_40_0_tooltip: "This purchase will cost 40.0 §Hbillions§!"
+
+ cost_45_0: "£treasury 45.0"
+ cost_45_0_blocked: "£treasury §R45.0§!"
+ cost_45_0_tooltip: "This purchase will cost 45.0 §Hbillions§!"
+
+ cost_50_0: "£treasury 50.0"
+ cost_50_0_blocked: "£treasury §R50.0§!"
+ cost_50_0_tooltip: "This purchase will cost 50.0 §Hbillions§!"
+
+ cost_60_0: "£treasury 60.0"
+ cost_60_0_blocked: "£treasury §R60.0§!"
+ cost_60_0_tooltip: "This purchase will cost 60.0 §Hbillions§!"
+
+ cost_75_0: "£treasury 75.0"
+ cost_75_0_blocked: "£treasury §R75.0§!"
+ cost_75_0_tooltip: "This purchase will cost 75.0 §Hbillions§!"
+
+ cost_80_0: "£treasury 80.0"
+ cost_80_0_blocked: "£treasury §R80.0§!"
+ cost_80_0_tooltip: "This purchase will cost 80.0 §Hbillions§!"
+
+ cost_100_0: "£treasury 100.0"
+ cost_100_0_blocked: "£treasury §R100.0§!"
+ cost_100_0_tooltip: "This purchase will cost 100.0 §Hbillions§!"
+
+ cost_150_0: "£treasury 150.0"
+ cost_150_0_blocked: "£treasury §R150.0§!"
+ cost_150_0_tooltip: "This purchase will cost 150.0 §Hbillions§!"
+
+ command_power_more_than_100: "§H100§!£command_power"
+ command_power_more_than_100_blocked: "§R100§!£command_power"
+ command_power_more_than_50: "§H50§!£command_power"
+ command_power_more_than_50_blocked: "§R50§!£command_power"
+ command_power_more_than_40: "§H40§!£command_power"
+ command_power_more_than_40_blocked: "§R40§!£command_power"
+ command_power_more_than_25: "§H25§!£command_power"
+ command_power_more_than_25_blocked: "§R25§!£command_power"
+ command_power_more_than_20: "§H20§!£command_power"
+ command_power_more_than_20_blocked: "§R20§!£command_power"
+ command_power_more_than_10: "§H10§!£command_power"
+ command_power_more_than_10_blocked: "§R10§!£command_power"
  ##### Argentina #####
  ARG_falklands_question_category:0 "Фолклендский вопрос"
  ARG_falklands_question_category_desc:0 "Остров Мальвинас - это наше право по рождению и наша суверенная земля. Мы не забудем кровь, которую наши братья пролили на наших островах за свою родину. \nПришло время вернуть нашу землю империалистам чаепития!"
@@ -1818,7 +2022,6 @@
  host_joint_exercises:0 "Проведение совместных учений ШОС"
  offer_joint_exercises_specific:0 "Предложить совместные упражнения с [FROM.GetName]"
  start_joint_exercises_specific:0 "Проводить совместные учения с [FROM.GetName]"
-
  ###Child Soldiers
  child_soldiers_category:0 "Дети-солдаты"
  child_soldiers_category_desc:0 "Множественные источники международного права, включая Женевские конвенции, запрещают вербовку детей в армии. Хотя использование нами детей-солдат помогает нашим военным усилиям, обеспечивая нас людскими ресурсами, оно подрывает эффективность наших вооруженных сил и наносит ущерб нашей международной легитимности.\n\n§YУровень набора детей-солдат§! Определяет скорость набора новых детей-солдат в наши ряды. Если оно станет отрицательным, больше детей-солдат покинут армию, чем войдут в нее.\n\nКоличество детей-солдат: §Y[?Root.child_soldiers]§!\nChild Soldier Recruitment Level: §Y[?Root.child_soldiers_recruitment]§!"
