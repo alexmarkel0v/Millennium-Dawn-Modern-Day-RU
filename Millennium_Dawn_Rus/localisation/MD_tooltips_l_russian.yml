@@ -1531,7 +1531,7 @@
  SOV_ban_the_nationalist_party_TT: "Запрещает £SOV_nationalist_right_wing_populist §YЛДПР§!\n"
  SOV_the_fifth_international_TT: "Пусть будет больше потенциальных членов, чем больше иностранных коммунистов и чем лучше их мнение о нас."
  SOV_territorial_demands_cores_TT: "Все территории бывшего §YСоветского Союза§! становятся национальными."
- SOV_bastion_of_democracy_TT: "£SOV_western_liberal §YЯблоко§! Доход §G5%§! Поддержки, и £SOV_western_conservative §YСоюз Правых Сил§! Доход §G5%§! Поддержки (Относительная популярность).\n"
+ SOV_bastion_of_democracy_TT: "£SOV_western_liberal §YЯблоко§! получает §G5%§! поддержки, и £SOV_western_conservative §YСоюз Правых Сил§! получает §G5%§! поддержки (Относительная популярность).\n"
  SOV_reduction_of_interest_rate_TT: "Введены в действие пакеты по снижению процентных ставок.\n"
  ##Конкретные подсказки для сторон, получающих поддержку
  #Единая Россия Популярность
