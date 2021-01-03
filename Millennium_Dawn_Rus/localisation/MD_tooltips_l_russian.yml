@@ -1524,7 +1524,7 @@
  SOV_root_out_the_nationalists_TT: "§YНационалисты! Внутри страны запрещен въезд в страну и £SOV_nationalist_right_wing_populist §YЛДПР§!"
  ##Подсказки по фокусировке##
  SOV_baltic_econ_tooltip_TT: "Каждое §YБалтийское государство§!, которое принимает, удалит §Y$10 Миллиардов§! из нашей Казначейства.\n"
- SOV_nationalize_oligarch_factories_toolie_TT: "Национализирует §YПять Фабрик§! из §Y[SOV.GetAdjective] Предпринимателей§!.\n"
+ SOV_nationalize_oligarch_factories_toolie_TT: "Национализирует §Yпять Фабрик§! §Y[SOV.GetAdjective] предпринимателей§!.\n"
  SOV_nationalize_foreign_industry_TT: "Национализирует §YТри Фабрики§! от иностранных компаний!\n"
  SOV_end_of_republic_TT: "Завершает §YДума§! и наделяет Жириновского полномочиями §YПрезидент Бессрочно§!.\n"
  SOV_claim_the_crown_TT: "§YЖириновский§! Притязает корону к §YРоссийской Империи§! и выдвигает Себя §YЦарем§! России!\n"
