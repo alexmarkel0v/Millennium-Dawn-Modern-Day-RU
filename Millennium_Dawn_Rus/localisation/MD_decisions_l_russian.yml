@@ -403,8 +403,8 @@
  EP_small_arms_open:0 "Открыть стрелковое оружие"
  EP_small_arms_close:0 "Закрыть стрелковое оружие"
  
- EP_cc_equi_open:0 "Открытое C&C оборудование"
- EP_cc_equi_close:0 "Close C&C equipment"
+ EP_cc_equi_open:0 "Открыть C&C оборудование"
+ EP_cc_equi_close:0 "Закрыть C&C оборудование"
  
  EP_anti_air_open:0 "Открыть ПЗРК"
  EP_anti_air_close:0 "Закрыть ПЗРК"
@@ -413,73 +413,73 @@
  EP_anti_tank_close:0 "Закрыть ПТРК"
  
  EP_artillery_open:0 "Открыть артиллерия"
- EP_artillery_close:0 "Закрыть артилерия"
+ EP_artillery_close:0 "Закрыть артиллерия"
  
  EP_transport_helicopters_open:0 "Открыть вертолетный транспорт"
  EP_transport_helicopters_close:0 "Закрыть вертолетный транспорт"
  
  #Air tab
- EP_air_cat:0 "Купить иностранный самолет"
- EP_air_close:0 "Закройте вкладку Air"
+ EP_air_cat:0 "Купить иностранные самолеты"
+ EP_air_close:0 "Закрыть иностранные самолеты"
  
  EP_ASF_open:0 "Открыть ASF"
- EP_ASF_close:0 "Закройте ASF"
+ EP_ASF_close:0 "Закрыть ASF"
  
- EP_MR_open:0 "Открыть мультироль"
- EP_MR_close:0 "Закройте мультироль"
+ EP_MR_open:0 "Открыть многоцелевые самолеты"
+ EP_MR_close:0 "Закрыть многоцелевые самолеты"
  
- EP_interceptor_open:0 "Открыть Interceptors"
- EP_interceptor_close:0 "Закройте Interceptors"
+ EP_interceptor_open:0 "Открыть перехватчики"
+ EP_interceptor_close:0 "Закрыть перехватчики"
  
- EP_CAS_open:0 "Открыть CAS"
- EP_CAS_close:0 "Закройте CAS"
+ EP_CAS_open:0 "Открыть штурмовики"
+ EP_CAS_close:0 "Закрыть штурмовики"
  
- EP_strike_fighter_open:0 "Открыть Strike Fighters"
- EP_strike_fighter_close:0 "Закройте Strike Fighters"
+ EP_strike_fighter_open:0 "Открыть ударные истребители"
+ EP_strike_fighter_close:0 "Закрыть ударные истребители"
  
- EP_attack_helicopters_open:0 "Открыть Attack Helicopters"
- EP_attack_helicopters_close:0 "Закройте Attack Helicopters"
+ EP_attack_helicopters_open:0 "Открыть штурмовые вертолеты"
+ EP_attack_helicopters_close:0 "Закрыть штурмовые вертолеты"
  
  EP_trainer_open:0 "Открыть Trainers"
- EP_trainer_close:0 "Закройте Trainers"
+ EP_trainer_close:0 "Закрыть Trainers"
  
  EP_UAV_open:0 "Открыть UAVs"
- EP_UAV_close:0 "Закройте UAVs"
+ EP_UAV_close:0 "Закрыть UAVs"
  
- EP_STR_open:0 "Открыть Strategic Bombers"
- EP_STR_close:0 "Закройте Strategic Bombers"
+ EP_STR_open:0 "Открыть страт. бомбардировщики"
+ EP_STR_close:0 "Закрыть страт. бомбардировщики"
  
  EP_TRA_open:0 "Открыть Transport Planes"
- EP_TRA_close:0 "Закройте Transport Planes"
+ EP_TRA_close:0 "Закрыть Transport Planes"
  
  EP_MAR_open:0 "Открыть MAR"
- EP_MAR_close:0 "Закройте MAR"
+ EP_MAR_close:0 "Закрыть MAR"
  
  EP_CV_MR_open:0 "Открыть CV Multirole"
- EP_CV_MR_close:0 "Закройте CV Multirole"
+ EP_CV_MR_close:0 "Закрыть CV Multirole"
  
- EP_CV_trainer_open:0 "Open CV Trainers"
- EP_CV_trainer_close:0 "Close CV Trainers"
+ EP_CV_trainer_open:0 "Открыть CV Trainers"
+ EP_CV_trainer_close:0 "Закрыть CV Trainers"
  
  #-Vehicle tab-#
  EP_vhc_cat:0 "Купить Foreign Vehicles"
- EP_vhc_close:0 "Закройте Vehicle tab"
+ EP_vhc_close:0 "Закрыть Vehicle tab"
  
  EP_mbt_open:0 "Открыть MBTs"
- EP_mbt_close:0 "Закройте MBTs"
+ EP_mbt_close:0 "Закрыть MBTs"
  
  EP_APC_open:0 "Открыть APCs"
- EP_APC_close:0 "Закройте APCs"
+ EP_APC_close:0 "Закрыть APCs"
  
- EP_IFV_open:0 "Открыть IFVs"
- EP_IFV_close:0 "Закройте IFVs"
+ EP_IFV_open:0 "Открыть БМП"
+ EP_IFV_close:0 "Закрыть БМП"
  EP_rec_open:0 "Открыть Recon/Light Tanks"
- EP_rec_close:0 "Закройте Recon/Light Tanks" 
+ EP_rec_close:0 "Закрыть Recon/Light Tanks" 
  EP_utility_open: "Открыть Utility Vehicles"
- EP_utility_close: "Закройте Utility Vehicles"
+ EP_utility_close: "Закрыть Utility Vehicles"
  
  EP_H_anti_tank_open:0 "Открыть Mounted ATGMs"
- EP_H_anti_tank_close:0 "Закройте Mounted ATGMs"
+ EP_H_anti_tank_close:0 "Закрыть Mounted ATGMs"
  
  ###-Weapon Localization-###
  #26 spaces for treasury symbol
