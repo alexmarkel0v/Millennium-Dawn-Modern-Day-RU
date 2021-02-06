@@ -1187,7 +1187,7 @@
 
  ###Generic Monetary Costs Tooltips###
  #Has x Amount of Money
- 1_billion_currently_in_treasury_tt: "Имеем §Y$1 миллиард§! в нашей казне\n"
+ 1_billion_currently_in_treasury_tt: "Имеем §Y$1 миллиард§! в нашей казне"
  1_4_billion_currently_in_treasury_tt: "Имеем §Y$1.4 миллиарда§! в нашей казне\n"
  1_5_billion_currently_in_treasury_tt: "Имеем §Y$1.5 миллиарда§! в нашей казне\n"
  2_billion_currently_in_treasury_tt: "Имеем §Y$2 миллиарда§! в нашей казне"
@@ -1196,7 +1196,7 @@
  5_billion_currently_in_treasury_tt: "Имеем §Y$5 миллиардов§! в нашей казне"
  6_billion_currently_in_treasury_tt: "Имеем §Y$6 миллиардов§! в нашей казне"
  7_billion_currently_in_treasury_tt: "Имеем §Y$7 миллиардов§! в нашей казне"
- 7_5_billion_currently_in_treasury_tt: "Имеем §Y$7.5 миллиарда§! в нашей казне\"
+ 7_5_billion_currently_in_treasury_tt: "Имеем §Y$7.5 миллиарда§! в нашей казне"
  8_billion_currently_in_treasury_tt: "Имеем §Y$8 миллиардов§! в нашей казне"
  9_billion_currently_in_treasury_tt: "Имеем §Y$9 миллиардов§! в нашей казне"
  10_billion_currently_in_treasury_tt: "Имеем §Y$10 миллиардов§! в нашей казне"
@@ -1650,9 +1650,9 @@
 
 
  ##Швитерсланд
- SWI_italian_forts_TT: "Удалить §Y$5.6 Миллиард§! из нашей казны\n"
- SWI_german_forts_TT: "Удалить §Y$2.2 Миллиард§! из нашей казны\n"
- SWI_french_forts_TT: "Удалить §Y$3.2 Миллиард§! из нашей казны\n"
+ SWI_italian_forts_TT: "Удалить §Y$5.6 миллиарда§! из нашей казны\n"
+ SWI_german_forts_TT: "Удалить §Y$2.2 миллиарда§! из нашей казны\n"
+ SWI_french_forts_TT: "Удалить §Y$3.2 миллиарда§! из нашей казны\n"
  SWI_additional_military_facilities_TT: "§RЕсли вы контролируете Австрию, этот фокус добавит больше военных заводов.§!.\nСтоимость каждой фабрики, построенной с учетом этой цели,§Y$5 Billion§! в нашу казну\n"
 
  ##
