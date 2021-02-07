@@ -15,7 +15,7 @@
  combat_second_influencer_decision: "Атаковать влияние государства [?var:FROM.influence_array^1.GetNameWithFlag]"
  combat_second_influencer_decision_desc: "Влияние государства [?var:FROM.influence_array^1.GetNameWithFlag] в нашей стране продолжается слишком долго. Пришло время показать нашему народу его истинные пути и то, как необходимо освободить их от власти нашего правительства!"
  combat_third_influencer_decision: "Атаковать влияние государства [?var:FROM.influence_array^2.GetNameWithFlag]"
- combat_third_influencer_decision_desc: "Влияние государства [?var:FROM.influence_array^2.GetNameWithFlag] нашей стране продолжается слишком долго. Пришло время показать нашему народу его истинные пути и то, как необходимо освободить их от власти нашего правительства!"
+ combat_third_influencer_decision_desc: "Влияние государства [?var:FROM.influence_array^2.GetNameWithFlag] в нашей стране продолжается слишком долго. Пришло время показать нашему народу его истинные пути и то, как необходимо освободить их от власти нашего правительства!"
 
  #Scripted GUI
  influencer1_text:0 "[From.GetName]"
