@@ -1,5 +1,4 @@
 ﻿l_russian:
-
  #Custom tooltips
  TT_RIO_PACT: "§R[From.GetName] могут призвать своих союзников по пакту Рио, чтобы помочь им в войне§!\n"
  TT_CALL_NATO: "§R[From.GetName] могут призвать своих союзников по НАТО помочь им в войне§!\n"
@@ -88,6 +87,7 @@
  has_reactionary_governemnt_or_in_coalition_TT: "Have a reactionary ruling party"
  has_autocratic_governemnt_or_in_coalition_TT: "Autocratic coalition or ruling party"
  has_totalitarian_government_or_in_coalition_TT: "Totalitarians in coalition"
+ 
  #Not has X government - For Custom Triggers
  not_has_pro_western_autocrat_government_TT: "§Y[Western_Autocracy_L]§! is Not in Power." #0
  not_has_conservatism_government_TT: "§Y[conservatism_L]§! is Not in Power." #1
@@ -113,6 +113,7 @@
  not_has_fascist_government_TT: "§Y[Nat_Fascism_L]§! is Not in Power." #21
  not_has_nat_autocracy_government_TT: "§Y[Nat_Autocracy_L]§! is Not in Power." #22
  not_has_monarchist_government_TT: "§Y[Monarchist_L]§! is Not in Power." #23
+ 
  #add_2_5_popularity_sub in scripted_effects
  2_5_increase_0_TT: "The §Y[Western_Autocracy_L]§! Gain §G2.5%§! Support.\n"
  2_5_increase_1_TT: "The §Y[conservatism_L]§! Gain §G2.5%§! Support.\n"
@@ -677,6 +678,7 @@
  10_decrease_23_TT: "The §Y[Monarchist_L]§! Lose §R10%§! Support.\n"
  15_decrease_23_TT: "The §Y[Monarchist_L]§! Lose §R15%§! Support.\n"
  20_decrease_23_TT: "The §Y[Monarchist_L]§! Lose §R20%§! Support.\n"
+ 
  #Economy
  econvent.from_booming_tt: "Will §Rlower§! our economic growth from §HBooming§!\n"
  econvent.from_fast_growth_tt: "Will §Rlower§! our economic growth from §HFast growth§!\n"
@@ -766,11 +768,6 @@
  ETH_zera_yacob_returns_TT: "Zera Yacob returns to Ethiopia!\n"
  ETH_imperial_guard_TT: "§GThe Kebur Zabagna was the Emperor's official guard. By restoring it, we will secure the new emperor security as well as its prestiege.§!"
  ETH_request_loans_TT: "Add to our treasury and to our debt §Y$25 Billion§!."
-
- #Italy Tooltips - Effect
- ITA_draw_closer_to_east_TT: "Relations between Russia and Italy has caused influence to §YRise§!\n"
- ITA_draw_closer_to_far_east_TT: "Our influence in the Far East Grows.\n §YAll Countries Mentioned Rise in Influence. China by the Most§!\n"
- ITA_befriend_america_TT: "§YАмериканское влияние Растет в Италии§!\n"
 
  #Myanmar/Burmas
  11_FortifyBangladesh_tt: "Add Level 3 §YForts§! Along the Bangladeshi Border"
@@ -870,6 +867,7 @@
  recognition_generic: "Правительство [FROM.GetLeader]"
 
  #China
+ CHI_small_influence_80_tt: "Gains §G80§! Chinese influence\n"
  CHI_bribe_decisions_tt: "Unlocks §YBribe Taiwanese Officers§! decision\n"
  CHI_increase_coup_support_tt: "Support for a coup in Taiwan increases\n"
  TAI_decrease_coup_support_tt: "Support for the government increases\n"
@@ -1059,6 +1057,22 @@
  CHI_aggression_less_0_tt: "§YChinese Aggression§! is §Y0§! or lower"
  CHI_aggression_less_-10_tt: "§YChinese Aggression§! is §Y-10§! or lower"
  CHI_aggression_less_-20_tt: "§YChinese Aggression§! is §Y-20§! or lower"
+ 
+ CHI_turkey_ask_patience_tt: "[CHI.GetFlag]§H[CHI.GetName]§! will be told the Varyag will wait for §HTwo Years§!."
+ CHI_turkey_negotiates_tt: "If [CHI.GetFlag]§H[CHI.GetName]§! accepts to pay:\n   Political Power: §G+50§!\n   Add §H50 Millions§! in our Treasury.\n   The Varyag will continue its journey after §HTwo Weeks§!"
+ CHI_turkey_reckless_tt: "The Varyag will go through §HToday§!.\n§RThere's a risk the hull can Capsize and Completely Block the Strait!§!"
+ CHI_china_bribes_tt: "If [TUR.GetFlag]§H[TUR.GetName]§! accepts our offer:\n   Political Power: §R-75§!\n   The Varyag will continue its journey in §HSix Months§!"
+ CHI_turkey_pressured_tt: "The success of pressuring [TUR.GetFlag]§H[TUR.GetName]§! will depend on how high our influence is."
+ CHI_varyag_two_weeks_tt: "The Varyag will pass through in §HTwo Weeks!§!"
+ CHI_varyag_waits_tt: "The Varyag will wait for §HTwo Years§!"
+ CHI_varyag_five_months_tt: "The Varyag will arrive in our waters approximately in §HFive Months§!."
+ CHI_varyag_suez_tt: "The Varyag will need to first dock and install an §HEnergy Source§! to pass through the Suez."
+ CHI_varyag_six_months_tt: "The Varyag will wait for §HSix Months§!"
+ CHI_varyag_six_months_continue_tt: "The journey will continue in §HSix Months§!"
+ CHI_varyag_two_years_tt: "The Varyag will wait for §HTwo Years§!"
+ CHI_accept_pressure_tt: "We will cave in to [CHI.GetFlag]§H[CHI.GetName]§! and:\n   The Varyag will continue its journey in §HTwo Weeks§!\n   Increases [CHI.GetFlag]§H[CHI.GetAdjective]§! influence in [TUR.GetFlag]§H[TUR.GetName]§! by around §G~2%§!"
+ CHI_resist_pressure_tt: "We will reject [CHI.GetFlag]§H[CHI.GetAdjective]§! demands and:\n    The Varyag will continue its journey in §HThree Years§!!"
+ CHI_varyag_construction_tt: "Adds the production of a §HLiaoning Carrier Class§!."
 
  #Internal Factions
  reduce_ruling_popularity_5_tt: "§Y[show_ruling_party]§! will lose §R5.00%§! of its support\n"
@@ -1118,6 +1132,11 @@
  debates_agree_tt:0 "\n§GУступки могут увеличить число сторонников закона§!\n"
  debates_disagree_tt:0 "\n§RОтказ от уступок сократит число сторонников закона§!\n"
  mercosur_focus_tt:0 "Member of Mercosur"
+ 
+ increase_domestic_influence_amount_TT: "Увеличится независимость от §Yвнешнего влияния§! на §Y10§!\n"
+ increase_domestic_influence_amount_50_TT: "Увеличится независимость от §Yвнешнего влияния§! на §Y50§!\n"
+ target_hostile_influence_TT: "[From.GetNameWithFlag]: влияние в государстве [Root.GetNameWithFlag] §Yуменьшится§! на §R15§!\n"
+ 
  battle_for_kirkuk_tt:0 "Есть один шанс из четырех, что мы выиграем битву!"
  tooltip_annexation:0 "Этот выбор приведет к нашей аннексии и положит конец правлению! \n"
  muslim_brotherhood_crackdown_tt:0 "Will set a §RCrackdown§! on the §HMuslim Brotherhood§!\n"
@@ -1132,9 +1151,11 @@
  JAP_add_pop_western_5_TT: "Various [Western_Autocracy_L_icon] Pro-Western parties gain §G+5.00%§! Popularity (Relative Popularity)\n"
  JAP_add_pop_fascist_5_TT: "The §Y[Nat_Fascism_L]§! gains §G+5.00%§! Popularity (Relative Popularity)\n"
  JAP_add_pop_fascist_10_TT: "The §Y[Nat_Fascism_L]§! gains §G+10.00%§! Popularity (Relative Popularity)\n"
+ 
  JAP_add_pop_Monarchist_10_TT: "The §Y[Monarchist_L]§! gains §G+10.00%§! Popularity (Relative Popularity)\n"
  JAP_add_pop_Communist_State_75_TT: "The §Y[Communist-State_L]§! gains §G+7.50%§! Popularity (Relative Popularity)\n"
  JAP_add_pop_neutrality_communism_25_TT: "The §Y[Neutral_Communism_L]§! gains §G+2.50%§! Popularity (Relative Popularity)\n"
+ 
  JAP_new_emperor_TT: "Puts the §Y[Monarchist_L]§! in power, restoring our old ways of monarchy and the good days of Hirohito."
  TT_korea_united_under_democracy: "Korea is united under a democratric government"
  TT_china_united_under_democracy: "China is united under a democractic government"
@@ -1214,6 +1235,7 @@
  100_billion_currently_in_treasury_tt: "Имеем §Y$100 миллиардов§! в нашей казне"
 
  #Revenues
+ 50_million_revenue_tt: "Будет получено §Y$50 миллионов§! в нашу казну"
  100_million_revenue_tt: "Будет получено §Y$100 миллионов§! в нашу казну"
  150_million_revenue_tt: "Будет получено §Y$150 миллионов§! в нашу казну"
  200_million_revenue_tt: "Будет получено §Y$200 миллионов§! в нашу казну"
@@ -1244,6 +1266,7 @@
  26_25_billion_revenue_tt: "Будет получено §Y$26.25 миллиарда§! в нашу казну"
  100_billion_revenue_tt: "Будет получено §Y$100 миллиардов§! в нашу казну"
  #Expenses
+ 50_million_expense_tt: "Будет выделено §Y$50 миллионов§! из нашей казны\n"
  250_million_expense_tt: "Будет выделено §Y$250 миллионов§! из нашей казны"
  450_million_expense_tt: "Будет выделено §Y$450 миллионов§! из нашей казны"
  0_5_billion_expense_tt: "Будет выделено §Y$0.5 миллиарда§! из нашей казны"
@@ -1292,31 +1315,37 @@
  80_billion_expense_tt: "Будет выделено §Y$80 миллиардов§! из нашей казны"
  90_billion_expense_tt: "Будет выделено §Y$90 миллиардов§! из нашей казны"
  100_billion_expense_tt: "Будет выделено §Y$100 миллиардов§! из нашей казны"
+ 120_billion_expense_tt: "Будет выделено §Y$100 миллиардов§! из нашей казны"
  150_billion_expense_tt: "Будет выделено §Y$150 миллиардов§! из нашей казны"
  170_billion_expense_tt: "Будет выделено §Y$170 миллиардов§! из нашей казны"
  180_billion_expense_tt: "Будет выделено §Y$180 миллиардов§! из нашей казны"
  200_billion_expense_tt: "Будет выделено §Y$200 миллиардов§! из нашей казны"
+ 300_billion_expense_tt: "Будет выделено §Y$300 миллиардов§! из нашей казны"
  1_trillion_expense_tt: "Будет выделено §Y$1 триллион§! из нашей казны"
+ add_zhejiang_pop_tt: "Численность населения Чжэцзяна §Yувеличится§! на §Y42 миллиона человек§!\n"
+ remove_fujian_pop_tt: "Численность населения Фуцзяня §Yуменьшится§! на §Y12 миллионов человек§!\n"
+ remove_guanxi_pop_tt: "Численность населения Гуанси §Yуменьшится§! на §Y11 миллионов человек§!\n"
+ remove_hunan_pop_tt: "Численность населения Хунаня §Yуменьшится§! на §Y8 миллионов человек§!\n"
+ remove_jiangxi_pop_tt: "Численность населения Цзянси §Yуменьшится§! на §Y7 миллионов человек§!\n"
+ remove_guizhou_pop_tt: "Численность населения Гуйчжоу §Yуменьшится§! на §Y5 миллионов человек§!\n"
  ##Influence Gain
- gain_5_domestic_influence_TT: "Gain 5 §YDomestic Influence§!\n"
- gain_10_domestic_influence_TT: "Gain 10 §YDomestic Influence§!\n"
- gain_20_domestic_influence_TT: "Gain 20 §YDomestic Influence§!\n"
- gain_30_domestic_influence_TT: "Gain 30 §YDomestic Influence§!\n"
- gain_40_domestic_influence_TT: "Gain 40 §YDomestic Influence§!\n"
- gain_50_domestic_influence_TT: "Gain 50 §YDomestic Influence§!\n"
+ gain_5_domestic_influence_TT: "Увеличение независимости от §Yвнешнего влияния§! на §Y5§!\n"
+ gain_10_domestic_influence_TT: "Увеличение независимости от §внешнего влияния§! на §Y10§!\n"
+ gain_20_domestic_influence_TT: "Увеличение независимости от §внешнего влияния§! на §Y20§!\n"
+ gain_30_domestic_influence_TT: "Увеличение независимости от §внешнего влияния§! на §Y30§!\n"
+ gain_40_domestic_influence_TT: "Увеличение независимости от §внешнего влияния§! на §Y40§!\n"
+ gain_50_domestic_influence_TT: "Увеличение независимости от §внешнего влияния§! на §Y50§!\n"
  gain_10_RAJ_influence_tt: "Gain §G10§! [RAJ.GetAdjective] influence\n"
-
-                                                                        
-                                                                        
+                                                            
  small_influence_50_tt: "Gains §G50§! [ROOT.GetAdjective] influence\n"
  FROM_influence_50_tt: "Gains §R50§! [FROM.GetAdjective] influence\n"
 
  #Debt
- add_1_billion_debt_tt: "Gains §R$1 Billion§! in debt\n"
- add_5_billion_debt_tt: "Gains §R$5 Billion§! in debt\n"
- subtract_6_billion_debt_tt: "§G$6 Billion§! in debt is written off\n"
- subtract_11_billion_debt_tt: "§G$11 Billion§! in debt is written off\n"
- 30_billion_debt_tt: "Has more than §Y$30 Billion§! in debt\n"
+ add_1_billion_debt_tt: "Долг будет увеличен на §R$1 миллиард§!\n"
+ add_5_billion_debt_tt: "Долг будет увеличен на §R$5 миллиардов§!\n"
+ subtract_6_billion_debt_tt: "Будет списано §G$6 миллиардов§! долга\n"
+ subtract_11_billion_debt_tt: "Будет списано §G$11 миллиардов§! долга\n"
+ 30_billion_debt_tt: "Имеет более чем §Y$30 миллиардов§! долга\n"
 
  #Poland#
  POL_newpath_TT: "§YДля того, чтобы успешно пройти этот путь, Вам необходимо использовать как Фокус, так и Политическую Систему!§!"
@@ -1329,173 +1358,11 @@
  POL_polish_influence_5_TT: "§Y[POL.GetAdjective]§! Influence Rises.§!\n"
  POL_polish_influence_10_TT: "§Y[POL.GetAdjective]§! Influence Rises.§!\n"
  POL_lit_addmoney_10_TT: "Add §Y$10 Billion§! to their Treasury§!\n"
- POL_form_plc_TT: "§Y Польша станет Польшей-Литвой и получит ядра на литовской земле.§!\n"
+ POL_form_plc_TT: "§Y Польша станет Речь Посполитой и литовские земли станут национальными.§!\n"
  POL_reunification_TT: "§B Чем выше влияние на Литву, тем выше шансы, что они примут Ваше предложение!§!\n"
 
-        
-                       
-                         
-                                                                                
-                                                                                  
-                                                                                  
-                                                                                 
-                                                                                 
-                                       
-           
-             
-                                                                                             
-                                                                                              
-                                                                                                                              
-                                                                                                               
-          
-                                                                                               
-                                                                                               
-                                                                                                
-                                                                                                  
-                                                                                                
-                                                                                                
-            
-                                                                                                    
-                                                                                                    
-                                                                                                    
-                      
-                                                                                                          
-                                                                                                          
-               
-       
-                                                                                                    
-                                                                                                    
-                                                                                                      
-       
-                                                                                                    
-                                                                                                    
-                       
-          
-                                                                                                       
-                                                                                                                
-       
-                                                                                                             
-                                                                                                             
-                  
-                                                                                                                      
-                    
-      
-                                                                                                     
-                                                                                                     
-        
-                                                                                                      
-                                                                                                      
-       
-       
-                                                                                                      
-                                                                                                      
-       
-                                                                                                       
-                                                                                                       
-             
-                                                                                                
-                                                                                                        
-                  
-                                                                                                                                                                                                                                                           
-                                                                                                                                                                                          
-            
-                                                                     
-                                                                       
-                                  
-
-                       
-                                                                                    
-                                                                                
-                                                                                                                
-                                                                                     
-                                                                            
-                                                                 
-                                                                                                      
-                                                                                
-                                                        
-                                                                                                       
-                                                         
-                                                                                                              
-
-                                                                   
-                                                                          
-               
-                                                                                                          
-                                                                         
-                                                           
-
-          
-                                                                                                    
-                                                                                                    
-                                                                                                      
-                                                                                                     
-                                                                                                     
-                                                                                                     
-          
-                                                                                                
-                                                                                                
-                                                                                                  
-                                                                                                 
-                                                                                                 
-                                                                                                 
-
-          
-                                                                                          
-                                                                                          
-                                                                                          
-
-                                                                                      
-                                                                                      
-                                                                                      
-
-                        
-                                                                                                                              
-                                                                                                                               
-                                                                                                                                 
-                                                                                                                               
-                                                                                                                                
-                                                                                                                                   
-                                                                                                                                   
-                                                                                                                                      
-                                                                                                                                     
-                                                                                                                                     
-                  
-                                                                                                           
-                                                                                                           
-                                                                                                             
-                                                                                                                
-                                                                                                                
-                                                                                                                  
-                     
-                                                                                                                      
-                                                                                                                      
-                                                                                                                        
-                                                                                                                       
-                                                                                                                       
-                                                                                                                           
-                                                                                                                           
-                                                                                                                             
-                                                                                                                            
-                                                                                                                            
-                           
-                                                                                                                         
-                                                                                                                         
-                                                                                                                           
-                                                                                                                          
-                                                                                                                          
-                                                                                                                              
-                                                                                                                              
-                                                                                                                                
-                                                                                                                               
-                                                                                                                               
-
  ###Soviet Tooltips###
-
-                                                                                
-                                                                                  
-                                                                                  
-                                                                                 
-                                                                                 
+ 
  ##Internal Factions
  SOV_fossil_fuel_increase_TT: "§Y[SOV.GetAdjective] Энергетические предприятия§! - мнение §GУвеличивается§!\n"
  SOV_fossil_fuel_decrease_TT: "§Y[SOV.GetAdjective] Энергетические предприятия§! - мнение §RУменьшается§!\n"
@@ -1650,11 +1517,17 @@
 
 
  ##Швитерсланд
- SWI_italian_forts_TT: "Удалить §Y$5.6 миллиарда§! из нашей казны\n"
- SWI_german_forts_TT: "Удалить §Y$2.2 миллиарда§! из нашей казны\n"
- SWI_french_forts_TT: "Удалить §Y$3.2 миллиарда§! из нашей казны\n"
+ SWI_italian_forts_TT: "Будет выделено §Y$5.6 миллиарда§! из нашей казны\n"
+ SWI_german_forts_TT: "Будет выделено §Y$2.2 миллиарда§! из нашей казны\n"
+ SWI_french_forts_TT: "Будет выделено §Y$3.2 миллиарда§! из нашей казны\n"
  SWI_additional_military_facilities_TT: "§RЕсли вы контролируете Австрию, этот фокус добавит больше военных заводов.§!.\nСтоимость каждой фабрики, построенной с учетом этой цели,§Y$5 Billion§! в нашу казну\n"
 
  ##
  ##Iran
-PER_increase_influence_5_TT: "Увеличить 5 иранское влияние"
+ PER_increase_influence_5_TT: "Увеличить 5 иранское влияние"
+
+ #Custom Econoimc trigger
+ consumes_more_than_produced_steel_tt: "[ROOT.GetNameWithFlag] Consumes more Steel than Produced."
+ consumes_more_than_produced_aluminium_tt: "[ROOT.GetNameWithFlag] Consumes more Light Metals than Produced."
+ consumes_more_than_produced_oil_tt: "[ROOT.GetNameWithFlag] Consumes more Oil than Produced."
+ consumes_more_than_produced_tungsten_tt: "[ROOT.GetNameWithFlag] Consumes more Technology Metals than Produced."

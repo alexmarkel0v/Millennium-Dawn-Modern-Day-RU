@@ -40,7 +40,6 @@
  H_infantry_weapons7:0 "Т. оружие 2035 года"
  H_infantry_weapons7_desc:1 "Тяжелое пехотное оружие - это пехотное оружие, которому для перемещения и управления нужен целый экипаж, например, тяжелые пулеметы и минометы. Оружие и солдаты, которые им управляют, обычно организованы в оружейные отряды."
  
-
  ###MSG WIP###
  diesel_attack_submarine_desc: ""
  Nuclear_carrier_desc: ""
@@ -1153,7 +1152,7 @@
  CZE_command_control_equipment4:0 "RF-1325"
  CZE_command_control_equipment4_desc:0 "C4I (Command, Control, Communications, Computers, Intelligence, and Interoperability) is the fourth generation of C2 equipment. Command and Control Equipment is the system empowering leadership to exercise authority and direction over assigned forces for the accomplishment of missions and tasks. Efficient Command and Control leads to greater organization and morale. C4I (Command, Control, Communications, Computers, Intelligence, and Interoperability) is the fourth generation of C2 equipment."
  CZE_command_control_equipment5:0 "RF-1350"
- CZE_command_control_equipment2_desc:0 "C4ISTAR (Command, Control, Communications, Computers, Intelligence, Interoperability, Surveillance, Target Acquisition, and Reconnaissance) is the Fifth generation of C2 equipment. Command and Control Equipment is the system empowering leadership to exercise authority and direction over assigned forces for the accomplishment of missions and tasks. Efficient Command and Control leads to greater organization and morale."
+ CZE_command_control_equipment6_desc:0 "C4ISTAR (Command, Control, Communications, Computers, Intelligence, Interoperability, Surveillance, Target Acquisition, and Reconnaissance) is the Fifth generation of C2 equipment. Command and Control Equipment is the system empowering leadership to exercise authority and direction over assigned forces for the accomplishment of missions and tasks. Efficient Command and Control leads to greater organization and morale."
  CZE_command_control_equipment6:0 "RF-13250"
  CZE_command_control_equipment6_desc:0 "C4ISTAR (Command, Control, Communications, Computers, Collaboration, Intelligence, Interoperability, Surveillance, Target Acquisition, and Reconnaissance ) is the Seventh generation of C2 equipment. Command and Control Equipment is the system empowering leadership to exercise authority and direction over assigned forces for the accomplishment of missions and tasks. Efficient Command and Control leads to greater organization and morale."
 
@@ -1791,7 +1790,7 @@
  HOL_util_vehicle_2: "Lohr Luchtmobiel Speciaal Voertuig"
  HOL_util_vehicle_2_short: "Lohr VLA"
  HOL_util_vehicle_3: "Fennek" #co-developed with GER
- HOL_util_vehicle_4: "VECTOR"LGS Fennek"
+ HOL_util_vehicle_4: "VECTOR LGS Fennek"
  HOL_IFV_2: "YPR-765"
  HOL_IFV_2_short: "YPR-765"
 
@@ -1896,7 +1895,7 @@
  ENG_infantry_weapons4: "L85A3"
  ENG_infantry_weapons5: "L87A1" #Fictional
  ENG_infantry_weapons6: "L87A2" #Fictional
- ENG_infantry_weapons6: "L88A1" #Fictional
+ ENG_infantry_weapons7: "L88A1" #Fictional
 
  ENG_Anti_Air_0: "FIM-43 Redeye"
  ENG_Anti_Air_0_desc: "Developed by our own General Dynamics, this missile system uses passive infared homing to track aircraft based on the heat from their exhaust, after the operator tracks their target visually as they would any other small arms. Requiring a direct hit to be lethal, this weapon is crude yet effective."
@@ -2175,96 +2174,216 @@
  ISI_artillery_0_short:0 "Hell Cannon"
 
  ### Italy ###
- ITA_infantry_weapons: "FNFAL"
- ITA_infantry_weapons1: "AR70/90"
- ITA_infantry_weapons2: "AR70/223"
- ITA_infantry_weapons3: "AR70/224"
- ITA_infantry_weapons4: "Beretta ARX160"
- ITA_infantry_weapons5: "Beretta ARX160A2"
- ITA_infantry_weapons6: "Beretta ARX160A3"
+ ITA_infantry_weapons: "AR70/223"
+ ITA_infantry_weapons1: "AR70/224"
+ ITA_infantry_weapons2: "AR70/90"
+ ITA_infantry_weapons3: "SCP70/90"
+ ITA_infantry_weapons4: "ARX160A1"
+ ITA_infantry_weapons5: "ARX160A3"
+ ITA_infantry_weapons6: "ARX160A5"
+ ITA_infantry_weapons7: "ARX260A1"
 
- FDG_1: "M-113"
+ ITA_command_control_equipment: "BFT"
+ ITA_command_control_equipment_desc: "C&C Equipment from Cold-war era produced with Slovakia at the Czechoslovak era."
+ ITA_command_control_equipment1: "LC2"
+ ITA_command_control_equipment1_desc: "C2 (Command and Control) is the first generation of C2 equipment. Command and Control Equipment is the system empowering leadership to exercise authority and direction over assigned forces for the accomplishment of missions and tasks. Efficient Command and Control leads to greater organization and morale. "
+ ITA_command_control_equipment2: "LC2EVO"
+ ITA_command_control_equipment2_desc: "C3 (Command, Control & Communication) is the second generation of C2 equipment. Command and Control Equipment is the system empowering leadership to exercise authority and direction over assigned forces for the accomplishment of missions and tasks. Efficient Command and Control leads to greater organization and morale. "
+ ITA_command_control_equipment3: "SICCONA"
+ ITA_command_control_equipment3_desc: "C3ISTAR (Command, Control & Communication, Intelligence, Surveillance, Target Acquisition, and Reconnaissance) is the third generation of C2 equipment. Command and Control Equipment is the system empowering leadership to exercise authority and direction over assigned forces for the accomplishment of missions and tasks. Efficient Command and Control leads to greater organization and morale."
+ ITA_command_control_equipment4: "SIACCON ADV"
+ ITA_command_control_equipment4_desc: "C4I (Command, Control, Communications, Computers, Intelligence, and Interoperability) is the fourth generation of C2 equipment. Command and Control Equipment is the system empowering leadership to exercise authority and direction over assigned forces for the accomplishment of missions and tasks. Efficient Command and Control leads to greater organization and morale. C4I (Command, Control, Communications, Computers, Intelligence, and Interoperability) is the fourth generation of C2 equipment."
+ ITA_command_control_equipment5: "SIACCON NCW"
+ ITA_command_control_equipment5_desc: "C4ISTAR (Command, Control, Communications, Computers, Intelligence, Interoperability, Surveillance, Target Acquisition, and Reconnaissance) is the Fifth generation of C2 equipment. Command and Control Equipment is the system empowering leadership to exercise authority and direction over assigned forces for the accomplishment of missions and tasks. Efficient Command and Control leads to greater organization and morale."
+ ITA_command_control_equipment6: "SIACCON NCW ADV"
+ ITA_command_control_equipment6_desc: "C4ISTAR (Command, Control, Communications, Computers, Collaboration, Intelligence, Interoperability, Surveillance, Target Acquisition, and Reconnaissance ) is the Seventh generation of C2 equipment. Command and Control Equipment is the system empowering leadership to exercise authority and direction over assigned forces for the accomplishment of missions and tasks. Efficient Command and Control leads to greater organization and morale."
+
+
+ ITA_land_Drone_equipment: "Sistema Micro-APR RQ-9A/B" #Fictional
+ ITA_land_Drone_equipment_desc: "First-generation hand-launched drone equipped with basic reconnaissance optics enabling real-time link to the operator's field control computer. It has internal storage for half hour of taken video and fuel for 30 min of flight. It is launched by hand and also used for searching for radio signals."
+ ITA_land_Drone_equipment1: "Sistema Micro-APR RQ-11B/C “RAVEN B/DDL”"
+ ITA_land_Drone_equipment1_desc: "Second-generation drone launched with rocket engine from launcher vehicle. The drone is operated from monitoring vehicle and can be also used for target acquisition and jamming. The drone has height ceiling of 4km and 120km range."
+ ITA_land_Drone_equipment2: "Sistema Micro-APR STRIX-C"
+ ITA_land_Drone_equipment2_desc: "Upgraded version of RAVEN drone with more endurance, fuel load and increased reliability in sand and dust environments. The drone is made from composite materials extending its range to over 180km "
+ ITA_land_Drone_equipment3: "Sistema Tattico-APR RQ-7C “SHADOW 200”"
+ ITA_land_Drone_equipment3_desc: "Surveillance drone designed specially into urban areas equipped with 2nd generation IR/NV and latest jamming devices. Capable of carrying some cargo of his platoon to ease and mostly speed travel times between destinations and objectives.."
+ ITA_land_Drone_equipment4: "Sistema Micro-APR SIXTON-A"
+ ITA_land_Drone_equipment4_desc: "Drone utilizing advancements in stealth technologies, making this small target even smaller. It has High altitude-capable propeller engine and is capable of taking control of less advanced drones by using its directed signals. Its ceiling is 10km and RCS bellow 0.0001."
+ ITA_land_Drone_equipment5: "Sistema Tattico-APR RQ-9A “SHADOW 300”" #Fictional
+ ITA_land_Drone_equipment5_desc: "Invisible drone with internal storage. It is capable of flying to its objective unspotted because it has projectors on its skin mimicking the sky and clouds or other obstacles. The drone can then utilize its cargo, sensors or equipment inside its cargo bay. It has very quiet rotor blades allowing him to be unheard 1km above ground."
+
+
+ ITA_APC_1: "M-113"
  ITA_APC_1_short: "M-113"
- ITA_APC_2: "VCC-1 Camillino"
- ITA_APC_2_short: "VCC-1 Camillino"
- ITA_APC_3: "VCC-2"
- ITA_APC_3_short: "VCC-2"
- ITA_APC_4: "Puma (AFV)"
- ITA_APC_4_short: "Puma (AFV)"
- ITA_APC_5: "Puma II"
- ITA_APC_5_short: "Puma II"
- ITA_APC_6: "Praetorian"
- ITA_APC_6_short: "Praetorian"
- ITA_APC_7: "Praetorian II"
- ITA_APC_7_short: "Praetorian II"
+ ITA_APC_2: "Fiat OTO Melara Tipo 6614"
+ ITA_APC_2_short: "FIAT 6614"
+ ITA_APC_3: "Fiat OTO Melara Tipo 6616"
+ ITA_APC_3_short: "FIAT 6616"
+ ITA_APC_4: "VBLM Puma 4x4"
+ ITA_APC_4_short: "VBLM Puma 4x4"
+ ITA_APC_5: "VBLM Puma 6x6"
+ ITA_APC_5_short: "VBLM Puma 6x6"
+ ITA_APC_6: "VBM 8x8 Freccia"
+ ITA_APC_6_short: "VBM 8x8 Freccia"
+ ITA_APC_7: "VBM Freccia Hitfist"
+ ITA_APC_7_short: "VBM Freccia Hitfist"
+ ITA_APC_8_: "VBM Freccia II"
+ ITA_APC_8_short: "VBM Freccia II"
+
+ ITA_Air_APC_1: "M113 ATL" #Fictional
+ ITA_Air_APC_1_desc: "Airborne version of the M113 Skot. It main difference is replacement of two passenger seats with parachute boxes with hatches behind the vehicle's turret. It reduces the passenger capacity to 16 or 4x Fire Squadron."
+ ITA_Air_APC_2: "FIAT 6614 ATL" #Fictional
+ ITA_Air_APC_2_desc: "Airborne version of the FIAT 6614. Has same features but has slightly reduced internal space due to parachutes fitted inside of the vehicle."
+ ITA_Air_APC_3: "FIAT 6616 ATL" #Fictional
+ ITA_Air_APC_3_desc: "Airborne version of the FIAT 6616."
+ ITA_Air_APC_4: "VBLM Puma 4x4 ATL" #Fictional
+ ITA_Air_APC_4_desc: "The VBLM Puma 4x4 is Airbone"
+ ITA_Air_APC_5: "VBLM Puma 6x6 ATL" #Fictional
+ ITA_Air_APC_5_desc: "The VBLM Puma 6x6 is Airbone"
+ ITA_Air_APC_6: "VBM 8x8 Freccia ATL" #Fictional
+ ITA_Air_APC_6_desc: "Airborne version of the VBM Freccia with Armor Package ATL, the lightened composite armor to enable the vehicle to be lighter."
+ ITA_Air_APC_7: "VBM 8x8 Freccia Hitfist ATL" #Fictional
+ ITA_Air_APC_7_desc: "Airborne version of the Freccia Hitfist with Armor Package ATL."
+ ITA_Air_APC_8: "VBM Freccia II" #Fictional
+ ITA_Air_APC_8_desc: "Airborne version of the Freccia II features only auto-cannon due to weight restraints."
+
 
  ITA_Amph_APC_2: "VCC-1"
  ITA_Amph_APC_2_short: "VCC-1"
+ ITA_Amph_APC_3: "VCC-2"
+ ITA_Amph_APC_4: "AAV7"
 
  ITA_IFV_1: "M-114"
  ITA_IFV_1_short: "M-114"
- ITA_IFV_2: "Type 6614"
- ITA_IFV_2_short: "Type 6614"
- ITA_IFV_3: "Dardo IFV"
- ITA_IFV_3_short: "Dardo IFV"
- ITA_IFV_4: "Dardo II"
- ITA_IFV_4_short: "Dardo II"
- ITA_IFV_5: "Freccia"
- ITA_IFV_5_short: "Freccia II"
- ITA_IFV_6: "Freccia II"
- ITA_IFV_6_short: "Freccia"
- ITA_IFV_7: "Freccia III"
- ITA_IFV_7_short: "Freccia III"
- ITA_IFV_8: "Julia"
- ITA_IFV_8_short: "Julia"
+ ITA_IFV_2: "VCC-1 Camillino"
+ ITA_IFV_2_short: "VCC-1 Camillino"
+ ITA_IFV_3: "VCC-2"
+ ITA_IFV_3_short: "VCC-2"
+ ITA_IFV_4: "VCC Dardo"
+ ITA_IFV_4_short: "VCC Dardo"
+ ITA_IFV_5: "VCC Dardo hitfist"
+ ITA_IFV_5_short: "Dardo hitfist"
+ ITA_IFV_6: "VCC Dardo Aggiornamento Capacità Operative"
+ ITA_IFV_6_short: "VCC Dardo ACO"
+ ITA_IFV_7: "VCC Dardo II"
+ ITA_IFV_7_short: "VCC Dardo II"
+ ITA_IFV_8: "VCC Dardo II Aggiornamento Capacità Operative"
+ ITA_IFV_8_short: "VCC Dardo II ACO"
+
+ ITA_Air_IFV_1: "M-114 AvioTrasportabile e Lanciabile"
+ ITA_Air_IFV_1_short: "M-114 ATL"
+ ITA_Air_IFV_2: "VCC-1 Camillino AvioTrasportabile e Lanciabile"
+ ITA_Air_IFV_2_short: "VCC-1 ATL"
+ ITA_Air_IFV_3: "VCC-2 AvioTrasportabile e Lanciabile"
+ ITA_Air_IFV_3_short: "VCC-2 ATL"
+ ITA_Air_IFV_4: "VCC Dardo AvioTrasportabile e Lanciabile" #Fictional
+ ITA_Air_IFV_4_short: "VCC Dardo ATL" #Fictional
+ ITA_Air_IFV_5: "VCC Dardo Hitfist AvioTrasportabile e Lanciabile"
+ ITA_Air_IFV_5_short: "Dardo HF ATL"
+ ITA_Air_IFV_6: "VCC Dardo AMV AvioTrasportabile e Lanciabile"
+ ITA_Air_IFV_6_short: "Dardo ACO ATL"
+ ITA_Air_IFV_7: "VCC Dardo II AvioTrasportabile e Lanciabile"
+ ITA_Air_IFV_7_short: "Dardo II ATL"
+ ITA_Air_IFV_8: "Dardo II ACO AvioTrasportabile e Lanciabile" #Fictional
+ ITA_Air_IFV_8_short: "Dardo II ACO ATL" #Fictional
 
  ITA_MBT_1: "Leopard 1"
  ITA_MBT_1_short: "Leopard 1"
- ITA_MBT_2: "OF-40 Mk.1"
- ITA_MBT_2_short: "OF-40 Mk.1"
- ITA_MBT_3: "OF-40 Mk.2"
- ITA_MBT_3_short: "OF-40 Mk.2"
- ITA_MBT_4: "C1 Ariete"
- ITA_MBT_4_short: "C1 Ariete"
- ITA_MBT_5: "C1B Ariete"
- ITA_MBT_5_short: "C1B Ariete"
- ITA_MBT_7: "C2 Imperator"
- ITA_MBT_7_short: "C2 Imperator"
- ITA_MBT_8: "C3 Augustus"
- ITA_MBT_8_short: "C3 Augustus"
+ ITA_MBT_2: "Leopard 1A2"
+ ITA_MBT_2_short: "Leopard 1A2"
+ ITA_MBT_3: "Leopard 1A5"
+ ITA_MBT_3_short: "Leopard 1A5"
+ ITA_MBT_4: "MBT Ariete"
+ ITA_MBT_4_short: "MBT Ariete"
+ ITA_MBT_5: "MBT Ariete AMV"
+ ITA_MBT_5_short: "MBT Ariete AMV"
+ ITA_MBT_7: "MBT Ariete II"
+ ITA_MBT_7_short: "MBT Ariete II"
+ ITA_MBT_8: "MBT Ariete II AMV"
+ ITA_MBT_8_short: "MBT Ariete II AMV"
 
  ITA_Rec_tank_0: "M47"
  ITA_Rec_tank_0_short: "M47"
- ITA_Rec_tank_1: "M48A5"
- ITA_Rec_tank_1_short: "M48A5"
- ITA_Rec_tank_2: "B1 Centauro"
- ITA_Rec_tank_2_short: "B1 Centauro"
- ITA_Rec_tank_3: "Centauro II"
+ ITA_Rec_tank_1: "M60A1"
+ ITA_Rec_tank_1_short: "M60A1"
+ ITA_Rec_tank_2: "Blindo Centauro"
+ ITA_Rec_tank_2_short: "Centauro"
+ ITA_Rec_tank_3: "Blindo Centauro II"
  ITA_Rec_tank_3_short: "Centauro II"
- ITA_Rec_tank_4: "leonardo M60"
- ITA_Rec_tank_4_short: "leonardo M60"
- ITA_Rec_tank_5: "M65I"
- ITA_Rec_tank_5_short: "M65I"
+ ITA_Rec_tank_4: "Blindo Centauro II Hitfist"
+ ITA_Rec_tank_4_short: "Centauro II Hitfist"
+ ITA_Rec_tank_5: "Blindo Centauro II Aggiornamento Capacità Operative"
+ ITA_Rec_tank_5_short: "Centauro II ACO"
 
- ITA_SP_arty_1: "Palmaria"
- ITA_SP_arty_1_short: "Palmaria"
+ ITA_SP_arty_1: "M109L 155/39"
+ ITA_SP_arty_1_short: "M109L 155/39"
+ ITA_SP_arty_2: "Semovente PzH 2000"
+ ITA_SP_arty_2_short: "PzH 2000"
+ ITA_SP_arty_3: "Centauro 155/39 LW Porcospino"
+ ITA_SP_arty_3_short: "Centauro 155/39 LW"
+ ITA_SP_arty_4: "Freccia II 155/47"
+ ITA_SP_arty_4_short: "Freccia II 155/47"
 
- ITA_SP_R_arty_1: "FIROS-25/30"
+ ITA_SP_R_arty_0: "RS 80 MARS"
+ ITA_SP_R_arty_1: "MLRS"
+ ITA_SP_R_arty_2: "MLRS-1"
+ ITA_SP_R_arty_3: "GMLRS"
+ ITA_SP_R_arty_4: "GMLRS-1"
 
  ITA_artillery_0: "OTO-Melara Mod 56"
- ITA_artillery_1: "FH-70"
+ ITA_artillery_1: "Obice 155/39 FH-70"
+ ITA_artillery_2: "Obice 155/33 FH-77"
+ ITA_artillery_3: "Obice 155/33 FH-77A2"
+ ITA_artillery_3_short: "Obice FH-77A2"
+ ITA_artillery_4: "Obice 155/45 FH-90"
 
- ITA_SP_Anti_Air_0: "Spada"
- ITA_SP_Anti_Air_1: "Spada 2000"
+ ITA_SP_Anti_Air_0: "M163 VADS"
+ ITA_SP_Anti_Air_0_short: "M163"
+ ITA_SP_Anti_Air_1: "Sistema Italiano Difesa Aerea Mobile 25"
+ ITA_SP_Anti_Air_1_short: "SIDAM 25"
+ ITA_SP_Anti_Air_2: "Sistema Italiano Difesa Aerea Mobile MISTRAL"
+ ITA_SP_Anti_Air_2_short: "SIDAM 25 MISTRAL"
+ ITA_SP_Anti_Air_3: "Centauro 76/62 Draco"
+ ITA_SP_Anti_Air_3_short: "Centauro 76/62"
+ ITA_SP_Anti_Air_4: "Centauro 76/62 Draco II"
+ ITA_SP_Anti_Air_4_short: "Centauro 76/62 II"
 
- ITA_util_vehicle_0: "M151 Jeep"
- ITA_util_vehicle_1: "M561 Gama Goat"
- ITA_util_vehicle_2: "Humvee"
- ITA_util_vehicle_3: "M1113 Humvee ECV"
- ITA_util_vehicle_4: "Iveco LMV"
- ITA_util_vehicle_5: "Iveco LMV II"
- ITA_util_vehicle_6: "Iveco LMV III"
- ITA_util_vehicle_7: "AOPIMU-I"
+ ITA_Anti_tank_0: "M72A5"
+ ITA_Anti_tank_1: "MILAN"
+ ITA_Anti_tank_2: "SPIKE MR/LR"
+ ITA_Anti_tank_3: "SPIKE MR/LR II"
+ ITA_Anti_tank_4: "SPIKE MR/LR III"
+
+ ITA_Heavy_Anti_tank_0: "M113 TOW"
+ ITA_Heavy_Anti_tank_1: "FIAT 6616 SR 106"
+ ITA_Heavy_Anti_tank_1_short: "FIAT 6616 106"
+ ITA_Heavy_Anti_tank_2: "VCC Dardo SPIKE MR/LR"
+ ITA_Heavy_Anti_tank_2_short: "Dardo SPIKE"
+ ITA_Heavy_Anti_tank_3: "VCC Dardo II SPIKE MR/LR II"
+ ITA_Heavy_Anti_tank_3_short: "Dardo II SPIKE LR II"
+ ITA_Heavy_Anti_tank_4: "VBM Freccia II SPIKE MR/LR III"
+ ITA_Heavy_Anti_tank_4_short: "Freccia II SPIKE LR III"
+
+ ITA_Anti_Air_0: "FIM-43"
+ ITA_Anti_Air_0_desc: "Developed by our own General Dynamics, this missile system uses passive infared homing to track aircraft based on the heat from their exhaust, after the operator tracks their target visually as they would any other small arms. Requiring a direct hit to be lethal, this weapon is crude yet effective."
+ ITA_Anti_Air_1: "FIM-92"
+ ITA_Anti_Air_1_desc: "Designed much like its predecessor, this passive air-to-surface missile features several new upgrades from the earlier model such as improved ballistics, software, and a variant with dual IR and UV detection."
+ ITA_Anti_Air_2: "FIM-92E"
+ ITA_Anti_Air_2_desc: "Continuing on the reliability of the \"Stinger\" platform, General dynamics has improved the system by adding a new rollover sensor and revised control software, the flight behavior has also significantly improved. Additionally, the performance against small targets such as drones, cruise missiles and light reconnaissance helicopters has increased dramatically."
+ ITA_Anti_Air_3: "FIM-194" #Fictional
+ ITA_Anti_Air_3_desc: "As 5'th generation aircraft have made a noticeable presence in the battlefield, this latest iteration of our MANPAD system implements a host of changes to address this new foe. Most notably it's targeting capabilities which range from Command Line of Sight, Laser Guided, as well as UV and IR targeting."
+ ITA_Anti_Air_4: "FIM-245" #Fictional
+ ITA_Anti_Air_4_desc: "This system created by a DARPA effort is the pinnacle of our MANPAD weapons platforms. With recent advances as well as miniaturizations of sensors our engineers have enabled 1 man with the effective power to destroy or disable some of the stealthiest aircraft available to our adversaries."
+
+
+ ITA_util_vehicle_0: "FIAT AR59"
+ ITA_util_vehicle_1: "Land rover AR90"
+ ITA_util_vehicle_2: "VM 90T Tropedo"
+ ITA_util_vehicle_3: "VM 90P Protetto"
+ ITA_util_vehicle_4: "VTLM Lince"
+ ITA_util_vehicle_5: "VTLM 1A Lince"
+ ITA_util_vehicle_6: "VTLM 2 Lince"
+ ITA_util_vehicle_7: "VTLM 2A Lince"
 
  ### Japan ###
  JAP_infantry_weapons: "Howa Type 64"
@@ -2562,113 +2681,113 @@
  NIG_util_vehicle_4:0 "Igrigi"
 
  ### Korea DPR ###
- NKO_infantry_weapons:0 "Type 58"
- NKO_infantry_weapons1:0 "Type 88"
- NKO_infantry_weapons2:0 "Type 92"
- NKO_infantry_weapons3:0 "Type 96"
- NKO_infantry_weapons4:0 "Type 97"
- NKO_infantry_weapons5:0 "Type 99"
- NKO_infantry_weapons6:0 "Type 123"
- NKO_infantry_weapons7:0 "Type 134"
+ NKO_infantry_weapons: "Type 58"
+ NKO_infantry_weapons1: "Type 88"
+ NKO_infantry_weapons2: "Type 92"
+ NKO_infantry_weapons3: "Type 96"
+ NKO_infantry_weapons4: "Type 97"
+ NKO_infantry_weapons5: "Type 99"
+ NKO_infantry_weapons6: "Type 123"
+ NKO_infantry_weapons7: "Type 134"
 
- NKO_Anti_Air_0:0 "SA-7 Strela-2"
- NKO_Anti_Air_1:0 "SA-16 Igla"
- NKO_Anti_Air_2:0 "SA-24 Igla-S"
- NKO_Anti_Air_3:0 "SA-26"
- NKO_Anti_Air_4:0 "SA-28"
+ NKO_Anti_Air_0: "SA-7 Strela-2"
+ NKO_Anti_Air_1: "SA-16 Igla"
+ NKO_Anti_Air_2: "SA-24 Igla-S"
+ NKO_Anti_Air_3: "SA-26"
+ NKO_Anti_Air_4: "SA-28"
 
- NKO_APC_1:0 "VTT-323 Sinhung"
- NKO_APC_2:0 "ZSD-89"
- NKO_APC_3:0 "BTR-70"
- NKO_APC_3_desc:0 "The BTR-70 has been in use since 1972, in the Soviet-Afgan War they were used to move in troops and then give fire support. The only difference from the BTR-60 is heavier armor."
- NKO_APC_3_short:0 "BTR-70"
- NKO_APC_4:0 "BTR-80"
- NKO_APC_4_desc:0 "The BTR-80 is an 8×8 wheeled amphibious APC designed in the USSR. It was adopted in 1986 and replaced the previous vehicles, the BTR-60 and BTR-70, in the Soviet Army. It was first deployed during the Soviet war in Afghanistan."
- NKO_APC_4_short:0 "BTR-80"
- CHI_APC_5:0 "ZBL-09 Snow Leopard"
- CHI_APC_5_short:0 "ZBL-09"
- CHI_APC_6:0 "ZBL-19"
- CHI_APC_6_short:0 "ZBL-19"
- CHI_APC_7:0 "ZBL-23"
- CHI_APC_7_short:0 "ZBL-23"
- CHI_APC_8:0 "ZBL-31"
- CHI_APC_8_short:0 "ZBL-31"
+ NKO_APC_1: "VTT-323 Sinhung"
+ NKO_APC_2: "ZSD-89"
+ NKO_APC_3: "BTR-70"
+ NKO_APC_3_desc: "The BTR-70 has been in use since 1972, in the Soviet-Afgan War they were used to move in troops and then give fire support. The only difference from the BTR-60 is heavier armor."
+ NKO_APC_3_short: "BTR-70"
+ NKO_APC_4: "BTR-80"
+ NKO_APC_4_desc: "The BTR-80 is an 8×8 wheeled amphibious APC designed in the USSR. It was adopted in 1986 and replaced the previous vehicles, the BTR-60 and BTR-70, in the Soviet Army. It was first deployed during the Soviet war in Afghanistan."
+ NKO_APC_4_short: "BTR-80"
+ NKO_APC_5: "ZBL-09 Snow Leopard"
+ NKO_APC_5_short: "ZBL-09"
+ NKO_APC_6: "ZBL-19"
+ NKO_APC_6_short: "ZBL-19"
+ NKO_APC_7: "ZBL-23"
+ NKO_APC_7_short: "ZBL-23"
+ NKO_APC_8: "ZBL-31"
+ NKO_APC_8_short: "ZBL-31"
 
- NKO_Amph_APC_1:0 "VTT-323 Sinhung"
- NKO_Amph_APC_2:0 "M-1992"
- NKO_Amph_APC_4:0 "M-2010 Chunma-D"
+ NKO_Amph_APC_1: "VTT-323 Sinhung"
+ NKO_Amph_APC_2: "M-1992"
+ NKO_Amph_APC_4: "M-2010 Chunma-D"
 
- NKO_Heavy_Anti_tank_0:0 "Susong-Po"
- NKO_Heavy_Anti_tank_1:0 "MLTB Konkurs"
- NKO_Heavy_Anti_tank_1_desc:0 "A heavier missle system firing more than one. The Konkurs can hit targets at 4km and devestate the enemies largest of tanks."
- NKO_Heavy_Anti_tank_2:0 "T-55 AT"
- NKO_Heavy_Anti_tank_3:0 "Volk AT-22"
- NKO_Heavy_Anti_tank_4:0 "Volk AT-45"
+ NKO_Heavy_Anti_tank_0: "Susong-Po"
+ NKO_Heavy_Anti_tank_1: "MLTB Konkurs"
+ NKO_Heavy_Anti_tank_1_desc: "A heavier missle system firing more than one. The Konkurs can hit targets at 4km and devestate the enemies largest of tanks."
+ NKO_Heavy_Anti_tank_2: "T-55 AT"
+ NKO_Heavy_Anti_tank_3: "Volk AT-22"
+ NKO_Heavy_Anti_tank_4: "Volk AT-45"
 
- NKO_IFV_1:0 "BMP-1 Korshun"
- NKO_IFV_2:0 "Type-86A"
- NKO_IFV_3:0 "ZSL-92B"
- NKO_IFV_4:0 "ZBD-04"
- NKO_IFV_5:0 "ZBD-08"
- NKO_IFV_6:0 "ZBD-20"
- NKO_IFV_7:0 "ZBD-26"
- NKO_IFV_8:0 "ZBD-34"
+ NKO_IFV_1: "BMP-1 Korshun"
+ NKO_IFV_2: "Type-86A"
+ NKO_IFV_3: "ZSL-92B"
+ NKO_IFV_4: "ZBD-04"
+ NKO_IFV_5: "ZBD-08"
+ NKO_IFV_6: "ZBD-20"
+ NKO_IFV_7: "ZBD-26"
+ NKO_IFV_8: "ZBD-34"
 
- NKO_Anti_tank_0:0 "Susong-Po"
- NKO_Anti_tank_1:0 "Bulsae-2"
+ NKO_Anti_tank_0: "Susong-Po"
+ NKO_Anti_tank_1: "Bulsae-2"
 
- NKO_MBT_1:0 "Type-59"
- NKO_MBT_1_short:0 "Type-59"
- NKO_MBT_2:0 "Ch'onma-ho"
- NKO_MBT_2_short:0 "Ch'onma-ho"
- NKO_MBT_3:0 "Ch'onma-ho II"
- NKO_MBT_3_short:0 "Ch'onma-ho II"
- NKO_MBT_4:0 "Ch'onma-ho"
- NKO_MBT_4_short:0 "Ch'onma-hο"
- NKO_MBT_5:0 "P'okp'ung-ho II"
- NKO_MBT_5_short:0 "P'okp'ung-ho II"
- NKO_MBT_7:0 "Type-100"
- NKO_MBT_7_short:0 "Type-100"
- NKO_MBT_8:0 "Type-200"
- NKO_MBT_8_short:0 "Type-200"
+ NKO_MBT_1: "Type-59"
+ NKO_MBT_1_short: "Type-59"
+ NKO_MBT_2: "Ch'onma-ho"
+ NKO_MBT_2_short: "Ch'onma-ho"
+ NKO_MBT_3: "Ch'onma-ho II"
+ NKO_MBT_3_short: "Ch'onma-ho II"
+ NKO_MBT_4: "Ch'onma-ho"
+ NKO_MBT_4_short: "Ch'onma-hο"
+ NKO_MBT_5: "P'okp'ung-ho II"
+ NKO_MBT_5_short: "P'okp'ung-ho II"
+ NKO_MBT_7: "Type-100"
+ NKO_MBT_7_short: "Type-100"
+ NKO_MBT_8: "Type-200"
+ NKO_MBT_8_short: "Type-200"
 
- NKO_Rec_tank_0:0 "T-34-85"
- NKO_Rec_tank_1:0 "PT-85 Shin'heung"
- NKO_Rec_tank_1:0 "PT-90"
+ NKO_Rec_tank_0: "T-34-85"
+ NKO_Rec_tank_1: "PT-85 Shin'heung"
+ NKO_Rec_tank_2: "PT-90"
 
- NKO_SP_Anti_Air_0:0 "ZSU-57-2"
- NKO_SP_Anti_Air_1:0 "2K12 Kub"
- NKO_SP_Anti_Air_2:0 "9T29"
- NKO_SP_Anti_Air_3:0 "Pantsir-S1M"
- NKO_SP_Anti_Air_4:0 "Pantsir-S4L"
+ NKO_SP_Anti_Air_0: "ZSU-57-2"
+ NKO_SP_Anti_Air_1: "2K12 Kub"
+ NKO_SP_Anti_Air_2: "9T29"
+ NKO_SP_Anti_Air_3: "Pantsir-S1M"
+ NKO_SP_Anti_Air_4: "Pantsir-S4L"
 
- NKO_SP_R_arty_0:0 "M1977"
- NKO_SP_R_arty_1:0 "M1985"
- NKO_SP_R_arty_2:0 "M-1991 Juche 100"
- NKO_SP_R_arty_3:0 "M-2010 Juche 200"
- NKO_SP_R_arty_4:0 "M-2020 Juche 300"
+ NKO_SP_R_arty_0: "M1977"
+ NKO_SP_R_arty_1: "M1985"
+ NKO_SP_R_arty_2: "M-1991 Juche 100"
+ NKO_SP_R_arty_3: "M-2010 Juche 200"
+ NKO_SP_R_arty_4: "M-2020 Juche 300"
 
- NKO_SP_arty_0:0 "2S3 Akatsiya"
- NKO_SP_arty_1:0 "Koksan M-1978 170 mmn"
- NKO_SP_arty_2:0 "Koksan M-1989 170 mm"
- NKO_SP_arty_3:0 "Koksan M-2025"
- NKO_SP_arty_4:0 "Koksan M-2035"
+ NKO_SP_arty_0: "2S3 Akatsiya"
+ NKO_SP_arty_1: "Koksan M-1978 170 mmn"
+ NKO_SP_arty_2: "Koksan M-1989 170 mm"
+ NKO_SP_arty_3: "Koksan M-2025"
+ NKO_SP_arty_4: "Koksan M-2035"
 
- NKO_artillery_0:0 "M1931"
- NKO_artillery_1:0 "2A65 Msta-B"
- NKO_artillery_2:0 "D-40"
- NKO_artillery_3:0 "D-50"
- NKO_artillery_4:0 "D-50"
+ NKO_artillery_0: "M1931"
+ NKO_artillery_1: "2A65 Msta-B"
+ NKO_artillery_2: "D-40"
+ NKO_artillery_3: "D-50"
+ NKO_artillery_4: "D-50"
 
- NKO_util_vehicle_0:0 "ZIL-131" #truck
- NKO_util_vehicle_1:0 "Ural-4320" #truck
- NKO_util_vehicle_2:0 "UAZ-3132"
- NKO_util_vehicle_3:0 "Dongfeng EQ2050"
- NKO_util_vehicle_4:0 "ZFB-05"
- NKO_util_vehicle_5:0 "CS/VP4"
- NKO_util_vehicle_6:0 "ZFB-21"
- NKO_util_vehicle_7:0 "ZFB-27"
- NKO_util_vehicle_8:0 "ZFB-35"
+ NKO_util_vehicle_0: "ZIL-131" #truck
+ NKO_util_vehicle_1: "Ural-4320" #truck
+ NKO_util_vehicle_2: "UAZ-3132"
+ NKO_util_vehicle_3: "Dongfeng EQ2050"
+ NKO_util_vehicle_4: "ZFB-05"
+ NKO_util_vehicle_5: "CS/VP4"
+ NKO_util_vehicle_6: "ZFB-21"
+ NKO_util_vehicle_7: "ZFB-27"
+ NKO_util_vehicle_8: "ZFB-35"
 
  ### Norway ###
  NOR_infantry_weapons:0 "AG-3"
@@ -3385,9 +3504,9 @@
  SOV_APC_8_desc:0 "Не так много известно об этом супер БТР, но он имеет 40-мм пушку и может вмещать 12 человек."
  SOV_APC_8_short:0 "Курганец-45"
  
- SOV_Air_APC_2:0 "БТР-Д"
- SOV_Air_APC_2_desc:0 "Разработан в 1974 году для стрельбы по вражеским бомбардировщикам и истребителям. Высаживают войска и охотяться на вражеские самолеты. Применяются системы AGS и PKM 6P41."
- SOV_Air_APC_2_short:0 "БТР-Д"
+ SOV_Air_IFV_2:0 "БТР-Д"
+ SOV_Air_IFV_2_desc:0 "Разработан в 1974 году для стрельбы по вражеским бомбардировщикам и истребителям. Высаживают войска и охотяться на вражеские самолеты. Применяются системы AGS и PKM 6P41."
+ SOV_Air_IFV_2_short:0 "БТР-Д"
  SOV_Air_APC_6:0 "БТР-МДМ"
  SOV_Air_APC_6_desc:0 "Очень легкий БТР, который использовался в 2015 году на парадах. Используется для сбрасывания с воздушно-десантными войсками, чтобы иметь поддержку транспортных средств."
  SOV_Air_APC_6_short:0 "БТР-МДМ"
@@ -3565,47 +3684,48 @@
  SOV_util_vehicle_5_desc:0 "ВПК может нести 2+8 человек. С броней STANAG 4569 уровня 3. Отлично подходит для спецназа и полиции."
  ###SYRIA###
 
- SYR_MBT_1:0 "T-55"
- SYR_MBT_1_desc:0 "The T-54/55 is perhaps the most produced tank in the world. Designed and produced in the early years of the Cold War, it was the might and the backbone of the Red Army. Once feared as a symbol of the Russian might, it has become the iconic representation of Middle-Eastern armoured forces getting destroyed in the wake of an American air strike."
- SYR_MBT_1_short:0 "T-55"
- SYR_MBT_2:0 "T-72"
- SYR_MBT_2_desc:0 "The T-72 is perhaps the most successful design produced by Russia. It was the pinnacle of Soviets' military might at the closing stage of the Cold War produced in the thousands, serving as the backbone of the Russian Army even till today. Though it has become infamous for its catastrophic failings in the Middle-Eastern conflicts, the T-72 is still being used as a development platform for future Russsian tank designs and has been given constant modifications and upgrades to meet with the standards of modern warfare today. Do not underestimate the tank that was once the spear of the Soviet forces."
- SYR_MBT_2_short:0 "T-72"
- SYR_MBT_3:0 "T-72AV"
- SYR_MBT_3_desc:0 "Model with Kontakt-1 explosive reactive armour fitted to hull front and turret."
- SYR_MBT_3_short:0 "T-72AV"
- SYR_MBT_4:0 "T-90"
- SYR_MBT_4_desc:0 "Armed with a 3 cannon system for maximum fire capabilities and efficiency. With 3 125mm cannon launchers."
- SYR_MBT_4_short:0 "T-90"
- SYR_MBT_5:0 "T-14 Armata"
- SYR_MBT_5_desc:0 "The most advanced battle tank in the Russian army with sleek outlines and a powerful 152mm cannon."
- SYR_MBT_5_short:0 "T-14"
- SYR_MBT_7:0 "T-99 Black Eagle"
- SYR_MBT_7_short:0 "T-99 Black Eagle"
- SYR_MBT_8:0 "T-35"
- SYR_MBT_8_short:0 "T-35"
+ SYR_MBT_1: "T-55"
+ SYR_MBT_1_desc: "The T-54/55 is perhaps the most produced tank in the world. Designed and produced in the early years of the Cold War, it was the might and the backbone of the Red Army. Once feared as a symbol of the Russian might, it has become the iconic representation of Middle-Eastern armoured forces getting destroyed in the wake of an American air strike."
+ SYR_MBT_1_short: "T-55"
+ SYR_MBT_2: "T-72"
+ SYR_MBT_2_desc: "The T-72 is perhaps the most successful design produced by Russia. It was the pinnacle of Soviets' military might at the closing stage of the Cold War produced in the thousands, serving as the backbone of the Russian Army even till today. Though it has become infamous for its catastrophic failings in the Middle-Eastern conflicts, the T-72 is still being used as a development platform for future Russsian tank designs and has been given constant modifications and upgrades to meet with the standards of modern warfare today. Do not underestimate the tank that was once the spear of the Soviet forces."
+ SYR_MBT_2_short: "T-72"
+ SYR_MBT_3: "T-72AV"
+ SYR_MBT_3_desc: "Model with Kontakt-1 explosive reactive armour fitted to hull front and turret."
+ SYR_MBT_3_short: "T-72AV"
+ SYR_MBT_4: "T-90"
+ SYR_MBT_4_desc: "Armed with a 3 cannon system for maximum fire capabilities and efficiency. With 3 125mm cannon launchers."
+ SYR_MBT_4_short: "T-90"
+ SYR_MBT_5: "T-14 Armata"
+ SYR_MBT_5_desc: "The most advanced battle tank in the Russian army with sleek outlines and a powerful 152mm cannon."
+ SYR_MBT_5_short: "T-14"
+ SYR_MBT_7: "T-99 Black Eagle"
+ SYR_MBT_7_short: "T-99 Black Eagle"
+ SYR_MBT_8: "T-35"
+ SYR_MBT_8_short: "T-35"
 
- SYR_IFV_1:0 "BMP-1"
- SYR_IFV_1_desc:0 "The BMP-1 is a Soviet amphibious tracked infantry fighting vehicle. Used in the Sovier-Afgan War to carry troops and fight jihadis. Using a 73mm 2A28, and ATGM launcher."
- SYR_IFV_1_short:0 "BMP-1"
- SYR_IFV_2:0 "BMP-2"
- SYR_IFV_2_desc:0 "A jihadist's biggest fear is the BMP-2 extremely quick and efficient with it's 30mm cannon, and grinding tracks."
- SYR_IFV_2_short:0 "BMP-2"
- SYR_IFV_3:0 "BMP-2M"
- SYR_IFV_3_short:0 "BMP-2M"
- SYR_IFV_4:0 "BMP-3"
- SYR_IFV_4_desc:0 "The BMP-3 is a Soviet infantry fighting vehicle, successor to the BMP-1 and BMP-2. Firing a 100mm cannon with heavy HE rounds."
- SYR_IFV_4_short:0 "BMP-3"
- SYR_IFV_5:0 "BMP-3M"
- SYR_IFV_5_desc:0 "The BMP-3M is a Soviet infantry fighting vehicle, successor to the BMP-1 and BMP-2 and variant of the 3. Using an upgraded cannon and engine."
- SYR_IFV_5_short:0 "BMP-3M"
- SYR_IFV_6:0 "T-15 Armata"
- SYR_IFV_6_desc:0 ""
- SYR_IFV_6_short:0 "T-15"
- SYR_IFV_7:0 "T-15M"
- SYR_IFV_7_short:0 "T-15M"
- SYR_IFV_8:0 "T-16"
- SYR_IFV_8_short:0 "T-16"
+ SYR_IFV_1: "BMP-1"
+ SYR_IFV_1_desc: "The BMP-1 is a Soviet amphibious tracked infantry fighting vehicle. Used in the Sovier-Afgan War to carry troops and fight jihadis. Using a 73mm 2A28, and ATGM launcher."
+ SYR_IFV_1_short: "BMP-1"
+ SYR_IFV_2: "BMP-2"
+ SYR_IFV_2_desc: "A jihadist's biggest fear is the BMP-2 extremely quick and efficient with it's 30mm cannon, and grinding tracks."
+ SYR_IFV_2_short: "BMP-2"
+ SYR_IFV_3: "BMP-2M"
+ SYR_IFV_3_short: "BMP-2M"
+ SYR_IFV_4: "BMP-3"
+ SYR_IFV_4_desc: "The BMP-3 is a Soviet infantry fighting vehicle, successor to the BMP-1 and BMP-2. Firing a 100mm cannon with heavy HE rounds."
+ SYR_IFV_4_short: "BMP-3"
+ SYR_IFV_5: "BMP-3M"
+ SYR_IFV_5_desc: "The BMP-3M is a Soviet infantry fighting vehicle, successor to the BMP-1 and BMP-2 and variant of the 3. Using an upgraded cannon and engine."
+ SYR_IFV_5_short: "BMP-3M"
+ SYR_IFV_6: "T-15 Armata"
+ SYR_IFV_6_desc: ""
+ SYR_IFV_6_short: "T-15"
+ SYR_IFV_7: "T-15M"
+ SYR_IFV_7_short: "T-15M"
+ SYR_IFV_8: "T-16"
+ SYR_IFV_8_short: "T-16"
+
 
  ### Spain ###
  SPR_infantry_weapons:0 "CETME Model A"
@@ -4106,8 +4226,11 @@
  TUR_util_vehicle_4: "BMC Kirpi"
  TUR_util_vehicle_5: "Otokar Cobra II"
  TUR_util_vehicle_5_short: "Cobra II"
- TUR_util_vehicle_6: "Otokar Ejder Yalcin"
- TUR_util_vehicle_7: "Otokar Ejder Yalcin II"
+ TUR_util_vehicle_6: "Nurol Ejder Yalcin"
+ TUR_util_vehicle_6_short: "Ejder Yalcin"
+ TUR_util_vehicle_7: "Nurol Ejder Yalcin II"
+ TUR_util_vehicle_7_short: "Ejder Yalcin II"
+
 
  TUR_Heavy_Anti_tank_2:0 "OMTAS"
  TUR_Anti_tank_2:0 "OMTAS"
@@ -5282,54 +5405,54 @@
  ISR_missile_corvette_4_short:0 "Sa'ar 72-Class"
 
  ### Italy ###
- ITA_carrier_1:0 "Giuseppe Garibaldi-Class"
- ITA_carrier_1_short:0 "Giuseppe Garibaldi-Class"
- ITA_carrier_2:0 "Cavour-Class"
- ITA_carrier_2_short:0 "Cavour-Class"
- ITA_carrier_3:0 "Luigi Einaudi-Class"				#Fictional
- ITA_carrier_3_short:0 "Luigi Einaudi-Class"		#Fictional
+ ITA_carrier_1: "Giuseppe Garibaldi-Class"
+ ITA_carrier_1_short: "Giuseppe Garibaldi-Class"
+ ITA_carrier_2: "Cavour-Class"
+ ITA_carrier_2_short: "Cavour-Class"
+ ITA_carrier_3: "Luigi Einaudi-Class" #Fictional
+ ITA_carrier_3_short: "Luigi Einaudi-Class" #Fictional
 
- ITA_destroyer_1:0 "Impavido-Class"
- ITA_destroyer_1_short:0 "Impavido-Class"
- ITA_destroyer_2:0 "Audace-Class"
- ITA_destroyer_2_short:0 "Audace-Class"
- ITA_missile_destroyer_1:0 "Durand de la Penne-Class "
- ITA_missile_destroyer_1_short:0 "Durand de la Penne-Class "
- ITA_missile_destroyer_3:0 "Orizzonte-Class"
- ITA_missile_destroyer_3_short:0 "Orizzonte-Class"
- ITA_missile_destroyer_4:0 "Fregate europee multi-missione Bergamini-Class"
- ITA_missile_destroyer_4_short:0 "Bergamini-Class"
- #ITA_missile_destroyer_4_variant:0 "FREMM ASM"             #ASW upgrade Class
+ ITA_destroyer_1: "Impavido-Class"
+ ITA_destroyer_1_short: "Impavido-Class"
+ ITA_destroyer_2: "Audace-Class"
+ ITA_destroyer_2_short: "Audace-Class"
+ ITA_missile_destroyer_1: "Durand de la Penne-Class "
+ ITA_missile_destroyer_1_short: "Durand de la Penne-Class "
+ ITA_missile_destroyer_3: "Orizzonte-Class"
+ ITA_missile_destroyer_3_short: "Orizzonte-Class"
+ ITA_missile_destroyer_4: "Fregate europee multi-missione Bergamini-Class"
+ ITA_missile_destroyer_4_short: "Bergamini-Class"
+ #ITA_missile_destroyer_4_variant: "FREMM ASM"             #ASW upgrade Class
 
 
- ITA_diesel_attack_submarine_1:0 "Toti-Class"
- ITA_diesel_attack_submarine_1_short:0 "Toti-Class"
- ITA_diesel_attack_submarine_2:0 "Nazario Sauro-Class"
- ITA_diesel_attack_submarine_2_short:0 "Nazario Sauro-Class"
- ITA_diesel_attack_submarine_4:0 "Type 212 Todaro-Class"
- ITA_diesel_attack_submarine_4_short:0 "Type 212 Todaro-Class"
+ ITA_diesel_attack_submarine_1: "Toti-Class"
+ ITA_diesel_attack_submarine_1_short: "Toti-Class"
+ ITA_diesel_attack_submarine_2: "Nazario Sauro-Class"
+ ITA_diesel_attack_submarine_2_short: "Nazario Sauro-Class"
+ ITA_diesel_attack_submarine_4: "Type 212 Todaro-Class"
+ ITA_diesel_attack_submarine_4_short: "Type 212 Todaro-Class"
 
- ITA_frigate_1:0 "Alpino-Class"
- ITA_frigate_1_short:0 "Alpino-Class"
- ITA_frigate_2:0 "Lupo-Class"
- ITA_frigate_2_short:0 "Lupo-Class"
- #ITA_frigate_2_variant:0 "Mariscal Sucre-Class"
- ITA_missile_frigate_1:0 "Maestrale-Class"
- ITA_missile_frigate_1_short:0 "Maestrale-Class"
- ITA_missile_frigate_4:0 "Bergamini-Class"                  #NOT good
- ITA_missile_frigate_4_short:0 "Bergamini-Class"            #NOT good
- #ITA_missile_frigate_4_variant:0 "Pattugliatori Polivalenti d'Altura"
+ ITA_frigate_1: "Alpino-Class"
+ ITA_frigate_1_short: "Alpino-Class"
+ ITA_frigate_2: "Lupo-Class"
+ ITA_frigate_2_short: "Lupo-Class"
+ #ITA_frigate_2_variant: "Mariscal Sucre-Class"
+ ITA_missile_frigate_1: "Maestrale-Class"
+ ITA_missile_frigate_1_short: "Maestrale-Class"
+ ITA_missile_frigate_4: "Bergamini-Class"                  #NOT good
+ ITA_missile_frigate_4_short: "Bergamini-Class"            #NOT good
+ #ITA_missile_frigate_4_variant: "Pattugliatori Polivalenti d'Altura"
 
- ITA_corvette_2:0 "Tipo 550-Class"
- ITA_corvette_2_short:0 "Tipo 550-Class"
- ITA_missile_corvette_1:0 "Minerva-Class"
- ITA_missile_corvette_1_short:0 "Minerva-Class"
+ ITA_corvette_2: "Tipo 550-Class"
+ ITA_corvette_2_short: "Tipo 550-Class"
+ ITA_missile_corvette_1: "Minerva-Class"
+ ITA_missile_corvette_1_short: "Minerva-Class"
 
- ITA_LHA_2:0 "Trieste-Class"
- ITA_LHA_2_short:0 "Trieste-Class"
+ ITA_LHA_2: "Trieste-Class"
+ ITA_LHA_2_short: "Trieste-Class"
 
- ITA_LPD_1:0 "San Giorgio-Class"
- ITA_LPD_1_short:0 "San Giorgio-Class"
+ ITA_LPD_1: "San Giorgio-Class"
+ ITA_LPD_1_short: "San Giorgio-Class"
 
  ### Japan ###
  JAP_carrier_4:0 "Izumo-Class"
@@ -5995,25 +6118,25 @@
  USA_missile_submarine_4_short:0 "Ohio II-Class"
  USA_missile_submarine_5:0 "Columbia-Class"
  USA_missile_submarine_5_short:0 "Columbia-Class"
- USA_missile_submarine_6:0 "Alabama-Class"				#Fictional
- USA_missile_submarine_6_short:0 "Alabama-Class"		#Fictional
- USA_missile_submarine_7:0 "Florida-Class"				#Fictional
- USA_missile_submarine_7_short:0 "Florida-Class"		#Fictional
+ USA_missile_submarine_6:0 "Alabama-Class" #Fictional
+ USA_missile_submarine_6_short:0 "Alabama-Class" #Fictional
+ USA_missile_submarine_7:0 "Florida-Class" #Fictional
+ USA_missile_submarine_7_short:0 "Florida-Class" #Fictional
 
  USA_diesel_attack_submarine_1:0 "Barbel-Class"
  USA_diesel_attack_submarine_1_short:0 "Barbel-Class"
- USA_diesel_attack_submarine_2:0 "Garibaldi-Class"			#Fictional
- USA_diesel_attack_submarine_2_short:0 "Garibaldi-Class"	#Fictional
- USA_diesel_attack_submarine_3:0 "Salmon-Class"			#Fictional
- USA_diesel_attack_submarine_3_short:0 "Salmon-Class"	#Fictional
- USA_diesel_attack_submarine_4:0 "Trout-Class"			#Fictional
- USA_diesel_attack_submarine_4_short:0 "Trout-Class"	#Fictional
- USA_diesel_attack_submarine_5:0 "Bass-Class"			#Fictional
- USA_diesel_attack_submarine_5_short:0 "Bass-Class"		#Fictional
- USA_diesel_attack_submarine_6:0 "Cod-Class"			#Fictional
- USA_diesel_attack_submarine_6_short:0 "Cod-Class"		#Fictional
- USA_diesel_attack_submarine_7:0 "Rockfish-Class"			#Fictional
- USA_diesel_attack_submarine_7_short:0 "Rockfish-Class"		#Fictional
+ USA_diesel_attack_submarine_2:0 "Garibaldi-Class" #Fictional
+ USA_diesel_attack_submarine_2_short:0 "Garibaldi-Class" #Fictional
+ USA_diesel_attack_submarine_3:0 "Salmon-Class"	#Fictional
+ USA_diesel_attack_submarine_3_short:0 "Salmon-Class" #Fictional
+ USA_diesel_attack_submarine_4:0 "Trout-Class" #Fictional
+ USA_diesel_attack_submarine_4_short:0 "Trout-Class" #Fictional
+ USA_diesel_attack_submarine_5:0 "Bass-Class" #Fictional
+ USA_diesel_attack_submarine_5_short:0 "Bass-Class" #Fictional
+ USA_diesel_attack_submarine_6:0 "Cod-Class" #Fictional
+ USA_diesel_attack_submarine_6_short:0 "Cod-Class" #Fictional
+ USA_diesel_attack_submarine_7:0 "Rockfish-Class" #Fictional
+ USA_diesel_attack_submarine_7_short:0 "Rockfish-Class" #Fictional
 
  USA_LPD_0:0 "Austin-Class"
  USA_LPD_0_short:0 "Austin-Class"
@@ -6167,8 +6290,8 @@
  L_Strike_fighter4_desc:0 "Легкие реактивные бомбардировщики на самом деле предназначены для обучения. Однако, будучи переоборудованными для перевозки наступательного боезаряда, они пригодны для непосредственной авиационной поддержки, особенно против противника, не имеющего собственных ВВС, такого как повстанцы."
  L_Strike_fighter5:0 "ЛРБ 2035 года"
  L_Strike_fighter5_desc:0 "Легкие реактивные бомбардировщики на самом деле предназначены для обучения. Однако, будучи переоборудованными для перевозки наступательного боезаряда, они пригодны для непосредственной авиационной поддержки, особенно против противника, не имеющего собственных ВВС, такого как повстанцы."
- CV_L_Strike_fighterequipment:0 "Палубные ЛРБ"
- CV_L_Strike_fighterequipment_desc:0 "§GСовместимость с авианосцем§!\n\nЛегкие истребители - это истребители с низким уровнем практического диапазона веса, стоимости и сложности."
+ CV_L_Strike_fighter_equipment:0 "Палубные ЛРБ"
+ CV_L_Strike_fighter_equipment_desc:0 "§GСовместимость с авианосцем§!\n\nЛегкие истребители - это истребители с низким уровнем практического диапазона веса, стоимости и сложности."
  CV_L_Strike_fighter1:0 "Палубные ЛРБ 1975 года"
  CV_L_Strike_fighter1_desc:0 "Легкие реактивные бомбардировщики на самом деле предназначены для обучения. Однако, будучи переоборудованными для перевозки наступательного боезаряда, они пригодны для непосредственной авиационной поддержки, особенно против противника, не имеющего собственных ВВС, такого как повстанцы."
  CV_L_Strike_fighter2:0 "Палубные ЛРБ 1995 года"
@@ -6492,19 +6615,19 @@
  FRA_EQUIPMENT_VERSION_12:0 "série L"
  FRA_EQUIPMENT_VERSION_13:0 "série M"
 
- ITA_EQUIPMENT_VERSION_1:0 "I serie"
- ITA_EQUIPMENT_VERSION_2:0 "II serie"
- ITA_EQUIPMENT_VERSION_3:0 "III serie"
- ITA_EQUIPMENT_VERSION_4:0 "IV serie"
- ITA_EQUIPMENT_VERSION_5:0 "V serie"
- ITA_EQUIPMENT_VERSION_6:0 "VI serie"
- ITA_EQUIPMENT_VERSION_7:0 "VII serie"
- ITA_EQUIPMENT_VERSION_8:0 "VIII serie"
- ITA_EQUIPMENT_VERSION_9:0 "IX serie"
- ITA_EQUIPMENT_VERSION_10:0 "X serie"
- ITA_EQUIPMENT_VERSION_11:0 "XI serie"
- ITA_EQUIPMENT_VERSION_12:0 "XII serie"
- ITA_EQUIPMENT_VERSION_13:0 "XIII serie"
+ ITA_EQUIPMENT_VERSION_1: "1a Serie"
+ ITA_EQUIPMENT_VERSION_2: "2a serie"
+ ITA_EQUIPMENT_VERSION_3: "3a serie"
+ ITA_EQUIPMENT_VERSION_4: "4a serie"
+ ITA_EQUIPMENT_VERSION_5: "5a serie"
+ ITA_EQUIPMENT_VERSION_6: "6a serie"
+ ITA_EQUIPMENT_VERSION_7: "7a serie"
+ ITA_EQUIPMENT_VERSION_8: "8a serie"
+ ITA_EQUIPMENT_VERSION_9: "9a serie"
+ ITA_EQUIPMENT_VERSION_10: "10a serie"
+ ITA_EQUIPMENT_VERSION_11: "11a serie"
+ ITA_EQUIPMENT_VERSION_12: "12a serie"
+ ITA_EQUIPMENT_VERSION_13: "13a serie"
 
  SWE_EQUIPMENT_VERSION_1:0 "S I"
  SWE_EQUIPMENT_VERSION_2:0 "S II"
@@ -6573,11 +6696,11 @@
  CAN_naval_plane2:0 "CP-140 Aurora"
  CAN_naval_plane2_short:0 "CP-140 Aurora"
 
- CAN_transport_plane1:0"CC-109 Cosmopolitan"
- CAN_transport_plane1_short:0"CC-109"
+ CAN_transport_plane1:0 "CC-109 Cosmopolitan"
+ CAN_transport_plane1_short:0 "CC-109"
 
- CAN_L_Strike_fighter1:0"Canadair CT-114 Tutor"
- CAN_L_Strike_fighter1_short:0"CT-114 Tutor"
+ CAN_L_Strike_fighter1:0 "Canadair CT-114 Tutor"
+ CAN_L_Strike_fighter1_short:0 "CT-114 Tutor"
 
  ### China ###
  CHI_AS_Fighter1:0 "Shenyang J-8"
@@ -6623,8 +6746,8 @@
  CHI_Strike_fighter3_short:0 "Shenyang J-16"
  CHI_Strike_fighter4:0 "J-19"
  CHI_Strike_fighter4_short:0 "J-19"
- CHI_Strike_fighter4:0 "J-23"
- CHI_Strike_fighter4_short:0 "J-23"
+ CHI_Strike_fighter5:0 "J-23"
+ CHI_Strike_fighter5_short:0 "J-23"
 
  CHI_strategic_bomber1:0 "Xian H-6"
  CHI_strategic_bomber1_short:0 "Xian H-6"
@@ -6668,655 +6791,762 @@
  CHI_transport_plane4_short:0 "Y-20"
  CHI_transport_plane5:0 "Y-22"
  CHI_transport_plane5_short:0 "Y-22"
- CHI_transport_plane5:0 "Y-22"
- CHI_transport_plane5_short:0 "Y-22"
 
  CHI_cas1:0 "Nanchang Q-5"
  CHI_cas1_short:0 "Q-5"
- CHI_cas1:0 "Nanchang Q-5B"
- CHI_cas1_short:0 "Q-5B"
+ CHI_cas2:0 "Nanchang Q-5B"
+ CHI_cas2_short:0 "Q-5B"
  ### Czech Air Force ###
 
- CZE_Air_UAV1:0 "CANTAS A"
- CZE_Air_UAV1_desc:0 "Small VTOL surveillance drone"
- CZE_Air_UAV2:0 "CANTAS II"											#Fictional
- CZE_Air_UAV2_desc:0 "Project of medium-sized advanced VTOL drone with basic strike capabilities."
- CZE_Air_UAV3:0 "BL-1 Bouře"										#Fictional
- CZE_Air_UAV3_desc:0 "Project of advanced long-range drone with precision ammunition and basic air-to-air capacity."
- CZE_Air_UAV4:0 "BL-4 Blesk" 										#Fictional
- CZE_Air_UAV4_desc:0 "Domestically developed stealth drone with precision strike capabilities and very long endurance with ability to stay at the height of 30km for 250 hours due to the lower air drag and specific pressure."
+ CZE_Air_UAV1: "CANTAS A"
+ CZE_Air_UAV1_desc: "Small VTOL surveillance drone"
+ CZE_Air_UAV2: "CANTAS II"  #Fictional
+ CZE_Air_UAV2_desc: "Project of medium-sized advanced VTOL drone with basic strike capabilities."
+ CZE_Air_UAV3: "BL-1 Bouře" #Fictional
+ CZE_Air_UAV3_desc: "Project of advanced long-range drone with precision ammunition and basic air-to-air capacity."
+ CZE_Air_UAV4: "BL-4 Blesk"  #Fictional
+ CZE_Air_UAV4_desc: "Domestically developed stealth drone with precision strike capabilities and very long endurance with ability to stay at the height of 30km for 250 hours due to the lower air drag and specific pressure."
 
- CZE_attack_helicopter1:0 "Mil Mi-171Š"
- CZE_attack_helicopter1_desc:0 "Domestically overhauled Mi-8/Mi-17/Mi-18 into basic attach helicopter equiped with AGM and AAM missile on its underwing pylons. The helicopter is still capable of carrying 16 passengers inside its airframe."
- CZE_attack_helicopter2:0 "Mi-24D"
- CZE_attack_helicopter2_desc:0 "Domestically produced export version of the Mi-24 from the Soviet Union with new Czech software and hardware including new sensor array, optics and facelift of the networking trough the helicopter simplifying it to modern standards."
- CZE_attack_helicopter3:0 "Mi-35M"
- CZE_attack_helicopter3_desc:0 "Mi-35M is 1st batch of modernizations to this craft. It has 6 underwing pylons which can carry many types of guided, unguided weapon systems or gunpods of the latest generation."
- CZE_attack_helicopter4:0 "BV-38 Blesk"				#Fictional
- CZE_attack_helicopter4_desc:0 "Experience from past helicopter upgrades and projects allowed us to design our own battle helicopter. The result is BV-14 Blesk who has pusher propeller in addition to the main rotor allowing this helicopter to fly at amazing 450kph speeds. This was also achieved by making its shape very streamlined and aerodynamic and putting all weapons unside its internal storage for them. In emergency situations, there are always two Air-to-Air missiles ready to be fired even from this internal space to the 90°degree radius in front of the helicopter."
- CZE_attack_helicopter5:0 "BV-43 Vichr"				#Fictional
- CZE_attack_helicopter5_desc:0 "First stealth helicopter prototypes with code names BV-40, 41 and 42 resulted in this machine combining their abilities together. The helicopter uses many features from BV-38 and features also internal automatic reloader for missiles allowing the helicopter to have none external pylons even when needed unlike in the BV-38. There are 4 shafts for the missiles instead loaded with two AGM and two AAM with another 16 missiles of each type in the automatic realoader."
+ CZE_attack_helicopter1: "Mil Mi-171Š"
+ CZE_attack_helicopter1_desc: "Domestically overhauled Mi-8/Mi-17/Mi-18 into basic attach helicopter equiped with AGM and AAM missile on its underwing pylons. The helicopter is still capable of carrying 16 passengers inside its airframe."
+ CZE_attack_helicopter2: "Mi-24D"
+ CZE_attack_helicopter2_desc: "Domestically produced export version of the Mi-24 from the Soviet Union with new Czech software and hardware including new sensor array, optics and facelift of the networking trough the helicopter simplifying it to modern standards."
+ CZE_attack_helicopter3: "Mi-35M"
+ CZE_attack_helicopter3_desc: "Mi-35M is 1st batch of modernizations to this craft. It has 6 underwing pylons which can carry many types of guided, unguided weapon systems or gunpods of the latest generation."
+ CZE_attack_helicopter4: "BV-38 Blesk" #Fictional
+ CZE_attack_helicopter4_desc: "Experience from past helicopter upgrades and projects allowed us to design our own battle helicopter. The result is BV-14 Blesk who has pusher propeller in addition to the main rotor allowing this helicopter to fly at amazing 450kph speeds. This was also achieved by making its shape very streamlined and aerodynamic and putting all weapons unside its internal storage for them. In emergency situations, there are always two Air-to-Air missiles ready to be fired even from this internal space to the 90°degree radius in front of the helicopter."
+ CZE_attack_helicopter5: "BV-43 Vichr" #Fictional
+ CZE_attack_helicopter5_desc: "First stealth helicopter prototypes with code names BV-40, 41 and 42 resulted in this machine combining their abilities together. The helicopter uses many features from BV-38 and features also internal automatic reloader for missiles allowing the helicopter to have none external pylons even when needed unlike in the BV-38. There are 4 shafts for the missiles instead loaded with two AGM and two AAM with another 16 missiles of each type in the automatic realoader."
 
- CZE_early_helicopter:0 "HC-102"
- CZE_early_helicopter_desc:0 "Two-seat reconnaissance helicopter developed in the 60' ."
- CZE_transport_helicopter1:0 "Mil Mi-4 CZ"
- CZE_transport_helicopter1_desc:0 "Domestically produced version of Soviet Mi-4 used for various cargo transfers and troop paradrops featuring new engine and refitted internal space of the airframe featuring bigger cargo space and new cockpit design."
- CZE_transport_helicopter2:0 "Mil Mi-17M CZ"
- CZE_transport_helicopter2_desc:0 "Domestically produced version of Soviet Mi-8 used as large cargo hauler capable of transporting 16 passengers and 2 pilots. It has new digital cockpit and side-mounted MGs."
- CZE_transport_helicopter3:0 "V-5 Kolovrátek"	#Fictional
- CZE_transport_helicopter3_desc:0 "Experience from past helicopter upgrades and projects allowed us to design our own machines from the ground. The result is V-1,2,3 and 4 prototypes. And their first production model of V-5. It has 26m rotor blades allowing it to haul many tons of cargo or small vehicle."
- CZE_transport_helicopter4:0 "V-15 Skokan"		#Fictional
- CZE_transport_helicopter4_desc:0 "This helicopter has two rotors mounted on wings and can haul even larger amount of cargo or passengers to the destination. It is also armed with defensive armament and Air-to-Air missiles."
- CZE_transport_helicopter5:0 "V-41 Sokol"		#Fictional
- CZE_transport_helicopter5_desc:0 "Stealth helicopter with aerodynamic airframe coated with radar absorbient materials, storing cargo and optionally mounted weapons inside internal weapons bay"
+ CZE_early_helicopter: "HC-102"
+ CZE_early_helicopter_desc: "Two-seat reconnaissance helicopter developed in the 60' ."
+ CZE_transport_helicopter1: "Mil Mi-4 CZ"
+ CZE_transport_helicopter1_desc: "Domestically produced version of Soviet Mi-4 used for various cargo transfers and troop paradrops featuring new engine and refitted internal space of the airframe featuring bigger cargo space and new cockpit design."
+ CZE_transport_helicopter2: "Mil Mi-17M CZ"
+ CZE_transport_helicopter2_desc: "Domestically produced version of Soviet Mi-8 used as large cargo hauler capable of transporting 16 passengers and 2 pilots. It has new digital cockpit and side-mounted MGs."
+ CZE_transport_helicopter3: "V-5 Kolovrátek" #Fictional
+ CZE_transport_helicopter3_desc: "Experience from past helicopter upgrades and projects allowed us to design our own machines from the ground. The result is V-1,2,3 and 4 prototypes. And their first production model of V-5. It has 26m rotor blades allowing it to haul many tons of cargo or small vehicle."
+ CZE_transport_helicopter4: "V-15 Skokan" #Fictional
+ CZE_transport_helicopter4_desc: "This helicopter has two rotors mounted on wings and can haul even larger amount of cargo or passengers to the destination. It is also armed with defensive armament and Air-to-Air missiles."
+ CZE_transport_helicopter5: "V-41 Sokol" #Fictional
+ CZE_transport_helicopter5_desc: "Stealth helicopter with aerodynamic airframe coated with radar absorbient materials, storing cargo and optionally mounted weapons inside internal weapons bay"
 
- CZE_MR_Fighter1:0 "Su-22M4"
- CZE_MR_Fighter1_desc:0 "Domestically produced Su-22 Modernization 4 with improved avionics and software allowing newest AGM missiles."
- CZE_MR_Fighter2:0 "Let-25K"
- CZE_MR_Fighter2_desc:0 "Czech multirole fighter designed with ground strike capabilities in mind, leaving air combat as secondary objective."
- CZE_MR_Fighter3:0 "Aero L-21 Sova"					#Fictional
- CZE_MR_Fighter3_desc:0 "Fighter featuring new afterburning engines able to speed up to 3000kph at 20km altitude. It can carry many variants of weapons on its pylons including precision ammunition and JDAM bombs. In tests, bomb dropped from that speed at that altitude hit moving target 57km from the plane."
- CZE_MR_Fighter4:0 "Let-35 Skřivan"					#Fictional
- CZE_MR_Fighter4_desc:0 "Maneuverable multirole fighter with good energy retention. It focuses mainly on Air-to-Air combat."
- CZE_MR_Fighter5:0 "Let-55 Straka"					#Fictional
- CZE_MR_Fighter5_desc:0 "Two engine-vectoring supermaneuverable fighter. Equips most modern ammunition due to its specially designed software composed of core code combined with modular parts of code from various weapon manufacturers allowing each weapon system piece to be coded specifically for its sole purpose. This also eases updates of the software and results in almost no incompatibility."
- CZE_MR_Fighter6:0 "Aero L-73 Špaček"				#Fictional
- CZE_MR_Fighter6_desc:0 "Supercruise capable stealth multirole fighter with internal storage of 8 pylons designed for SEAD role."
- CZE_MR_Fighter7:0 "Let-81 Sup"						#Fictional
- CZE_MR_Fighter7_desc:0 "Hypersonic interceptor with Energy-Directed Weapons on both offensive and defensive purposes and hypersonic missiles."
- CZE_MR_Fighter8:0 "Let-83 Slavík"					#Fictional-The Tier 8 is not in game yet anyway....
- CZE_MR_Fighter8_desc:0 "Hypersonic morphing shape-shifting multirole plane with anti-sattelite weaponary and variable engine shaping capable of suborbital flight for big periods of time doubling as spyplane capable of shooting down any opponent trying to catch it at same time."
+ CZE_MR_Fighter1: "Su-22M4"
+ CZE_MR_Fighter1_desc: "Domestically produced Su-22 Modernization 4 with improved avionics and software allowing newest AGM missiles."
+ CZE_MR_Fighter2: "Let-25K"
+ CZE_MR_Fighter2_desc: "Czech multirole fighter designed with ground strike capabilities in mind, leaving air combat as secondary objective."
+ CZE_MR_Fighter3: "Aero L-21 Sova" #Fictional
+ CZE_MR_Fighter3_desc: "Fighter featuring new afterburning engines able to speed up to 3000kph at 20km altitude. It can carry many variants of weapons on its pylons including precision ammunition and JDAM bombs. In tests, bomb dropped from that speed at that altitude hit moving target 57km from the plane."
+ CZE_MR_Fighter4: "Let-35 Skřivan" #Fictional
+ CZE_MR_Fighter4_desc: "Maneuverable multirole fighter with good energy retention. It focuses mainly on Air-to-Air combat."
+ CZE_MR_Fighter5: "Let-55 Straka" #Fictional
+ CZE_MR_Fighter5_desc: "Two engine-vectoring supermaneuverable fighter. Equips most modern ammunition due to its specially designed software composed of core code combined with modular parts of code from various weapon manufacturers allowing each weapon system piece to be coded specifically for its sole purpose. This also eases updates of the software and results in almost no incompatibility."
+ CZE_MR_Fighter6: "Aero L-73 Špaček" #Fictional
+ CZE_MR_Fighter6_desc: "Supercruise capable stealth multirole fighter with internal storage of 8 pylons designed for SEAD role."
+ CZE_MR_Fighter7: "Let-81 Sup" #Fictional
+ CZE_MR_Fighter7_desc: "Hypersonic interceptor with Energy-Directed Weapons on both offensive and defensive purposes and hypersonic missiles."
+ CZE_MR_Fighter8: "Let-83 Slavík" #Fictional-The Tier 8 is not in game yet anyway....
+ CZE_MR_Fighter8_desc: "Hypersonic morphing shape-shifting multirole plane with anti-sattelite weaponary and variable engine shaping capable of suborbital flight for big periods of time doubling as spyplane capable of shooting down any opponent trying to catch it at same time."
 
- CZE_CV_MR_Fighter1:0 "Yak-38"
- CZE_CV_MR_Fighter1_desc:0 "Domestically produced Yak-38 of the Soviet Union"
- CZE_CV_MR_Fighter2:0 "Su-30MK2"
- CZE_CV_MR_Fighter2_desc:0 "Domestically produced Su-30MK2 of the Soviet Union"
- CZE_CV_MR_Fighter3:0 "Su-33"
- CZE_CV_MR_Fighter3_desc:0 "Domestically produced Su-33 of the Soviet Union"
- CZE_CV_MR_Fighter4:0 "Let-35N Rehek"				#Fictional
- CZE_CV_MR_Fighter4_desc:0 "Naval version of the Let-35 Skřivan"
- CZE_CV_MR_Fighter5:0 "Let-55N Rybák"				#Fictional
- CZE_CV_MR_Fighter5_desc:0 "Naval version of the Let-55 Straka"
- CZE_CV_MR_Fighter6:0 "Aero L-73N Racek"			#Fictional
- CZE_CV_MR_Fighter6_desc:0 "Naval version of the Let-73 Špaček"
- CZE_CV_MR_Fighter7:0 "Let-81N Rorýs"				#Fictional
- CZE_CV_MR_Fighter7_desc:0 "Naval version of the Let-81 Sup"
- CZE_CV_MR_Fighter8:0 "Let-83N Rákosník"			#Fictional
- CZE_CV_MR_Fighter8_desc:0 "Naval version of the Let-83 Slavík"
+ CZE_CV_MR_Fighter1: "Yak-38"
+ CZE_CV_MR_Fighter1_desc: "Domestically produced Yak-38 of the Soviet Union"
+ CZE_CV_MR_Fighter2: "Su-30MK2"
+ CZE_CV_MR_Fighter2_desc: "Domestically produced Su-30MK2 of the Soviet Union"
+ CZE_CV_MR_Fighter3: "Su-33"
+ CZE_CV_MR_Fighter3_desc: "Domestically produced Su-33 of the Soviet Union"
+ CZE_CV_MR_Fighter4: "Let-35N Rehek" #Fictional
+ CZE_CV_MR_Fighter4_desc: "Naval version of the Let-35 Skřivan"
+ CZE_CV_MR_Fighter5: "Let-55N Rybák" #Fictional
+ CZE_CV_MR_Fighter5_desc: "Naval version of the Let-55 Straka"
+ CZE_CV_MR_Fighter6: "Aero L-73N Racek" #Fictional
+ CZE_CV_MR_Fighter6_desc: "Naval version of the Let-73 Špaček"
+ CZE_CV_MR_Fighter7: "Let-81N Rorýs" #Fictional
+ CZE_CV_MR_Fighter7_desc: "Naval version of the Let-81 Sup"
+ CZE_CV_MR_Fighter8: "Let-83N Rákosník" #Fictional
+ CZE_CV_MR_Fighter8_desc: "Naval version of the Let-83 Slavík"
 
- CZE_AS_Fighter1:0 "MiG-21F-13"
- CZE_AS_Fighter1_desc:0 "Czech version of MiG-21 produced in Aero with improved armament and avionics."
- CZE_AS_Fighter2:0 "Aero L-23ML"					#Fictional
- CZE_AS_Fighter2_desc:0 "Joint project between czech aerospace companies resulting in this new fighter plane."
- CZE_AS_Fighter3:0 "Aero L-39J G/C"					#Fictional
- CZE_AS_Fighter4:0 "Aero L-41 Volavka"				#Fictional
- CZE_AS_Fighter4_desc:0 "Volavka is Mach 2.5+ Air Superiority Fighter with Beyond Visual Range weaponary."
- CZE_AS_Fighter5:0 "Let-47 Ořešník"					#Fictional
- CZE_AS_Fighter5_desc:0 "Let-47 is Engine-vectoring supermaneuverable aircraft with sensior fusion made to know the enemies before they know the plane."
- CZE_AS_Fighter6:0 "Aero L-72 Vlaštovka"			#Fictional
- CZE_AS_Fighter6_desc:0 "Vlaštovka is supercruise stealth Air Superiority Fighter with modular software design composed of core code combined with modular parts of code from various weapon manufacturers allowing each weapon system piece to be coded specifically for its sole purpose. This also eases updates of the software and results in almost no incompatibility."
- CZE_AS_Fighter7:0 "Let-80 Orel"					#Fictional
- CZE_AS_Fighter7_desc:0 "Orel is optionally manned, directer-energy-weapons morphing and shapeshifting Air Superiority Fighter with Artifical Intelligence pilot."
- CZE_AS_Fighter8:0 "Let-82 Ostříž"					#Fictional-The Tier 8 is not in game yet anyway....
- CZE_AS_Fighter8_desc:0 ""
+ CZE_AS_Fighter1: "MiG-21F-13"
+ CZE_AS_Fighter1_desc: "Czech version of MiG-21 produced in Aero with improved armament and avionics."
+ CZE_AS_Fighter2: "Aero L-23ML" #Fictional
+ CZE_AS_Fighter2_desc: "Joint project between czech aerospace companies resulting in this new fighter plane."
+ CZE_AS_Fighter3: "Aero L-39J G/C" #Fictional
+ CZE_AS_Fighter4: "Aero L-41 Volavka" #Fictional
+ CZE_AS_Fighter4_desc: "Volavka is Mach 2.5+ Air Superiority Fighter with Beyond Visual Range weaponary."
+ CZE_AS_Fighter5: "Let-47 Ořešník" #Fictional
+ CZE_AS_Fighter5_desc: "Let-47 is Engine-vectoring supermaneuverable aircraft with sensior fusion made to know the enemies before they know the plane."
+ CZE_AS_Fighter6: "Aero L-72 Vlaštovka" #Fictional
+ CZE_AS_Fighter6_desc: "Vlaštovka is supercruise stealth Air Superiority Fighter with modular software design composed of core code combined with modular parts of code from various weapon manufacturers allowing each weapon system piece to be coded specifically for its sole purpose. This also eases updates of the software and results in almost no incompatibility."
+ CZE_AS_Fighter7: "Let-80 Orel" #Fictional
+ CZE_AS_Fighter7_desc: "Orel is optionally manned, directer-energy-weapons morphing and shapeshifting Air Superiority Fighter with Artifical Intelligence pilot."
+ CZE_AS_Fighter8: "Let-82 Ostříž" #Fictional-The Tier 8 is not in game yet anyway....
+ CZE_AS_Fighter8_desc: ""
 
- CZE_Strike_fighter1:0 "Aero L-29R Delfín"							#1965
- CZE_L_Strike_fighter1:0 "Aero L-29 Delfín"						    #1965
- CZE_CV_L_Strike_fighter1:0 "Aero L-299 Delfín"					    #1965
- CZE_L_Strike_fighter1_desc:0 "In response to a sizable requirement for a common jet-propelled trainer to be adopted across the diverse nations of the Eastern Block, Aero decided to embark upon their own design project with a view to suitably satisfying this demand. On 5 April 1959, an initial prototype, designated as the XL-29, performed its maiden flight. The L-29 was selected to become the standard trainer for the air forces of Warsaw Pact nations, for which it was delivered from the 1960s onwards."
- CZE_L_Strike_fighter1_desc:0 "Trainer/bomber version of the L-29R Delfín."
- CZE_CV_L_Strike_fighter1_desc:0 "Naval version of L-29."
+ CZE_Strike_fighter1: "Aero L-29R Delfín" #1965
+ CZE_L_Strike_fighter1: "Aero L-29 Delfín"     #1965
+ CZE_CV_L_Strike_fighter1: "Aero L-299 Delfín"     #1965
+ CZE_L_Strike_fighter1_desc: "In response to a sizable requirement for a common jet-propelled trainer to be adopted across the diverse nations of the Eastern Block, Aero decided to embark upon their own design project with a view to suitably satisfying this demand. On 5 April 1959, an initial prototype, designated as the XL-29, performed its maiden flight. The L-29 was selected to become the standard trainer for the air forces of Warsaw Pact nations, for which it was delivered from the 1960s onwards."
+ CZE_CV_L_Strike_fighter1_desc: "Naval version of L-29."
 
- CZE_Strike_fighter2:0 "Aero L-39C Albatros"						#1985
- #CZE_Strike_fighter2_variant:0 "L-59 Super Albatros"				#1985
- CZE_cas1:0 "Aero L-39ZA Albatros"									#1985
- CZE_L_Strike_fighter2_desc:0 "Developed from the L-39 Alca, this plane got new, more powerful engine and strengthened airframe allowing it to take off and land basically anywhere with its STOL capability."
- CZE_cas1_desc:0 "Light maneuverable CAS plane developed from its basic light strike version."
-
-
- CZE_Strike_fighter3:0 "Aero L-159A Alca"							#1995
- CZE_L_Strike_fighter2:0 "Aero L-39C Albatros"					    #1995
- CZE_CV_L_Strike_fighter2:0 "Aero L-159E Alca"						#1995	#Fictional
- CZE_Strike_fighter3_desc:0 "New development from L-39 and L-59 created this plane with new type of engines, overhauled airframe, modernized cockpit leaving the plane almost totally different from its precedessors."
- CZE_L_Strike_fighter2_desc:0 "Bomber version of L-159 with mounts for armament used also as training plane."
- CZE_CV_L_Strike_fighter2_desc:0 "Naval version of L-159."
-
- CZE_cas2:0 "Aero L-39M Albatros"									#2005
- CZE_cas2_desc:0 "Light maneuverable CAS plane developed from its basic light strike version including new modernized engine and cockpit with software."
+ CZE_Strike_fighter2: "Aero L-39C Albatros" #1985
+ #CZE_Strike_fighter2_variant: "L-59 Super Albatros" #1985
+ CZE_cas1: "Aero L-39ZA Albatros" #1985
+ CZE_Strike_fighter2_desc: "Developed from the L-39 Alca, this plane got new, more powerful engine and strengthened airframe allowing it to take off and land basically anywhere with its STOL capability."
+ CZE_cas1_desc: "Light maneuverable CAS plane developed from its basic light strike version."
 
 
- CZE_Strike_fighter4:0 "Aero L-39NG Albatros"						#2015
- CZE_L_Strike_fighter3:0 "Aero L-39NGT Albatros"					#2015
- CZE_CV_L_Strike_fighter3:0 "Aero L-39ZA Albatros"					#2015
- CZE_cas3:0 "Aero L-159B Alca"										#2015	#Fictional
- CZE_Strike_fighter4_desc:0 "New generation(NG) of Albatros features newly designed airframe including new engine and composite materials allowing this plane to outmaneuver any opponents with its high thrust-to-weight ratio. It can carry many types of armament on its 6 pylons including guided GBU-12 Paveway II or newest AIM-9s. The plane also got new powerful detection, sensor and radar equipment."
- CZE_L_Strike_fighter3_desc:0 "Bomber version of L-39NG with mounts for armament used also as training plane."
- CZE_CV_L_Strike_fighter3_desc:0 "Naval version of L-39NG."
- CZE_cas3_desc:0 "Light maneuverable CAS plane developed from its basic light strike version."
+ CZE_Strike_fighter3: "Aero L-159A Alca" #1995
+ CZE_L_Strike_fighter2: "Aero L-39C Albatros"     #1995
+ CZE_CV_L_Strike_fighter2: "Aero L-159E Alca" #1995 Fictional
+ CZE_Strike_fighter3_desc: "New development from L-39 and L-59 created this plane with new type of engines, overhauled airframe, modernized cockpit leaving the plane almost totally different from its precedessors."
+ CZE_L_Strike_fighter2_desc: "Bomber version of L-159 with mounts for armament used also as training plane."
+ CZE_CV_L_Strike_fighter2_desc: "Naval version of L-159."
 
- CZE_Strike_fighter5:0 "Aero L-51 Datel"			#Fictional		#2025
- CZE_L_Strike_fighter4:0 "Aero L-51T Datel"			#Fictional		#2025
- CZE_L_Strike_fighter4_short:0 "Aero L-51T"			#Fictional		#2025
- CZE_CV_L_Strike_fighter4:0 "Aero L-51N Datel"		#Fictional		#2025
- CZE_cas4:0 "Aero L-52 Drozd"						#Fictional		#2025
- CZE_Strike_fighter5_desc:0 "Light maneuverable ground strike plane. The plane also doubles as training and advanced training plane due to its supermaneuverability."
- CZE_L_Strike_fighter4_desc:0 "Training version of the L-51."
- CZE_CV_L_Strike_fighter4_desc:0 "Naval version of L-51."
- CZE_cas4_desc:0 "Light maneuverable CAS plane developed from its predecessor L-51. The plane got new strengthened airframe allowing it to take more payload into fight."
-
- CZE_Strike_fighter6:0 "Aero L-72 Akát"				#Fictional		#2035
- CZE_L_Strike_fighter5:0 "Aero L-72T Akát"			#Fictional		#2035
- CZE_CV_L_Strike_fighter5:0 "Aero L-72N Akát"		#Fictional		#2035
- CZE_cas5:0 "Aero L-75 Dudek"						#Fictional		#2035
- CZE_Strike_fighter6_desc:0 "Light maneuverable ground strike plane for low-intensity conflicts."
- CZE_L_Strike_fighter5_desc:0 "Training version of the L-72."
- CZE_CV_L_Strike_fighter5_desc:0 "Naval version of L-72."
- CZE_cas5_desc:0 "Light maneuverable CAS plane developed from its basic light strike version."
+ CZE_cas2: "Aero L-39M Albatros" #2005
+ CZE_cas2_desc: "Light maneuverable CAS plane developed from its basic light strike version including new modernized engine and cockpit with software."
 
 
- CZE_Strike_fighter7:0 "Aero L-76 Ďábel"			#Fictional		#2045
- CZE_Strike_fighter7_desc:0 "Light maneuverable ground strike plane for high-intensity conflicts."
+ CZE_Strike_fighter4: "Aero L-39NG Albatros" #2015
+ CZE_L_Strike_fighter3: "Aero L-39NGT Albatros" #2015
+ CZE_CV_L_Strike_fighter3: "Aero L-39ZA Albatros" #2015
+ CZE_cas3: "Aero L-159B Alca" #2015 Fictional
+ CZE_Strike_fighter4_desc: "New generation(NG) of Albatros features newly designed airframe including new engine and composite materials allowing this plane to outmaneuver any opponents with its high thrust-to-weight ratio. It can carry many types of armament on its 6 pylons including guided GBU-12 Paveway II or newest AIM-9s. The plane also got new powerful detection, sensor and radar equipment."
+ CZE_L_Strike_fighter3_desc: "Bomber version of L-39NG with mounts for armament used also as training plane."
+ CZE_CV_L_Strike_fighter3_desc: "Naval version of L-39NG."
+ CZE_cas3_desc: "Light maneuverable CAS plane developed from its basic light strike version."
+
+ CZE_Strike_fighter5: "Aero L-51 Datel" #Fictional #2025
+ CZE_L_Strike_fighter4: "Aero L-51T Datel" #Fictional #2025
+ CZE_L_Strike_fighter4_short: "Aero L-51T" #Fictional #2025
+ CZE_CV_L_Strike_fighter4: "Aero L-51N Datel" #Fictional #2025
+ CZE_cas4: "Aero L-52 Drozd" #Fictional #2025
+ CZE_Strike_fighter5_desc: "Light maneuverable ground strike plane. The plane also doubles as training and advanced training plane due to its supermaneuverability."
+ CZE_L_Strike_fighter4_desc: "Training version of the L-51."
+ CZE_CV_L_Strike_fighter4_desc: "Naval version of L-51."
+ CZE_cas4_desc: "Light maneuverable CAS plane developed from its predecessor L-51. The plane got new strengthened airframe allowing it to take more payload into fight."
+
+ CZE_Strike_fighter6: "Aero L-72 Akát" #Fictional #2035
+ CZE_L_Strike_fighter5: "Aero L-72T Akát" #Fictional #2035
+ CZE_CV_L_Strike_fighter5: "Aero L-72N Akát" #Fictional #2035
+ CZE_cas5: "Aero L-75 Dudek" #Fictional #2035
+ CZE_Strike_fighter6_desc: "Light maneuverable ground strike plane for low-intensity conflicts."
+ CZE_L_Strike_fighter5_desc: "Training version of the L-72."
+ CZE_CV_L_Strike_fighter5_desc: "Naval version of L-72."
+ CZE_cas5_desc: "Light maneuverable CAS plane developed from its basic light strike version."
 
 
- CZE_Int_Fighter1:0 "ZS-3 Hvězda"
- CZE_Int_Fighter1_desc:0 "Design of interceptor armed with anti-bomber formation missiles or other AAM weapon systems. Capable of Mach 3 serving as rapid response force."
-
- CZE_transport_plane1:0 "Let-30"			#Fictional
- CZE_transport_plane1_desc:0 "Turbopropeller cargo/transportation plane."
- CZE_transport_plane2:0 "Let-40 Turbolet"	#Fictional
- CZE_transport_plane2_desc:0 "New digital cockpit, more efficient turbopropeller engines, more cargo space in this new, bigger plane!"
- CZE_transport_plane3:0 "Let-50 Velryba"	#Fictional
- CZE_transport_plane3_desc:0 "Turbofan cargo/transportation plane."
- CZE_transport_plane4:0 "Let-60"			#Fictional
- CZE_transport_plane4_desc:0 "Turbofan cargo/transportation plane."
- CZE_transport_plane5:0 "Let-810E Vrabec"	#Fictional
- CZE_transport_plane5_desc:0 "Turbojet cargo/transportation plane."
- CZE_transport_plane6:0 "Let-910E Výr"		#Fictional
- CZE_transport_plane6_desc:0 "Hybrid engine ramjet-turbojet equiped cargo/transportation plane."
+ CZE_Strike_fighter7: "Aero L-76 Ďábel" #Fictional #2045
+ CZE_Strike_fighter7_desc: "Light maneuverable ground strike plane for high-intensity conflicts."
 
 
- CZE_strategic_bomber1:0 "Let-10"			#Fictional
- CZE_strategic_bomber1_desc:0 "Турбореактивный тактический бомбардировщик."
- CZE_strategic_bomber2:0 "Let-110"			#Fictional
- CZE_strategic_bomber2_desc:0 "Turbopropeller strategical bomber."
- CZE_strategic_bomber3:0 "Let-310 Vrána"	#Fictional
- CZE_strategic_bomber3_desc:0 "Turbofan strategical bomber."
- CZE_strategic_bomber4:0 "Let-510 Volavka"	#Fictional
- CZE_strategic_bomber4_desc:0 "Турбореактивный стратегический бомбардировщик."
- CZE_strategic_bomber5:0 "Let-815E Vrabec"	#Fictional
- CZE_strategic_bomber5_desc:0 "Turbojet supersonic strategical bomber with new flying wing airframe and stealth coating."
- CZE_strategic_bomber6:0 "Let-915E Výr"		#Fictional
- CZE_strategic_bomber6_desc:0 "Scramjet/ramjet/turbojet Hybrid Engine flying wing stealth hypersonic strategical bomber."
+ CZE_Int_Fighter1: "ZS-3 Hvězda"
+ CZE_Int_Fighter1_desc: "Design of interceptor armed with anti-bomber formation missiles or other AAM weapon systems. Capable of Mach 3 serving as rapid response force."
+
+ CZE_transport_plane1: "Let-30" #Fictional
+ CZE_transport_plane1_desc: "Turbopropeller cargo/transportation plane."
+ CZE_transport_plane2: "Let-40 Turbolet" #Fictional
+ CZE_transport_plane2_desc: "New digital cockpit, more efficient turbopropeller engines, more cargo space in this new, bigger plane!"
+ CZE_transport_plane3: "Let-50 Velryba" #Fictional
+ CZE_transport_plane3_desc: "Turbofan cargo/transportation plane."
+ CZE_transport_plane4: "Let-60" #Fictional
+ CZE_transport_plane4_desc: "Turbofan cargo/transportation plane."
+ CZE_transport_plane5: "Let-810E Vrabec" #Fictional
+ CZE_transport_plane5_desc: "Turbojet cargo/transportation plane."
+ CZE_transport_plane6: "Let-910E Výr" #Fictional
+ CZE_transport_plane6_desc: "Hybrid engine ramjet-turbojet equiped cargo/transportation plane."
 
 
- CZE_naval_plane1:0 "Let-10N"				#Fictional
- CZE_naval_plane1_desc:0 "Turbopropeller tactical naval surveillance/ASM craft."
- CZE_naval_plane2:0 "Let-110N"				#Fictional
- CZE_naval_plane2_desc:0 "Turbopropeller strategical naval surveillance/ASM craft."
- CZE_naval_plane3:0 "Let-310N Turbolet"		#Fictional
- CZE_naval_plane3_desc:0 "Turbofan strategical naval surveillance/ASM craft.."
- CZE_naval_plane4:0 "Let-510N"				#Fictional
- CZE_naval_plane4_desc:0 "Turbojet strategical naval surveillance/ASM craft."
- CZE_naval_plane5:0 "Let-815NE"				#Fictional
- CZE_naval_plane5_desc:0 "Turbojet strategical naval surveillance/ASM craft. with new flying wing airframe and stealth coating."
- CZE_naval_plane6:0 "Let-915NE"				#Fictional
- CZE_naval_plane6_desc:0 "Scramjet/ramjet/turbojet Hybrid Engine flying wing stealth hypersonic naval surveillance/ASM craft."
+ CZE_strategic_bomber1: "Let-10" #Fictional
+ CZE_strategic_bomber1_desc: "Turbopropeller tactical bomber."
+ CZE_strategic_bomber2: "Let-110" #Fictional
+ CZE_strategic_bomber2_desc: "Turbopropeller strategical bomber."
+ CZE_strategic_bomber3: "Let-310 Vrána" #Fictional
+ CZE_strategic_bomber3_desc: "Turbofan strategical bomber."
+ CZE_strategic_bomber4: "Let-510 Volavka" #Fictional
+ CZE_strategic_bomber4_desc: "Turbojet strategical bomber."
+ CZE_strategic_bomber5: "Let-815E Vrabec" #Fictional
+ CZE_strategic_bomber5_desc: "Turbojet supersonic strategical bomber with new flying wing airframe and stealth coating."
+ CZE_strategic_bomber6: "Let-915E Výr" #Fictional
+ CZE_strategic_bomber6_desc: "Scramjet/ramjet/turbojet Hybrid Engine flying wing stealth hypersonic strategical bomber."
+
+
+ CZE_naval_plane1: "Let-10N" #Fictional
+ CZE_naval_plane1_desc: "Turbopropeller tactical naval surveillance/ASM craft."
+ CZE_naval_plane2: "Let-110N" #Fictional
+ CZE_naval_plane2_desc: "Turbopropeller strategical naval surveillance/ASM craft."
+ CZE_naval_plane3: "Let-310N Turbolet" #Fictional
+ CZE_naval_plane3_desc: "Turbofan strategical naval surveillance/ASM craft.."
+ CZE_naval_plane4: "Let-510N" #Fictional
+ CZE_naval_plane4_desc: "Turbojet strategical naval surveillance/ASM craft."
+ CZE_naval_plane5: "Let-815NE" #Fictional
+ CZE_naval_plane5_desc: "Turbojet strategical naval surveillance/ASM craft. with new flying wing airframe and stealth coating."
+ CZE_naval_plane6: "Let-915NE" #Fictional
+ CZE_naval_plane6_desc: "Scramjet/ramjet/turbojet Hybrid Engine flying wing stealth hypersonic naval surveillance/ASM craft."
 
  ### Egypt ###
- EGY_AS_Fighter1:0 "Helwan HA-300"
- EGY_AS_Fighter1_short:0 "HA-300"
+ EGY_AS_Fighter1: "Helwan HA-300"
+ EGY_AS_Fighter1_short: "HA-300"
 
  ### United Kingdom ###
- ENG_AS_Fighter1:0 "F-4M Phantom FGR.2"
- ENG_AS_Fighter1_short:0 "F-4M Phantom"
- ENG_AS_Fighter2:0 "Panavia Tornado F3"
- ENG_AS_Fighter2_short:0 "Tornado F3"
- ENG_AS_Fighter3:0 "Eurofighter Typhoon T1"
- ENG_AS_Fighter3_short:0 "Typhoon T1"
- ENG_AS_Fighter4:0 "Eurofighter Typhoon T3A Meteor"
- ENG_AS_Fighter4_short:0 "Typhoon Meteor"
- ENG_AS_Fighter5:0 "BAE Systems Tempest"
- ENG_AS_Fighter5_short:0 "Tempest"
+ ENG_AS_Fighter1: "F-4M Phantom FGR.2"
+ ENG_AS_Fighter1_short: "F-4M Phantom"
+ ENG_AS_Fighter2: "Panavia Tornado F3"
+ ENG_AS_Fighter2_short: "Tornado F3"
+ ENG_AS_Fighter3: "Eurofighter Typhoon T1"
+ ENG_AS_Fighter3_short: "Typhoon T1"
+ ENG_AS_Fighter4: "Eurofighter Typhoon T3A Meteor"
+ ENG_AS_Fighter4_short: "Typhoon Meteor"
+ ENG_AS_Fighter5: "BAE Systems Tempest"
+ ENG_AS_Fighter5_short: "Tempest"
 
- ENG_CV_MR_Fighter1:0 "Blackburn Buccaneer"
- ENG_CV_MR_Fighter1_short:0 "Blackburn Buccaneer"
- ENG_CV_MR_Fighter2:0 "BAE Sea Harrier"
- ENG_CV_MR_Fighter2_short:0 "BAE Sea Harrier"
- ENG_CV_MR_Fighter4:0 "F-35C Lightning II"
- ENG_CV_MR_Fighter4_short:0 "F-35C Lightning II"
- ENG_CV_MR_Fighter5:0 "F-35C Lightning III"
- ENG_CV_MR_Fighter5_short:0 "F-35C Lightning III"
- ENG_CV_MR_Fighter6:0 "F-42C Starfire II"
- ENG_CV_MR_Fighter6_short:0 "F-42C Starfire II"
- ENG_CV_MR_Fighter7:0 "F-42C Starfire III"
- ENG_CV_MR_Fighter7_short:0 "F-42C Starfire III"
+ ENG_CV_MR_Fighter1: "Blackburn Buccaneer"
+ ENG_CV_MR_Fighter1_short: "Blackburn Buccaneer"
+ ENG_CV_MR_Fighter2: "BAE Sea Harrier"
+ ENG_CV_MR_Fighter2_short: "BAE Sea Harrier"
+ ENG_CV_MR_Fighter4: "F-35C Lightning II"
+ ENG_CV_MR_Fighter4_short: "F-35C Lightning II"
+ ENG_CV_MR_Fighter5: "F-35C Lightning III"
+ ENG_CV_MR_Fighter5_short: "F-35C Lightning III"
+ ENG_CV_MR_Fighter6: "F-42C Starfire II"
+ ENG_CV_MR_Fighter6_short: "F-42C Starfire II"
+ ENG_CV_MR_Fighter7: "F-42C Starfire III"
+ ENG_CV_MR_Fighter7_short: "F-42C Starfire III"
 
- ENG_Int_Fighter1:0 "Panavia Tornado ADV"
- ENG_Int_Fighter1_short:0 "Tornado ADV"
+ ENG_Int_Fighter1: "Panavia Tornado ADV"
+ ENG_Int_Fighter1_short: "Tornado ADV"
 
- ENG_L_Strike_fighter1:0 "BAE Systems Hawk"
- ENG_L_Strike_fighter1_short:0 "BAE Hawk"
- ENG_L_Strike_fighter2:0 "BAE Hawk T1"
- ENG_L_Strike_fighter2_short:0 "BAE Hawk T1"
- ENG_L_Strike_fighter3:0 "BAE Hawk 200"
- ENG_L_Strike_fighter3_short:0 "BAE Hawk 200"
+ ENG_L_Strike_fighter1: "BAE Systems Hawk"
+ ENG_L_Strike_fighter1_short: "BAE Hawk"
+ ENG_L_Strike_fighter2: "BAE Hawk T1"
+ ENG_L_Strike_fighter2_short: "BAE Hawk T1"
+ ENG_L_Strike_fighter3: "BAE Hawk 200"
+ ENG_L_Strike_fighter3_short: "BAE Hawk 200"
 
- ENG_MR_Fighter1:0 "F-4J Phantom II"
- ENG_MR_Fighter1_short:0 "F-4J Phantom II"
- ENG_MR_Fighter2:0 "BAE Harrier II"
- ENG_MR_Fighter2_short:0 "Harrier II"
- ENG_MR_Fighter3:0 "Eurofighter Typhoon"
- ENG_MR_Fighter3_short:0 "Typhoon"
- ENG_MR_Fighter4:0 "F-35 Lightning II"
- ENG_MR_Fighter4_short:0 "F-35 Lightning II"
- ENG_MR_Fighter5:0 "F-35 Lightning III"
- ENG_MR_Fighter5_short:0 "F-35 Lightning III"
- ENG_MR_Fighter6:0 "F-42 Starfire II"
- ENG_MR_Fighter6_short:0 "F-42 Starfire II"
- ENG_MR_Fighter7:0 "F-42 Starfire III"
- ENG_MR_Fighter7_short:0 "F-42 Starfire III"
+ ENG_MR_Fighter1: "F-4J Phantom II"
+ ENG_MR_Fighter1_short: "F-4J Phantom II"
+ ENG_MR_Fighter2: "BAE Harrier II"
+ ENG_MR_Fighter2_short: "Harrier II"
+ ENG_MR_Fighter3: "Eurofighter Typhoon"
+ ENG_MR_Fighter3_short: "Typhoon"
+ ENG_MR_Fighter4: "F-35 Lightning II"
+ ENG_MR_Fighter4_short: "F-35 Lightning II"
+ ENG_MR_Fighter5: "F-35 Lightning III"
+ ENG_MR_Fighter5_short: "F-35 Lightning III"
+ ENG_MR_Fighter6: "F-42 Starfire II"
+ ENG_MR_Fighter6_short: "F-42 Starfire II"
+ ENG_MR_Fighter7: "F-42 Starfire III"
+ ENG_MR_Fighter7_short: "F-42 Starfire III"
 
- ENG_Strike_fighter1:0 "English Electric Canberra"
- ENG_Strike_fighter1_short:0 "Canberra"
- ENG_Strike_fighter2:0 "SEPECAT Jaguar"
- ENG_Strike_fighter2_short:0 "SEPECAT Jaguar"
- ENG_Strike_fighter3:0 "Panavia Tornado GR4"
- ENG_Strike_fighter3_short:0 "Tornado GR4"
+ ENG_Strike_fighter1: "English Electric Canberra"
+ ENG_Strike_fighter1_short: "Canberra"
+ ENG_Strike_fighter2: "SEPECAT Jaguar"
+ ENG_Strike_fighter2_short: "SEPECAT Jaguar"
+ ENG_Strike_fighter3: "Panavia Tornado GR4"
+ ENG_Strike_fighter3_short: "Tornado GR4"
 
- ENG_strategic_bomber1:0 "Avro Vulcan"
- ENG_strategic_bomber1_short:0 "Avro Vulcan"
- ENG_strategic_bomber2:0 "Handley Page Victor"
- ENG_strategic_bomber2_short:0 "Victor"
+ ENG_strategic_bomber1: "Avro Vulcan"
+ ENG_strategic_bomber1_short: "Avro Vulcan"
+ ENG_strategic_bomber2: "Handley Page Victor"
+ ENG_strategic_bomber2_short: "Victor"
 
- ENG_naval_plane2:0 "Hawker Siddeley Nimrod Mk.2"
- ENG_naval_plane2_short:0 "Hawker Siddeley NimrodMk.2"
- ENG_naval_plane3:0 "Hawker Siddeley Nimrod Mk.3"
- ENG_naval_plane3_short:0 "Hawker Siddeley Nimrod Mk.3"
+ ENG_naval_plane2: "Hawker Siddeley Nimrod Mk.2"
+ ENG_naval_plane2_short: "Hawker Siddeley NimrodMk.2"
+ ENG_naval_plane3: "Hawker Siddeley Nimrod Mk.3"
+ ENG_naval_plane3_short: "Hawker Siddeley Nimrod Mk.3"
 
- ENG_transport_plane1:0 "C-130"
- ENG_transport_plane1_short:0 "C-130"
- ENG_transport_plane3:0 "C-17 Globemaster III"
- ENG_transport_plane4:0 "Airbus A400M Atlas"
- ENG_transport_plane4_short:0 "A400M Atlas"
- ENG_transport_plane5:0 "Airbus A500"
- ENG_transport_plane5_short:0 "A500"
+ ENG_transport_plane1: "C-130"
+ ENG_transport_plane1_short: "C-130"
+ ENG_transport_plane3: "C-17 Globemaster III"
+ ENG_transport_plane4: "Airbus A400M Atlas"
+ ENG_transport_plane4_short: "A400M Atlas"
+ ENG_transport_plane5: "Airbus A500"
+ ENG_transport_plane5_short: "A500"
 
- ENG_attack_helicopter1:0 "Westland Gazelle AH.1"
- ENG_attack_helicopter1_short:0 "Gazelle AH.1"
- ENG_attack_helicopter2:0 "Westland Lynx AH.7"
- ENG_attack_helicopter2_short:0 "Lynx AH.7"
- ENG_attack_helicopter3:0 "AgustaWestland WAH-64 Apache"
- ENG_attack_helicopter3_short:0 "WAH-64 Apache"
- ENG_attack_helicopter4:0 "WAH-64E Apache"
- ENG_attack_helicopter4_short:0 "WAH-64E Apache"
- ENG_attack_helicopter5:0 "Westland AH.9"
- ENG_attack_helicopter5_short:0 "AH.9"
+ ENG_attack_helicopter1: "Westland Gazelle AH.1"
+ ENG_attack_helicopter1_short: "Gazelle AH.1"
+ ENG_attack_helicopter2: "Westland Lynx AH.7"
+ ENG_attack_helicopter2_short: "Lynx AH.7"
+ ENG_attack_helicopter3: "AgustaWestland WAH-64 Apache"
+ ENG_attack_helicopter3_short: "WAH-64 Apache"
+ ENG_attack_helicopter4: "WAH-64E Apache"
+ ENG_attack_helicopter4_short: "WAH-64E Apache"
+ ENG_attack_helicopter5: "Westland AH.9"
+ ENG_attack_helicopter5_short: "AH.9"
 
- ENG_transport_helicopter1:0 "Westland Puma HC"
- ENG_transport_helicopter1_short:0 "Puma HC"
- ENG_transport_helicopter2:0 "CH-47D Chinook HC 2"
- ENG_transport_helicopter2_short:0 "CH-47D Chinook"
- ENG_transport_helicopter3:0 "AgustaWestland AW101 Merlin"
- ENG_transport_helicopter3_short:0 "AW101 Merlin"
- ENG_transport_helicopter4:0 "AgustaWestland AW159 Wildcat"
- ENG_transport_helicopter4_short:0 "AW159 Wildcat"
- ENG_transport_helicopter5:0 "AgustaWestland AW199 Fox"
- ENG_transport_helicopter5_short:0 "AW199 Fox"
+ ENG_transport_helicopter1: "Westland Puma HC"
+ ENG_transport_helicopter1_short: "Puma HC"
+ ENG_transport_helicopter2: "CH-47D Chinook HC 2"
+ ENG_transport_helicopter2_short: "CH-47D Chinook"
+ ENG_transport_helicopter3: "AgustaWestland AW101 Merlin"
+ ENG_transport_helicopter3_short: "AW101 Merlin"
+ ENG_transport_helicopter4: "AgustaWestland AW159 Wildcat"
+ ENG_transport_helicopter4_short: "AW159 Wildcat"
+ ENG_transport_helicopter5: "AgustaWestland AW199 Fox"
+ ENG_transport_helicopter5_short: "AW199 Fox"
 
  ### France ###
- FRA_CV_MR_Fighter1:0 "Super Étendard"
- FRA_CV_MR_Fighter1_short:0 "Super Étendard"
- FRA_CV_MR_Fighter2:0 "Mirage 2000N"
- FRA_CV_MR_Fighter2_short:0 "Mirage 2000N"
- FRA_CV_MR_Fighter3:0 "Dassault Rafale Marine"
- FRA_CV_MR_Fighter3_short:0 "Rafale Marine"
- FRA_CV_MR_Fighter4:0 "Dassault Rafale F3-R M"
- FRA_CV_MR_Fighter4_short:0 "Rafale Marine F3-R"
- FRA_CV_MR_Fighter5:0 "Dassault Rafale F4M"
- FRA_CV_MR_Fighter5_short:0 "Rafale Marine F4"
- FRA_CV_MR_Fighter6:0 "Système de Combat Aérien du Futur Marine"    	 #Fictional
- FRA_CV_MR_Fighter6_short:0 "SCAF M"                                 #Fictional
- FRA_CV_MR_Fighter7:0 "Système de Combat Aérien du Futur Autonome Marine"    	 #Fictional
- FRA_CV_MR_Fighter7_short:0 "SCAFA M"								#Fictional
+ FRA_CV_MR_Fighter1: "Super Étendard"
+ FRA_CV_MR_Fighter1_short: "Super Étendard"
+ FRA_CV_MR_Fighter2: "Mirage 2000N"
+ FRA_CV_MR_Fighter2_short: "Mirage 2000N"
+ FRA_CV_MR_Fighter3: "Dassault Rafale Marine"
+ FRA_CV_MR_Fighter3_short: "Rafale Marine"
+ FRA_CV_MR_Fighter4: "Dassault Rafale F3-R M"
+ FRA_CV_MR_Fighter4_short: "Rafale Marine F3-R"
+ FRA_CV_MR_Fighter5: "Dassault Rafale F4M"
+ FRA_CV_MR_Fighter5_short: "Rafale Marine F4"
+ FRA_CV_MR_Fighter6: "Système de Combat Aérien du Futur Marine"     #Fictional
+ FRA_CV_MR_Fighter6_short: "SCAF M"                                 #Fictional
+ FRA_CV_MR_Fighter7: "Système de Combat Aérien du Futur Autonome Marine"     #Fictional
+ FRA_CV_MR_Fighter7_short: "SCAFA M" #Fictional
 
- FRA_AS_Fighter1:0 "Dassault Mirage F1 C-200"
- FRA_AS_Fighter1_short:0 "Mirage F1 C-200"
- FRA_AS_Fighter2:0 "Dassault Mirage 2000-5F"
- FRA_AS_Fighter2_short:0 "Mirage 2000-5F"
- FRA_AS_Fighter3:0 "Dassault Rafale F3-R"
- FRA_AS_Fighter3_short:0 "Rafale F3-R"
- FRA_AS_Fighter4:0 "Future Air Combat System"
- FRA_AS_Fighter4_short:0 "FCAS"
+ FRA_AS_Fighter1: "Dassault Mirage F1 C-200"
+ FRA_AS_Fighter1_short: "Mirage F1 C-200"
+ FRA_AS_Fighter2: "Dassault Mirage 2000-5F"
+ FRA_AS_Fighter2_short: "Mirage 2000-5F"
+ FRA_AS_Fighter3: "Dassault Rafale F3-R"
+ FRA_AS_Fighter3_short: "Rafale F3-R"
+ FRA_AS_Fighter4: "Future Air Combat System"
+ FRA_AS_Fighter4_short: "FCAS"
 
- FRA_Int_Fighter1:0 "Dassault Mirage 4000"
- FRA_Int_Fighter1_short:0 "Mirage 4000"
+ FRA_MR_Fighter1: "Dassault Mirage F1-E"
+ FRA_MR_Fighter1_short: "Mirage F1-E"
+ FRA_MR_Fighter2: "Dassault Mirage 2000C"
+ FRA_MR_Fighter2_short: "Mirage 2000C"
+ FRA_MR_Fighter3: "Dassault Rafale B/C"
+ FRA_MR_Fighter3_short: "Rafale B/C"
+ FRA_MR_Fighter4: "Dassault Rafale F4"
+ FRA_MR_Fighter4_short: "Rafale F4"
+ FRA_MR_Fighter6: "Système de Combat Aérien du Futur"       #Same as Germany
+ FRA_MR_Fighter6_short: "SCAF"
+ FRA_MR_Fighter7: "Système de Combat Aérien du Futur Autonome"       #Fictional
+ FRA_MR_Fighter7_short: "SCAFA" #Fictional
 
- FRA_MR_Fighter1:0 "Dassault Mirage F1-E"
- FRA_MR_Fighter1_short:0 "Mirage F1-E"
- FRA_MR_Fighter2:0 "Dassault Mirage 2000C"
- FRA_MR_Fighter2_short:0 "Mirage 2000C"
- FRA_MR_Fighter3:0 "Dassault Rafale B/C"
- FRA_MR_Fighter3_short:0 "Rafale B/C"
- FRA_MR_Fighter4:0 "Dassault Rafale F4"
- FRA_MR_Fighter4_short:0 "Rafale F4"
- FRA_MR_Fighter6:0 "Système de Combat Aérien du Futur"       		#Same as Germany
- FRA_MR_Fighter6_short:0 "SCAF"
- FRA_MR_Fighter7:0 "Système de Combat Aérien du Futur Autonome"       		#Fictional
- FRA_MR_Fighter7_short:0 "SCAFA"										#Fictional
+ FRA_Strike_fighter1: "Dassault Mirage 5"
+ FRA_Strike_fighter1_short: "Mirage 5"
+ #FRA_Strike_fighter1: "SEPECAT Jaguar"
+ #FRA_Strike_fighter1_short: "SEPECAT Jaguar"
+ FRA_Strike_fighter2: "Dassault Mirage 2000D"
+ FRA_Strike_fighter2_short: "Mirage 2000D"
+ FRA_Strike_fighter3: "Dassault Rafale G"
+ FRA_Strike_fighter3_short: "Dassault Rafale G"
+ FRA_Strike_fighter4: "Dassault Cygne" #Fictional
+ FRA_Strike_fighter4_short: "Cygne" #Fictional
+ FRA_Strike_fighter5: "Dassault Cygne F2" #Fictional
+ FRA_Strike_fighter5_short: "Cygne F2" #Fictional
+ FRA_Strike_fighter6: "Dassault Cygne F3M" #Fictional
+ FRA_Strike_fighter6_short: "Cygne F3M" #Fictional
+ FRA_Strike_fighter7: "Dassault Cygne Autonome" #Fictional
+ FRA_Strike_fighter7_short: "Cygne Autonome" #Fictional
 
- FRA_Strike_fighter1:0 "Dassault Mirage 5"
- FRA_Strike_fighter1_short:0 "Mirage 5"
- #FRA_Strike_fighter1:0 "SEPECAT Jaguar"
- #FRA_Strike_fighter1_short:0 "SEPECAT Jaguar"
- FRA_Strike_fighter2:0 "Dassault Mirage 2000D"
- FRA_Strike_fighter2_short:0 "Mirage 2000D"
- FRA_Strike_fighter3:0 "Dassault Rafale G"
- FRA_Strike_fighter3_short:0 "Dassault Rafale G"
- FRA_Strike_fighter4:0 "Dassault Cygne"						#Fictional
- FRA_Strike_fighter4_short:0 "Cygne"						#Fictional
- FRA_Strike_fighter5:0 "Dassault Cygne F2"					#Fictional
- FRA_Strike_fighter5_short:0 "Cygne F2"						#Fictional
- FRA_Strike_fighter6:0 "Dassault Cygne F3M"					#Fictional
- FRA_Strike_fighter6_short:0 "Cygne F3M"					#Fictional
- FRA_Strike_fighter7:0 "Dassault Cygne Autonome"				#Fictional
- FRA_Strike_fighter7_short:0 "Cygne Autonome"				#Fictional
+ FRA_naval_plane1: "Br.1150 Atlantic"
+ FRA_naval_plane1_short: "Br.1150 Atlantic"
+ FRA_naval_plane2: "Atlantique 2"
+ FRA_naval_plane2_short: "Atlantique 2"
+ FRA_naval_plane3: "Atlantique 3" #Fictional
+ FRA_naval_plane3_short: "Atlantique 3" #Fictional
+ FRA_naval_plane4: "Atlantique 4" #Fictional
+ FRA_naval_plane4_short: "Atlantique 4" #Fictional
+ FRA_naval_plane5: "A320Néo MPA"
+ FRA_naval_plane5_short: "A320 MPA"
+ FRA_naval_plane6: "Maritime Airborne Warfare System" #Project
+ FRA_naval_plane6_short: "MAWS" #Project
 
- FRA_naval_plane1:0 "Br.1150 Atlantic"
- FRA_naval_plane1_short:0 "Br.1150 Atlantic"
- FRA_naval_plane2:0 "Atlantique 2"
- FRA_naval_plane2_short:0 "Atlantique 2"
- FRA_naval_plane3:0 "Atlantique 3"								#Fictional
- FRA_naval_plane3_short:0 "Atlantique 3"						#Fictional
- FRA_naval_plane4:0 "Atlantique 4"								#Fictional
- FRA_naval_plane4_short:0 "Atlantique 4"						#Fictional
- FRA_naval_plane5:0 "A320Néo MPA"
- FRA_naval_plane5_short:0 "A320 MPA"
- FRA_naval_plane6:0 "Maritime Airborne Warfare System"			#Project
- FRA_naval_plane6_short:0 "MAWS"								#Project
+ FRA_strategic_bomber1: "Dassault Mirage IV"
+ FRA_strategic_bomber1_short: "Mirage IV"
+ FRA_strategic_bomber2: "Mirage IVB" #Fictional
+ FRA_strategic_bomber2_short: "Mirage IVB" #Fictional
+ FRA_strategic_bomber3: "Mirage IVC" #Fictional
+ FRA_strategic_bomber3_short: "Mirage IVC II" #Fictional
+ FRA_strategic_bomber4: "Dassault Cirus" #Fictional
+ FRA_strategic_bomber4_short: "Cirus" #Fictional
+ FRA_strategic_bomber5: "Dassault Cirus II" #Fictional
+ FRA_strategic_bomber5_short: "Cirus II" #Fictional
+ FRA_strategic_bomber6: "Dassault Cirus IV" #Fictional
+ FRA_strategic_bomber6_short: "Cirus IV" #Fictional
 
- FRA_strategic_bomber1:0 "Dassault Mirage IV"
- FRA_strategic_bomber1_short:0 "Mirage IV"
- FRA_strategic_bomber2:0 "Mirage IVB"					#Fictional
- FRA_strategic_bomber2_short:0 "Mirage IVB"					#Fictional
- FRA_strategic_bomber3:0 "Mirage IVC"				#Fictional
- FRA_strategic_bomber3_short:0 "Mirage IVC II"				#Fictional
- FRA_strategic_bomber4:0 "Dassault Cirus"					#Fictional
- FRA_strategic_bomber4_short:0 "Cirus"						#Fictional
- FRA_strategic_bomber5:0 "Dassault Cirus II"				#Fictional
- FRA_strategic_bomber5_short:0 "Cirus II"					#Fictional
- FRA_strategic_bomber6:0 "Dassault Cirus IV"				#Fictional
- FRA_strategic_bomber6_short:0 "Cirus IV"					#Fictional
+ FRA_L_Strike_fighter1: "SOCATA TB-30 Epsilon" #Not a Jet
+ FRA_L_Strike_fighter1_short: "TB-30 Epsilon" #Not a Jet
+ FRA_L_Strike_fighter2: "Dassault Alpha Jet"
+ FRA_L_Strike_fighter2_short: "Alpha Jet"
+ FRA_L_Strike_fighter3: "IOMAX Archangel"
+ FRA_L_Strike_fighter3_short: "Archangel"
+ FRA_L_Strike_fighter4: "Pilatus PC-21"
+ FRA_L_Strike_fighter4_short: "PC-21"
+ FRA_L_Strike_fighter5: "Dassault Omega Jet" #Fictional
+ FRA_L_Strike_fighter5_short: "Omega Jet" #Fictional
 
- FRA_L_Strike_fighter1:0 "SOCATA TB-30 Epsilon"				#Not a Jet
- FRA_L_Strike_fighter1_short:0 "TB-30 Epsilon"				#Not a Jet
- FRA_L_Strike_fighter2:0 "Dassault Alpha Jet"
- FRA_L_Strike_fighter2_short:0 "Alpha Jet"
- FRA_L_Strike_fighter3:0 "IOMAX Archangel"
- FRA_L_Strike_fighter3_short:0 "Archangel"
- FRA_L_Strike_fighter4:0 "Pilatus PC-21"
- FRA_L_Strike_fighter4_short:0 "PC-21"
- FRA_L_Strike_fighter5:0 "Dassault Omega Jet"					#Fictional
- FRA_L_Strike_fighter5_short:0 "Omega Jet"					#Fictional
+ FRA_CV_L_Strike_fighter1: "SOCATA TB-30 Epsilon Marine" #Not a Jet/Fictional
+ FRA_CV_L_Strike_fighter1_short: "TB-30 Epsilon Marine" #Not a Jet/Fictional
+ FRA_CV_L_Strike_fighter2: "Dassault Alpha Jet Marine" #Project
+ FRA_CV_L_Strike_fighter2_short: "Alpha Jet Marine" #Project
+ FRA_CV_L_Strike_fighter3: "EADS Mako HEAT Marine" #Project
+ FRA_CV_L_Strike_fighter3_short: "Mako HEAT Marine" #Project
+ FRA_CV_L_Strike_fighter4: "Pilatus PC-21 Marine" #Fictional
+ FRA_CV_L_Strike_fighter4_short: "PC-21 Marine" #Fictional
+ FRA_CV_L_Strike_fighter5: "Dassault Omega Jet Marine" #Fictional
+ FRA_CV_L_Strike_fighter5_short: "Omega Jet Marine" #Fictional
 
- FRA_CV_L_Strike_fighter1:0 "SOCATA TB-30 Epsilon Marine"				#Not a Jet/Fictional
- FRA_CV_L_Strike_fighter1_short:0 "TB-30 Epsilon Marine"				#Not a Jet/Fictional
- FRA_CV_L_Strike_fighter2:0 "Dassault Alpha Jet Marine"					#Project
- FRA_CV_L_Strike_fighter2_short:0 "Alpha Jet Marine"					#Project
- FRA_CV_L_Strike_fighter3:0 "EADS Mako HEAT Marine"						#Project
- FRA_CV_L_Strike_fighter3_short:0 "Mako HEAT Marine"					#Project
- FRA_CV_L_Strike_fighter4:0 "Pilatus PC-21 Marine"						#Fictional
- FRA_CV_L_Strike_fighter4_short:0 "PC-21 Marine"						#Fictional
- FRA_CV_L_Strike_fighter5:0 "Dassault Omega Jet Marine"					#Fictional
- FRA_CV_L_Strike_fighter5_short:0 "Omega Jet Marine"					#Fictional
+ FRA_Air_UAV1: "Dassault AVE-C Moyen Duc"
+ FRA_Air_UAV1_short: "Moyen Duc"
+ FRA_Air_UAV2: "Dassault nEUROn"
+ FRA_Air_UAV2_short: "nEUROn"
+ FRA_Air_UAV3: "MALE RPAS" #Project
+ FRA_Air_UAV3_short: "MALE"
+ FRA_Air_UAV4: "Drone Armé du Futur" #Fictional
+ FRA_Air_UAV4_short: "DAF"
 
- FRA_Air_UAV1:0 "Dassault AVE-C Moyen Duc"
- FRA_Air_UAV1_short:0 "Moyen Duc"
- FRA_Air_UAV2:0 "Dassault nEUROn"
- FRA_Air_UAV2_short:0 "nEUROn"
- FRA_Air_UAV3:0 "MALE RPAS"							#Project
- FRA_Air_UAV3_short:0 "MALE"
- FRA_Air_UAV4:0 "Drone Armé du Futur"					#Fictional
- FRA_Air_UAV4_short:0 "DAF"
+ FRA_AS_Fighter5: "Dassault Tempête VI" #Fictional
+ FRA_AS_Fighter5_short: "Tempête VI" #Fictional
+ FRA_AS_Fighter6: "Dassault Tornade" #Fictional
+ FRA_AS_Fighter6_short: "Tornade" #Fictional
+ FRA_AS_Fighter7: "Dassault Tornade Autonome" #Fictional
+ FRA_AS_Fighter7_short: "Tornade Autonome" #Fictional
 
- FRA_AS_Fighter1:0 "Dassault Projet T-111"				#Fictional
- FRA_AS_Fighter1_short:0 "T-111"						#Fictional
- FRA_AS_Fighter2:0 "Dassault Tempête 2000"					#Fictional
- FRA_AS_Fighter2_short:0 "Tempête 2000"						#Fictional
- FRA_AS_Fighter3:0 "Dassault Tempête III"					#Fictional
- FRA_AS_Fighter3_short:0 "Tempête III"						#Fictional
- FRA_AS_Fighter4:0 "Dassault Tempête 2100"					#Fictional
- FRA_AS_Fighter4_short:0 "Tempête 2100"						#Fictional
- FRA_AS_Fighter5:0 "Dassault Tempête VI"						#Fictional
- FRA_AS_Fighter5_short:0 "Tempête VI"						#Fictional
- FRA_AS_Fighter6:0 "Dassault Tornade"						#Fictional
- FRA_AS_Fighter6_short:0 "Tornade"							#Fictional
- FRA_AS_Fighter7:0 "Dassault Tornade Autonome"				#Fictional
- FRA_AS_Fighter7_short:0 "Tornade Autonome"					#Fictional
+ FRA_Int_Fighter1: "Dassault Mirage III"
+ FRA_Int_Fighter1_short: "Mirage III"
 
- FRA_Int_Fighter1:0 "Dassault Mirage III"
- FRA_Int_Fighter1_short:0 "Mirage III"
+ FRA_transport_plane1: "C-160R Transall"
+ FRA_transport_plane3: "A310 MRTT"
+ FRA_transport_plane4: "A400M Atlas"
+ FRA_transport_plane4_short: "A400M"
+ #FRA_transport_plane4_variant: "A330 MRTT"
+ FRA_transport_plane5: "A320M3 Néo"
+ FRA_transport_plane5_Short: "A320"
+ FRA_transport_plane6: "A380M Everest" #Fictional
+ FRA_transport_plane6_short: "A380M" #Fictional
 
- FRA_transport_plane1:0 "C-160R Transall"
- FRA_transport_plane3:0 "A310 MRTT"
- FRA_transport_plane4:0 "A400M Atlas"
- FRA_transport_plane4_short:0 "A400M"
- #FRA_transport_plane4_variant:0 "A330 MRTT"
- FRA_transport_plane5:0 "A320M3 Néo"
- FRA_transport_plane5_Short:0 "A320"
- FRA_transport_plane6:0 "A380M Everest"						#Fictional
- FRA_transport_plane6_short:0 "A380M"						#Fictional
-
- FRA_cas1:0 "Dassault Busard"									#Fictional
- FRA_cas1_short:0 "Busard"									#Fictional
- FRA_cas2:0 "Dassault Vautour"								#Fictional
- FRA_cas2_short:0 "Vautour"									#Fictional
- FRA_cas3:0 "Dassault Faucon"									#Fictional
- FRA_cas3_short:0 "Faucon"									#Fictional
- FRA_cas4:0 "Dassault Aigle"									#Fictional
- FRA_cas4_short:0 "Aigle"									#Fictional
- FRA_cas5:0 "Dassault Condor"									#Fictional
- FRA_cas5_short:0 "Condor"									#Fictional
+ FRA_cas1: "Dassault Busard" #Fictional
+ FRA_cas1_short: "Busard" #Fictional
+ FRA_cas2: "Dassault Vautour" #Fictional
+ FRA_cas2_short: "Vautour" #Fictional
+ FRA_cas3: "Dassault Faucon" #Fictional
+ FRA_cas3_short: "Faucon" #Fictional
+ FRA_cas4: "Dassault Aigle" #Fictional
+ FRA_cas4_short: "Aigle" #Fictional
+ FRA_cas5: "Dassault Condor" #Fictional
+ FRA_cas5_short: "Condor" #Fictional
 
  ### Georgia ###
- GEO_cas2:0 "SU-25KM Scorpion"
- GEO_cas2_short:0 "SU-25KM Scorpion"
+ GEO_cas2: "SU-25KM Scorpion"
+ GEO_cas2_short: "SU-25KM Scorpion"
 
  ### Germany ###
- GER_AS_Fighter1:0 "F-4F ICE"
- GER_AS_Fighter1_short:0 "F-4F ICE"
- GER_AS_Fighter2:0 "F-15A"
- GER_AS_Fighter2_short:0 "F-15A"
- GER_AS_Fighter3:0 "Eurofighter Typhoon 2000 IPA3"
- GER_AS_Fighter3_short:0 "Typhoon IPA3"
- GER_AS_Fighter4:0 "Future Combat Air System"
- GER_AS_Fighter4_short:0 "FCAS"
- GER_AS_Fighter6:0 "FW-1090"
- GER_AS_Fighter6_short:0 "FW-1090"
- GER_AS_Fighter7:0 "BAE Systems FW-1465"
- GER_AS_Fighter7_short:0 "FW-1465"
- GER_AS_Fighter8:0 "BAE Systems FW-1500"
- GER_AS_Fighter8_short:0 "FW-1500"
+ GER_AS_Fighter1: "F-4F ICE"
+ GER_AS_Fighter1_short: "F-4F ICE"
+ GER_AS_Fighter2: "F-15A"
+ GER_AS_Fighter2_short: "F-15A"
+ GER_AS_Fighter3: "Eurofighter Typhoon 2000 IPA3"
+ GER_AS_Fighter3_short: "Typhoon IPA3"
+ GER_AS_Fighter4: "Future Combat Air System"
+ GER_AS_Fighter4_short: "FCAS"
+ GER_AS_Fighter6: "FW-1090"
+ GER_AS_Fighter6_short: "FW-1090"
+ GER_AS_Fighter7: "BAE Systems FW-1465"
+ GER_AS_Fighter7_short: "FW-1465"
+ GER_AS_Fighter8: "BAE Systems FW-1500"
+ GER_AS_Fighter8_short: "FW-1500"
 
- GER_Int_Fighter1:0 "Panavia Tornado ADV-D"
- GER_Int_Fighter1_short:0 "Tornado ADV-D"
+ GER_Int_Fighter1: "Panavia Tornado ADV-D"
+ GER_Int_Fighter1_short: "Tornado ADV-D"
 
- GER_MR_Fighter1:0 "F-4DE"
- GER_MR_Fighter1_short:0 "F-4DE"
- GER_MR_Fighter2:0 "F-16A"
- GER_MR_Fighter2_short:0 "F-16A"
- GER_MR_Fighter3:0 "Eurofighter 2000 DA5"
- GER_MR_Fighter3_short:0 "Eurofighter 2000 DA5"
- GER_MR_Fighter4:0 "F-35 Lightning II"
- GER_MR_Fighter4_short:0 "F-35 Lightning II"
- GER_MR_Fighter5:0 "F-35 Lightning III"
- GER_MR_Fighter5_short:0 "F-35 Lightning III"
- GER_MR_Fighter6:0 "F-42 Starfire II"
- GER_MR_Fighter6_short:0 "F-42 Starfire II"
- GER_MR_Fighter7:0 "F-42 Starfire III"
- GER_MR_Fighter7_short:0 "F-42 Starfire III"
+ GER_MR_Fighter1: "F-4DE"
+ GER_MR_Fighter1_short: "F-4DE"
+ GER_MR_Fighter2: "F-16A"
+ GER_MR_Fighter2_short: "F-16A"
+ GER_MR_Fighter3: "Eurofighter 2000 DA5"
+ GER_MR_Fighter3_short: "Eurofighter 2000 DA5"
+ GER_MR_Fighter4: "F-35 Lightning II"
+ GER_MR_Fighter4_short: "F-35 Lightning II"
+ GER_MR_Fighter5: "F-35 Lightning III"
+ GER_MR_Fighter5_short: "F-35 Lightning III"
+ GER_MR_Fighter6: "F-42 Starfire II"
+ GER_MR_Fighter6_short: "F-42 Starfire II"
+ GER_MR_Fighter7: "F-42 Starfire III"
+ GER_MR_Fighter7_short: "F-42 Starfire III"
 
- GER_Strike_fighter2:0 "Panavia Tornado IDS"
- GER_Strike_fighter2_short:0 "Panavia Tornado IDS"
+ GER_Strike_fighter2: "Panavia Tornado IDS"
+ GER_Strike_fighter2_short: "Panavia Tornado IDS"
 
- GER_L_Strike_fighter2:0 "Dornier Alpha Jet"
- GER_L_Strike_fighter2_short:0 "Alpha Jet"
+ GER_L_Strike_fighter2: "Dornier Alpha Jet"
+ GER_L_Strike_fighter2_short: "Alpha Jet"
 
  ### Indonesia ###
- IND_AS_Fighter3:0 "Su-30MKI"
- IND_AS_Fighter3_short:0 "Su-30MKI"
+ IND_AS_Fighter3: "Su-30MKI"
+ IND_AS_Fighter3_short: "Su-30MKI"
 
- IND_MR_Fighter3:0 "HAL Tejas"
- IND_MR_Fighter3_short:0 "HAL Tejas"
- IND_MR_Fighter4:0 "KAI KF-25"
- IND_MR_Fighter4_short:0 "KAI KF-25"
+ IND_MR_Fighter3: "HAL Tejas"
+ IND_MR_Fighter3_short: "HAL Tejas"
+ IND_MR_Fighter4: "KAI KF-25"
+ IND_MR_Fighter4_short: "KAI KF-25"
 
- IND_transport_plane1:0 "IAI Arava"
- IND_transport_plane1_short:0 "IAI Arava"
- IND_transport_plane2:0 "CASA CN-235"
- IND_transport_plane2_short:0 "CN-235"
+ IND_transport_plane1: "IAI Arava"
+ IND_transport_plane1_short: "IAI Arava"
+ IND_transport_plane2: "CASA CN-235"
+ IND_transport_plane2_short: "CN-235"
 
  ### ISRAEL AIR FORCE ###
- ISR_AS_Fighter1:0 "Mirage IIICJ"
- ISR_AS_Fighter1_short:0 "Mirage IIICJ"
- ISR_AS_Fighter2:0 "F-4E"
- ISR_AS_Fighter2_short:0 "F-4E"
- ISR_AS_Fighter3:0 "F-15A/C Baz"
- ISR_AS_Fighter3_short:0 "F-15A/C Baz"
- ISR_AS_Fighter4:0 "F-22I"
- ISR_AS_Fighter4_short:0 "F-22I"
- ISR_AS_Fighter5:0 "F-22CI Raptor"
- ISR_AS_Fighter5_short:0 "F-22CI Raptor"
- ISR_AS_Fighter6:0 "F-44I"
- ISR_AS_Fighter6_short:0 "F-44I"
- ISR_AS_Fighter7:0 "F-158I"			#Fictional
- ISR_AS_Fighter7_short:0 "F-158I"		#Fictional
+ ISR_AS_Fighter1: "Mirage IIICJ"
+ ISR_AS_Fighter1_short: "Mirage IIICJ"
+ ISR_AS_Fighter2: "F-4E"
+ ISR_AS_Fighter2_short: "F-4E"
+ ISR_AS_Fighter3: "F-15A/C Baz"
+ ISR_AS_Fighter3_short: "F-15A/C Baz"
+ ISR_AS_Fighter4: "F-22I"
+ ISR_AS_Fighter4_short: "F-22I"
+ ISR_AS_Fighter5: "F-22CI Raptor"
+ ISR_AS_Fighter5_short: "F-22CI Raptor"
+ ISR_AS_Fighter6: "F-44I"
+ ISR_AS_Fighter6_short: "F-44I"
+ ISR_AS_Fighter7: "F-158I" #Fictional
+ ISR_AS_Fighter7_short: "F-158I" #Fictional
 
- ISR_MR_Fighter1:0 "IAI Kfir"
- ISR_MR_Fighter1_short:0 "IAI Kfir"
- ISR_MR_Fighter2:0 "IAF F-16 Netz"
- ISR_MR_Fighter2_short:0 "IAF F-16 Netz"
- ISR_MR_Fighter3:0 "IAF F-16I Sufa"
- ISR_MR_Fighter3_short:0 "IAF F-16I Sufa"
- ISR_MR_Fighter4:0 "F-35I Lightning II"
- ISR_MR_Fighter4_short:0 "F-35I Lightning II"
- ISR_MR_Fighter5:0 "F-35I Lightning III"			#Fictional
- ISR_MR_Fighter5_short:0 "F-35I Lightning III"	#Fictional
- ISR_MR_Fighter6:0 "F-62I"				#Fictional
- ISR_MR_Fighter6_short:0 "F-62I"		#Fictional
- ISR_MR_Fighter7:0 "F-79I"			#Fictional
- ISR_MR_Fighter7_short:0 "F-79I"		#Fictional
+ ISR_MR_Fighter1: "IAI Kfir"
+ ISR_MR_Fighter1_short: "IAI Kfir"
+ ISR_MR_Fighter2: "IAF F-16 Netz"
+ ISR_MR_Fighter2_short: "IAF F-16 Netz"
+ ISR_MR_Fighter3: "IAF F-16I Sufa"
+ ISR_MR_Fighter3_short: "IAF F-16I Sufa"
+ ISR_MR_Fighter4: "F-35I Lightning II"
+ ISR_MR_Fighter4_short: "F-35I Lightning II"
+ ISR_MR_Fighter5: "F-35I Lightning III" #Fictional
+ ISR_MR_Fighter5_short: "F-35I Lightning III" #Fictional
+ ISR_MR_Fighter6: "F-62I" #Fictional
+ ISR_MR_Fighter6_short: "F-62I" #Fictional
+ ISR_MR_Fighter7: "F-79I" #Fictional
+ ISR_MR_Fighter7_short: "F-79I" #Fictional
 
- ISR_Strike_fighter1:0 "IAI Nesher"
- ISR_Strike_fighter1_short:0 "IAI Nesher"
- ISR_Strike_fighter2:0 "F-117I"
- ISR_Strike_fighter2_short:0 "F-117I"
- ISR_Strike_fighter3:0 "F-15I Ra'am"
- ISR_Strike_fighter3_short:0 "F-15I Ra'am"
- ISR_Strike_fighter4:0 "FB-22 Strike Raptor"
- ISR_Strike_fighter4_short:0 "FB-22 Strike Raptor"
- ISR_Strike_fighter5:0 "FB-37 Lighting Bolt"			#Fictional
- ISR_Strike_fighter5_short:0 "FB-37 Lighting Bolt"	#Fictional
- ISR_Strike_fighter6:0 "F-129 Dark Hawk"				#Fictional
- ISR_Strike_fighter6_short:0 "F-129 Dark Hawk"		#Fictional
- ISR_Strike_fighter7:0 "F-132 Heavenshade"			#Fictional
- ISR_Strike_fighter7_short:0 "F-132 Heavenshade"		#Fictional
+ ISR_Strike_fighter1: "IAI Nesher"
+ ISR_Strike_fighter1_short: "IAI Nesher"
+ ISR_Strike_fighter2: "F-117I"
+ ISR_Strike_fighter2_short: "F-117I"
+ ISR_Strike_fighter3: "F-15I Ra'am"
+ ISR_Strike_fighter3_short: "F-15I Ra'am"
+ ISR_Strike_fighter4: "FB-22 Strike Raptor"
+ ISR_Strike_fighter4_short: "FB-22 Strike Raptor"
+ ISR_Strike_fighter5: "FB-37 Lighting Bolt" #Fictional
+ ISR_Strike_fighter5_short: "FB-37 Lighting Bolt" #Fictional
+ ISR_Strike_fighter6: "F-129 Dark Hawk" #Fictional
+ ISR_Strike_fighter6_short: "F-129 Dark Hawk" #Fictional
+ ISR_Strike_fighter7: "F-132 Heavenshade" #Fictional
+ ISR_Strike_fighter7_short: "F-132 Heavenshade" #Fictional
 
- ISR_L_Strike_fighter1:0 "A-37 Dragonfly"
- ISR_L_Strike_fighter1_short:0 "A-37 Dragonfly"
- ISR_L_Strike_fighter2:0 "L-39I"
- ISR_L_Strike_fighter2_short:0 "L-39I"
- ISR_L_Strike_fighter3:0 "A-39 Skyflux"				#Fictional
- ISR_L_Strike_fighter3_short:0 "A-39 Skyflux"		#Fictional
- ISR_L_Strike_fighter4:0 "A-40 Heavenraid"				#Fictional
- ISR_L_Strike_fighter4_short:0 "A-40 Heavenraid"		#Fictional
- ISR_L_Strike_fighter5:0 "Leonardo T-100"
- ISR_L_Strike_fighter5_short:0 "T-100"
+ ISR_L_Strike_fighter1: "A-37 Dragonfly"
+ ISR_L_Strike_fighter1_short: "A-37 Dragonfly"
+ ISR_L_Strike_fighter2: "L-39I"
+ ISR_L_Strike_fighter2_short: "L-39I"
+ ISR_L_Strike_fighter3: "A-39 Skyflux" #Fictional
+ ISR_L_Strike_fighter3_short: "A-39 Skyflux" #Fictional
+ ISR_L_Strike_fighter4: "A-40 Heavenraid" #Fictional
+ ISR_L_Strike_fighter4_short: "A-40 Heavenraid" #Fictional
+ ISR_L_Strike_fighter5: "Leonardo T-100"
+ ISR_L_Strike_fighter5_short: "T-100"
 
- ISR_CV_L_Strike_fighter1:0 "CA-37 Water Bug"
- ISR_CV_L_Strike_fighter1_short:0 "CA-37 Water Bug"
- ISR_CV_L_Strike_fighter2:0 "AV-8B Harrier II"
- ISR_CV_L_Strike_fighter2_short:0 "AV-8B Harrier II"
- ISR_CV_L_Strike_fighter3:0 "F-35B"
- ISR_CV_L_Strike_fighter3_short:0 "F-35B"
- ISR_CV_L_Strike_fighter4:0 "F-35BI"
- ISR_CV_L_Strike_fighter4_short:0 "F-35BI"
- ISR_CV_L_Strike_fighter5:0 "Leonardo CT-100"
- ISR_CV_L_Strike_fighter5_short:0 "CT-100"
+ ISR_CV_L_Strike_fighter1: "CA-37 Water Bug"
+ ISR_CV_L_Strike_fighter1_short: "CA-37 Water Bug"
+ ISR_CV_L_Strike_fighter2: "AV-8B Harrier II"
+ ISR_CV_L_Strike_fighter2_short: "AV-8B Harrier II"
+ ISR_CV_L_Strike_fighter3: "F-35B"
+ ISR_CV_L_Strike_fighter3_short: "F-35B"
+ ISR_CV_L_Strike_fighter4: "F-35BI"
+ ISR_CV_L_Strike_fighter4_short: "F-35BI"
+ ISR_CV_L_Strike_fighter5: "Leonardo CT-100"
+ ISR_CV_L_Strike_fighter5_short: "CT-100"
 
- ISR_strategic_bomber1:0 "B-52H Stratofortress"
- ISR_strategic_bomber1_short:0 "B-52H"
- ISR_strategic_bomber3:0 "B-1B Lancer"
- ISR_strategic_bomber3_short:0 "B-1B Lancer"
- ISR_strategic_bomber4:0 "B-2 Spirit"
- ISR_strategic_bomber4_short:0 "B-2 Spirit"
- ISR_strategic_bomber5:0 "B-21 Raider"
- ISR_strategic_bomber5_short:0 "B-21 Raider"
- ISR_strategic_bomber6:0 "B-40 Brute"				#Fictional
- ISR_strategic_bomber6_short:0 "B-40 Brute"			#Fictional
+ ISR_strategic_bomber1: "B-52H Stratofortress"
+ ISR_strategic_bomber1_short: "B-52H"
+ ISR_strategic_bomber3: "B-1B Lancer"
+ ISR_strategic_bomber3_short: "B-1B Lancer"
+ ISR_strategic_bomber4: "B-2 Spirit"
+ ISR_strategic_bomber4_short: "B-2 Spirit"
+ ISR_strategic_bomber5: "B-21 Raider"
+ ISR_strategic_bomber5_short: "B-21 Raider"
+ ISR_strategic_bomber6: "B-40 Brute" #Fictional
+ ISR_strategic_bomber6_short: "B-40 Brute" #Fictional
 
- ISR_cas1:0 "A-4I"
- ISR_cas1_short:0 "A-4I"
- ISR_cas2:0 "A-4DI"
- ISR_cas2_short:0 "A-4DI"
- ISR_cas3:0 "A-15 Thunderforce"				#Fictional
- ISR_cas3_short:0 "A-15"							#Fictional
- ISR_cas4:0 "A-20 Thunderfire"				#Fictional
- ISR_cas4_short:0 "A-20"							#Fictional
- ISR_cas5:0 "A-25 Thundereagle"				#Fictional
- ISR_cas5_short:0 "A-25"							#Fictional
+ ISR_cas1: "A-4I"
+ ISR_cas1_short: "A-4I"
+ ISR_cas2: "A-4DI"
+ ISR_cas2_short: "A-4DI"
+ ISR_cas3: "A-15 Thunderforce" #Fictional
+ ISR_cas3_short: "A-15" #Fictional
+ ISR_cas4: "A-20 Thunderfire" #Fictional
+ ISR_cas4_short: "A-20" #Fictional
+ ISR_cas5: "A-25 Thundereagle" #Fictional
+ ISR_cas5_short: "A-25" #Fictional
 
- ISR_naval_plane1:0 "P-3 Orion"
- ISR_naval_plane1_short:0 "P-3 Orion"
- ISR_naval_plane2:0 "P-3C Orion"
- ISR_naval_plane2_short:0 "P-3C Orion"
- ISR_naval_plane4:0 "P-8 Poseidon"
- ISR_naval_plane4_short:0 "P-8 Poseidon"
- ISR_naval_plane5:0 "MQ-4C Triton"
- ISR_naval_plane5_short:0 "MQ-4C Triton"
- ISR_naval_plane6:0 "MQ-20C Triteia"
- ISR_naval_plane6_short:0 "MQ-20C Triteia"
+ ISR_naval_plane1: "P-3 Orion"
+ ISR_naval_plane1_short: "P-3 Orion"
+ ISR_naval_plane2: "P-3C Orion"
+ ISR_naval_plane2_short: "P-3C Orion"
+ ISR_naval_plane4: "P-8 Poseidon"
+ ISR_naval_plane4_short: "P-8 Poseidon"
+ ISR_naval_plane5: "MQ-4C Triton"
+ ISR_naval_plane5_short: "MQ-4C Triton"
+ ISR_naval_plane6: "MQ-20C Triteia"
+ ISR_naval_plane6_short: "MQ-20C Triteia"
 
- ISR_transport_plane1:0 "C-130 Hercules"
- ISR_transport_plane1_short:0 "C-130 Hercules"
- ISR_transport_plane2:0 "C-5 Galaxy"
- ISR_transport_plane2_short:0 "C-5 Galaxy"
- ISR_transport_plane3:0 "C-17 Globemaster III"
- ISR_transport_plane3_short:0 "C-17"
- ISR_transport_plane4:0 "C-130J Super Hercules"
- ISR_transport_plane4_short:0 "C-130J"
+ ISR_transport_plane1: "C-130 Hercules"
+ ISR_transport_plane1_short: "C-130 Hercules"
+ ISR_transport_plane2: "C-5 Galaxy"
+ ISR_transport_plane2_short: "C-5 Galaxy"
+ ISR_transport_plane3: "C-17 Globemaster III"
+ ISR_transport_plane3_short: "C-17"
+ ISR_transport_plane4: "C-130J Super Hercules"
+ ISR_transport_plane4_short: "C-130J"
 
- ISR_Int_Fighter1:0 "F-14I"
+ ISR_Int_Fighter1: "F-14I"
 
- ISR_transport_plane5:0 "C-46 Pegasus"
- ISR_transport_plane5_short:0 "C-46 Pegasus"
- ISR_transport_plane6:0 "C-216 Anemoi"					#Fictional
- ISR_transport_plane6_short:0 "C-216 Anemoi"			#Fictional
+ ISR_transport_plane5: "C-46 Pegasus"
+ ISR_transport_plane5_short: "C-46 Pegasus"
+ ISR_transport_plane6: "C-216 Anemoi" #Fictional
+ ISR_transport_plane6_short: "C-216 Anemoi" #Fictional
 
  ### Italy ###
- ITA_AS_Fighter3:0 "EF-2000 Typhoon"
- ITA_AS_Fighter3_short:0 "EF-2000 Typhoon"
+ ITA_AS_Fighter1: "Lockheed TF-104G"
+ ITA_AS_Fighter1_short: "TF-104G"
+ ITA_AS_Fighter2: "Lockheed TF-104S"
+ ITA_AS_Fighter2_short: "TF-104S"
+ ITA_AS_Fighter3: "F-2000A Eurofighter"
+ ITA_AS_Fighter3_short: "F-2000A"
+ ITA_AS_Fighter4: "F-2000A Euroifghter ACOL"
+ ITA_AS_Fighter4_short: "F-2000A ACOL"
+ ITA_AS_Fighter5: "F-2000B Eurofighter II"
+ ITA_AS_Fighter5_short: "F-2000B"
+ ITA_AS_Fighter6: "F-3000A"
+ ITA_AS_Fighter6_short: "F-3000A Tempest"
+ ITA_AS_Fighter7: "F-3000A Tempest ACOL"
+ ITA_AS_Fighter7_short: "F-3000A ACOL"
 
- ITA_cas2:0 "AMX International"
- ITA_cas2_short:0 "AMX"
- ITA_cas3:0 "AMX International II"
- ITA_cas3_short:0 "AMX II"
+ ITA_cas1: "G-91R/1B"
+ ITA_cas1_short: "Fiat G.91R/1B"
+ ITA_cas2: "A-11B Ghibli"
+ ITA_cas2_short: "A-11B Ghibli"
+ ITA_cas3: "A-11B ACOL"
+ ITA_cas3_short: "A-11B ACOL"
+ ITA_cas4: "Alenia Aermacchi A-12B Grillaio"
+ ITA_cas4_short: "A-12B Grillaio"
+ ITA_cas5: "Alenia Aermacchi A-12B ACOL"
+ ITA_cas5_short: "A-12B ACOL"
 
- ITA_Int_Fighter1:0 "Panavia Tornado ADV"
- ITA_Int_Fighter1_short:0 "Panavia Tornado ADV"
+ ITA_Int_Fighter1: "Panavia Tornado ADV"
+ ITA_Int_Fighter1_short: "Tornado ADV"
 
- #ITA_L_Strike_fighter1:0"SIAI-Marchetti SF.260"
- ITA_L_Strike_fighter1:0 "Aermacchi MB-326"
- ITA_L_Strike_fighter1_short:0 "MB-326"
- ITA_L_Strike_fighter2:0 "SIAI-Marchetti S.211"
- ITA_L_Strike_fighter2_short:0 "S.211"
- ITA_L_Strike_fighter3:0 "Aermacchi M-346 Master"
- ITA_L_Strike_fighter3_short:0 "M-346 Master"
+ ITA_L_Strike_fighter1: "Aermacchi MB-326"
+ ITA_L_Strike_fighter1_short: "MB-326"
+ ITA_L_Strike_fighter2: "Aermacchi MB.339CDII"
+ ITA_L_Strike_fighter2_short: "MB.339CDII"
+ ITA_L_Strike_fighter3: "Alenia Aermacchi M-346C"
+ ITA_L_Strike_fighter3_short: "M-346C Master"
+ ITA_L_Strike_fighter4: "Alenia Aermacchi M-346A FA"
+ ITA_L_Strike_fighter4_short: "M-346A FA"
+ ITA_L_Strike_fighter5: "Alenia Aermacchi M-369A"
+ ITA_L_Strike_fighter5_short: "M-369CD"
 
- ITA_Strike_fighter2:0 "Panavia Tornado IDS"
- ITA_Strike_fighter2_short:0 "Panavia Tornado IDS"
+ ITA_CV_L_Strike_fighter1: "McDonnell Douglas AV-8B Harrier II"
+ ITA_CV_L_Strike_fighter1_short: "AV-8B Harrier II"
+ ITA_CV_L_Strike_fighter2: "McDonnell Douglas AV-8B Harrier II Plus"
+ ITA_CV_L_Strike_fighter2_short: "AV-8B Harrier II Plus"
+ ITA_CV_L_Strike_fighter3: "Lockheed Martin F-35B"
+ ITA_CV_L_Strike_fighter3_short: "F-35B"
+ ITA_CV_L_Strike_fighter4: "Lockheed Martin F-35B ACOL"
+ ITA_CV_L_Strike_fighter4: "F-35B ACOL"
+ ITA_CV_L_Strike_fighter5: "Lockheed Martin F-45B"
+ ITA_CV_L_Strike_fighter5_short: "F-45B"
 
- ITA_transport_plane1:0 "Aeritalia G.222"
- ITA_transport_plane3:0 "C-27J Spartan"
+ ITA_Strike_fighter1: "North American F-86K"
+ ITA_Strike_fighter1_short: "F-86K"
+ ITA_Strike_fighter2: "A-200A Panavia Tornado IDS"
+ ITA_Strike_fighter2_short: "A-200A Tornado IDS"
+ ITA_Strike_fighter3: "EA-200B Panavia Tornado IT-ECR"
+ ITA_Strike_fighter3_short: "EA-200B Tornado ECR"
+ ITA_Strike_fighter4: "Lockheed Martin F-35A IT-ECR"
+ ITA_Strike_fighter4_short: "F-35A IT-IDS"
+ ITA_Strike_fighter5: "Lockheed Martin F-35A ACOL IT-ECR"
+ ITA_Strike_fighter5_short: "F-35A ACOL IDS"
+ ITA_Strike_fighter6: "NGF AF-690A IDS-IT ECR"
+ ITA_Strike_fighter6_short: "AF-690A IDS"
+ ITA_Strike_fighter7: "NGF AF-690B IDS-IT ECR"
+ ITA_Strike_fighter7_short: "AF-690B IDS"
+
+ ITA_MR_Fighter1: "Aeritalia G.91Y"
+ ITA_MR_Fighter1_short: "Aeritalia G.91Y"
+ ITA_MR_Fighter2: "General Dynamics F-16A ADF"
+ ITA_MR_Fighter2_short: "F-16A ADF"
+ ITA_MR_Fighter3: "F-2000A P1Eb"
+ ITA_MR_Fighter3_short: "F-2000A P1Eb"
+ ITA_MR_Fighter4: "Lockheed Martin F-35A"
+ ITA_MR_Fighter4_short: "F-35A"
+ ITA_MR_Fighter5: "Lockheed Martin F-35A ACOL"
+ ITA_MR_Fighter5_short: "F-35A ACOL"
+ ITA_MR_Fighter6: "Lockheed Martin F-45A"
+ ITA_MR_Fighter6_short: "F-45A"
+ ITA_MR_Fighter7: "Lockheed Martin F-45D"
+ ITA_MR_Fighter7_short: "F-45D"
+
+ ITA_CV_MR_Fighter1: "F4J Phantom II"
+ ITA_CV_MR_Fighter1_short: "F4J Phantom II"
+ ITA_CV_MR_Fighter2: "Boeing F/A-18C/D Hornet"
+ ITA_CV_MR_Fighter2_desc: "The McDonnell Douglas F/A-18 Hornet is a twin-engine, supersonic, all-weather, carrier-capable, multirole combat jet, designed as both a fighter and attack aircraft (hence the F/A designation). Designed by McDonnell Douglas (now Boeing) and Northrop, the F/A-18 was derived from the latter's YF-17 in the 1970s for use by the United States Navy and Marine Corps."
+ ITA_CV_MR_Fighter2_short: "F/A-18C/D Hornet"
+ ITA_CV_MR_Fighter3: "F/A-18E/F Super Hornet"
+ ITA_CV_MR_Fighter3_desc: "The Boeing F/A-18E and F/A-18F Super Hornet are twin-engine, carrier-capable, multirole fighter aircraft variants based on the McDonnell Douglas F/A-18 Hornet. The F/A-18E single-seat and F/A-18F tandem-seat variants are larger and more advanced derivatives of the F/A-18C and D Hornet. The Super Hornet has an internal 20 mm M61 rotary cannon and can carry air-to-air missiles and air-to-surface weapons. Additional fuel can be carried in up to five external fuel tanks and the aircraft can be configured as an airborne tanker by adding an external air refueling system."
+ ITA_CV_MR_Fighter3_short: "F/A-18E/F"
+ ITA_CV_MR_Fighter4: "Lockheed Martin F-35C"
+ ITA_CV_MR_Fighter4_short: "F-35C"
+ ITA_CV_MR_Fighter5: "Lockheed Martin F-35C ACOL"
+ ITA_CV_MR_Fighter5_short: "F-35C ACOL"
+ ITA_CV_MR_Fighter6: "Lockheed Martin F-45C"
+ ITA_CV_MR_Fighter6_short: "F-45C"
+ ITA_CV_MR_Fighter7: "Lockheed Martin F-45C ACOL"
+ ITA_CV_MR_Fighter7_short: "F-45C ACOL"
+
+ ITA_Air_UAV1: "General Atomics MQ-1C Predator A+"
+ ITA_Air_UAV1_short: "MQ-1C Predator A+"
+ ITA_Air_UAV2: "General Atomics MQ-9A Predator B"
+ ITA_Air_UAV2_short: "MQ-9A Predator B"
+ ITA_Air_UAV3: "Leonardo Sky-1A nEUROn"
+ ITA_Air_UAV3_short: "Sky-1A nEUROn"
+ ITA_Air_UAV4: "Leonardo Sky-2C nEUROn B"
+ ITA_Air_UAV4_short: "Sky-2C nEUROn B"
+
+ ITA_strategic_bomber1: "B-52H Stratofortezza"
+ ITA_strategic_bomber1_short: "B-52H"
+ ITA_strategic_bomber2: "B-70 Valchiria"
+ ITA_strategic_bomber2_short: "B-70"
+ ITA_strategic_bomber3: "B-1B Lanciere"
+ ITA_strategic_bomber3_short: "B-1B"
+ ITA_strategic_bomber4: "B-2 Spirito"
+ ITA_strategic_bomber4_short: "B-2"
+ ITA_strategic_bomber5: "B-21 Razziatore"
+ ITA_strategic_bomber5_short: "B-21"
+ ITA_strategic_bomber6: "B-40 Bruto"
+ ITA_strategic_bomber6_short: "B-40"
+
+ ITA_transport_plane1: "Fairchild C-119J"
+ ITA_transport_plane1_short: "C-119J"
+ ITA_transport_plane2: "Aeritalia G.222"
+ ITA_transport_plane2_short: "G.222"
+ ITA_transport_plane3: "Lockheed Martin C-130J Hercules II"
+ ITA_transport_plane3_short: "C-130J Hercules II"
+ ITA_transport_plane4: "Alenia C-27J Spartan"
+ ITA_transport_plane4_short: "C-27J Spartan"
+ ITA_transport_plane5: "Alenia C-27J NG"
+ ITA_transport_plane5_short: "Alenia C-27J NG"
+ ITA_transport_plane6: "Leonardo C-29J Legion"
+ ITA_transport_plane6_short: "Alenia C-29J Legion"
+
+ ITA_naval_plane1: "Piaggio P.166M"
+ ITA_naval_plane1_short: "P.166M"
+ ITA_naval_plane2: "Piaggio P.166 DL3 APH"
+ ITA_naval_plane2_short: "P.166 DL3 APH"
+ ITA_naval_plane3: "Breguet Br 1150 Atlantic"
+ ITA_naval_plane3_short: "Br 1150 Atlantic"
+ ITA_naval_plane4: "Leonardo P–72A"
+ ITA_naval_plane4_short: "P-72A"
+ ITA_naval_plane5: "Alenia C-27N ASW"
+ ITA_naval_plane5_short: "C-27N ASW"
+ ITA_naval_plane6: "Leonardo C-29N ASW"
+ ITA_naval_plane6_short: "C-29N ASW"
 
  ### Japan ###
 
@@ -7365,51 +7595,51 @@
  JAP_Int_Fighter1_desc:0 "In 1975, the Japanese Defence Agency evaluated the inventory of the JASDF and concluded that there was a need to replace the aging fleet of F-104Js. They examined a list of contemperary aircraft from foreign countries, and eventually the competition narrowed down to two aircraft - the F-14 Tomcat and the F-15 Eagle. Though the F-15 triumphed over the F-14, many Japanese at that time believed that the F-14 would be adopted together with the F-15 into the JASDF. Dubbed as the F-14J, this is the interceptor that the JASDF would consider to acquire and modify if the need arises."
 
  ### Korea Republic ###
- KOR_AS_Fighter1:0 "F-4EK Phantom II"
- KOR_AS_Fighter2:0 "F-15AK Eagle"
- KOR_AS_Fighter2_short:0 "F-15AK Eagle"
- KOR_AS_Fighter3:0 "F-15CK Eagle"
- KOR_AS_Fighter4:0 "KF-22"
- KOR_AS_Fighter5:0 "F-22CK Raptor"
- KOR_AS_Fighter5_short:0 "F-22CK Raptor"
- KOR_AS_Fighter6:0 "F-44K MANTA"
- KOR_AS_Fighter6_short:0 "F-44K MANTA"
- KOR_AS_Fighter7:0 "F-158K Starcharge"			#Fictional
- KOR_AS_Fighter7_short:0 "F-158K Starcharge"
+ KOR_AS_Fighter1: "F-4EK Phantom II"
+ KOR_AS_Fighter2: "F-15AK Eagle"
+ KOR_AS_Fighter2_short: "F-15AK Eagle"
+ KOR_AS_Fighter3: "F-15CK Eagle"
+ KOR_AS_Fighter4: "KF-22"
+ KOR_AS_Fighter5: "F-22CK Raptor"
+ KOR_AS_Fighter5_short: "F-22CK Raptor"
+ KOR_AS_Fighter6: "F-44K MANTA"
+ KOR_AS_Fighter6_short: "F-44K MANTA"
+ KOR_AS_Fighter7: "F-158K Starcharge" #Fictional
+ KOR_AS_Fighter7_short: "F-158K Starcharge"
 
- KOR_MR_Fighter1:0 "F-5E Tiger II"
- KOR_MR_Fighter2:0 "KF-16 Peace Bridge II"
- KOR_MR_Fighter3:0 "KF-16V Peace Bridge IV"
- KOR_MR_Fighter4:0 "F-35K"
- KOR_MR_Fighter5:0 "KAI KF-25"
- KOR_MR_Fighter5_short:0 "KAI KF-25"
- KOR_MR_Fighter6:0 "F-62K Greyflare"				#Fictional
- KOR_MR_Fighter6_short:0 "F-62K Greyflare"		#Fictional
- KOR_MR_Fighter7:0 "F-79K Dragonflare"			#Fictional
- KOR_MR_Fighter7_short:0 "F-79K Dragonflare"		#Fictional
+ KOR_MR_Fighter1: "F-5E Tiger II"
+ KOR_MR_Fighter2: "KF-16 Peace Bridge II"
+ KOR_MR_Fighter3: "KF-16V Peace Bridge IV"
+ KOR_MR_Fighter4: "F-35K"
+ KOR_MR_Fighter5: "KAI KF-25"
+ KOR_MR_Fighter5_short: "KAI KF-25"
+ KOR_MR_Fighter6: "F-62K Greyflare" #Fictional
+ KOR_MR_Fighter6_short: "F-62K Greyflare" #Fictional
+ KOR_MR_Fighter7: "F-79K Dragonflare" #Fictional
+ KOR_MR_Fighter7_short: "F-79K Dragonflare" #Fictional
 
- KOR_Strike_fighter3:0 "F-15K Slam Eagle"
+ KOR_Strike_fighter3: "F-15K Slam Eagle"
 
- KOR_L_Strike_fighter2:0 "KAI T-50 Golden Eagle"
- KOR_L_Strike_fighter2_short:0 "KAI T-50 Golden Eagle"
+ KOR_L_Strike_fighter2: "KAI T-50 Golden Eagle"
+ KOR_L_Strike_fighter2_short: "KAI T-50 Golden Eagle"
 
- KOR_attack_helicopter1:0 "AH-1S Cobra"
- KOR_attack_helicopter1_short:0 "AH-1S"
- KOR_attack_helicopter2:0 "AH-64K Apache"
- KOR_attack_helicopter2_short:0 "AH-64K Apache"
- KOR_attack_helicopter3:0 "AH-64DK Apache Longbow"
- KOR_attack_helicopter3_short:0 "AH-64DK Apache"
- KOR_attack_helicopter4:0 "AH-64EK Korean Guardian"
- KOR_attack_helicopter4_short:0 "AH-64EK Korean Guardian"
- KOR_attack_helicopter5:0 "AH-66K Comanche"
- KOR_attack_helicopter5_short:0 "AH-66K Comanche"
+ KOR_attack_helicopter1: "AH-1S Cobra"
+ KOR_attack_helicopter1_short: "AH-1S"
+ KOR_attack_helicopter2: "AH-64K Apache"
+ KOR_attack_helicopter2_short: "AH-64K Apache"
+ KOR_attack_helicopter3: "AH-64DK Apache Longbow"
+ KOR_attack_helicopter3_short: "AH-64DK Apache"
+ KOR_attack_helicopter4: "AH-64EK Korean Guardian"
+ KOR_attack_helicopter4_short: "AH-64EK Korean Guardian"
+ KOR_attack_helicopter5: "AH-66K Comanche"
+ KOR_attack_helicopter5_short: "AH-66K Comanche"
 
- KOR_transport_helicopter1:0 "UH-1H"
- KOR_transport_helicopter2:0 "UH-60K"
- KOR_transport_helicopter3:0 "CH-47K Chinook"
- KOR_transport_helicopter4:0 "KAI KUH-1 Surion"
- KOR_transport_helicopter4_short:0 "KUH-1 Surion"
- KOR_transport_helicopter5:0 "UH-60SK
+ KOR_transport_helicopter1: "UH-1H"
+ KOR_transport_helicopter2: "UH-60K"
+ KOR_transport_helicopter3: "CH-47K Chinook"
+ KOR_transport_helicopter4: "KAI KUH-1 Surion"
+ KOR_transport_helicopter4_short: "KUH-1 Surion"
+ KOR_transport_helicopter5: "UH-60SK"
 
  ### Korea DPR ###
  #NKO_AS_Fighter1:0 "MiG-23 Flogger"
@@ -7610,6 +7840,11 @@
  SOV_Strike_fighter4_short:0 "МиГ-40 «Флэтбэк-С»"
  SOV_Strike_fighter5:0 "МиГ-40C «Флэтпак-С»"
  SOV_Strike_fighter5_short:0 "МиГ-40C «Флэтпак-С»"
+ SOV_Strike_fighter6: "МиГ-76"
+ SOV_Strike_fighter6_short: "МиГ-76"
+ SOV_Strike_fighter7: "МиГ-88"
+ SOV_Strike_fighter7_short: "МиГ-88"
+
  
  SOV_strategic_bomber1:0 "Ту-95 «Медведь»"
  SOV_strategic_bomber1_short:0 "Ту-95 «Медведь»"
@@ -7864,10 +8099,6 @@
  NKO_transport_helicopter4:0 "Mil Mi-38"
  NKO_transport_helicopter4_short:0 "Mi-38"
 
- ### Sweeden ###
-
- SWE_transport_plane2:0 "Saab 340"
-
  ### Syria ###
  SYR_AS_Fighter1:0 "MiG-23 Flogger"
  SYR_AS_Fighter1_short:0 "MiG-23 Flogger"
@@ -7949,137 +8180,137 @@
  TAI_transport_plane1_short:0 "XC-2"
 
  ### Turkey ###
- TUR_AS_Fighter2:0 "F-15A Eagle"
- TUR_AS_Fighter2_short:0 "F-15A Eagle"
- TUR_AS_Fighter3:0 "F-15C Eagle"
- TUR_AS_Fighter3_short:0 "F-15C Eagle"
- TUR_AS_Fighter4:0 "TFX"
- TUR_AS_Fighter4_short:0 "TFX"
- TUR_AS_Fighter5:0 "TFX II"
- TUR_AS_Fighter5_short:0 "TFX II"
- TUR_AS_Fighter6:0 "F-44 MANTA"
- TUR_AS_Fighter6_short:0 "F-44 MANTA"
- TUR_AS_Fighter7:0 "F-158 Starcharge"			#Fictional
- TUR_AS_Fighter7_short:0 "F-158 Starcharge"		#Fictional
+ TUR_AS_Fighter2: "F-15A Eagle"
+ TUR_AS_Fighter2_short: "F-15A Eagle"
+ TUR_AS_Fighter3: "F-15C Eagle"
+ TUR_AS_Fighter3_short: "F-15C Eagle"
+ TUR_AS_Fighter4: "TFX"
+ TUR_AS_Fighter4_short: "TFX"
+ TUR_AS_Fighter5: "TFX II"
+ TUR_AS_Fighter5_short: "TFX II"
+ TUR_AS_Fighter6: "F-44 MANTA"
+ TUR_AS_Fighter6_short: "F-44 MANTA"
+ TUR_AS_Fighter7: "F-158 Starcharge" #Fictional
+ TUR_AS_Fighter7_short: "F-158 Starcharge" #Fictional
 
- TUR_CV_MR_Fighter1:0 "F4J Phantom II"
- TUR_CV_MR_Fighter1_short:0 "F4J Phantom II"
- TUR_CV_MR_Fighter2:0 "Boeing F/A-18C/D Hornet"
- TUR_CV_MR_Fighter2_desc:0 "The McDonnell Douglas F/A-18 Hornet is a twin-engine, supersonic, all-weather, carrier-capable, multirole combat jet, designed as both a fighter and attack aircraft (hence the F/A designation). Designed by McDonnell Douglas (now Boeing) and Northrop, the F/A-18 was derived from the latter's YF-17 in the 1970s for use by the United States Navy and Marine Corps."
- TUR_CV_MR_Fighter2_short:0 "F/A-18C/D Hornet"
- TUR_CV_MR_Fighter3:0 "F/A-18E/F Super Hornet"
- TUR_CV_MR_Fighter3_desc:0 "The Boeing F/A-18E and F/A-18F Super Hornet are twin-engine, carrier-capable, multirole fighter aircraft variants based on the McDonnell Douglas F/A-18 Hornet. The F/A-18E single-seat and F/A-18F tandem-seat variants are larger and more advanced derivatives of the F/A-18C and D Hornet. The Super Hornet has an internal 20 mm M61 rotary cannon and can carry air-to-air missiles and air-to-surface weapons. Additional fuel can be carried in up to five external fuel tanks and the aircraft can be configured as an airborne tanker by adding an external air refueling system."
- TUR_CV_MR_Fighter3_short:0 "F/A-18E/F"
- TUR_CV_MR_Fighter4:0 "F-35C Lightning II"
- TUR_CV_MR_Fighter4_short:0 "F-35C Lightning II"
- TUR_CV_MR_Fighter5:0 "F-35C Lightning III"
- TUR_CV_MR_Fighter5_short:0 "F-35C Lightning III"
- TUR_CV_MR_Fighter6:0 "F/A-47B Black Widow"				#X-47B
- TUR_CV_MR_Fighter6_short:0 "F/A-47B Black Widow"		#X-47B
- TUR_CV_MR_Fighter7:0 "F/A-159 Hellcry"			#Fictional
- TUR_CV_MR_Fighter7_short:0 "F/A-159 Hellcry"		#Fictional
+ TUR_CV_MR_Fighter1: "F4J Phantom II"
+ TUR_CV_MR_Fighter1_short: "F4J Phantom II"
+ TUR_CV_MR_Fighter2: "Boeing F/A-18C/D Hornet"
+ TUR_CV_MR_Fighter2_desc: "The McDonnell Douglas F/A-18 Hornet is a twin-engine, supersonic, all-weather, carrier-capable, multirole combat jet, designed as both a fighter and attack aircraft (hence the F/A designation). Designed by McDonnell Douglas (now Boeing) and Northrop, the F/A-18 was derived from the latter's YF-17 in the 1970s for use by the United States Navy and Marine Corps."
+ TUR_CV_MR_Fighter2_short: "F/A-18C/D Hornet"
+ TUR_CV_MR_Fighter3: "F/A-18E/F Super Hornet"
+ TUR_CV_MR_Fighter3_desc: "The Boeing F/A-18E and F/A-18F Super Hornet are twin-engine, carrier-capable, multirole fighter aircraft variants based on the McDonnell Douglas F/A-18 Hornet. The F/A-18E single-seat and F/A-18F tandem-seat variants are larger and more advanced derivatives of the F/A-18C and D Hornet. The Super Hornet has an internal 20 mm M61 rotary cannon and can carry air-to-air missiles and air-to-surface weapons. Additional fuel can be carried in up to five external fuel tanks and the aircraft can be configured as an airborne tanker by adding an external air refueling system."
+ TUR_CV_MR_Fighter3_short: "F/A-18E/F"
+ TUR_CV_MR_Fighter4: "F-35C Lightning II"
+ TUR_CV_MR_Fighter4_short: "F-35C Lightning II"
+ TUR_CV_MR_Fighter5: "F-35C Lightning III"
+ TUR_CV_MR_Fighter5_short: "F-35C Lightning III"
+ TUR_CV_MR_Fighter6: "F/A-47B Black Widow" #X-47B
+ TUR_CV_MR_Fighter6_short: "F/A-47B Black Widow" #X-47B
+ TUR_CV_MR_Fighter7: "F/A-159 Hellcry" #Fictional
+ TUR_CV_MR_Fighter7_short: "F/A-159 Hellcry" #Fictional
 
- TUR_MR_Fighter1:0 "F-4 Phantom II"
- TUR_MR_Fighter1_short:0 "F-4 Phantom II"
- TUR_MR_Fighter2:0 "F-16A Fighting Falcon"
- TUR_MR_Fighter2_short:0 "F-16A Fighting Falcon"
- TUR_MR_Fighter3:0 "F-16C Fighting Falcon"
- TUR_MR_Fighter3_short:0 "F-16C Fighting Falcon"
- TUR_MR_Fighter4:0 "F-35 Lightning II"
- TUR_MR_Fighter4_short:0 "F-35 Lightning II"
- TUR_MR_Fighter5:0 "F-35 Lightning III"			#Fictional
- TUR_MR_Fighter5_short:0 "F-35 Lightning III"	#Fictional
- TUR_MR_Fighter6:0 "F-62 Greyflare"				#Fictional
- TUR_MR_Fighter6_short:0 "F-62 Greyflare"		#Fictional
- TUR_MR_Fighter7:0 "F-79 Dragonflare"			#Fictional
- TUR_MR_Fighter7_short:0 "F-79 Dragonflare"		#Fictional
+ TUR_MR_Fighter1: "F-4 Phantom II"
+ TUR_MR_Fighter1_short: "F-4 Phantom II"
+ TUR_MR_Fighter2: "F-16A Fighting Falcon"
+ TUR_MR_Fighter2_short: "F-16A Fighting Falcon"
+ TUR_MR_Fighter3: "F-16C Fighting Falcon"
+ TUR_MR_Fighter3_short: "F-16C Fighting Falcon"
+ TUR_MR_Fighter4: "F-35 Lightning II"
+ TUR_MR_Fighter4_short: "F-35 Lightning II"
+ TUR_MR_Fighter5: "F-35 Lightning III" #Fictional
+ TUR_MR_Fighter5_short: "F-35 Lightning III" #Fictional
+ TUR_MR_Fighter6: "F-62 Greyflare" #Fictional
+ TUR_MR_Fighter6_short: "F-62 Greyflare" #Fictional
+ TUR_MR_Fighter7: "F-79 Dragonflare" #Fictional
+ TUR_MR_Fighter7_short: "F-79 Dragonflare" #Fictional
 
- TUR_Strike_fighter1:0 "F-111 Aardvark"
- TUR_Strike_fighter1_short:0 "F-111 Aardvark"
- TUR_Strike_fighter2:0 "F-117 Nighthawk"
- TUR_Strike_fighter2_short:0 "F-117 Nighthawk"
- TUR_Strike_fighter3:0 "F-15E Strike Eagle"
- TUR_Strike_fighter3_short:0 "F-15E Strike Eagle"
- TUR_Strike_fighter4:0 "FB-22 Strike Raptor"
- TUR_Strike_fighter4_short:0 "FB-22 Strike Raptor"
- TUR_Strike_fighter5:0 "FB-37 Lighting Bolt"			#Fictional
- TUR_Strike_fighter5_short:0 "FB-37 Lighting Bolt"	#Fictional
- TUR_Strike_fighter6:0 "F-129 Dark Hawk"				#Fictional
- TUR_Strike_fighter6_short:0 "F-129 Dark Hawk"		#Fictional
- TUR_Strike_fighter7:0 "F-132 Heavenshade"			#Fictional
- TUR_Strike_fighter7_short:0 "F-132 Heavenshade"		#Fictional
+ TUR_Strike_fighter1: "F-111 Aardvark"
+ TUR_Strike_fighter1_short: "F-111 Aardvark"
+ TUR_Strike_fighter2: "F-117 Nighthawk"
+ TUR_Strike_fighter2_short: "F-117 Nighthawk"
+ TUR_Strike_fighter3: "F-15E Strike Eagle"
+ TUR_Strike_fighter3_short: "F-15E Strike Eagle"
+ TUR_Strike_fighter4: "FB-22 Strike Raptor"
+ TUR_Strike_fighter4_short: "FB-22 Strike Raptor"
+ TUR_Strike_fighter5: "FB-37 Lighting Bolt" #Fictional
+ TUR_Strike_fighter5_short: "FB-37 Lighting Bolt" #Fictional
+ TUR_Strike_fighter6: "F-129 Dark Hawk" #Fictional
+ TUR_Strike_fighter6_short: "F-129 Dark Hawk" #Fictional
+ TUR_Strike_fighter7: "F-132 Heavenshade" #Fictional
+ TUR_Strike_fighter7_short: "F-132 Heavenshade" #Fictional
 
- TUR_L_Strike_fighter1:0 "A-37 Dragonfly"
- TUR_L_Strike_fighter1_short:0 "A-37 Dragonfly"
- TUR_L_Strike_fighter2:0 "TAI Hurkus"
- TUR_L_Strike_fighter2_short:0 "TAI Hurkus"
- TUR_L_Strike_fighter3:0 "TAI Hurjet"				#Fictional
- TUR_L_Strike_fighter3_short:0 "TAI Hurjet"		#Fictional
- TUR_L_Strike_fighter4:0 "A-40 Heavenraid"				#Fictional
- TUR_L_Strike_fighter4_short:0 "A-40 Heavenraid"		#Fictional
- TUR_L_Strike_fighter5:0 "Leonardo T-100"
- TUR_L_Strike_fighter5_short:0 "T-100"
+ TUR_L_Strike_fighter1: "A-37 Dragonfly"
+ TUR_L_Strike_fighter1_short: "A-37 Dragonfly"
+ TUR_L_Strike_fighter2: "TAI Hurkus"
+ TUR_L_Strike_fighter2_short: "TAI Hurkus"
+ TUR_L_Strike_fighter3: "TAI Hurjet" #Fictional
+ TUR_L_Strike_fighter3_short: "TAI Hurjet" #Fictional
+ TUR_L_Strike_fighter4: "A-40 Heavenraid" #Fictional
+ TUR_L_Strike_fighter4_short: "A-40 Heavenraid" #Fictional
+ TUR_L_Strike_fighter5: "Leonardo T-100"
+ TUR_L_Strike_fighter5_short: "T-100"
 
  #These are all fictional except Harrier
- TUR_CV_L_Strike_fighter1:0 "CA-37 Water Bug"
- TUR_CV_L_Strike_fighter1_short:0 "CA-37 Water Bug"
- TUR_CV_L_Strike_fighter2:0 "AV-8B Harrier II"
- TUR_CV_L_Strike_fighter2_short:0 "AV-8B Harrier II"
- TUR_CV_L_Strike_fighter3:0 "F-35B"
- TUR_CV_L_Strike_fighter3_short:0 "F-35B"
- TUR_CV_L_Strike_fighter4:0 "CA-40 Depth Raider"
- TUR_CV_L_Strike_fighter4_short:0 "CA-40 Depth Raider"
- TUR_CV_L_Strike_fighter5:0 "Leonardo CT-100"
- TUR_CV_L_Strike_fighter5_short:0 "CT-100"
+ TUR_CV_L_Strike_fighter1: "CA-37 Water Bug"
+ TUR_CV_L_Strike_fighter1_short: "CA-37 Water Bug"
+ TUR_CV_L_Strike_fighter2: "AV-8B Harrier II"
+ TUR_CV_L_Strike_fighter2_short: "AV-8B Harrier II"
+ TUR_CV_L_Strike_fighter3: "F-35B"
+ TUR_CV_L_Strike_fighter3_short: "F-35B"
+ TUR_CV_L_Strike_fighter4: "CA-40 Depth Raider"
+ TUR_CV_L_Strike_fighter4_short: "CA-40 Depth Raider"
+ TUR_CV_L_Strike_fighter5: "Leonardo CT-100"
+ TUR_CV_L_Strike_fighter5_short: "CT-100"
 
- TUR_strategic_bomber1:0 "B-52H Stratofortress"
- TUR_strategic_bomber1_short:0 "B-52H"
- TUR_strategic_bomber3:0 "B-1B Lancer"
- TUR_strategic_bomber3_short:0 "B-1B Lancer"
- TUR_strategic_bomber4:0 "B-2 Spirit"
- TUR_strategic_bomber4_short:0 "B-2 Spirit"
- TUR_strategic_bomber5:0 "B-21 Raider"
- TUR_strategic_bomber5_short:0 "B-21 Raider"
- TUR_strategic_bomber6:0 "B-40 Brute"				#Fictional
- TUR_strategic_bomber6_short:0 "B-40 Brute"			#Fictional
+ TUR_strategic_bomber1: "B-52H Stratofortress"
+ TUR_strategic_bomber1_short: "B-52H"
+ TUR_strategic_bomber3: "B-1B Lancer"
+ TUR_strategic_bomber3_short: "B-1B Lancer"
+ TUR_strategic_bomber4: "B-2 Spirit"
+ TUR_strategic_bomber4_short: "B-2 Spirit"
+ TUR_strategic_bomber5: "B-21 Raider"
+ TUR_strategic_bomber5_short: "B-21 Raider"
+ TUR_strategic_bomber6: "B-40 Brute" #Fictional
+ TUR_strategic_bomber6_short: "B-40 Brute" #Fictional
 
- TUR_cas1:0 "A-10 Thunderbolt II"
- TUR_cas1_short:0 "A-10"
- TUR_cas2:0 "A-10C Thunderbolt II"
- TUR_cas2_short:0 "A-10C"
- TUR_cas3:0 "A-15 Thunderforce"				#Fictional
- TUR_cas3_short:0 "A-15"							#Fictional
- TUR_cas4:0 "A-20 Thunderfire"				#Fictional
- TUR_cas4_short:0 "A-20"							#Fictional
- TUR_cas5:0 "A-25 Thundereagle"				#Fictional
- TUR_cas5_short:0 "A-25"							#Fictional
+ TUR_cas1: "A-10 Thunderbolt II"
+ TUR_cas1_short: "A-10"
+ TUR_cas2: "A-10C Thunderbolt II"
+ TUR_cas2_short: "A-10C"
+ TUR_cas3: "A-15 Thunderforce" #Fictional
+ TUR_cas3_short: "A-15" #Fictional
+ TUR_cas4: "A-20 Thunderfire" #Fictional
+ TUR_cas4_short: "A-20" #Fictional
+ TUR_cas5: "A-25 Thundereagle" #Fictional
+ TUR_cas5_short: "A-25" #Fictional
 
- TUR_naval_plane1:0 "P-3 Orion"
- TUR_naval_plane1_short:0 "P-3 Orion"
- TUR_naval_plane2:0 "P-3C Orion"
- TUR_naval_plane2_short:0 "P-3C Orion"
- TUR_naval_plane4:0 "P-8 Poseidon"
- TUR_naval_plane4_short:0 "P-8 Poseidon"
- TUR_naval_plane5:0 "MQ-4C Triton"
- TUR_naval_plane5_short:0 "MQ-4C Triton"
- TUR_naval_plane6:0 "MQ-20C Triteia"
- TUR_naval_plane6_short:0 "MQ-20C Triteia"
+ TUR_naval_plane1: "P-3 Orion"
+ TUR_naval_plane1_short: "P-3 Orion"
+ TUR_naval_plane2: "P-3C Orion"
+ TUR_naval_plane2_short: "P-3C Orion"
+ TUR_naval_plane4: "P-8 Poseidon"
+ TUR_naval_plane4_short: "P-8 Poseidon"
+ TUR_naval_plane5: "MQ-4C Triton"
+ TUR_naval_plane5_short: "MQ-4C Triton"
+ TUR_naval_plane6: "MQ-20C Triteia"
+ TUR_naval_plane6_short: "MQ-20C Triteia"
 
- TUR_transport_plane1:0 "C-130 Hercules"
- TUR_transport_plane1_short:0 "C-130 Hercules"
- TUR_transport_plane2:0 "C-5 Galaxy"
- TUR_transport_plane2_short:0 "C-5 Galaxy"
- TUR_transport_plane3:0 "C-17 Globemaster III"
- TUR_transport_plane3_short:0 "C-17"
- TUR_transport_plane4:0 "C-130J Super Hercules"
- TUR_transport_plane4_short:0 "C-130J"
+ TUR_transport_plane1: "C-130 Hercules"
+ TUR_transport_plane1_short: "C-130 Hercules"
+ TUR_transport_plane2: "C-5 Galaxy"
+ TUR_transport_plane2_short: "C-5 Galaxy"
+ TUR_transport_plane3: "C-17 Globemaster III"
+ TUR_transport_plane3_short: "C-17"
+ TUR_transport_plane4: "C-130J Super Hercules"
+ TUR_transport_plane4_short: "C-130J"
 
- TUR_Int_Fighter1:0 "F-14 Tomcat"
+ TUR_Int_Fighter1: "F-14 Tomcat"
 
- TUR_transport_plane5:0 "C-46 Pegasus"
- TUR_transport_plane5_short:0 "C-46 Pegasus"
- TUR_transport_plane6:0 "C-216 Anemoi"					#Fictional
- TUR_transport_plane6_short:0 "C-216 Anemoi"			#Fictional
+ TUR_transport_plane5: "C-46 Pegasus"
+ TUR_transport_plane5_short: "C-46 Pegasus"
+ TUR_transport_plane6: "C-216 Anemoi" #Fictional
+ TUR_transport_plane6_short: "C-216 Anemoi" #Fictional
 
  ### United States ###
  USA_AS_Fighter1:0 "Convair F-106 Delta Dart"
@@ -8217,98 +8448,97 @@
  USA_transport_plane6_short:0 "C-216 Anemoi"			#Fictional
 
  ### GREECE ###
- GRE_AS_Fighter1:0 "F-5 Freedom Fighter"
- GRE_AS_Fighter1_short:0 "F-5 Freedom Fighter"
- GRE_AS_Fighter2:0 "F-15A Eagle"
- GRE_AS_Fighter2_short:0 "F-15A Eagle"
- GRE_AS_Fighter3:0 "F-16V Viper"
- GRE_AS_Fighter3_short:0 "F-16V Viper"
- GRE_AS_Fighter4:0 "F-22 Raptor"
- GRE_AS_Fighter4_short:0 "F-22 Raptor"
- GRE_AS_Fighter5:0 "F-22C Raptor"
- GRE_AS_Fighter5_short:0 "F-22C Raptor"
- GRE_AS_Fighter6:0 "F-44 MANTA"
- GRE_AS_Fighter6_short:0 "F-44 MANTA"
- GRE_AS_Fighter7:0 "F-158 Starcharge"			#Fictional
- GRE_AS_Fighter7_short:0 "F-158 Starcharge"		#Fictional
+ GRE_AS_Fighter1: "F-5 Freedom Fighter"
+ GRE_AS_Fighter1_short: "F-5 Freedom Fighter"
+ GRE_AS_Fighter2: "F-15A Eagle"
+ GRE_AS_Fighter2_short: "F-15A Eagle"
+ GRE_AS_Fighter3: "F-16V Viper"
+ GRE_AS_Fighter3_short: "F-16V Viper"
+ GRE_AS_Fighter4: "F-22 Raptor"
+ GRE_AS_Fighter4_short: "F-22 Raptor"
+ GRE_AS_Fighter5: "F-22C Raptor"
+ GRE_AS_Fighter5_short: "F-22C Raptor"
+ GRE_AS_Fighter6: "F-44 MANTA"
+ GRE_AS_Fighter6_short: "F-44 MANTA"
+ GRE_AS_Fighter7: "F-158 Starcharge" #Fictional
+ GRE_AS_Fighter7_short: "F-158 Starcharge" #Fictional
 
- GRE_MR_Fighter1:0 "F-4 Phantom II"
- GRE_MR_Fighter1_short:0 "F-4 Phantom II"
- GRE_MR_Fighter2:0 "F-16A Fighting Falcon"
- GRE_MR_Fighter2_short:0 "F-16A Fighting Falcon"
- GRE_MR_Fighter3:0 "F-16C Fighting Falcon"
- GRE_MR_Fighter3_short:0 "F-16C Fighting Falcon"
- GRE_MR_Fighter4:0 "F-35 Lightning II"
- GRE_MR_Fighter4_short:0 "F-35 Lightning II"
- GRE_MR_Fighter5:0 "F-35 Lightning III"			#Fictional
- GRE_MR_Fighter5_short:0 "F-35 Lightning III"	#Fictional
- GRE_MR_Fighter6:0 "F-62 Greyflare"				#Fictional
- GRE_MR_Fighter6_short:0 "F-62 Greyflare"		#Fictional
- GRE_MR_Fighter7:0 "F-79 Dragonflare"			#Fictional
- GRE_MR_Fighter7_short:0 "F-79 Dragonflare"		#Fictional
+ GRE_MR_Fighter1: "F-4 Phantom II"
+ GRE_MR_Fighter1_short: "F-4 Phantom II"
+ GRE_MR_Fighter2: "F-16A Fighting Falcon"
+ GRE_MR_Fighter2_short: "F-16A Fighting Falcon"
+ GRE_MR_Fighter3: "F-16C Fighting Falcon"
+ GRE_MR_Fighter3_short: "F-16C Fighting Falcon"
+ GRE_MR_Fighter4: "F-35 Lightning II"
+ GRE_MR_Fighter4_short: "F-35 Lightning II"
+ GRE_MR_Fighter5: "F-35 Lightning III" #Fictional
+ GRE_MR_Fighter5_short: "F-35 Lightning III" #Fictional
+ GRE_MR_Fighter6: "F-62 Greyflare" #Fictional
+ GRE_MR_Fighter6_short: "F-62 Greyflare" #Fictional
+ GRE_MR_Fighter7: "F-79 Dragonflare" #Fictional
+ GRE_MR_Fighter7_short: "F-79 Dragonflare" #Fictional
 
- GRE_Strike_fighter1:0 "A-7 Corsair II"
- GRE_Strike_fighter1_short:0 "A-7 Corsair II"
- GRE_Strike_fighter2:0 "Mirage 2000D"
- GRE_Strike_fighter2_short:0 "Mirage 2000D"
- GRE_Strike_fighter3:0 "F-15E Strike Eagle"
- GRE_Strike_fighter3_short:0 "F-15E Strike Eagle"
- GRE_Strike_fighter4:0 "FB-22 Strike Raptor"
- GRE_Strike_fighter4_short:0 "FB-22 Strike Raptor"
- GRE_Strike_fighter5:0 "FB-37 Lighting Bolt"			#Fictional
- GRE_Strike_fighter5_short:0 "FB-37 Lighting Bolt"	#Fictional
- GRE_Strike_fighter6:0 "F-129 Dark Hawk"				#Fictional
- GRE_Strike_fighter6_short:0 "F-129 Dark Hawk"		#Fictional
- GRE_Strike_fighter7:0 "F-132 Heavenshade"			#Fictional
- GRE_Strike_fighter7_short:0 "F-132 Heavenshade"		#Fictional
+ GRE_Strike_fighter1: "A-7 Corsair II"
+ GRE_Strike_fighter1_short: "A-7 Corsair II"
+ GRE_Strike_fighter2: "Mirage 2000D"
+ GRE_Strike_fighter2_short: "Mirage 2000D"
+ GRE_Strike_fighter3: "F-15E Strike Eagle"
+ GRE_Strike_fighter3_short: "F-15E Strike Eagle"
+ GRE_Strike_fighter4: "FB-22 Strike Raptor"
+ GRE_Strike_fighter4_short: "FB-22 Strike Raptor"
+ GRE_Strike_fighter5: "FB-37 Lighting Bolt" #Fictional
+ GRE_Strike_fighter5_short: "FB-37 Lighting Bolt" #Fictional
+ GRE_Strike_fighter6: "F-129 Dark Hawk" #Fictional
+ GRE_Strike_fighter6_short: "F-129 Dark Hawk" #Fictional
+ GRE_Strike_fighter7: "F-132 Heavenshade" #Fictional
+ GRE_Strike_fighter7_short: "F-132 Heavenshade" #Fictional
 
- GRE_strategic_bomber1:0 "B-52H Stratofortress"
- GRE_strategic_bomber1_short:0 "B-52H"
- GRE_strategic_bomber3:0 "B-1B Lancer"
- GRE_strategic_bomber3_short:0 "B-1B Lancer"
- GRE_strategic_bomber4:0 "B-2 Spirit"
- GRE_strategic_bomber4_short:0 "B-2 Spirit"
- GRE_strategic_bomber5:0 "B-21 Raider"
- GRE_strategic_bomber5_short:0 "B-21 Raider"
- GRE_strategic_bomber6:0 "B-40 Brute"				#Fictional
- GRE_strategic_bomber6_short:0 "B-40 Brute"			#Fictional
+ GRE_strategic_bomber1: "B-52H Stratofortress"
+ GRE_strategic_bomber1_short: "B-52H"
+ GRE_strategic_bomber3: "B-1B Lancer"
+ GRE_strategic_bomber3_short: "B-1B Lancer"
+ GRE_strategic_bomber4: "B-2 Spirit"
+ GRE_strategic_bomber4_short: "B-2 Spirit"
+ GRE_strategic_bomber5: "B-21 Raider"
+ GRE_strategic_bomber5_short: "B-21 Raider"
+ GRE_strategic_bomber6: "B-40 Brute" #Fictional
+ GRE_strategic_bomber6_short: "B-40 Brute" #Fictional
 
- GRE_cas1:0 "A-10 Thunderbolt II"
- GRE_cas1_short:0 "A-10"
- GRE_cas2:0 "A-10C Thunderbolt II"
- GRE_cas2_short:0 "A-10C"
- GRE_cas3:0 "A-15 Thunderforce"				#Fictional
- GRE_cas3_short:0 "A-15"							#Fictional
- GRE_cas4:0 "A-20 Thunderfire"				#Fictional
- GRE_cas4_short:0 "A-20"							#Fictional
- GRE_cas5:0 "A-25 Thundereagle"				#Fictional
- GRE_cas5_short:0 "A-25"							#Fictional
+ GRE_cas1: "A-10 Thunderbolt II"
+ GRE_cas1_short: "A-10"
+ GRE_cas2: "A-10C Thunderbolt II"
+ GRE_cas2_short: "A-10C"
+ GRE_cas3: "A-15 Thunderforce" #Fictional
+ GRE_cas3_short: "A-15" #Fictional
+ GRE_cas4: "A-20 Thunderfire" #Fictional
+ GRE_cas4_short: "A-20" #Fictional
+ GRE_cas5: "A-25 Thundereagle" #Fictional
+ GRE_cas5_short: "A-25" #Fictional
 
- GRE_naval_plane1:0 "P-3 Orion"
- GRE_naval_plane1_short:0 "P-3 Orion"
- #USA_naval_plane1_variant:0 "S-3 Viking"
- GRE_naval_plane2:0 "P-3C Orion"
- GRE_naval_plane2_short:0 "P-3C Orion"
- GRE_naval_plane4:0 "P-8 Poseidon"
- GRE_naval_plane4_short:0 "P-8 Poseidon"
- GRE_naval_plane5:0 "MQ-4C Triton"
- GRE_naval_plane5_short:0 "MQ-4C Triton"
- GRE_naval_plane6:0 "MQ-20C Triteia"
- GRE_naval_plane6_short:0 "MQ-20C Triteia"
+ GRE_naval_plane1: "P-3 Orion"
+ GRE_naval_plane1_short: "P-3 Orion"
+ #USA_naval_plane1_variant: "S-3 Viking"
+ GRE_naval_plane2: "P-3C Orion"
+ GRE_naval_plane2_short: "P-3C Orion"
+ GRE_naval_plane4: "P-8 Poseidon"
+ GRE_naval_plane4_short: "P-8 Poseidon"
+ GRE_naval_plane5: "MQ-4C Triton"
+ GRE_naval_plane5_short: "MQ-4C Triton"
+ GRE_naval_plane6: "MQ-20C Triteia"
+ GRE_naval_plane6_short: "MQ-20C Triteia"
 
- GRE_transport_plane1:0 "C-130 Hercules"
- GRE_transport_plane1_short:0 "C-130 Hercules"
- GRE_transport_plane2:0 "C-5 Galaxy"
- GRE_transport_plane2_short:0 "C-5 Galaxy"
- #USA_transport_plane2:0 "KC-10A"
- #USA_transport_plane2_short:0 "KC-10A"
- #USA_transport_plane2:0 "C-5M Super GalaxyA"
- #USA_transport_plane2_short:0 "C-5M Super Galaxy"
- GRE_transport_plane3:0 "C-17 Globemaster III"
- GRE_transport_plane3_short:0 "C-17"
- GRE_transport_plane4:0 "C-130J Super Hercules"
- GRE_transport_plane4_short:0 "C-130J"
-
+ GRE_transport_plane1: "C-130 Hercules"
+ GRE_transport_plane1_short: "C-130 Hercules"
+ GRE_transport_plane2: "C-5 Galaxy"
+ GRE_transport_plane2_short: "C-5 Galaxy"
+ #USA_transport_plane2: "KC-10A"
+ #USA_transport_plane2_short: "KC-10A"
+ #USA_transport_plane2: "C-5M Super GalaxyA"
+ #USA_transport_plane2_short: "C-5M Super Galaxy"
+ GRE_transport_plane3: "C-17 Globemaster III"
+ GRE_transport_plane3_short: "C-17"
+ GRE_transport_plane4: "C-130J Super Hercules"
+ GRE_transport_plane4_short: "C-130J"
 
  ### Ukraine ###
 
@@ -8393,9 +8623,6 @@
  PER_attack_helicopter1:0 "IAIO Toufan"
  PER_attack_helicopter1_short:0 "IAIO Toufan"
 
- TUR_attack_helicopter3:0 "TAI T129 ATAK"
- TUR_attack_helicopter3_short:0 "T129 ATAK"
-
  SIN_attack_helicopter2:0 "AH-64D Longbow"
  SIN_attack_helicopter2_short: "AH-64D"
 
@@ -8474,59 +8701,59 @@
 
  ################# Transport Helicopters ####################
 
- BRA_transport_helicopter3:0 "H225M Caracal"
- BRA_transport_helicopter3_short:0 "H225M Caracal"
+ BRA_transport_helicopter3: "H225M Caracal"
+ BRA_transport_helicopter3_short: "H225M Caracal"
 
- CHI_transport_helicopter1:0 "Changhe Z-8"
- CHI_transport_helicopter1_short:0 "Z-8"
- CHI_transport_helicopter2:0 "Harbin Z-9"
- CHI_transport_helicopter2_short:0 "Z-9"
- CHI_transport_helicopter3:0 "Harbin Z-20"
- CHI_transport_helicopter3_short:0 "Z-20"
- CHI_transport_helicopter4:0 "Harbin Z-28"
- CHI_transport_helicopter4_short:0 "Z-28"
- CHI_transport_helicopter5:0 "Harbin Z-32"
- CHI_transport_helicopter5_short:0 "Z-32"
+ CHI_transport_helicopter1: "Changhe Z-8"
+ CHI_transport_helicopter1_short: "Z-8"
+ CHI_transport_helicopter2: "Harbin Z-9"
+ CHI_transport_helicopter2_short: "Z-9"
+ CHI_transport_helicopter3: "Harbin Z-20"
+ CHI_transport_helicopter3_short: "Z-20"
+ CHI_transport_helicopter4: "Harbin Z-28"
+ CHI_transport_helicopter4_short: "Z-28"
+ CHI_transport_helicopter5: "Harbin Z-32"
+ CHI_transport_helicopter5_short: "Z-32"
 
- FRA_transport_helicopter1:0 "Aérospatiale SA-330 Puma"
- FRA_transport_helicopter1_short:0 "SA-330 Puma"
- FRA_transport_helicopter2:0 "Eurocopter AS532 Cougar"
- FRA_transport_helicopter2_short:0 "AS532 Cougar"
- FRA_transport_helicopter3:0 "Eurocopter EC725 Caracal"
- FRA_transport_helicopter3_short:0 "EC725 Caracal"
- FRA_transport_helicopter4:0 "NHIndustries NH-90"
- FRA_transport_helicopter4_short:0 "NH-90"
- FRA_transport_helicopter5:0 "NHIndustries NH-120FRA"					#Fictional
- FRA_transport_helicopter5_short:0 "NH-120FRA"						#Fictional
+ FRA_transport_helicopter1: "Aérospatiale SA-330 Puma"
+ FRA_transport_helicopter1_short: "SA-330 Puma"
+ FRA_transport_helicopter2: "Eurocopter AS532 Cougar"
+ FRA_transport_helicopter2_short: "AS532 Cougar"
+ FRA_transport_helicopter3: "Eurocopter EC725 Caracal"
+ FRA_transport_helicopter3_short: "EC725 Caracal"
+ FRA_transport_helicopter4: "NHIndustries NH-90"
+ FRA_transport_helicopter4_short: "NH-90"
+ FRA_transport_helicopter5: "NHIndustries NH-120FRA" #Fictional
+ FRA_transport_helicopter5_short: "NH-120FRA" #Fictional
 
- GER_transport_helicopter1:0 "UH-1D"
- GER_transport_helicopter1_short:0 "UH-1D"
- GER_transport_helicopter2:0 "CH-53G"
- GER_transport_helicopter2_short:0 "CH-53G"
- GER_transport_helicopter3:0 "CH-53GS"
- GER_transport_helicopter3_short:0 "CH-53GS"
- GER_transport_helicopter4:0 "NH-90"
- GER_transport_helicopter4_short:0 "NH-90"
- GER_transport_helicopter4:0 "NH-120GER"
- GER_transport_helicopter4_short:0 "NH-120GER"
+ GER_transport_helicopter1: "UH-1D"
+ GER_transport_helicopter1_short: "UH-1D"
+ GER_transport_helicopter2: "CH-53G"
+ GER_transport_helicopter2_short: "CH-53G"
+ GER_transport_helicopter3: "CH-53GS"
+ GER_transport_helicopter3_short: "CH-53GS"
+ GER_transport_helicopter4: "NH-90"
+ GER_transport_helicopter4_short: "NH-90"
+ GER_transport_helicopter5: "NH-120GER"
+ GER_transport_helicopter5_short: "NH-120GER"
 
- ROM_transport_helicopter1:0 "IAR 330 Puma"
- ROM_transport_helicopter1_short:0 "IAR 330 Puma"
- #ROM_transport_helicopter1_variant:0 "IAR 316 Alouette III"
+ ROM_transport_helicopter1: "IAR 330 Puma"
+ ROM_transport_helicopter1_short: "IAR 330 Puma"
+ #ROM_transport_helicopter1_variant: "IAR 316 Alouette III"
 
- SAF_transport_helicopter2:0 "Atlas Oryx"
- SAF_transport_helicopter2_short:0 "Atlas Oryx"
+ SAF_transport_helicopter2: "Atlas Oryx"
+ SAF_transport_helicopter2_short: "Atlas Oryx"
 
- PER_transport_helicopter1:0 "PANHA Shabaviz 2-75"
- PER_transport_helicopter1_short:0 "Shabaviz 2-75"
- PER_transport_helicopter2:0 "PANHA Homa"
- PER_transport_helicopter2_short:0 "Homa"
+ PER_transport_helicopter1: "PANHA Shabaviz 2-75"
+ PER_transport_helicopter1_short: "Shabaviz 2-75"
+ PER_transport_helicopter2: "PANHA Homa"
+ PER_transport_helicopter2_short: "Homa"
 
- JAP_transport_helicopter1:0 "UH-1J Huey"
- JAP_transport_helicopter2:0 "UH-60JA Black Hawk"
- JAP_transport_helicopter3:0 "CH-47J Chinook"
- JAP_transport_helicopter4:0 "V-22J Osprey"
- JAP_transport_helicopter5:0 "UH-60JA Black Eagle"
+ JAP_transport_helicopter1: "UH-1J Huey"
+ JAP_transport_helicopter2: "UH-60JA Black Hawk"
+ JAP_transport_helicopter3: "CH-47J Chinook"
+ JAP_transport_helicopter4: "V-22J Osprey"
+ JAP_transport_helicopter5: "UH-60JA Black Eagle"
 
  SOV_transport_helicopter1:0 "Миль Ми-8 «Бедро»"
  SOV_transport_helicopter1_short:0 "Ми-8 «Бедро»"
@@ -8614,18 +8841,18 @@
  ISR_transport_helicopter5:0 "UH60SI"
  ISR_transport_helicopter5_short:0 "UH60SI"
 
- ITA_transport_helicopter1:0 "AgustaWestland AW109"
- ITA_transport_helicopter1_short:0 "AW109"
- ITA_transport_helicopter2:0 "AgustaWestland AW139"
- ITA_transport_helicopter2_short:0 "AW139"
- ITA_transport_helicopter3:0 "Boeing CH-47F Chinook"
- ITA_transport_helicopter3_desc:0 "The Boeing CH-47 Chinook is an American twin-engined, tandem rotor, heavy-lift helicopter developed by American rotorcraft company Vertol and manufactured by Boeing Vertol (later known as Boeing Rotorcraft Systems). The CH-47 is among the heaviest lifting Western helicopters. Its name, Chinook, is from the Native American Chinook people of modern-day Washington state."
- ITA_transport_helicopter3_short:0 "CH-47F Chinook"
- ITA_transport_helicopter5:0 "Sikorsky UH-60 Stealth Hawk"
- ITA_transport_helicopter5_short:0 "Sikorsky UH-60S Stealth Hawk"
- ITA_transport_helicopter4:0 "Bell BoeingV-22 Osprey"
- ITA_transport_helicopter4_desc:0 "The Bell Boeing V-22 Osprey is an American multi-mission, tiltrotor military aircraft with both vertical takeoff and landing (VTOL), and short takeoff and landing (STOL) capabilities. It is designed to combine the functionality of a conventional helicopter with the long-range, high-speed cruise performance of a turboprop aircraft."
- ITA_transport_helicopter4_short:0 "Bell Boeing V-22 Osprey"
+ ITA_transport_helicopter1: "AB-205"
+ ITA_transport_helicopter1_short: "AB-205"
+ ITA_transport_helicopter2: "HH-139A"
+ ITA_transport_helicopter2_short: "HH-139A"
+ ITA_transport_helicopter3: "HH-109 Caesar"
+ ITA_transport_helicopter3_desc: ""
+ ITA_transport_helicopter3_short: "HH-109 Caesar"
+ ITA_transport_helicopter4: "UH-90A"
+ ITA_transport_helicopter4_desc: ""
+ ITA_transport_helicopter4_short: "UH-90A"
+ ITA_transport_helicopter5: "CP-639A"
+ ITA_transport_helicopter5_short: "CP-639A"
 
  POL_transport_helicopter1:0 "PZL W-3 Sokół"
  POL_transport_helicopter1_short:0 "W-3 Sokół"

@@ -164,7 +164,7 @@
 
  #Global things
  multi_ethnic_state_idea:0 "Многонациональное государство"
- multi_ethnic_state_idea_desc:0 "Существует поговорка:0 "единство в разнообразии" - однако, чаще всего, люди стягиваются в привычную им среду проживания и не желают терять национальные традиции, а плотные группы меньшинств тяготеют к поиску большей автономии или полной независимости. Подобная естественная тенденция подразумевает возможные осложнения и нестабильность в государстве."
+ multi_ethnic_state_idea_desc:0 "Существует поговорка: "единство в разнообразии" - однако, чаще всего, люди стягиваются в привычную им среду проживания и не желают терять национальные традиции, а плотные группы меньшинств тяготеют к поиску большей автономии или полной независимости. Подобная естественная тенденция подразумевает возможные осложнения и нестабильность в государстве."
  consumption_econemy:0 "Потребительская экономика"
  consumption_econemy_desc:0 "Потребительская экономика описывает систему, движимую потребительскими расходами, как подавляющим процентом от ее валового внутреннего продукта, в отличие от других основных компонентов ВВП."
  export_econemy:0 "Ориентация на экспорт"
@@ -1125,7 +1125,7 @@
  ZAM_tribute:0 "Экономическая эксплуатация [ZAM.GetName]"
  ZIM_tribute:0 "Экономическая эксплуатация [ZIM.GetName]"
  ##Bird Tags
- AND_tribute: "Экономическая эксплуатация [AND.GetName]"
+ ADO_tribute: "Экономическая эксплуатация [ADO.GetName]"
  PAT_tribute: "Экономическая эксплуатация [PAT.GetName]"
  ZAP_tribute: "Экономическая эксплуатация [ZAP.GetName]"
  CAS_tribute: "Экономическая эксплуатация [CAS.GetName]"
@@ -1482,7 +1482,7 @@
  cartels_1:0 "Мелкие наркокартели"
  cartels_1_desc:0 "Наркокартели ограничены в масштабах, большинство из них действуют только в крупных городах. Широко распространенное насилие и убийства отсутствуют, хотя их случайное появление имеет приоритет у служб правопорядка над действиями обычных банд и преступников."
  narcos_state: "Narcos State"
- cartels_1_desc: "After years upon years of stuggle the narcos are now in charge of the state."
+ narcos_state_desc: "After years upon years of stuggle the narcos are now in charge of the state."
 
  #Outside Political Influences
  major_western_influence:0 "Крупное западное влияние"
@@ -2167,6 +2167,8 @@
  tungsten_production_bonus:0 "Бонус к производству вольфрама"
  generic_bureaucratic_drain_idea: "Bureaucratic Drain"
  generic_bureaucratic_drain_idea_desc: "Recent actions has taken a toll on our bureaucracy and has now become a drain. Although, this is usually temporary it could cause more issues later down the line..."
+ recently_printed_money: "Недавно напечатанные деньги"
+ recently_printed_money_desc: "Отчаянные обстоятельства, безусловно, требуют отчаянных мер. Правительство недавно санкционировало массовую кампанию по печатанию денег, чтобы смягчить растущие расходы на управление правительством."
  ####United States Ideas
  USA_abolished_the_house:0 "Упразднённый дом"
  USA_abolished_the_senate:0 "Упразднённый сенат"
