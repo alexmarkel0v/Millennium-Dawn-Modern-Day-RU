@@ -674,7 +674,7 @@
  econvent.102.d:0 "Из-за меняющихся экономических обстоятельств в [From.GetNameDef] многие корпорации [From.GetAdjective] решили переехать в [Root.GetNameDef], чтобы быть более конкурентоспособными. Это будет благом для нашей экономики."
  econvent.102.a:0 "Отличные новости"
 
- bankrupcy.0.t:0 "Грядущее банкротство: [Root.Get Leader] рассматривает варианты"
+ bankrupcy.0.t:0 "Грядущее банкротство: [Root.GetLeader] рассматривает варианты"
  bankrupcy.0.d:0 "Проблема долга [Root.GetName] стала настолько острой, что у нас практически нет шансов ни погасить ее, ни даже выполнить текущие процентные платежи. Но, хотя времена плохие, у нас не всегда есть варианты. \n\nЕсли мы можем заставить другую страну рефинансировать наш долг, это позволило бы нам значительно сократить процентные платежи. Но любая такая помощь будет идти с дополнительными условиями, их политическое влияние на нас резко возрастет и ограничит нашу независимость от иностранного влияния. Они, вероятно, хотели бы также и военного доступа."
  bankrupcy.0.1:0 "Попросите [?var:influence_array^0.GetAdjective] помощи"
  bankrupcy.0.2:0 "Попросите [?var:influence_array^1.GetAdjective] помощи"
@@ -696,7 +696,7 @@
 
 #event back for the one asking for the bailout
  News_bankrupcy.2.t:0 "[From.GetNameWithFlag] предоставляет помощь"
- News_bankrupcy.2.d:0 "На вчерашней встрече на высшем уровне в [From.GetName] между [From.GetLeader] и [Root.GetLeader] [From.GetAdjective] обещал выручить нас. Однако, спасая нас от банкротства, он просит предоставить [From.GetName] длинный список политических уступок, в том числе предоставить им военный доступ."
+ News_bankrupcy.2.d:0 "На вчерашней встрече на высшем уровне в [From.GetName] между [From.GetLeader] и [Root.GetLeader] [From.GetNameWithFlag] обещал выручить нас. Однако, спасая нас от банкротства, он просит предоставить [From.GetName] длинный список политических уступок, в том числе предоставить им военный доступ."
  News_bankrupcy.2.a:0 "Хорошо"
  interest_rate_reduced_10_TT:0 "Процентная ставка по долгам: -10%\n"
  
@@ -758,10 +758,10 @@
  anti_bully.6.t: "[From.GetName] приняли наше перемирие!"
  anti_bully.6.d: "The delegation from [From.GetName] has declared that they will accept our ceasefire.\n"
  anti_bully.6.a: "Прекрасно!"
- accepted_ceasefire_tt: "§Y[From.GetNamewithFlag]§! принято перемирие.\n"
+ accepted_ceasefire_tt: "§Y[From.GetNameWithFlag]§! приняло перемирие.\n"
 
  anti_bully.7.t: "[From.GetName] отказались от перемирия."
- anti_bully.7.d: "The delegation from [From.GetNamewithFlag] has declined our ceasefire attempt.\n\nWe will be unable to offer another ceasefire for thirty days.\n"
+ anti_bully.7.d: "The delegation from [From.GetNameWithFlag] has declined our ceasefire attempt.\n\nWe will be unable to offer another ceasefire for thirty days.\n"
  anti_bully.7.a: "Плохо"
 
  anti_bully.8.t: "Война продолжается"
