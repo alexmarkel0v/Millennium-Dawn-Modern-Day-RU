@@ -2035,7 +2035,7 @@
  provide_development_assistance:0 "Оказать помощь в целях развития [FROM.GetName]"
  provide_development_assistance_CHI:0 "Оказать помощь в целях развития [FROM.GetName]"
  host_joint_exercises:0 "Проведение совместных учений ШОС"
- offer_joint_exercises_specific:0 "Предложить совместные упражнения с [FROM.GetName]"
+ offer_joint_exercises_specific:0 "Предложить совместные учения с [FROM.GetName]"
  start_joint_exercises_specific:0 "Проводить совместные учения с [FROM.GetName]"
  ###Child Soldiers
  child_soldiers_category:0 "Дети-солдаты"
