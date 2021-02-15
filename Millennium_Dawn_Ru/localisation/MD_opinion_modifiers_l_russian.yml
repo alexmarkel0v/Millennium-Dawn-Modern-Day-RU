@@ -158,14 +158,14 @@
  xenophobic_agenda:0 "Ксенофобская программа"
 
  #Statehood
- declared_independence:0 "Объявленная независимость"
- recognises_us:0 "Признает нас"
- recognises_them:0 "Распознает отколовшееся состояние"
- recognises_them_rival:0 "Признает конкурирующее правительство"
- withdrew_recognition:0 "Отозвал признание"
- withdrew_recognition_them:0 "Отказ от признания отколовшегося государства"
- is_trying_to_win_our_favour:0 "Пытается завоевать нашу благосклонность"
- recognises_israel: "Признает Израиль"
+ declared_independence:0 "Провозгласили независимость"
+ recognises_us:0 "Признают нас"
+ recognises_them:0 "Признают самопровозглашенное государство"
+ recognises_them_rival:0 "Признают конкурирующее правительство"
+ withdrew_recognition:0 "Отозвали признание"
+ withdrew_recognition_them:0 "Отказались от признания самопровозглашенного государства"
+ is_trying_to_win_our_favour:0 "Пытаются завоевать нашу благосклонность"
+ recognises_israel: "Признают Израиль"
 
  #Myanmar/Burma
  cooperation:0 "Сотрудничество"
