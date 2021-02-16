@@ -1044,9 +1044,9 @@
  china.45.b: "Нечего обсуждать."
 
  china.46.t: "Переговоры завершились успешно!"
- china.46.d: "Our skillful negotiators have reached an agreement with the turkish authorities. The Varyag will continue its travel along the Bosphorus §Hin 6 months§!!"
- china.46.a: "It will be worth the price."
- china.46.b: "Пусть они принесут какие-то турецкие сладости!"
+ china.46.d: "Наши умелые переговорщики достигли договоренности с властями Турции. Путь по Босфору «Варяг» продолжит через §H6 месяцев§!!"
+ china.46.a: "Это того стоит."
+ china.46.b: "Пусть они принесут рахат-лукум!"
 
  china.47.t: "Переговоры провалились!"
  china.47.d: "Турков не интересовали никакие переговоры, мы пока сделали все, что могли."
@@ -1070,8 +1070,8 @@
  china.51.d: "Наша последняя попытка оказать давление на Анкару дала обратный результат! «Варяг» еще долго не пройдет и пока будет плавать от порта к порту Черного моря."
  china.51.a: "Черт."
 
- china.52.t: "An Ask For Something More"
- china.52.d: "The Turkish ambassador in [Root.Capital.GetName] has sent a letter from Ankara for giving the Varyag top priority in the busy Bosphorus strait. They ask for a sizeable fee and some few extra concessions."
+ china.52.t: "Просить о большем"
+ china.52.d: "Посол Турции [Root.Capital.GetName] направил письмо из Анкары с просьбой предоставить «Варягу» высший приоритет загруженном проливе Босфор. Они просят немалую плату и несколько дополнительных уступок."
  china.52.a: "Оно того стоит."
  china.52.b: "Нелепая идея даже подумать об этом."
 
@@ -1144,9 +1144,6 @@
 
  #china.67.t: "Rejected"
  ###################
-
-
-
 
  south_china_sea_clash.1.t: "Китай выиграл конфронтацию в Спратли!"
  south_china_sea_clash.1.d: "Our gamble has paid off! We have now extended our control over the South China Sea and therefore have greater access to that waterway's multiple benefits. Our adversaries have retreated, but we should be cautious in case they decide to launch a counter-offensive."

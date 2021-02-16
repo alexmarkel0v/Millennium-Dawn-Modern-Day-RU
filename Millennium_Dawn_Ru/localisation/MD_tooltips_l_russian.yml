@@ -1017,7 +1017,7 @@
  CHI_VIE_disputes_tt: "Территориальные споры с §Y[VIE.GetNamewithFlag]§! решены"
  CHI_disputes_tt: "Территориальные споры с §Y[MAY.GetNamewithFlag]§!, §Y[PHI.GetNamewithFlag]§! и §Y[VIE.GetNamewithFlag]§! решены"
 
- CHI_top_influencer_koreas_tt: "§Y[CHI.GetNamewithFlag]§! самое влиятельное в §Y[KOR.GetNamewithFlag]§! и §Y[NKO.GetNamewithFlag]§!"
+ CHI_top_influencer_koreas_tt: "§Y[CHI.GetNamewithFlag]§! - самый влиятельный среди остальных государств в §Y[KOR.GetNamewithFlag]§! и §Y[NKO.GetNamewithFlag]§!"
  CHI_NKO_military_tt: "§YКорейская народная армия§! - §Rухудшает§! мнение о [NKO.GetLeader]\n"
  CHI_TTP_influence_higher_20_tt: "§Y[CHI.GetNameWithFlag]§! более чем §Y20%§! влияния в §Y[AFG.GetNameWithFlag]§!, §Y[PAK.GetNameWithFlag]§!, §Y[TAJ.GetNameWithFlag]§!, §Y[TAL.GetNameWithFlag]§! и §Y[TTP.GetNameWithFlag]§!"
  CHI_TAL_influence_higher_20_tt: "§Y[CHI.GetNameWithFlag]§! более чем  §Y20%§! влияния в §Y[AFG.GetNameWithFlag]§!, §Y[PAK.GetNameWithFlag]§!, §Y[TAJ.GetNameWithFlag]§! и §Y[TAL.GetNameWithFlag]§!"
