@@ -1369,8 +1369,8 @@
  SOV_has_oligarchs_TT: "Имеет внутреннюю фракцию §Y[SOV.GetAdjective] предприниматели§!.\n"
  SOV_oligarchs_increase_TT: "§Y[SOV.GetAdjective] предприниматели§! - мнение §GУвеличивается§!\n"
  SOV_oligarchs_decrease_TT: "§Y[SOV.GetAdjective] предприниматели§! - мнение §RУменьшается§!\n"
- SOV_execute_the_oligarchs_TT: "Swaps Internal Faction §Y[SOV.GetAdjective] Entrepreneurs§! with §Y[SOV.GetAdjective] Armed Forces§!.\n"
- SOV_take_control_of_the_oligarchy_TT: "Swaps Internal Faction §Y[SOV.GetAdjective] Entrepreneurs§! with §YThe [SOV.GetAdjective] Communists§!.\n"
+ SOV_execute_the_oligarchs_TT: "Меняет внутреннюю фракцию §Y[SOV.GetAdjective] предприниматели§! на §Y[SOV.GetAdjective] вооруженные силы§!.\n"
+ SOV_take_control_of_the_oligarchy_TT: "Меняет внутреннюю фракцию §Y[SOV.GetAdjective] предприниматели§! на §Y[SOV.GetAdjective] коммунисты§!.\n"
  SOV_oligarchs_positive_tt: "§Y[SOV.GetAdjective] предприниматели§! - мнение, по крайней мере, §Gположительное§!"
  ##Эффекты фокусировки
  SOV_more_than_30_support_for_united_russia_TT: "£SOV_emerging_reactionary §YЕдиная Россия§! имеет более 30% поддержки"
