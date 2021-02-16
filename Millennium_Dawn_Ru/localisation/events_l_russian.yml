@@ -920,7 +920,7 @@
  china.18.a: "Никто не мог этого предвидеть."
 
  china.19.t: "Создан особый административный район Тибет."
- china.19.d: "После положительной реакции в Тибетском автономном районе на недавнюю либерализацию и возвращение Далай-ламы китайское руководство решило заменить статус «Автономного района» Тибета на статус «Особого административного района». Такая смена статуса сопровождается значительной степенью самоуправления."
+ china.19.d: "После положительной реакции в Тибетском автономном районе на недавнюю либерализацию и возвращение Далай-ламы китайское руководство решило заменить статус «Автономного района» Тибета на статус «Специального административного района». Такая смена статуса сопровождается значительной степенью самоуправления."
  china.19.a: "Неожиданный поворот событий."
 
  china.20.t: "Подписание Соглашения о торговле услугами через пролив"
@@ -929,7 +929,7 @@
  china.20.b: "Мы не можем позволить себе тратить время на обсуждение этого вопроса, мы должны спешить с CSSTA."
 
  china.21.t: "«Дорожная карта воссоединения» КНР"
- china.21.d: "В сообщениях указывается, что правительство [CHI.GetLeader] предложило своему тайпайскому коллеге «Дорожную карту воссоединения», определяющую путь для Тайваня, чтобы в конечном итоге вернуться под контроль Китая в качестве Особого административного района. Предложение включает в себя многочисленные гарантии для продолжения тайваньской демократии и политической автономии, но этого может быть недостаточно для тайваньских противников для воссоединения с материком. Как Китай отреагирует, если тайваньские власти отклонят этот план, остается неясным."
+ china.21.d: "В сообщениях указывается, что правительство [CHI.GetLeader] предложило своему тайпайскому коллеге «Дорожную карту воссоединения», определяющую путь для Тайваня, чтобы в конечном итоге вернуться под контроль Китая в качестве Специального административного района. Предложение включает в себя многочисленные гарантии для продолжения тайваньской демократии и политической автономии, но этого может быть недостаточно для тайваньских противников для воссоединения с материком. Как Китай отреагирует, если тайваньские власти отклонят этот план, остается неясным."
  china.21.a: "Посмотрим, как это получится."
 
  china.22.t: "Китай отказывается от сопротивления тайваньской независимости"
@@ -937,85 +937,84 @@
  china.22.a: "Никто не мог этого предвидеть."
 
  china.23.t: "Китай угрожает нам карательными экономическими мерами!"
- china.23.d: "Citing our recognition of the ROC as the legitimate representative of China instead of the PRC, the Chinese authorities have threatened to reduce bilateral trade between our country amd theirs. If we concede to their demands, our economic relations will continue unaffected."
+ china.23.d: "Ссылаясь на наше признание КР в качестве законного представителя Китая, а не КНР, китайские власти пригрозили сократить двустороннюю торговлю между нашей страной и их. Если мы уступим их требованиям, наши экономические отношения останутся неизменными."
  china.23.a: "Мы должны принять их требования."
  china.23.b: "Мы ничто, если не лояльны!"
 
  china.24.t: "Китай блокирует Тайваньские острова"
- china.24.d: "Following rising tensions with Taiwan, the People's Liberation Army Navy has imposed a blockade on Taiwan's Kinmen and Matsu islands. This move is reportedly aimed at preventing Taiwan's ability to prepare the islands for a possible Chinese invasion as well as hindering Taiwanese trade with the outside world.\n\nWorld leaders have been divided between those who explicitly criticized Chinese aggression and others who called for calm. The U.N. Secretary General made a particularly strong appeal for peace, urging the Chinese government to remember that "the international order is uphold not by violence and brute force, but by diplomacy and restraint.""
+ china.24.d: "После роста напряженности в отношениях с Тайванем ВМФ НОАК ввел блокаду тайваньских островов Цзиньмынь и Мацу. Этот шаг, как сообщается, направлен на то, чтобы не дать Тайваню возможности подготовить острова к возможному вторжению Китая, а также воспрепятствовать торговле Тайваня с внешним миром.\n\nМировые лидеры разделились на тех, кто открыто критиковал китайскую агрессию, и тех, кто призывал к спокойствию. Генеральный секретарь ООН выступил с особенно решительным призывом к миру, призвав правительство Китая помнить, что «международный порядок поддерживается не насилием и грубой силой, а дипломатией и сдержанностью»."
  china.24.a: "Напряженность растет."
  china.24.b: "Это не сулит нам ничего хорошего."
  china.24.c: "Мир уходит в прошлое."
 
- china.25.t: "Китайские действия в Киньмэнь"
- china.25.d: "In a further escalation of the Taiwan Strait Crisis, China has fired artillery at military installations on the island of Kinmen, prompting an angry reaction from both [TAI.GetLeader] and [USA.Getleader]. The latter issued a strong warning to China, promising swift American action in the event of a Chinese invasion.\n\nTaiwanese troops have reportedly begun mobilizing in preparation for an even greater escalation, and the government has begun evacuations of Taiwan's outlying islands."
+ china.25.t: "Китайские действия в Цзиньмыне"
+ china.25.d: "В ходе дальнейшей эскалации кризиса в Тайваньском проливе Китай обстрелял из артиллерии военные объекты на островах Цзиньмынь, что вызвало гневную реакцию как [TAI.GetLeader], так и [USA.GetLeader]. Последний сделал серьезное предупреждение Китаю, пообещав незамедлительные действия Америки в случае китайского вторжения.\n\nСообщается, что тайваньские войска начали мобилизацию в рамках подготовки к еще большей эскалации, а правительство начало эвакуацию с отдаленных островов Тайваня."
  china.25.a: "Грядет война."
 
  china.26.t: "Создан специальный административный район Тайвань"
- china.26.d: "Following a gradual improvement in relations between mainland China and Taiwan, [TAI.GetLeader]'s government has agreed to rejoin the mainland as a Special Administrative Region in an exchange for a preservation of Taiwan's political and legal autonomy. Politicians from the pro-reunification Pan-Blue Coalition have made statements lauding this move as the beginning of a new, better part of Taiwanese history while their pro-independence Pan-Green counterparts have expressed reservations."
- china.26.d_coup: "Following the pro-Chinese coup in Taiwan, the new "temporary" administration has agreed to rejoin the People's Republic of China as a Special Administrative Region, as an apparent compromise. While opposition to the new administration has been muted, public support for this move is far from clear."
- china.26.d_war: "The victorious Chinese have announced the establish of a Special Administrative Region of Taiwan, trumpeting the move as a sign of China's capacity for compromise and moderation. While the new S.A.R. may eventually have a degree of independence from Chinese rule, in its current state it is in no position to do so."
+ china.26.d: "После постепенного улучшения отношений между материковым Китаем и Тайванем правительство [TAI.GetLeader] согласилось воссоединиться с материком в качестве Специального административного района в обмен на сохранение политической и правовой автономии Тайваня. Политики из Пан-Синии Коалиции, выступающей за воссоединение, сделали заявления, восхваляющие этот шаг как начало новой, лучшей части тайваньской истории, в то время как их Пан-Зеленые Коллеги, выступающие за независимость, выразили оговорки."
+ china.26.d_coup: "После прокитайского переворота на Тайване новая «временная» администрация согласилась воссоединиться с Китайской Народной Республикой в качестве Специального административного района в качестве очевидного компромисса. Хотя оппозиция новой администрации была приглушенной, общественная поддержка этого шага далеко не ясна."
+ china.26.d_war: "Победоносные китайцы объявили о создании Специального административного района Тайвань, провозгласив этот шаг как знак способности Китая к компромиссу и умеренности. В то время как новый С.А.Р. может в конечном итоге получить определенную степень независимости от китайского господства, в своем нынешнем состоянии он не может этого сделать."
  china.26.a: "Гражданская война в Китае наконец-то закончилась."
 
- china.27.t: "Решение NPCSC по Гонконгу"
- china.27.d: "The Basic Law of Hong Kong calls for the Chief Executive to eventually be elected by way of universal suffrage. However, if we implement this electoral system the chances of pro-Beijing figures running the territory will be significantly lower due to the relatively larger popularity of pan-democrat candidates. While we should avoid the possibility of an anti-Chinese or pro-independence figure from becoming Hong Kong's Chief Executive, we should also be careful not to antagonize the Hong Kong people. Might there be a third way out of this predicament?"
+ china.27.t: "Решение ПК ВСНП по Гонконгу"
+ china.27.d: "Основной закон Гонконга призывает к избранию главы исполнительной власти на основе всеобщего избирательного права. Однако, если мы внедрим эту избирательную систему, шансы пропекинских фигур, управляющих территорией, будут значительно ниже из-за относительно большей популярности кандидатов от пандемократов. Хотя нам следует избегать возможности того, чтобы человек, выступающий против Китая или выступающий за независимость, стал главой исполнительной власти Гонконга, мы также должны проявлять осторожность, чтобы не вызвать враждебность у жителей Гонконга. Может ли быть третий выход из этого затруднительного положения?"
  china.27.a: "О всеобщем избирательном праве не может быть и речи!"
  china.27.b: "Мы можем принять всеобщее избирательное право, если сначала проверим кандидатов."
  china.27.c: "Жители Гонконга должны выбирать своих лидеров."
 
  china.28.t: "Будущее Гонконга"
- china.28.d: "We have so far made no indication as to the fate of Hong Kong when the Basic Law preserving its current autonomy expires in 2047. It may be in our interest to do so now as promising a continuation of its autonomy could help convince Taiwan to return to our control. On the other hand, we might want to quash separatism by showing the inevitability of every Chinese territory's return to our control."
+ china.28.d: "Мы до сих пор не сделали никаких указаний относительно судьбы Гонконга, когда в 2047 году истечет срок действия Основного закона, сохраняющего его нынешнюю автономию. Возможно, это будет в наших интересах сделать это сейчас, поскольку обещание сохранения автономии может помочь убедить Тайвань вернуться в наш контроль. С другой стороны, мы могли бы захотеть подавить сепаратизм, продемонстрировав неизбежность возвращения каждой китайской территории под наш контроль."
  china.28.a: "С.А.Р. выдержит."
  china.28.b: "Гонконг вернётся под наш контроль."
 
  china.29.t: "Китай вступает во Всемирную торговую организацию"
- china.29.d: "After a long negotiating process with the existing members of the World Trade Organization (WTO), China has finally achieved a ratification of its application to join the WTO. China has had to demonstrate to the members of the WTO, especially the United States and the European Union, that it is making notable steps towards opening up its economy to competition. Chinese state media hailed this event as "a historic moment in China's reform and opening-up and the process of modernisation"."
+ china.29.d: "После долгих переговоров с действующими членами Всемирной торговой организации (ВТО) Китай, наконец, добился ратификации своей заявки на вступление в ВТО. Китаю пришлось продемонстрировать членам ВТО, особенно Соединенным Штатам и Европейскому Союзу, что он делает заметные шаги в направлении открытия своей экономики для конкуренции. Китайские государственные СМИ приветствовали это событие как «исторический момент в реформировании и открытости Китая, а также в процессе модернизации»."
  china.29.a: "Китай продолжает открываться миру."
 
  china.30.t: "Китай завершает переход к свободной рыночной экономике"
- china.30.d: "Recent liberalizations of the Chinese economy have culminated in a full transition from the "socialist market economy" model to a full-blown free-market economy. Reports indicate that [CHI.GetLeader] had to go to great lengths to convince Communist Party officials and leading figures in Chinese industry that this historic move would benefit everyone. Subsequently, opposition to the move has been muted but many analysts believe that there is significant apprehension among China's rural poor about the new changes."
+ china.30.d: "Недавняя либерализация китайской экономики завершилась полным переходом от модели «социалистической рыночной экономики» к полноценной рыночной экономике. Сообщения показывают, что [CHI.GetLeader] пришлось пойти на многое, чтобы убедить руководителей Коммунистической партии и ведущих деятелей китайской промышленности, что этот исторический шаг принесет пользу всем. Впоследствии сопротивление этому шагу было приглушено, но многие аналитики считают, что среди сельской бедноты Китая есть серьезные опасения по поводу новых изменений."
  china.30.a: "Сейчас ничто не сдерживает развитие Китая..."
 
  china.31.t: "[CHI.GetLeader] осуждает Дэн Сяопина"
- china.31.d: "In a dramatic departure from China's decades-old policy of "reform and opening up", [CHI.GetLeader] criticized the "moral decadence and oppression of the rural poor" that Deng's economic reforms brought about. Many observers outside the country have been shocked by this vocal denunciation of someone who has for years been venerated as the architect of Chinese development. Others however, had predicted this outcome due to the gradual strengthening of the leftist faction within the Communist Party.\n\n The implications of this speech for the future of Chinese governance remain to be seen. Some have speculated that the speech is simly a rhetorical device to increase [CHI.GetLeader]'s popularity among the leftist elements in the party, the military and the wider population. Others, however, are convinced that this speech heralds a large-scale reversal of market liberalization."
+ china.31.d: "Резко отходя от многолетней китайской политики «реформ и открытости», [CHI.GetLeader] раскритиковал «моральный упадок и угнетение сельской бедноты» вызванные экономическими реформами Дэна. Многие наблюдатели за пределами государства были шокированы этим громким осуждением человека, которого многие годы почитали как архитектора развития Китая. Другие, однако, предсказывали такой исход из-за постепенного усиления левой фракции в Коммунистической партии.\n\n Последствия этой речи для будущего китайского управления еще предстоит увидеть. Некоторые предполагают, что эта речь - всего лишь риторический прием, призванный повысить популярность [CHI.GetLeader] среди левых фракций в партии, вооруженных сил и широких слоев населения. Другие, однако, убеждены, что эта речь знаменует масштабный поворот вспять либерализации рынка."
  china.31.a: "Народная республика возвращается к своим корням."
 
  china.32.t: "Китай провозглашает Пятый Интернационал"
- china.32.d: "Following China's transformation from Deng Xiaoping's "socialist market economy" model into a full-blown planned economy, [CHI.GetLeader] has announced the creation of a "Fifth International", inviting communist parties from around the globe to participate in this new Chinese-led initiative. This move has provoked concern amongst many foreign governments, who fear the ramifications of China's announcement regarding their domestic politics."
+ china.32.d: "После перехода Китая от модели "социалистической рыночной экономики" Дэн Сяопина к полномасштабной плановой экономике, [CHI.GetLeader] объявил о создании «Пятого Интернационала», пригласив коммунистические партии со всего мира принять участие в этой новой инициативе под руководством Китая. Этот шаг вызвал беспокойство у многих иностранных правительств, которые опасаются последствий заявления Китая в отношении их внутренней политики."
  china.32.a: "Коммунизм снова является силой, с которой нужно считаться..."
 
- china.33.t: "Китай завершает диверсионный проект Ярлунг Цангпо"
- china.33.d: "China's efforts to reduce its water scarcity issue have now become a threat to us in the form of the Yarlung Tsangpo Diversion Project. The diversion of the Brahmaputra river, known as Yarlung Tsangpo in China, threatens to deprive thousands of our people of its essential supply of water. Despite the clear negative ramifications of their decision, the Chinese have pressed ahead and in doing so have jeopardized the security of our citizens."
+ china.33.t: "Китай завершает проект «Ярлунг-Цангпо»"
+ china.33.d: "Усилия Китая по сокращению дефицита воды теперь стали для нас угрозой в виде проекта «Ярлунг-Цангпо». Отвод реки Брахмапутра, известной в Китае как Ярлунг-Цангпо, грозит лишить тысячи наших людей ее основных запасов воды. Несмотря на явные негативные последствия своего решения, китайцы продвигаются вперед и тем самым ставят под угрозу безопасность наших граждан."
  china.33.a: "Китайцы продолжают испытывать наше терпение..."
 
  china.34.t: "Китай активизирует свою инициативу «Один пояс и один путь»"
- china.34.d: "China's ambitious Belt and Road Initiative (BRI) has been known to be in the works for the past few years, having undergone a rebranding after "One Belt One Road Strategy" was deemed to be too threatening. [CHI.GetLeader]'s administration today announced its intention to invest in multiple infrastructure projects as part of the BRI in countries around the world. While many developing countries have welcomed the announcement in anticipation of much-needed Chinese investment in their economies, Japan, India, the US and Australia have all expressed reservations about the initiative, viewing it as a veiled attempt to spread Chinese influence overseas."
+ china.34.d: "Амбициозная китайская инициатива «Один пояс и один путь» (BRI), как известно, находится в разработке в течение последних нескольких лет, после того, как стратегия «Один пояс и один путь» была сочтена слишком опасной. Администрация [CHI.GetLeader] сегодня объявила о своем намерении инвестировать в многочисленные инфраструктурные проекты в рамках BRI в странах по всему миру. В то время как многие развивающиеся страны приветствовали это заявление в ожидании столь необходимых китайских инвестиций в их экономику, Япония, Индия, США и Австралия выразили оговорки в отношении этой инициативы, рассматривая ее как завуалированную попытку распространить китайское влияние за рубежом."
  china.34.a: "Где подписать?"
  china.34.b: "Мы отвергаем эту угрозу нашей независимости!"
 
  china.35.t: "Инициатива «Один пояс и один путь» достигла наших берегов!"
- china.35.d: "Chinese firms have invested into our key infrastructure! This is providing a welcome boost to our economy and has strengthened the ties between our two nations, although some may say that we should be wary of China's growing influence in our nation."
+ china.35.d: "Китайские фирмы вложили средства в нашу ключевую инфраструктуру! Это дает желанный толчок нашей экономике и укрепляет связи между нашими двумя странами, хотя некоторые могут сказать, что нам следует опасаться растущего влияния Китая в нашей стране."
  china.35.a: "Мы признательны КНР."
 
  china.36.t: "Китай получает контроль над портом Шри-Ланки"
- china.36.d: "Over 100 years ago China signed 99 year leases with Germany, France, and the UK yielding up strategic territory to the then dominant European powers. Today it is not China that is signing its own territory away but Sri Lanka, as its Hambantota port, built with Chinese assistance, has incurred huge losses for the government in Colombo. The 99 year lease is ostensibly intended to help Sri Lanka repay its debt to China, but critics have lambasted the deal as a threat to Sri Lankan sovereignty and an attempt to extend Chinese influence in the region in a neo-colonial fashion."
+ china.36.d: "Более 100 лет назад Китай подписал договор аренды на 99 лет с Германией, Францией и Великобританией, уступив стратегическую территорию доминирующим в то время европейским державам. Сегодня не Китай уступает свою территорию, а Шри-Ланка, поскольку ее порт Хамбантота, построенный с помощью Китая, понес огромные убытки для правительства в Коломбо. Срок аренды на 99 лет якобы призван помочь Шри-Ланке выплатить долг Китаю, но критики раскритиковали сделку как угрозу суверенитету Шри-Ланки и попытку расширить влияние Китая в регионе в неоколониальной манере."
  china.36.a: "Мировой охват Китая растет."
  china.36.b: "Суверенитет Шри-Ланки был подорван!"
 
  china.37.t: "Китай вытесняет иностранные интересы"
- china.37.d: "Drawing widespread international condemnation, China has expelled all foreign firms and NGOs from its territory regardless of country of origin. This move follows a number of radical changes in recent months that have seen China take a strong turn towards pure communist governance, most notably a denouncement of Deng Xiaoping and the revival of Mao Zedong thought.\n\n[USA.GetLeader], among other world leaders has lambasted the [CHI.GetLeader] administration for its expulsion of foreign interests as well as the growing harassment of foreign individuals residing in China. China, for its part, has not issued an official response to the complaints of [USA.GetLeader] and others, but has trumpeted the patriotic nature of its actions to domestic audiences through state media."
+ china.37.d: "Вызвав широкое международное осуждение, Китай изгнал со своей территории все иностранные фирмы и негосударственные организации, независимо от страны происхождения. Этот шаг последовал за рядом радикальных изменений в последние месяцы, которые привели к тому, что Китай сделал решительный поворот к чисто коммунистическому управлению, прежде всего осудив Дэн Сяопина и возродя мысли Мао Цзэдуна.\n\n[USA.GetLeader], в числе других мировых лидеров, раскритиковал администрацию [CHI.GetLeader] за изгнание иностранных интересов, а также за растущее преследование иностранных лиц, проживающих в Китае. Китай, со своей стороны, не дал официального ответа на жалобы [USA.GetLeader] и других, но через государственные СМИ раструбил отечественной аудитории о патриотическом характере своих действий."
  china.37.a: "Китайцы потеряли рассудок!"
  china.37.b: "Китайский народ снова свободен от иностранного гнета!"
 
-
  china.38.t: "Китай требует нашей лояльности!"
- china.38.d: "Citing China's historical suzerainty over Vietnam, [CHI.GetLeader] has demanded that we submit to China's authority and yield up control of our foreign policy. This wildly offensive demand violates our state sovereignty as guaranteed by international law. However, can we really afford to antagonize this rising power?"
- china.38.a: "Нам больше не нужно подчиняться китайцам!"
+ china.38.d: "Ссылаясь на исторический сюзеренитет Китая над Вьетнамом, [CHI.GetLeader] потребовал(а), чтобы мы подчинились власти Китая и отказались от контроля над нашей внешней политикой. Это крайне оскорбительное требование нарушает суверенитет нашего государства, гарантированный международным правом. Однако можем ли мы позволить себе противодействовать этой растущей силе?"
+ china.38.a: "Мы больше не должны подчиняться китайцам!"
  china.38.b: "Мы должны принять это унижение..."
 
- china.39.t: "Китай подрывает наши международные отношения!"
- china.39.d: "Our global influence has declined sharply in recent years thanks to the efforts of the Chinese, jeopardizing our position as the world's sole hegemon and laying the foundations for a new world order. Perhaps those who predicted the "End of History" following our victory over the Soviet Union were overly optimistic after all."
- china.39.d_SOV: "Our erstwhile allies have been busy forcing us out of our Central Asian sphere of influence. As China's interference in our domain grows the main reason for our strategic alignment, the threat posed by the United States, pales in comparison. The time for inaction must come to an end if we are to maintain our current position."
+ china.39.t: "Китай подрывает наши международные позиции!"
+ china.39.d: "Наше глобальное влияние резко сократилось в последние годы благодаря усилиям китайцев, ставящих под угрозу наше положение единственного мирового гегемона и закладывающих основы нового мирового порядка. Возможно, те, кто предсказывал «конец истории» после нашей победы над Советским Союзом, все-таки были чрезмерно оптимистичны."
+ china.39.d_SOV: "Наши бывшие союзники были заняты вытеснением нас из нашей центральноазиатской сферы влияния. По мере того как вмешательство Китая в наши дела растет, главная причина нашего стратегического выравнивания, угроза, исходящая от Соединенных Штатов, меркнет в сравнении. Время бездействия должно закончиться, если мы хотим сохранить наше нынешнее положение."
  china.39.a: "Мы должны нанести удар сейчас, пока не стало слишком поздно!"
  china.39.b: "Мы движемся к никчемности..."
 
