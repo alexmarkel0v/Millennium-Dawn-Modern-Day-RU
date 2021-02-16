@@ -32,25 +32,25 @@
   
   #Mars Base Event Chain
   
-  mars_colony_tt: "As time goes on, our Mars Colony may experience challenges or crises which may endanger it. However, if it successful, the rewards will be tremendous.\n"
+  mars_colony_tt: "Со временем наша колония на Марсе может столкнуться с проблемами или кризисами, которые могут поставить ее под угрозу. Однако в случае успеха награда будет огромной.\n"
   
-  chi_mars.1.t: "Mars Rover Mission"
-  chi_mars.1.d: "Our scientists and engineers are ready to send our Rover to the mars. It has a total sum of roughly 14 sensors installed, along with tens of millions of dollars worth of equipment. This Rover will need to be regularly moved as the Mars day lasts 1 1/5 Earth days, which is far too long for batteries to keep stored power on the Mars.\n\nThe Rover itself will be on the poles, easily moveable, to get the maximum usage of our solar panels. Additionally, experiments will be carried out to determine long-term living conditions on the Mars. Extraction of ice could not only lead to liquid water for plants and food for future astronauts on the Mars, but also lead to separating it into oxygen and hydrogen, rocket fuel.\n\nThis may take months or years to get the research needed to do this. Within this time, however, using the funds for this project, we will build a depot orbiting the Mars to allow easier access to the Mars, and refueling to get to Earth.\n\nAll of this is achievable within the next decade. Now, however, is the time to launch."
-  chi_mars.1.o1: "Launch!"
+  chi_mars.1.t: "Миссия марсохода"
+  chi_mars.1.d: "Наши ученые и инженеры готовы отправить марсоход на Марс. В нем установлено около 14 датчиков, а также оборудование на десятки миллионов долларов. Этот марсоход необходимо будет регулярно перемещать, поскольку марсианский день длится 1 1/5 (или же 1.2) земных суток, что слишком долго для аккумуляторов, чтобы сохранять запас энергии на Марсе.\n\nСам марсоход будет находиться на опорах, легко перемещаемых, чтобы максимально использовать наши солнечные панели. Кроме того, будут проведены эксперименты по определению долгосрочных условий жизни на Марсе. Добыча льда может привести не только к получению жидкой воды для растений и пищи для будущих космонавтов на Марсе, но также привести к её разделению на кислород и водород, ракетное топливо.\n\nНа проведение необходимых исследований могут уйти месяцы или годы. Однако за это время, используя средства для этого проекта, мы построим депо на орбите Марса, чтобы облегчить доступ к Марсу и дозаправку, чтобы добраться до Земли.\n\nВсе это возможно в ближайшее десятилетие. Однако сейчас пора начинать."
+  chi_mars.1.o1: "Начинаем!"
   
-  chi_mars.2.t: "Mars Colony Project"
+  chi_mars.2.t: "Проект колонии на Марсе"
   chi_mars.2.d: ""
   chi_mars.2.o1: ""
   
-  chi_mars.3.t: "Landing system failure"
+  chi_mars.3.t: "Отказ посадочной системы"
   chi_mars.3.d: ""
   chi_mars.3.o1: ""
   
-  chi_mars.4.t: "Vehicle failure"
+  chi_mars.4.t: "Неисправность транспортного средства"
   chi_mars.4.d: ""
   chi_mars.4.o1: ""
   
-  chi_mars.5.t: "Arrival at Base"
+  chi_mars.5.t: "Прибытие на базу"
   chi_mars.5.d: ""
   chi_mars.5.o1: ""
   
@@ -58,87 +58,87 @@
   chi_mars.6.d: ""
   chi_mars.6.o1: ""
   
-  chi_mars.7.t: "Arrival at Base"
+  chi_mars.7.t: "Прибытие на базу"
   chi_mars.7.d: ""
   chi_mars.7.o1: ""
   
-  chi_mars.8.t: "Locate water source"
+  chi_mars.8.t: "Найти источник воды"
   chi_mars.8.d: ""
   chi_mars.8.o1: ""
  
-  chi_mars.9.t: "Underground radiation protection"
+  chi_mars.9.t: "Подземная радиационная защита"
   chi_mars.9.d: ""
   chi_mars.9.o1: ""
   
-  chi_mars.10.t: "Established self-sufficient colony "
+  chi_mars.10.t: "Создана самостоятельная колония"
   chi_mars.10.d: ""
   chi_mars.10.o1: ""
   
-  chi_mars.11.t: "Sandstorm"
+  chi_mars.11.t: "Песчаная буря"
   chi_mars.11.d: ""
   chi_mars.11.o1: ""
   
-  chi_mars.12.t: "Accident"
+  chi_mars.12.t: "Авария"
   chi_mars.12.d: ""
-  chi_mars.12.o1: "Evacuate"
-  chi_mars.12.o2: "Fix Base"
+  chi_mars.12.o1: "Эвакуировать"
+  chi_mars.12.o2: "Починить базу"
   
-  chi_mars.13.t: "Evacuate"
+  chi_mars.13.t: "Эвакуировать"
   chi_mars.13.d: ""
   chi_mars.13.o1: ""
   
-  chi_mars.14.t: "Repair damaged Base"
+  chi_mars.14.t: "Восстановить поврежденную базу"
   chi_mars.14.d: ""
   chi_mars.14.o1: ""
   
-  chi_mars.15.t: "Mars City Project"
+  chi_mars.15.t: "Проект «Марс-Сити»"
   chi_mars.15.d: ""
-  chi_mars.15.o1: "Upgrade"
-  chi_mars.15.o2: "Don´t need it"
+  chi_mars.15.o1: "Обновить"
+  chi_mars.15.o2: "Не нужно"
   
-  chi_mars.16.t: "No"
+  chi_mars.16.t: "Нет"
   chi_mars.16.d: ""
   chi_mars.16.o1: ""
   
-  chi_mars.17.t: "Yes"
+  chi_mars.17.t: "Да"
   chi_mars.17.d: ""
   chi_mars.17.o1: ""
   
-  chi_mars.18.t: "Mars City completed"
+  chi_mars.18.t: "«Марс-Сити» завершен"
   chi_mars.18.d: ""
   chi_mars.18.o1: ""
   
   
   #Lunar Outpost Event Chain 
-  chi_moon.1.t: "Outpost on the Moon"
-  chi_moon.1.d: "Our scientists and engineers are ready to send astronauts and equipment to live semi-permanently on the Moon. A total sum of roughly 12 astronauts will be sent there, along with tens of millions of dollars worth of equipment, supplies, living spaces, and personal items. This outpost will need to be regularly moved as the Lunar day lasts 29 Earth days, which is far too long for batteries to keep stored power on the Moon.\n\nThe base itself will be on the poles, easily moveable, to get the maximum usage of our solar panels. Additionally, experiments will be carried out to determine long-term living conditions on the Moon. Extraction of lunar ice could not only lead to liquid water for plants and food for astronauts on the Moon, but also lead to separating it into oxygen and hydrogen, rocket fuel.\n\nThis may take months or years to get the research needed to do this. Within this time, however, using the funds for this project, we will build a depot orbiting the Moon to allow easier access to the Moon, and refueling to get to Earth.\n\nAll of this is achievable within the next decade. Now, however, is the time to launch."
-  chi_moon.1.o1: "Launch!"
+  chi_moon.1.t: "Аванпост на Луне"
+  chi_moon.1.d: "Наши ученые и инженеры готовы отправить астронавтов и оборудование для полупостоянной жизни на Луне. Всего туда будет отправлено около 12 астронавтов, а также оборудование, материалы, жилые помещения и личные вещи на десятки миллионов долларов. Этот аванпост необходимо будет регулярно перемещать, поскольку лунный день длится 29 земных дней, что слишком долго для аккумуляторов, чтобы сохранять запас энергии на Луне.\n\nСама база будет находиться на опорах, легко перемещаемых, чтобы максимально использовать наши солнечные панели. Кроме того, будут проведены эксперименты по определению долгосрочных условий жизни на Луне. Добыча льда может привести не только к получению жидкой воды для растений и пищи для будущих космонавтов на Луне, но также привести к её разделению на кислород и водород, ракетное топливо.\n\nНа проведение необходимых исследований могут уйти месяцы или годы. Однако за это время, используя средства для этого проекта, мы построим депо на орбите Луны, чтобы облегчить доступ к Луне и дозаправку, чтобы добраться до Земли.\n\nВсе это возможно в ближайшее десятилетие. Однако сейчас пора начинать."
+  chi_moon.1.o1: "Начинаем!"
 
-  chi_moon.2.t: "Moonbase Alpha"
+  chi_moon.2.t: "Лунная база Альфа"
   chi_moon.2.d: "Our scientists and engineers have officially landed on the Moon, and are currently in the process of setting up the Moon-base. Each section is divided into \"modules,\" not quite buildings on their own, but not together as one. There is a habitation module, for rest, food module, for growing food, lab module, which is the largest with most of the scientific equipment, a maintenance module, containing all the maintenance tools to repair things if they get broken, an amenities module, since these people are here for 6 months, and working all day everyday isn't good for the mind, and quite a few solar panels.\n\nFood deliveries will be common for these first months as it takes time to grow food. Water and oxygen will be obtained through the Lunar ice. Lastly, these scientists will stay until shortly after moving to the next location in roughly 6 months time when the solar panels become defunct due to the Lunar day and night where the outpost is located lasts 6 months.\n\nMoonbase Alpha is complete."
-  chi_moon.2.o1: "Science!"
+  chi_moon.2.o1: "Наука!"
 
-  chi_moon.3.t: "Colony Progresses"
-  dchi_moon.3.d: "Our scientific outpost on the Moon has had a major breakthrough. With expansion of their current solar panel network, and recent discoveries making separating water to make oxygen and hydrogen easier, they have been able to come up with enough oxygen and hydrogen to fully fuel the most recent supply rocket. This is such a necessary breakthrough which will allow the Moon itself, given enough time and investment, can become a hub for future space ventures into outer space.\n\nSpace itself is getting smaller."
-  dchi_moon.3.o1: "We're good at being pioneers"
+  chi_moon.3.t: "Колония прогрессирует"
+  dchi_moon.3.d: "Наш научный аванпост на Луне совершил большой прорыв. С расширением их нынешней сети солнечных панелей и недавними открытиями, облегчающими разделение воды для получения кислорода и водорода, они смогли получить достаточно кислорода и водорода, чтобы полностью заправить самую последнюю ракету снабжения. Это такой необходимый прорыв, который позволит самой Луне, при наличии достаточного количества времени и инвестиций, стать центром для будущих космических проектов в открытом космосе.\n\nСамо пространство становится все меньше."
+  dchi_moon.3.o1: "Мы хорошо умеем быть первопроходцами"
 
-  chi_moon.4.t: "Crisis on the Moon"
-  chi_moon.4.d: "Drastic measures need to be taken place immediately. For reasons currently unknown, the habitation module has ruptured and \"exploded.\"\n\nAn hour ago, all 12 scientists were doing their duties when, all of a sudden, there was a massive rupture in the habitation module.\n\nSince waves don't travel in a vacuum, most didn't realize until they physically saw what had happened.\n\nThere is an emergency fund as part of the budget, so there is no need to allocate more funds to the project, and the scientists can always sleep in the other isolated modules; however, this has spooked many, stating that a few, many, or even all of our scientists could have died, and has also lowered the morale of the scientists since they could have died. Thus, attempting to continue the outpost on the Moon will be politically costly, and a rotation of scientists may need to happen now rather than later, due to the sapping of morale.\n\nWhat shall we do?"
-  chi_moon.4.o1: "Send emergency aid!"
-  chi_moon.4.o2: "Abandon the project. It's not meant for us"
+  chi_moon.4.t: "Кризиз на Луне"
+  chi_moon.4.d: "Необходимо немедленно принять решительные меры. По неизвестным на данный момент причинам жилой модуль разорвался и \"взорвался.\"\n\nЧас назад все 12 ученых выполняли свои обязанности, когда внезапно произошел массивный разрыв в жилом модуле.\n\nПоскольку волны не распространяются в вакууме, большинство из них не осознавали, пока не увидели физически, что произошло.\n\nСуществует чрезвычайный фонд как часть бюджета, поэтому нет необходимости выделять больше средств на проект, и ученые всегда могут спать в других изолированных модулях; однако это напугало многих, заявив, что несколько, многие или даже все наши ученые могли умереть, а также понизило моральный дух ученых, так как они могли умереть. Таким образом, попытка сохранить аванпост на Луне будет политически дорогостоящей, и ротация ученых, возможно, должна произойти сейчас, а не позже, из-за подрыва морального духа.\n\nЧто нам следует сделать?"
+  chi_moon.4.o1: "Отправьте скорую помощь!"
+  chi_moon.4.o2: "Отказаться от проекта. Это не предназначено для нас"
 
-  chi_moon.5.t: "Colony Progresses Further"
-  chi_moon.5.d: "Our Moon outpost has made another major breakthrough. They have managed to ship Hydrogen 3, a gas which seems perfect for fusion, to Earth, and scientists at home have figured out how to conduct fusion with it! Not only this, but the power generated from this fusion is near the amount used to do the reaction in the first place. This means that, with some improvements, this could result in successful fusion power! Not only does this allow immense benefits at home, along with knowledge we may be able to use in using other materials for fusion, we can use this on the Moon, allowing a permanent outpost rather than mobile outposts!\n\nAll of this is far ahead of schedule, which is a surpise, and many at NASA have been left unprepared to implement this into the current Moonbase. So, a new Moonbase is needed, in a much better spot for rapid expansion than the current location of Moonbase Alpha. It's time to start preparations on Moonbase Beta."
-  chi_moon.5.o1: "Life continues on"
+  chi_moon.5.t: "Колония прогрессирует дальше"
+  chi_moon.5.d: "Наш лунный аванпост совершил еще один крупный прорыв.  который кажется идеальным для термоядерного синтеза, и земные ученые выяснили, как проводить с ним синтез! Not only this, but the power generated from this fusion is near the amount used to do the reaction in the first place. This means that, with some improvements, this could result in successful fusion power! Not only does this allow immense benefits at home, along with knowledge we may be able to use in using other materials for fusion, we can use this on the Moon, allowing a permanent outpost rather than mobile outposts!\n\nAll of this is far ahead of schedule, which is a surpise, and many at NASA have been left unprepared to implement this into the current Moonbase. So, a new Moonbase is needed, in a much better spot for rapid expansion than the current location of Moonbase Alpha. It's time to start preparations on Moonbase Beta."
+  chi_moon.5.o1: "Жизнь продолжается"
 
-  chi_moon.6.t: "Another Crisis on the Moon"
-  chi_moon.6.d: "More drastic measures need to be taken now. Two more modules have ruptured. This time, it's both the Food and Amenities modules.\n\nRoughly forty minutes ago, a scientist was about to enter the Food module when it suddenly exploded. The scientist is fine, and no-one but the plants were harmed. However, it was adjacent to the Amenities module, and it caused it to rupture and explode. Again, no-one was hurt.\n\nThis new occurance, however, has raised the hairs of many back home, questioning the saftey of the modules. After the previous explosion, NASA replaced the modules, ensuring that they wouldn't explode, but it seems like prolonged pressure can cause something to break much more easily than it would otherwise. NASA has already quickly responded, ordering new modules be made immediately, as well as a close inspection of all current modules (As you can't \"recall\" modules from the Moon as of this moment).\n\nWith mounting pressure at home to stop going forward with the project until all safety concerns are resolved, the continuation of the Moonbase program comes into question. In addition to the political pushback, the emergency fund has been cut in half, so NASA is requesting another $5 billion to sort out future concerns. It remains your choice to decide whether to continue."
-  chi_moon.6.o1: "Send more emergency aid!"
-  chi_moon.6.o2: "We can't continue doing things like this"
+  chi_moon.6.t: "Очередной кризис на Луне"
+  chi_moon.6.d: "Сейчас необходимо принять более решительные меры. Еще два модуля разорвались. На этот раз это пищевой модуль и модуль удобства.\n\nПримерно сорок минут назад ученый собирался войти в пищевой модуль, когда он внезапно взорвался. Ученый в порядке, и никто, кроме растений, не пострадал. Однако он находился рядом с модулем удобств, и это привело к его разрыву и взрыву. Опять же, никто не пострадал.\n\nЭто новое происшествие, однако, подняло волосы у многих дома, ставя под сомнение безопасность модулей. После предыдущего взрыва НАСА заменило модули, гарантируя, что они не взорвутся, но, похоже, длительное давление может привести к тому, что что-то сломается гораздо легче, чем это было бы в противном случае. НАСА уже быстро отреагировало, приказав немедленно изготовить новые модули, а также внимательно осмотреть все текущие модули (Так как на данный момент вы не можете \"отозвать\" модули с Луны).\n\nИз-за растущего давления внутри страны, чтобы остановить продвижение проекта до тех пор, пока все проблемы безопасности не будут решены, продолжение программы Лунной базы становится под вопросом. В дополнение к политическому противодействию, чрезвычайный фонд был сокращен вдвое, поэтому НАСА запрашивает еще $5 миллиардов для решения будущих проблем. Вам остается решить, продолжать ли."
+  chi_moon.6.o1: "Отправьте скорую помощь!"
+  chi_moon.6.o2: "Мы не можем продолжать делать такие вещи"
 
-  chi_moon.7.t: "Moonbase Beta"
+  chi_moon.7.t: "Лунная база Бета"
   chi_moon.7.d: "At this point, our scientists and engineers on the Moon need to move to another location on the poles. The costs for doing this are already established in the long-term budget, so we don't need to add any new funding to the project yet.\n\nWith this new moonbase, we will be able to use new discoveries we have uncovered to allow the base to be established permanently, unlike our previous moonbase.With the use of better rockets, better power generation, better ice extraction and separation, we can use this new base, at a site more suited for rapid expansion, to facilitate colonization efforts of the Moon. This is not the only good news, entreprenuers and corporations are flooding to NASA en-mass for requests to put their newly developed mining systems on the Moon. Even other space programs in other countries are now extremely interested in starting up scientific and mining outposts on the Moon, however, due to your dilligent efforts, we not only have a massive head start, but we are the only country actively attempting to colonize the Moon.\n\nThe future on our Moon is bright and American."
-  chi_moon.7.o1: "Huzzah!"
+  chi_moon.7.o1: "Ура!"
 
   CHI_Chairman_Jiang_Reign:0 "Председатель правления Цзян"
   CHI_Chairman_Jiang_Reign_desc:0 "Преемник знаменитого Дэна Сяопина на посту президента Китая Цзян Цзэминь был человеком, приверженным реформам свободного рынка, а также политического превосходства КПК. Он лидер третьего поколения руководителей партии. В годы, предшествовавшие началу нового тысячелетия, Цзян начал свой срок с ряда различных политических мероприятий, включая серию приватизаций."
