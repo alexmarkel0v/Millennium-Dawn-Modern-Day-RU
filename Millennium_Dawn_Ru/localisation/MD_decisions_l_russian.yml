@@ -2101,7 +2101,7 @@
  grant_recognition_desc:0 "Мы должны рассмотреть вопрос о том, следует ли предоставлять признание [From.GetnameDef], что отвечает нашим национальным интересам и тому, считаем ли мы их достойным дополнением к международному сообществу. В настоящий момент [?FROM.Granted_Recognition] государства дали им признание."
  rescind_recognition:0 "Отменить наше признание [From.GetnameDef]"
  rescind_recognition_desc:0 "Мы должны рассмотреть вопрос о том, следует ли продолжать признавать независимость [From.GetnameDef] в наших же интересах. В настоящий момент [?FROM.Granted_Recognition] государства дали им признание."
- pressure_countries_to_recognize: "Давление на государства, на которые мы оказываем влияние с целью признания [FROM.GetNameDef]"
+ pressure_countries_to_recognize: "Давление на государства с целью признания [FROM.GetNameDef]"
  pressure_countries_to_recognize_desc: "Народ [FROM.GetNameDef] заслуживает независимоcти. Мы должны использовать наше влияние, чтобы помочь им достичь этой цели."
 
  #Ukraine decisions 
