@@ -944,7 +944,7 @@
  CHI_export_revenue_tt: "Будет получено §Y$10 миллиардов§! от эскпорта в нашу казну\n"
 
  CHI_TIB_RAJ_tt: "Больше не сможет участвовать в пограничных конфликтах с §Y[RAJ.GetNameDef]§!\n"
- CHI_TIP_increase_tt: "The £CHI_salafist_jihadism  §YТуркестанская исламская партия§! получает §Y1.00%§! поддержки\n"
+ CHI_TIP_increase_tt: "£CHI_salafist_jihadism  §YТуркестанская исламская партия§! получает §Y1.00%§! поддержки\n"
  CHI_uighur_threat_less_50_tt: "§YУйгурская угроза§! меньше, чем §Y50%§!\n"
  CHI_uighur_threat_increase_15_tt: "§YУйгурская угроза§! увеличивается на §R15%§!\n"
  CHI_uighur_threat_increase_10_tt: "§YУйгурская угроза§! увеличивается на §R10%§!\n"
