@@ -596,15 +596,15 @@
  display_fall_opinion_wahabi_ulema_indif_to_neg: "§YВаххабитские улемы§! - §Rухудшают§! мнение о [Root.GetLeader] с §YБезразличное§! на §RПлохое§!\n"
  display_fall_opinion_wahabi_ulema_neg_to_hos: "§YВаххабитские улемы§! - §Rухудшают§! мнение о [Root.GetLeader] с §RПлохое§! на §RВраждебное§!\n"
  ##Rise Extended Royal Family
- display_rise_opinion_saudi_royal_family_hos_to_neg: "§YУлучшенная королевская семья§! - §Gулучшают§! мнение о [Root.GetLeader] с §RВраждебное§! на §RПлохое§!\n"
- display_rise_opinion_saudi_royal_family_neg_to_indif: "§YУлучшенная королевская семья§! - §Gулучшают§! мнение о [Root.GetLeader] с §RПлохое§! на §YБезразличное§!\n"
- display_rise_opinion_saudi_royal_family_indif_to_pos: "§YУлучшенная королевская семья§! - §Gулучшают§! мнение о [Root.GetLeader] с §YБезразличное§! на §GОдобрительное§!\n"
- display_rise_opinion_saudi_royal_family_pos_to_enthu: "§YУлучшенная королевская семья§! - §Gулучшают§! мнение о [Root.GetLeader] с §GОдобрительное§! на §GВосторженное§!\n"
+ display_rise_opinion_saudi_royal_family_hos_to_neg: "§YОгромные королевские семьи§! - §Gулучшают§! мнение о [Root.GetLeader] с §RВраждебное§! на §RПлохое§!\n"
+ display_rise_opinion_saudi_royal_family_neg_to_indif: "§YОгромные королевские семьи§! - §Gулучшают§! мнение о [Root.GetLeader] с §RПлохое§! на §YБезразличное§!\n"
+ display_rise_opinion_saudi_royal_family_indif_to_pos: "§YОгромные королевские семьи§! - §Gулучшают§! мнение о [Root.GetLeader] с §YБезразличное§! на §GОдобрительное§!\n"
+ display_rise_opinion_saudi_royal_family_pos_to_enthu: "§YОгромные королевские семьи§! - §Gулучшают§! мнение о [Root.GetLeader] с §GОдобрительное§! на §GВосторженное§!\n"
  ##Fall Extended Royal Family
- display_fall_opinion_saudi_royal_family_enthu_to_pos: "§YУлучшенная королевская семья§! - §Rухудшают§! мнение о [Root.GetLeader] с §GВосторженное§! на §GОдобрительное§!\n"
- display_fall_opinion_saudi_royal_family_pos_to_indif: "§YУлучшенная королевская семья§! - §Rухудшают§! мнение о [Root.GetLeader] с §GОдобрительное§! на §YБезразличное§!\n"
- display_fall_opinion_saudi_royal_family_indif_to_neg: "§YУлучшенная королевская семья§! - §Rухудшают§! мнение о [Root.GetLeader] с §YБезразличное§! на §RПлохое§!\n"
- display_fall_opinion_saudi_royal_family_neg_to_hos: "§YУлучшенная королевская семья§! - §Rухудшают§! мнение о [Root.GetLeader] с §RПлохое§! на §RВраждебное§!\n"
+ display_fall_opinion_saudi_royal_family_enthu_to_pos: "§YОгромные королевские семьи§! - §Rухудшают§! мнение о [Root.GetLeader] с §GВосторженное§! на §GОдобрительное§!\n"
+ display_fall_opinion_saudi_royal_family_pos_to_indif: "§YОгромные королевские семьи§! - §Rухудшают§! мнение о [Root.GetLeader] с §GОдобрительное§! на §YБезразличное§!\n"
+ display_fall_opinion_saudi_royal_family_indif_to_neg: "§YОгромные королевские семьи§! - §Rухудшают§! мнение о [Root.GetLeader] с §YБезразличное§! на §RПлохое§!\n"
+ display_fall_opinion_saudi_royal_family_neg_to_hos: "§YОгромные королевские семьи§! - §Rухудшают§! мнение о [Root.GetLeader] с §RПлохое§! на §RВраждебное§!\n"
  ##Rise Quds Force
  display_rise_opinion_quds_force_hos_to_neg: "§YСилы «Кудс»§! - §Gулучшают§! мнение о [Root.GetLeader] с §RВраждебное§! на §RПлохое§!\n"
  display_rise_opinion_quds_force_neg_to_indif: "§YСилы «Кудс»§! - §Gулучшают§! мнение о [Root.GetLeader] с §RПлохое§! на §YБезразличное§!\n"
