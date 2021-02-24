@@ -1070,15 +1070,15 @@
  CHI_varyag_six_months_tt: "«Варяг» будет ждать §Hшесть месяцев§!"
  CHI_varyag_six_months_continue_tt: "Плавание продолжится через §Hшесть месяцев§!"
  CHI_varyag_two_years_tt: "«Варяг» будет ждать §Hдва года§!"
- CHI_accept_pressure_tt: "Мы уступим [CHI.GetFlag]§H[CHI.GetName]§! и:\n   «Варяг» продолжит свой путь через §Hдве недели§!\n   Увеличит влияние государства [CHI.GetFlag]§H[CHI.GetAdjective]§! в [TUR.GetFlag]§H[TUR.GetName]§! примерно на §G~2%§!"
+ CHI_accept_pressure_tt: "Мы уступим [CHI.GetFlag]§H[CHI.GetName]§! и:\n   «Варяг» продолжит свой путь через §Hдве недели§!\n   Увеличит влияние государства [CHI.GetFlag]§H[CHI.GetName]§! в [TUR.GetFlag]§H[TUR.GetName]§! примерно на §G~2%§!"
  CHI_resist_pressure_tt: "Мы отвергнем требования [CHI.GetFlag]§H[CHI.GetAdjective]§! и:\n    «Варяг» продолжит свой путь через §Hтри года§!!"
  CHI_varyag_construction_tt: "Добавляет производство §Hавианосца класса Ляонин§!."
 
  #Internal Factions
- reduce_ruling_popularity_5_tt: "§Y[show_ruling_party]§! will lose §R5.00%§! of its support\n"
- increase_ruling_popularity_5_tt: "§Y[show_ruling_party]§! will gain §G5.00%§! support\n"
- SMBO_tt: "Has §YSmall and Medium Business Owners§! as an internal faction\n"
- farmers_tt: "Has §YFarmers§! as an internal faction\n"
+ reduce_ruling_popularity_5_tt: "§Y[show_ruling_party]§! теряет §R5.00%§! своей поддержки\n"
+ increase_ruling_popularity_5_tt: "§Y[show_ruling_party]§! получает §G5.00%§! поддержки\n"
+ SMBO_tt: "Имеет внутреннию фракцию §YВладельцы малого и среднего бизнеса§!\n"
+ farmers_tt: "Имеет внутреннию фракцию §YФермеры§!\n"
 
  #France
  FRA_infrastructure_projects_TT: "Из-за огромного количества труда это будет стоить дорого. §YRemoves 5 Billion§!\n"
@@ -1119,8 +1119,8 @@
  form_mercosur_tt: "§YСформируйте Федерацию МЕРКОСУР!§! \n"
  common_market: "Общий рынок"
  consumption_economy_TT:0 "Ресурсы для выхода на рынок: §Y0%§!\n"
- reset_internal_faction_opinion:0 "Будут сброшены все внутренние фракционные мнения. \n"
- set_full_internal_faction_opinions: "Sets all Internal Factions to §GMax§! Opinion"
+ reset_internal_faction_opinion:0 "Будут сброшены мнения всех внутренних фракций. \n"
+ set_full_internal_faction_opinions: "Устанавливает для всех внутренних фракций §Gмаксимальное§! мнение"
  airstrike_prepare_tooltip:0 "§R%60§! chance of producing §R3§! missiles\n§G%40§! chance of producing §G5§! missiles"
  airstrike_thingy_tooltip:0 "§R%20§! chance of failing\nIf successful:\n§R%20§! chance of reducing PKK's power by §R2§!\n§G%80§! chance of reducing PKK's power by §G5§!\n\n§GThis decision could also grant us more party popularity and approval rate!§!"
  got_missiles:0 "Ракетные запасы еще не закончились"
@@ -1131,7 +1131,7 @@
  anti_bully_tooltip_L_NU.1:0 "§RПотеряна поддержка войны§"
  debates_agree_tt:0 "\n§GУступки могут увеличить число сторонников закона§!\n"
  debates_disagree_tt:0 "\n§RОтказ от уступок сократит число сторонников закона§!\n"
- mercosur_focus_tt:0 "Member of Mercosur"
+ mercosur_focus_tt:0 "Член МЕРКОСУР"
  
  increase_domestic_influence_amount_TT: "Увеличится независимость от §Yвнешнего влияния§! на §Y10§!\n"
  increase_domestic_influence_amount_50_TT: "Увеличится независимость от §Yвнешнего влияния§! на §Y50§!\n"
@@ -1139,9 +1139,9 @@
  
  battle_for_kirkuk_tt:0 "Есть один шанс из четырех, что мы выиграем битву!"
  tooltip_annexation:0 "Этот выбор приведет к нашей аннексии и положит конец правлению! \n"
- muslim_brotherhood_crackdown_tt:0 "Will set a §RCrackdown§! on the §HMuslim Brotherhood§!\n"
- CHI_raise_influence_by_10_TT:0 "§Y[CHI.GetAdjective]§! Influence Rises by 10.\n"
- RAJ_raise_influence_by_10_TT:0 "§Y[RAJ.GetAdjective]§! Influence Rises by 10.\n"
+ muslim_brotherhood_crackdown_tt:0 "Будут §Rразогнаны§! §H«Братья-мусульмане»§!\n"
+ CHI_raise_influence_by_10_TT:0 "§Y[CHI.GetAdjective]§! влияние увеличится на 10.\n"
+ RAJ_raise_influence_by_10_TT:0 "§Y[RAJ.GetAdjective]§! влияние увеличится на10.\n"
  tooltip_change_flag:0 "\n([ROOT.GetFlag]§Y[ROOT.GetName]§!) Изменяет флаг, чтобы соответствовать [Root.GetRulingParty]\n"
  
  ### Japan
@@ -1335,10 +1335,10 @@
  gain_30_domestic_influence_TT: "Увеличение независимости от §Yвнешнего влияния§! на §Y30§!\n"
  gain_40_domestic_influence_TT: "Увеличение независимости от §Yвнешнего влияния§! на §Y40§!\n"
  gain_50_domestic_influence_TT: "Увеличение независимости от §Yвнешнего влияния§! на §Y50§!\n"
- gain_10_RAJ_influence_tt: "Gain §G10§! [RAJ.GetAdjective] influence\n"
+ gain_10_RAJ_influence_tt: "Получение §G10§! [RAJ.GetAdjective] влияния\n"
                                                             
- small_influence_50_tt: "Gains §G50§! [ROOT.GetAdjective] influence\n"
- FROM_influence_50_tt: "Gains §R50§! [FROM.GetAdjective] influence\n"
+ small_influence_50_tt: "Получение §G50§! [ROOT.GetAdjective] влияния\n"
+ FROM_influence_50_tt: "Получение §R50§! [FROM.GetAdjective] влияния\n"
 
  #Debt
  add_1_billion_debt_tt: "Долг будет увеличен на §R$1 миллиард§!\n"
