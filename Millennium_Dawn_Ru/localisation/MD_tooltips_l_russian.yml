@@ -1330,11 +1330,11 @@
  remove_guizhou_pop_tt: "Численность населения Гуйчжоу §Yуменьшится§! на §Y5 миллионов человек§!\n"
  ##Influence Gain
  gain_5_domestic_influence_TT: "Увеличение независимости от §Yвнешнего влияния§! на §Y5§!\n"
- gain_10_domestic_influence_TT: "Увеличение независимости от §внешнего влияния§! на §Y10§!\n"
- gain_20_domestic_influence_TT: "Увеличение независимости от §внешнего влияния§! на §Y20§!\n"
- gain_30_domestic_influence_TT: "Увеличение независимости от §внешнего влияния§! на §Y30§!\n"
- gain_40_domestic_influence_TT: "Увеличение независимости от §внешнего влияния§! на §Y40§!\n"
- gain_50_domestic_influence_TT: "Увеличение независимости от §внешнего влияния§! на §Y50§!\n"
+ gain_10_domestic_influence_TT: "Увеличение независимости от §Yвнешнего влияния§! на §Y10§!\n"
+ gain_20_domestic_influence_TT: "Увеличение независимости от §Yвнешнего влияния§! на §Y20§!\n"
+ gain_30_domestic_influence_TT: "Увеличение независимости от §Yвнешнего влияния§! на §Y30§!\n"
+ gain_40_domestic_influence_TT: "Увеличение независимости от §Yвнешнего влияния§! на §Y40§!\n"
+ gain_50_domestic_influence_TT: "Увеличение независимости от §Yвнешнего влияния§! на §Y50§!\n"
  gain_10_RAJ_influence_tt: "Gain §G10§! [RAJ.GetAdjective] influence\n"
                                                             
  small_influence_50_tt: "Gains §G50§! [ROOT.GetAdjective] influence\n"
