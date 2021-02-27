@@ -241,7 +241,8 @@
  GCC_support_gcc_membership_tt: "IF every GCC member state supports [FROM.GetAdjective] membership, [FROM.GetName] will be able to begin the accession process.\n§RIf [FROM.GetName] becomes a member, GCC Unity will decrease by either 25, 20, 10 or 5% depending on [FROM.GetName]'s political situation.§!"
  GCC_support_gcc_membership1_tt: "IF every GCC member state supports its membership, [pressured_to_accept] will be able to begin the accession process.\n§RIf [pressured_to_accept] becomes a member, GCC Unity will decrease by either 25, 20, 10 or 5% depending on [pressured_to_accept]'s political situation.§!"
  not_pro_monarchy_tt: "Правящая партия не поддерживает монархию"
- gcc_focus_completed_tt: "Завершено доминирующим членом ССАГПЗ"
+ gcc_focus_completed_tt: "Выполнено доминирующим членом ССАГПЗ"
+ is_influencer_tt: "Мы имеем там влияние"
 
  subversive_activities: "Подрывная деятельность"
  subversive_activities_desc: "In an era where open conflict has become a less viable option for pursuing our national interests, we must resort to more discrete means of projecting our influence and undermining our enemies."
