@@ -795,5 +795,5 @@
  display_election_indifferent_vevak_status_tt: "§YВЕВАК§! оказывает небольшую помощь нескольким сторонам, но в основном остается в стороне\n"
  display_election_positive_vevak_status_tt: "§YВЕВАК§! предоставляет [Root.GetLeader] помощь в распространении дезинформации против оппозиции\n"
  ##Has Factions TT
- has_economic_faction_TT: "Economic internal faction"
- has_religious_faction_TT: "Religious internal faction"
+ has_economic_faction_TT: "Экономическая внутренняя фракция"
+ has_religious_faction_TT: "Религиозная внутренняя фракция"
