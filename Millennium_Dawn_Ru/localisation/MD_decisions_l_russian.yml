@@ -183,11 +183,11 @@
  promote_outlook_decision_support_the_salafists_desc:0 "Используя информационную войну, пропагандируя ультраконсервативное духовенство и тому подобное, мы можем влиять и радикализировать общественное мнение о мировой ситуации в пользу салафизма. Однако любая такая кампания будет эффективна только в течение ограниченного периода времени, так как люди постепенно теряют интерес."
  
  ### Repair Canals ###
- rebuild_bosphorus_strait: "Repair the Bosphorus"
- rebuild_bosphorus_strait_desc: "The Bosphorus has been blocked by a massive ship wreckage and need considerable time to clear up."
+ rebuild_bosphorus_strait: "Восстановить Босфор"
+ rebuild_bosphorus_strait_desc: "Босфор был заблокирован массивными корабельными обломками, и требуется много времени, чтобы расчистить его."
  
  treasury_loss_2_bil_TT:0 "Расходы на кампанию: §Hказначейство§! §R-$[variable_cost]§! миллиард\n"
- treasury_loss_project_TT: "Project Cost: §HTreasury§! §R-$[variable_cost]§! миллиардов"
+ treasury_loss_project_TT: "Будет выделено §Y$[variable_cost] миллиардов§!"
  treasury_loss_lease_mils_TT: "[variable_cost_lease_mils]"
  treasury_loss_lease_civs_TT: "[variable_cost_lease_civs]"
  cost_num_of_factories_3:0 "0.05"
@@ -211,10 +211,10 @@
  
  coalition_decisions:0 "Сформировать новое правительство"
  coalition_decisions_desc:0 "[Root.GetLeader], [show_ruling_party] ([show_ruling_elect_percentage]) не набрал необходимого большинства на выборах, чтобы сформировать правительство в одиночку. Нам нужно пригласить другие стороны присоединиться.\n\nПартии, получившие больше голосов, чем мы, не будут заинтересованы в присоединении. Стоимость политической власти для добавления партии в правительство зависит от их размера и политической дистанции до нас.\n\n§HПока что наша коалиция состоит из:§!\n[show_ruling_party] ([show_ruling_elect_percentage])[L_coal_elect_percent_0][L_coal_elect_percent_1][L_coal_elect_percent_2][L_coal_elect_percent_3][L_coal_elect_percent_4][L_coal_elect_percent_5][L_coal_elect_percent_6][L_coal_elect_percent_7][L_coal_elect_percent_8][L_coal_elect_percent_9][L_coal_elect_percent_10][L_coal_elect_percent_11][L_coal_elect_percent_12][L_coal_elect_percent_13][L_coal_elect_percent_14][L_coal_elect_percent_15][L_coal_elect_percent_16][L_coal_elect_percent_17][L_coal_elect_percent_18][L_coal_elect_percent_19][L_coal_elect_percent_20][L_coal_elect_percent_21][L_coal_elect_percent_22][L_coal_elect_percent_23]\n\n§HСила нынешней коалиции:§! [?government_coalition_strength_elect|%1]. \n§RНеобходимые силы для формирования правительства большинства:§! [?majority_threshold|%1]\nНаш порог §H[?election_threshold|%0]§! делает партии, которые получили меньше голосов, чем это неприемлемо.\n"
- give_up_coalition_0:0 "Сдаваться: [show_biggest_party_elect] будет пытаться вместо этого"
- give_up_coalition_0_desc:0 "Признать неудачу для [Root.GetLeader] а также [show_ruling_party] сформировать правительство. Работа сейчас пойдет [show_biggest_party_elect] ([show_biggest_elect_percentage]).\n\n75% политическая власть, потраченная до сих пор на формирование нынешней коалиции, будет возмещена."
- give_up_coalition_1:0 "Сдаваться: [show_second_biggest_party_elect] будет пытаться вместо этого"
- give_up_coalition_1_desc:0 "Признать неудачу для [Root.GetLeader] а также [show_ruling_party] сформировать правительство. Работа сейчас пойдет [show_second_biggest_party_elect] ([show_second_biggest_elect_percentage]).\n\n75% политическая власть, потраченная до сих пор на формирование нынешней коалиции, будет возмещена."
+ give_up_coalition_0:0 "Сдаться: [show_biggest_party_elect] будет пытаться вместо этого"
+ give_up_coalition_0_desc:0 "Признать, что [Root.GetLeader] и [show_ruling_party] не смогли сформировать правительство. [show_biggest_party_elect] ([show_biggest_elect_percentage]) сформирует правительство.\n\n75% политической власти, потраченной на формирование нынешней коалиции, будет возмещена."
+ give_up_coalition_1:0 "Сдаться: [show_second_biggest_party_elect] будет пытаться вместо этого"
+ give_up_coalition_1_desc:0 "Признать, что [Root.GetLeader] и [show_ruling_party] не смогли сформировать правительство. [show_second_biggest_party_elect] ([show_second_biggest_elect_percentage]) сформирует правительство.\n\n75% политической власти, потраченной на формирование нынешней коалиции, будет возмещена."
  #tooltips
  USA_dems_reps_tt:0 "[USA_dem_rep_loc]"
  USA_dems_reps_tt2:0 " [USA.GetNameWithFlag]: £USA_conservatism_small Республиканцы и £USA_democratic_party Демократы не могут присоединиться друг к другу"
