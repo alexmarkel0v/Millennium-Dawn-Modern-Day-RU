@@ -1708,6 +1708,7 @@
  Cat_FUEL_OIL: "Fuel & Oil Processing Techs"
  construction_tech: "Construction Tech"
  excavation_tech: "Excavation Tech"
+ Cat_battlefield_support:0 "Доктрина боевой поддержки с воздуха"
 
  Early_Tunnel_Warfare_Buff:0"§GПредоставляет положительный эффект для нескольких юнитов. Нажмите для более подробной информации.§!"
 
