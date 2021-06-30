@@ -33,51 +33,51 @@
  TT_game_over_warning: "§RИгра закончится при выборе этого§!\n"
 
  ##Custom Triggers for Scripted file -- common/scripted_triggers/01_political_triggers.txt
- ruling_party_popularity_change_focus_TT: "Popularity change caused by this effect will be applied to the ruling party."
+ ruling_party_popularity_change_focus_TT: "Изменение популярности, вызванное этим эффектом, будет применено к правящей партии."
  #Has X government - For Custom Triggers
- has_pro_western_autocrat_government_TT: "§Y[Western_Autocracy_L]§! is in Power." #0
- has_conservatism_government_TT: "§Y[conservatism_L]§! is in Power." #1
- has_liberalism_government_TT: "§Y[liberalism_L]§! is in Power." #2
- has_socialism_government_TT: "§Y[socialism_L]§! is in Power." #3
- has_communist_state_government_TT: "§Y[Communist-State_L]§! is in Power." #4
- has_anarchist_communism_government_TT: "§Y[anarchist_communism_L]§! is in Power." #5
- has_conserv_reactionary_government_TT: "§Y[Conservative_L]§! is in Power." #6
- has_autocracy_government_TT: "§Y[Autocracy_L]§! is in Power." #7
- has_mod_vilayat_e_faqih_government_TT: "§Y[Mod_Vilayat_e_Faqih_L]§! is in Power." #8
- has_vilayat_e_faqih_government_TT: "§Y[Vilayat_e_Faqih_L]§! is in Power." #9
- has_kingdom_government_TT: "§Y[Kingdom_L]§! is in Power." #10
- has_caliphate_government_TT: "§Y[Caliphate_L]§! is in Power." #11
- has_neutral_muslim_brotherhood_government_TT: "§Y[Neutral_Muslim_Brotherhood_L]§! is in Power." #12
- has_neutral_autocracy_government_TT: "§Y[Neutral_Autocracy_L]§! is in Power." #13
- has_neutral_conservatism_government_TT: "§Y[Neutral_conservatism_L]§! is in Power." #14
- has_oligarchism_government_TT: "§Y[oligarchism_L]§! is in Power." #15
- has_neutral_libertarian_government_TT: "§Y[Neutral_Libertarian_L]§! is in Power." #16
- has_neutral_green_government_TT: "§Y[Neutral_green_L]§! is in Power." #17
- has_neutral_social_government_TT: "§Y[neutral_Social_L]§! is in Power." #18
- has_neutral_communism_government_TT: "§Y[Neutral_Communism_L]§! is in Power." #19
- has_nat_populism_TT: "§Y[Nat_Populism_L]§! is in Power." #20
- has_fascist_government_TT: "§Y[Nat_Fascism_L]§! is in Power." #21
- has_nat_autocracy_government_TT: "§Y[Nat_Autocracy_L]§! is in Power." #22
- has_monarchist_government_TT: "§Y[Monarchist_L]§! is in Power." #23
+ has_pro_western_autocrat_government_TT: "§Y[Western_Autocracy_L]§! у власти." #0
+ has_conservatism_government_TT: "§Y[conservatism_L]§! у власти." #1
+ has_liberalism_government_TT: "§Y[liberalism_L]§! у власти." #2
+ has_socialism_government_TT: "§Y[socialism_L]§! у власти." #3
+ has_communist_state_government_TT: "§Y[Communist-State_L]§! у власти." #4
+ has_anarchist_communism_government_TT: "§Y[anarchist_communism_L]§! у власти." #5
+ has_conserv_reactionary_government_TT: "§Y[Conservative_L]§! у власти." #6
+ has_autocracy_government_TT: "§Y[Autocracy_L]§! у власти." #7
+ has_mod_vilayat_e_faqih_government_TT: "§Y[Mod_Vilayat_e_Faqih_L]§! у власти." #8
+ has_vilayat_e_faqih_government_TT: "§Y[Vilayat_e_Faqih_L]§! у власти." #9
+ has_kingdom_government_TT: "§Y[Kingdom_L]§! у власти." #10
+ has_caliphate_government_TT: "§Y[Caliphate_L]§! у власти." #11
+ has_neutral_muslim_brotherhood_government_TT: "§Y[Neutral_Muslim_Brotherhood_L]§! у власти." #12
+ has_neutral_autocracy_government_TT: "§Y[Neutral_Autocracy_L]§! у власти." #13
+ has_neutral_conservatism_government_TT: "§Y[Neutral_conservatism_L]§! у власти." #14
+ has_oligarchism_government_TT: "§Y[oligarchism_L]§! у власти." #15
+ has_neutral_libertarian_government_TT: "§Y[Neutral_Libertarian_L]§! у власти." #16
+ has_neutral_green_government_TT: "§Y[Neutral_green_L]§! у власти." #17
+ has_neutral_social_government_TT: "§Y[neutral_Social_L]§! у власти." #18
+ has_neutral_communism_government_TT: "§Y[Neutral_Communism_L]§! у власти." #19
+ has_nat_populism_TT: "§Y[Nat_Populism_L]§! у власти." #20
+ has_fascist_government_TT: "§Y[Nat_Fascism_L]§! у власти." #21
+ has_nat_autocracy_government_TT: "§Y[Nat_Autocracy_L]§! у власти." #22
+ has_monarchist_government_TT: "§Y[Monarchist_L]§! у власти." #23
 
  ### Has Government
- has_socialist_government_TT: "Socialist ruling party"
- has_communist_government_TT: "Communist ruling party"
- has_environmentalist_government_TT: "Environmentalist ruling party"
- has_liberal_government_TT: "Liberal ruling party"
- has_conservative_government_TT: "Conservative ruling party"
- has_reactionary_government_TT: "Reactionary ruling party"
- has_autocratic_government_TT: "Autocratic ruling party"
- has_totalitarian_government_TT: "Totalitarian ruling party"
+ has_socialist_government_TT: "Правящая партия - социалистическая"
+ has_communist_government_TT: "Правящая партия - коммунистическая"
+ has_environmentalist_government_TT: "Правящая партия - зеленая"
+ has_liberal_government_TT: "Правящая партия - либеральная"
+ has_conservative_government_TT: "Правящая партия - консервативная"
+ has_reactionary_government_TT: "Правящая партия - реакционная"
+ has_autocratic_government_TT: "Правящая партия - автократная"
+ has_totalitarian_government_TT: "Правящая партия - тоталитарная"
 
- has_socialist_in_coalition_TT: "Socialists in coalition"
- has_communist_in_coalition_TT: "Communists in coalition"
- has_environmentalist_in_coalition_TT: "Environmentalists in coalition"
- has_liberal_in_coalition_TT: "Liberals in coalition"
- has_conservative_in_coalition_TT: "Conservatives in coalition"
- has_reactionary_in_coalition_TT: "Reactionaries in coalition"
- has_autocratic_in_coalition_TT: "Autocrats in coalition"
- has_totalitarian_in_coalition_TT: "Totalitarians in coalition"
+ has_socialist_in_coalition_TT: "Социалисты в коалиции"
+ has_communist_in_coalition_TT: "Коммунисты в коалиции"
+ has_environmentalist_in_coalition_TT: "Зеленые в коалиции"
+ has_liberal_in_coalition_TT: "Либералы в коалиции"
+ has_conservative_in_coalition_TT: "Консерваторы в коалиции"
+ has_reactionary_in_coalition_TT: "Реакционеры в коалиции"
+ has_autocratic_in_coalition_TT: "Автократы в коалиции"
+ has_totalitarian_in_coalition_TT: "Тоталитаристы в коалиции"
 
  has_socialist_government_or_in_coalition_TT: "Socialist coalition or ruling party"
  has_communist_government_or_in_coalition_TT: "Communist coalition or ruling party"
@@ -89,30 +89,30 @@
  has_totalitarian_government_or_in_coalition_TT: "Totalitarians in coalition"
  
  #Not has X government - For Custom Triggers
- not_has_pro_western_autocrat_government_TT: "§Y[Western_Autocracy_L]§! is Not in Power." #0
- not_has_conservatism_government_TT: "§Y[conservatism_L]§! is Not in Power." #1
- not_has_liberalism_government_TT: "§Y[liberalism_L]§! is Not in Power." #2
- not_has_socialism_government_TT: "§Y[socialism_L]§! is Not in Power." #3
- not_has_communist_state_government_TT: "§Y[Communist-State_L]§! is Not in Power." #4
- not_has_anarchist_communism_government_TT: "§Y[anarchist_communism_L]§! is Not in Power." #5
- not_has_conservative_government_TT: "§Y[Conservative_L]§! is Not in Power." #6
- not_has_autocracy_government_TT: "§Y[Autocracy_L]§! is Not in Power." #7
- not_has_mod_vilayat_e_faqih_government_TT: "§Y[Mod_Vilayat_e_Faqih_L]§! is Not in Power." #8
- not_has_vilayat_e_faqih_government_TT: "§Y[Vilayat_e_Faqih_L]§! is Not in Power." #9
- not_has_kingdom_government_TT: "§Y[Kingdom_L]§! is Not in Power." #10
- not_has_caliphate_government_TT: "§Y[Caliphate_L]§! is Not in Power." #11
- not_has_neutral_muslim_brotherhood_government_TT: "§Y[Neutral_Muslim_Brotherhood_L]§! is Not in Power." #12
- not_has_neutral_autocracy_government_TT: "§Y[Neutral_Autocracy_L]§! is Not in Power." #13
- not_has_neutral_conservatism_government_TT: "§Y[Neutral_conservatism_L]§! is Not in Power." #14
- not_has_oligarchism_government_TT: "§Y[oligarchism_L]§! is Not in Power." #15
- not_has_neutral_libertarian_government_TT: "§Y[Neutral_Libertarian_L]§! is Not in Power." #16
- not_has_neutral_green_government_TT: "§Y[Neutral_green_L]§! is Not in Power." #17
- not_has_neutral_social_government_TT: "§Y[neutral_Social_L]§! is Not in Power." #18
- not_has_neutral_communism_government_TT: "§Y[Neutral_Communism_L]§! is Not in Power." #19
- not_has_nat_populism_TT: "§Y[Nat_Populism_L]§! is Not in Power." #20
- not_has_fascist_government_TT: "§Y[Nat_Fascism_L]§! is Not in Power." #21
- not_has_nat_autocracy_government_TT: "§Y[Nat_Autocracy_L]§! is Not in Power." #22
- not_has_monarchist_government_TT: "§Y[Monarchist_L]§! is Not in Power." #23
+ not_has_pro_western_autocrat_government_TT: "§Y[Western_Autocracy_L]§! не у власти." #0
+ not_has_conservatism_government_TT: "§Y[conservatism_L]§! не у власти." #1
+ not_has_liberalism_government_TT: "§Y[liberalism_L]§! не у власти." #2
+ not_has_socialism_government_TT: "§Y[socialism_L]§! не у власти." #3
+ not_has_communist_state_government_TT: "§Y[Communist-State_L]§! не у власти." #4
+ not_has_anarchist_communism_government_TT: "§Y[anarchist_communism_L]§! не у власти." #5
+ not_has_conservative_government_TT: "§Y[Conservative_L]§! не у власти." #6
+ not_has_autocracy_government_TT: "§Y[Autocracy_L]§! не у власти." #7
+ not_has_mod_vilayat_e_faqih_government_TT: "§Y[Mod_Vilayat_e_Faqih_L]§! не у власти." #8
+ not_has_vilayat_e_faqih_government_TT: "§Y[Vilayat_e_Faqih_L]§! не у власти." #9
+ not_has_kingdom_government_TT: "§Y[Kingdom_L]§! не у власти." #10
+ not_has_caliphate_government_TT: "§Y[Caliphate_L]§! не у власти." #11
+ not_has_neutral_muslim_brotherhood_government_TT: "§Y[Neutral_Muslim_Brotherhood_L]§! не у власти." #12
+ not_has_neutral_autocracy_government_TT: "§Y[Neutral_Autocracy_L]§! не у власти." #13
+ not_has_neutral_conservatism_government_TT: "§Y[Neutral_conservatism_L]§! не у власти." #14
+ not_has_oligarchism_government_TT: "§Y[oligarchism_L]§! не у власти." #15
+ not_has_neutral_libertarian_government_TT: "§Y[Neutral_Libertarian_L]§! не у власти." #16
+ not_has_neutral_green_government_TT: "§Y[Neutral_green_L]§! не у власти." #17
+ not_has_neutral_social_government_TT: "§Y[neutral_Social_L]§! не у власти." #18
+ not_has_neutral_communism_government_TT: "§Y[Neutral_Communism_L]§! не у власти." #19
+ not_has_nat_populism_TT: "§Y[Nat_Populism_L]§! не у власти." #20
+ not_has_fascist_government_TT: "§Y[Nat_Fascism_L]§! не у власти." #21
+ not_has_nat_autocracy_government_TT: "§Y[Nat_Autocracy_L]§! не у власти." #22
+ not_has_monarchist_government_TT: "§Y[Monarchist_L]§! не у власти." #23
  
  #add_2_5_popularity_sub in scripted_effects
  2_5_increase_0_TT: "The §Y[Western_Autocracy_L]§! Gain §G2.5%§! Support.\n"
@@ -694,10 +694,10 @@
  econvent.list.no_effect_tt: "§HБез изменений§!"
  econvent.voodoo_economics_tt: "Снижая процентные ставки, подталкивая банки к большему риску и расширяя денежную массу, мы облегчаем получение кредитов, поэтому падение будет ограниченным. Критики называют это §H«Экономикой Вуду»§!, поскольку она смягчит удар по обрушившемуся рынку, но не устранит основные проблемы\n"
  econvent.2.b_tt: "Если ничего не делать, катастрофа будет намного хуже. Однако путь к восстановлению может быть более быстрым - поскольку основной причиной краха в первую очередь было слишком много денег, поступающих на рынок жилья\n"
- econvent.debt_10p_tt: "Уровень §Hдолга§! будет §Rувеличен§! до §H10% GDP§!\n"
- econvent.debt_5p_tt: "Уровень §Hдолга§! будет §Rувеличен§! до §H5% GDP§!\n"
- econvent.debt_2_5p_tt: "Уровень §Hдолга§! будет §Rувеличен§! до §H2.5% GDP§!\n"
- econvent.debt_2_5p_tt: "Уровень §Hдолга§! будет §Rуменьшен§! до §H2.5% GDP§!\n"
+ econvent.debt_10p_tt: "Уровень §Hдолга§! будет §Rувеличен§! до §H10% ВВП§!\n"
+ econvent.debt_5p_tt: "Уровень §Hдолга§! будет §Rувеличен§! до §H5% ВВП§!\n"
+ econvent.debt_2_5p_tt: "Уровень §Hдолга§! будет §Rувеличен§! до §H2.5% ВВП§!\n"
+ econvent.debt_2_5p_tt: "Уровень §Hдолга§! будет §Rуменьшен§! до §H2.5% ВВП§!\n"
  increase_economic_growth_tt: "§GУвеличивается экономический рост.§! \n"
  decrease_economic_growth_tt: "§RУменьшается экономический рост.§! \n"
  increase_social_spending_tt: "§GУвеличиваются социальные расходы.§! \n"
@@ -840,7 +840,7 @@
  CHI_technology_inferior_tt: "Смогут совершать кибератаки на технологически превосходящие страны."
 
  #International Recognition
- two_thirds_tt: "Заручилась поддержкой двух третей всех государств - членов ООН.\nТекущее количество штатов: §Y[?ROOT.Granted_Recognition]§!\nНеобходимое количество штатов: §Y120§!"
+ two_thirds_tt: "Заручилась поддержкой двух третей всех государств - членов ООН.\nТекущее количество государств: §Y[?ROOT.Granted_Recognition]§!\nНеобходимое количество государств: §Y120§!"
  security_council_support_tt: "Заручился поддержкой всех 5 постоянных членов Совета Безопасности Организации Объединенных Наций"
  USA_recognition_BRM_tt: "§Y[USA.GetNamewithFlag]§! имеет лучшее мнение о нас, чем о §Y[BRM.GetNamewithFlag]§!"
  ENG_recognition_BRM_tt: "§Y[ENG.GetNamewithFlag]§! имеет лучшее мнение о нас, чем о §Y[BRM.GetNamewithFlag]§!"
@@ -851,14 +851,14 @@
  ENG_recognition_CHI_tt: "§Y[ENG.GetNamewithFlag]§! имеет лучшее мнение о нас, чем о §Y[CHI.GetNamewithFlag]§!"
  FRA_recognition_CHI_tt: "§Y[FRA.GetNamewithFlag]§! имеет лучшее мнение о нас, чем о §Y[CHI.GetNamewithFlag]§!"
  SOV_recognition_CHI_tt: "§Y[SOV.GetNamewithFlag]§! имеет лучшее мнение о нас, чем о §Y[CHI.GetNamewithFlag]§!"
- CHI_influence_below_tt: "§Y[CHI.GetNameWithFlag]§! не является нашим главным влиятельным лицом"
- SOV_influence_below_tt: "§Y[SOV.GetNameWithFlag]§! не является нашим главным влиятельным лицом"
- USA_influence_below_tt: "§Y[USA.GetNameWithFlag]§! не является нашим главным влиятельным лицом"
- ENG_influence_below_tt: "§Y[ENG.GetNameWithFlag]§! не является нашим главным влиятельным лицом"
- FRA_influence_below_tt: "§Y[FRA.GetNameWithFlag]§! не является нашим главным влиятельным лицом"
- GER_influence_below_tt: "§Y[GER.GetNameWithFlag]§! не является нашим главным влиятельным лицом"
- RAJ_influence_below_tt: "§Y[RAJ.GetNameWithFlag]§! не является нашим главным влиятельным лицом"
- JAP_influence_below_tt: "§Y[JAP.GetNameWithFlag]§! не является нашим главным влиятельным лицом"
+ CHI_influence_below_tt: "§Y[CHI.GetNameWithFlag]§! не является самым влиятельным у нас"
+ SOV_influence_below_tt: "§Y[SOV.GetNameWithFlag]§! не является самым влиятельным у нас"
+ USA_influence_below_tt: "§Y[USA.GetNameWithFlag]§! не является самым влиятельным у нас"
+ ENG_influence_below_tt: "§Y[ENG.GetNameWithFlag]§! не является самым влиятельным у нас"
+ FRA_influence_below_tt: "§Y[FRA.GetNameWithFlag]§! не является самым влиятельным у нас"
+ GER_influence_below_tt: "§Y[GER.GetNameWithFlag]§! не является самым влиятельным у нас"
+ RAJ_influence_below_tt: "§Y[RAJ.GetNameWithFlag]§! не является самым влиятельным у нас"
+ JAP_influence_below_tt: "§Y[JAP.GetNameWithFlag]§! не является самым влиятельным у нас"
  recognition_FSA: "Сирийская национальная коалиция"
  recognition_GNA: "Национальный переходный совет"
  recognition_SYR: "Правительство Асcада"
