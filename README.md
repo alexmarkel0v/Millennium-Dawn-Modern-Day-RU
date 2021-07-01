@@ -1,4 +1,4 @@
-Русская локализация для мода Millennium Dawn: Modern Day Mod.
+Русская локализация для мода Millennium Dawn: Modern Day Mod
 
 Актуальная версия: 1.00
 
@@ -6,4 +6,4 @@
 
 Руководитель проекта: alexmarkel0v
 
-Авторы: Alfabet (основная часть перевода), alexmarkel0v
+Авторы: Alfabet (за его основу был взят перевод), alexmarkel0v
