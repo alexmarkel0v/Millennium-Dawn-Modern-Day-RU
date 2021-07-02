@@ -1,4 +1,4 @@
-Русская локализация для мода Millennium Dawn: Modern Day Mod.
+Русская локализация для мода Millennium Dawn: Modern Day
 
 Актуальная версия: 1.01
 
