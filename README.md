@@ -6,4 +6,4 @@
 
 Руководитель проекта: alexmarkel0v
 
-Авторы: alexmarkel0v, Alfabet (основная часть перевода).
+Авторы: alexmarkel0v, Alfabet (основная часть перевода)
