@@ -1760,53 +1760,53 @@
  ### new euro campaign events ###
 
  ### pro_european_campaign success ###
- EU_news.35.t: "Pro-European Campaign - Success!"
- EU_news.35.d: "[FROM.GetNameWithFlag] started a Pro-European Campaign. It was a success! Euroscepticism is declining 3% in [EUU.GetFlag] The European Union and for all potential member states."
+ EU_news.35.t: "Проевропейская кампания - успех!"
+ EU_news.35.d: "[FROM.GetNameWithFlag] начало проевропейскую кампанию. Это был успех! Евроскептицизм снижается на 3% в [EUU.GetFlag] Европейском союзе и для всех потенциальных государств-членов."
  EU_news.35.a: "Хорошо!"
 
  ### pro_european_campaign great success ###
- EU_news.36.t: "Pro-European Campaign - Great Success!"
- EU_news.36.d: "[FROM.GetNameWithFlag] started a Pro-European Campaign. It was a greate success! Euroscepticism is declining 5% in [EUU.GetFlag] The European Union and for all potential member states."
+ EU_news.36.t: "Проевропейская кампания - большой успех!"
+ EU_news.36.d: "[FROM.GetNameWithFlag] начало проевропейскую кампанию. Это был большой успех! Евроскептицизм снижается на 5% в [EUU.GetFlag] Европейском союзе и для всех потенциальных государств-членов."
  EU_news.36.a: "Хорошо!"
 
  ### pro_european_campaign success ###
- EU_news.37.t: "Pro-European Campaign - Failure!"
- EU_news.37.d: "[FROM.GetNameWithFlag] started a Pro-European Campaign. It was a failure! Nothing changed."
+ EU_news.37.t: "Проевропейская кампания - Failure!"
+ EU_news.37.d: "[FROM.GetNameWithFlag] начало проевропейскую кампанию. Это был провал! Ничего не изменилось."
  EU_news.37.a: "Хорошо!"
 
  ### euroscepticism_campaign success ###
- EU_news.38.t: "Euroscepticism Campaign - Success!"
- EU_news.38.d: "[FROM.GetNameWithFlag] started a Euroscepticism Campaign. It was a success! Euroscepticism is rising 3% in [EUU.GetFlag] The European Union and for all potential member states."
+ EU_news.38.t: "Кампания евроскептицизма - успех!"
+ EU_news.38.d: "[FROM.GetNameWithFlag] начало кампанию евроскептицизма. Это был успех! Евроскептицизм растет на 3% в [EUU.GetFlag] Европейском союзе и для всех потенциальных государств-членов."
  EU_news.38.a: "Хорошо!"
 
  ### euroscepticism_campaign great success ###
- EU_news.39.t: "Euroscepticism Campaign - Great Success!"
- EU_news.39.d: "[FROM.GetNameWithFlag] started a Euroscepticism Campaign. It was a greate success! Euroscepticism is rising 5% in [EUU.GetFlag] The European Union and for all potential member states."
+ EU_news.39.t: "Кампания евроскептицизма - большой успех!"
+ EU_news.39.d: "[FROM.GetNameWithFlag] начало кампанию евроскептицизма. Это был большой успех! Евроскептицизм растет на 5% в [EUU.GetFlag] Европейском союзе и для всех потенциальных государств-членов."
  EU_news.39.a: "Хорошо!"
 
  ### euroscepticism_campaign success ###
- EU_news.40.t: "Euroscepticism Campaign - Failure!"
- EU_news.40.d: "[FROM.GetNameWithFlag] started a Euroscepticism Campaign. It was a failure! Nothing changed."
+ EU_news.40.t: "Кампания евроскептицизма - провал!"
+ EU_news.40.d: "[FROM.GetNameWithFlag] начало кампанию евроскептицизма. Это был провал! Ничего не изменилось."
  EU_news.40.a: "Хорошо!"
 
  ### root_pro_european_campaign success ###
- EU_news.41.t: "Pro-European Campaign - Success!"
- EU_news.41.d: "[FROM.GetNameWithFlag] started a Pro-European Campaign. It was a success! Euroscepticism is declining 5% in [ROOT.GetNameWithFlag]."
+ EU_news.41.t: "Проевропейская кампания - успех!"
+ EU_news.41.d: "[FROM.GetNameWithFlag] начало проевропейскую кампанию. Это был успех! Евроскептицизм снижается на 5% в [ROOT.GetNameWithFlag]."
  EU_news.41.a: "Хорошо!"
 
  ### root_pro_european_campaign success ###
- EU_news.42.t: "Pro-European Campaign - Failure!"
- EU_news.42.d: "[FROM.GetNameWithFlag] started a Pro-European Campaign. It was a failure! Nothing changed."
+ EU_news.42.t: "Проевропейская кампания - провал!"
+ EU_news.42.d: "[FROM.GetNameWithFlag] начало проевропейскую кампанию. Это был провал! Ничего не изменилось."
  EU_news.42.a: "Хорошо!"
 
  ### root_euroscepticism_campaign success ###
- EU_news.43.t: "Euroscepticism Campaign - Success!"
- EU_news.43.d: "[FROM.GetNameWithFlag] started a Euroscepticism Campaign. It was a success! Euroscepticism is rising 5% in [ROOT.GetNameWithFlag]."
+ EU_news.43.t: "Кампания евроскептицизма - успех!"
+ EU_news.43.d: "[FROM.GetNameWithFlag] начало кампанию евроскептицизма. Это был успех! Евроскептицизм растет на 5% в [ROOT.GetNameWithFlag]."
  EU_news.43.a: "Хорошо!"
 
  ### euroscepticism_campaign success ###
- EU_news.44.t: "Euroscepticism Campaign - Failure!"
- EU_news.44.d: "[FROM.GetNameWithFlag] started a Euroscepticism Campaign. It was a failure! Nothing changed."
+ EU_news.44.t: "Кампания евроскептицизма - провал!"
+ EU_news.44.d: "[FROM.GetNameWithFlag] начало кампанию евроскептицизма. Это был провал! Ничего не изменилось."
  EU_news.44.a: "Хорошо!"
 
  ### EU election ###
@@ -4114,7 +4114,7 @@
  #EU_military_exercise_world_tension: "EU Joint Military Exercise"
  #EU_military_exercise_world_tension_desc: "EU Joint Military Exercise"
 
-  ### EU_apply_for_membership_category & Decisions ###
+ ### EU_apply_for_membership_category & Decisions ###
 
  EU_apply_for_membership_category: "Joining the EU"
  EU_apply_for_membership_category_desc: "Becoming a member of the EU is a complex procedure which does not happen overnight. Once an applicant country meets the conditions for membership, it must implement EU rules and regulations in all areas.\nAny country that satisfies the conditions for membership can apply. These conditions are known as the ‘Copenhagen criteria’ and include a free-market economy, a stable democracy and the rule of law, and the acceptance of all EU legislation, including of the euro."
