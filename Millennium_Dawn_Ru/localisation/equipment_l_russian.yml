@@ -6805,10 +6805,10 @@
  CZE_Air_UAV4: "BL-4 Blesk"  #Fictional
  CZE_Air_UAV4_desc: "Domestically developed stealth drone with precision strike capabilities and very long endurance with ability to stay at the height of 30km for 250 hours due to the lower air drag and specific pressure."
 
- CZE_attack_helicopter1: "Mil Mi-171Š"
- CZE_attack_helicopter1_desc: "Domestically overhauled Mi-8/Mi-17/Mi-18 into basic attach helicopter equiped with AGM and AAM missile on its underwing pylons. The helicopter is still capable of carrying 16 passengers inside its airframe."
- CZE_attack_helicopter2: "Mi-24D"
- CZE_attack_helicopter2_desc: "Domestically produced export version of the Mi-24 from the Soviet Union with new Czech software and hardware including new sensor array, optics and facelift of the networking trough the helicopter simplifying it to modern standards."
+ CZE_attack_helicopter1: "Миля Ми-171Š"
+ CZE_attack_helicopter1_desc: "Domestically overhauled Ми-8/Ми-17/Ми-18 into basic attach helicopter equiped with AGM and AAM missile on its underwing pylons. The helicopter is still capable of carrying 16 passengers inside its airframe."
+ CZE_attack_helicopter2: "Ми-24Д"
+ CZE_attack_helicopter2_desc: "Domestically produced export version of the Ми-24 from the Soviet Union with new Czech software and hardware including new sensor array, optics and facelift of the networking trough the helicopter simplifying it to modern standards."
  CZE_attack_helicopter3: "Mi-35M"
  CZE_attack_helicopter3_desc: "Mi-35M is 1st batch of modernizations to this craft. It has 6 underwing pylons which can carry many types of guided, unguided weapon systems or gunpods of the latest generation."
  CZE_attack_helicopter4: "BV-38 Blesk" #Fictional
@@ -6818,10 +6818,10 @@
 
  CZE_early_helicopter: "HC-102"
  CZE_early_helicopter_desc: "Two-seat reconnaissance helicopter developed in the 60' ."
- CZE_transport_helicopter1: "Mil Mi-4 CZ"
- CZE_transport_helicopter1_desc: "Domestically produced version of Soviet Mi-4 used for various cargo transfers and troop paradrops featuring new engine and refitted internal space of the airframe featuring bigger cargo space and new cockpit design."
- CZE_transport_helicopter2: "Mil Mi-17M CZ"
- CZE_transport_helicopter2_desc: "Domestically produced version of Soviet Mi-8 used as large cargo hauler capable of transporting 16 passengers and 2 pilots. It has new digital cockpit and side-mounted MGs."
+ CZE_transport_helicopter1: "Миля Ми-4 CZ"
+ CZE_transport_helicopter1_desc: "Domestically produced version of Soviet Ми-4 used for various cargo transfers and troop paradrops featuring new engine and refitted internal space of the airframe featuring bigger cargo space and new cockpit design."
+ CZE_transport_helicopter2: "Миля Ми-17М CZ"
+ CZE_transport_helicopter2_desc: "Domestically produced version of Soviet Ми-8 used as large cargo hauler capable of transporting 16 passengers and 2 pilots. It has new digital cockpit and side-mounted MGs."
  CZE_transport_helicopter3: "V-5 Kolovrátek" #Fictional
  CZE_transport_helicopter3_desc: "Experience from past helicopter upgrades and projects allowed us to design our own machines from the ground. The result is V-1,2,3 and 4 prototypes. And their first production model of V-5. It has 26m rotor blades allowing it to haul many tons of cargo or small vehicle."
  CZE_transport_helicopter4: "V-15 Skokan" #Fictional
@@ -8081,21 +8081,21 @@
 
  NKO_attack_helicopter1:0 "Hughes 500E"
  NKO_attack_helicopter1_short:0 "Hughes 500E"
- NKO_attack_helicopter2:0 "Mil Mi-24 Hind"
- NKO_attack_helicopter2_short:0 "Mil Mi-24 Hind"
- NKO_attack_helicopter3:0 "Mil Mi-28 Havoc"
- NKO_attack_helicopter3_short:0 "Mi-28 Havoc"
- NKO_attack_helicopter4:0 "Kamov Ka-52 Alligator"
- NKO_attack_helicopter4_short:0 "Ka-52 Alligator"
+ NKO_attack_helicopter2:0 "Миля Ми-24 «Лань»"
+ NKO_attack_helicopter2_short:0 "Миля Ми-24 «Лань»"
+ NKO_attack_helicopter3:0 "Миля Ми-28 «Опустошитель»"
+ NKO_attack_helicopter3_short:0 "Ми-28 «Опустошитель»"
+ NKO_attack_helicopter4:0 "Камов Ка-52 «Аллигатор»"
+ NKO_attack_helicopter4_short:0 "Ка-52 «Аллигатор»"
 
- NKO_transport_helicopter1:0 "Mil Mi-8 Hip"
- NKO_transport_helicopter1_short:0 "Mi-8 Hip"
- NKO_transport_helicopter2:0 "Mil Mi-17 Hip"
- NKO_transport_helicopter2_short:0 "Mi-17 Hip"
- NKO_transport_helicopter3:0 "Mil Mi-26 Halo"
- NKO_transport_helicopter3_short:0 "Mi-26 Halo"
- NKO_transport_helicopter4:0 "Mil Mi-38"
- NKO_transport_helicopter4_short:0 "Mi-38"
+ NKO_transport_helicopter1:0 "Миля Ми-8 «Бедро»"
+ NKO_transport_helicopter1_short:0 "Ми-8 «Бедро»"
+ NKO_transport_helicopter2:0 "Миля Ми-17 «Бедро»"
+ NKO_transport_helicopter2_short:0 "Ми-17 «Бедро»"
+ NKO_transport_helicopter3:0 "Миля Ми-26 «Гало»"
+ NKO_transport_helicopter3_short:0 "Ми-26 «Гало»"
+ NKO_transport_helicopter4:0 "Миля Ми-38"
+ NKO_transport_helicopter4_short:0 "Ми-38"
 
  ### Syria ###
  SYR_AS_Fighter1:0 "МиГ-23 «Бичеватель»"
@@ -8626,11 +8626,11 @@
 
  SAF_attack_helicopter2:0 "Denel Rooivalk"
  SAF_attack_helicopter2_short:0 "Rooivalk"
- SAF_attack_helicopter3:0 "Mi-24 SuperHind Mk.V"
- SAF_attack_helicopter3_short:0 "Mi-24 SuperHind Mk.V"
+ SAF_attack_helicopter3:0 "Ми-24 SuperHind Mk.V"
+ SAF_attack_helicopter3_short:0 "Ми-24 SuperHind Mk.V"
 
- SOV_attack_helicopter1:0 "Миль Ми-24A «Лань»"
- SOV_attack_helicopter1_short:0 "Ми-24A"
+ SOV_attack_helicopter1:0 "Миль Ми-24А «Лань»"
+ SOV_attack_helicopter1_short:0 "Ми-24А"
  SOV_attack_helicopter2:0 "Миль Ми-24 «Лань»"
  SOV_attack_helicopter2_short:0 "Ми-24 «Лань»"
  SOV_attack_helicopter3:0 "Миль Ми-28 «Опустошитель»"
@@ -8641,7 +8641,7 @@
  SOV_attack_helicopter5_short:0 "Ka-60 «Аллигатор»"
 
  UKR_attack_helicopter1:0 "Миль Ми-24A «Лань»"
- UKR_attack_helicopter1_short:0 "Mi-24A"
+ UKR_attack_helicopter1_short:0 "Ми-24A"
  UKR_attack_helicopter2:0 "Миль Ми-24 «Лань»"
  UKR_attack_helicopter2_short:0 "Ми-24 «Лань»"
  UKR_attack_helicopter3:0 "Миль Ми-28 «Опустошитель»"
@@ -8651,8 +8651,8 @@
  UKR_attack_helicopter5:0 "Камов Ка-60 «Аллигатор»"
  UKR_attack_helicopter5_short:0 "Ka-60 «Аллигатор»"
 
- SYR_attack_helicopter1:0 "Mil Mi-24 Hind"
- SYR_attack_helicopter1_short:0 "Mi-24"
+ SYR_attack_helicopter1:0 "Миля Ми-24 «Лань»"
+ SYR_attack_helicopter1_short:0 "Ми-24"
 
  USA_attack_helicopter1:0 "AH-1 Cobra"
  USA_attack_helicopter1_short:0 "AH-1 Cobra"
