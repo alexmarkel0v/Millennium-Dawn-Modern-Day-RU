@@ -4133,8 +4133,8 @@
  TAI_SP_Anti_Air_1:0 "Sky Sword I"
  TAI_SP_Anti_Air_2:0 "Sky Sword II"
 
- TAI_Rec_tank_0:0 "T-64"
- TAI_Rec_tank_0_short:0 "T-64"
+ TAI_Rec_tank_0:0 "Т-64"
+ TAI_Rec_tank_0_short:0 "Т-64"
  TAI_Rec_tank_3:0 "CM-37 MGS"
 
  ### Taliban ###
@@ -4304,39 +4304,39 @@
  UKR_IFV_5:0 "БТР-4"
  UKR_IFV_5_short:0 "БТР-4"
 
- UKR_MBT_1:0 "T-64A"
- UKR_MBT_1_short:0 "T-64A"
- UKR_MBT_2:0 "T-64BM"
- UKR_MBT_2_short:0 "T-64BM"
- UKR_MBT_3:0 "T-80UK"
- UKR_MBT_3_short:0 "T-80UK"
- UKR_MBT_4:0 "T-84"
- UKR_MBT_4_short:0 "T-84"
+ UKR_MBT_1:0 "Т-64А"
+ UKR_MBT_1_short:0 "Т-64А"
+ UKR_MBT_2:0 "Т-64БМ"
+ UKR_MBT_2_short:0 "Т-64БМ"
+ UKR_MBT_3:0 "Т-80УК"
+ UKR_MBT_3_short:0 "Т-80УК"
+ UKR_MBT_4:0 "Т-84"
+ UKR_MBT_4_short:0 "Т-84"
 
- UKR_SP_R_arty_0:0 "BM-21 Grad"
- UKR_SP_R_arty_0_desc:0 "Not used much in modern operations the grandfather of SAMS and MLRS was used mostly in WW2 and Afganistan. Being effective at 20km."
- UKR_SP_R_arty_1:0 "BM-30 Smerch"
- UKR_SP_R_arty_1_desc:0 "This vehicle is a more modern day version of the Grad. One that can go anywhere in the world snow, ice, or desert. It's effective firing range is 35km."
- UKR_SP_R_arty_2:0 "9A52-4 Tornado"
- UKR_SP_R_arty_2_desc:0 "An extremly heavy artillery battery that if not dealt with, it can destroy entire cities. With as maximum range of 90km."
-
- UKR_SP_arty_0:0 "2S3 Akatsiya"
- UKR_SP_arty_0_desc:0 "Armed with a 152.4mm D-22 cannon that could shoot the sun from the heavens if need be. This is a remarkable artillery battery with a range of 50km."
- UKR_SP_arty_1:0 "2S7 Pion"
- UKR_SP_arty_1_desc:0 "The 2S19 Msta-S was developed towards the end of the Cold War, incorporating new technologies and boosting an increased range compared to its predecessor."
- UKR_SP_arty_2:0 "2S19M2 Msta-SM"
- UKR_SP_arty_2_desc:0 "The 2S19M2 brings the Msta-S platform into the 21th century, equipped with an automatic fire control system, digital displays and GLONASS support."
- UKR_SP_arty_3:0 "2S22 Bohdana"
+ UKR_SP_R_arty_0:0 "БМ-21 «Град»"
+ UKR_SP_R_arty_0_desc:0 "В современных операциях дедушка ГАМС и МТРС обычно не использовался, в основном во время Второй мировой войны и в Афганистане. Эффективен на расстоянии 20 км."
+ UKR_SP_R_arty_1:0 "BM-27 «Ураган»"
+ UKR_SP_R_arty_1_desc:0 "Этот автомобиль представляет собой более современную версию «Град». Тот, который может пройти где угодно в мире снега, льда или пустыни. Эффективная дальность стрельбы составляет 35 км."
+ UKR_SP_R_arty_2:0 "9A52-4 «Торнадо»"
+ UKR_SP_R_arty_2_desc:0 "Чрезвычайно тяжелая артиллерийская батарея, с которой невозможно справиться. Она может уничтожать целые города. Максимальная дальность 90 км."
+ 
+ UKR_SP_arty_0:0 "2С3 «Акация»"
+ UKR_SP_arty_0_desc:0 "Вооружен 152.4-мм пушкой Д-22, которая может при желании стрелять в солнце с небес. Это замечательная артиллерийская батарея с дальностью в 50 км."
+ UKR_SP_arty_1:0 "2С19 «Мста-С»"
+ UKR_SP_arty_1_desc:0 "2С19 «Мста-С» был разработан к концу холодной войны, в котором были использованы новейшие технологии и увеличена дальность полета по сравнению с предшественником."
+ UKR_SP_arty_2:0 "2С19M2 «Мста-СM»"
+ UKR_SP_arty_2_desc:0 "2С19M2 переносит платформу «Мста-С» в 21 век, оснащенную автоматической системой управления огнем, цифровыми дисплеями и поддержкой ГЛОНАСС."
+ UKR_SP_arty_3:0 "2С22 «Богдана»"
 
  UKR_Rec_tank_0:0 "BRDM-2"
  UKR_Rec_tank_0_short:0 "BRDM-2"
 
- UKR_SP_Anti_Air_0:0 "SS-21 Scarab"
+ UKR_SP_Anti_Air_0:0 "ОТР-21 «Точка»"
 
- UKR_artillery_0:0 "2A36 Giatsint-B"
- UKR_artillery_1:0 "2A65"
+ UKR_artillery_0:0 "2A36 «Гиацинт-Б»"
+ UKR_artillery_1:0 "2A65 «Мста-Б»"
 
- UKR_Anti_tank_1:0 "Skif"
+ UKR_Anti_tank_1:0 "«Скиф»"
 
  ### United States ###
  USA_infantry_weapons:0 "M14"
