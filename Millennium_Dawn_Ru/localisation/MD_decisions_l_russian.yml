@@ -1177,245 +1177,247 @@
 
  cost_0_05:0 "£treasury 0.05"
  cost_0_05_blocked:0 "£treasury §R0.05§!"
- cost_0_05_tooltip:0 "Эта покупка будет стоить 0.05 §Hмиллиарда§!"
+ cost_0_05_tooltip:0 "Это будет стоить 0.05 §Hмиллиарда§!"
 
  cost_0_08:0 "£treasury 0.08"
  cost_0_08_blocked:0 "£treasury §R0.08§!"
- cost_0_08_tooltip:0 "Эта покупка будет стоить 0.08 §Hмиллиарда§!"
+ cost_0_08_tooltip:0 "Это будет стоить 0.08 §Hмиллиарда§!"
 
  cost_0_1:0 "£treasury 0.1"
  cost_0_1_blocked:0 "£treasury §R0.1§!"
- cost_0_1_tooltip:0 "Эта покупка будет стоить 0.1 §Hмиллиарда§!"
+ cost_0_1_tooltip:0 "Это будет стоить 0.1 §Hмиллиарда§!"
 
  cost_0_12:0 "£treasury 0.12"
  cost_0_12_blocked:0 "£treasury §R0.12§!"
- cost_0_12_tooltip:0 "Эта покупка будет стоить 0.12 §Hмиллиарда§!"
+ cost_0_12_tooltip:0 "Это будет стоить 0.12 §Hмиллиарда§!"
 
  cost_0_125:0 "£treasury 0.125"
  cost_0_125_blocked:0 "£treasury §R0.125§!"
- cost_0_125_tooltip:0 "Эта покупка будет стоить 0.125 §Hмиллиарда§!"
+ cost_0_125_tooltip:0 "Это будет стоить 0.125 §Hмиллиарда§!"
 
  cost_0_13:0 "£treasury 0.13"
  cost_0_13_blocked:0 "£treasury §R0.13§!"
- cost_0_13_tooltip:0 "Эта покупка будет стоить 0.13 §Hмиллиарда§!"
+ cost_0_13_tooltip:0 "Это будет стоить 0.13 §Hмиллиарда§!"
 
  cost_0_14:0 "£treasury 0.14"
  cost_0_14_blocked:0 "£treasury §R0.14§!"
- cost_0_14_tooltip:0 "Эта покупка будет стоить 0.14 §Hмиллиарда§!"
+ cost_0_14_tooltip:0 "Это будет стоить 0.14 §Hмиллиарда§!"
 
  cost_0_15:0 "£treasury 0.15"
  cost_0_15_blocked:0 "£treasury §R0.15§!"
- cost_0_15_tooltip:0 "Эта покупка будет стоить 0.15 §Hмиллиарда§!"
+ cost_0_15_tooltip:0 "Это будет стоить 0.15 §Hмиллиарда§!"
 
  cost_0_16:0 "£treasury 0.16"
  cost_0_16_blocked:0 "£treasury §R0.16§!"
- cost_0_16_tooltip:0 "Эта покупка будет стоить 0.16 §Hмиллиарда§!"
+ cost_0_16_tooltip:0 "Это будет стоить 0.16 §Hмиллиарда§!"
 
  cost_0_175:0 "£treasury 0.175"
  cost_0_175_blocked:0 "£treasury §R0.175§!"
- cost_0_175_tooltip:0 "Эта покупка будет стоить 0.175 §Hмиллиарда§!"
+ cost_0_175_tooltip:0 "Это будет стоить 0.175 §Hмиллиарда§!"
 
  cost_0_18:0 "£treasury 0.18"
  cost_0_18_blocked:0 "£treasury §R0.18§!"
- cost_0_18_tooltip:0 "Эта покупка будет стоить 0.18 §Hмиллиарда§!"
+ cost_0_18_tooltip:0 "Это будет стоить 0.18 §Hмиллиарда§!"
 
  cost_0_2:0 "£treasury 0.2"
  cost_0_2_blocked:0 "£treasury §R0.2§!"
- cost_0_2_tooltip:0 "Эта покупка будет стоить 0.2 §Hмиллиарда§!"
+ cost_0_2_tooltip:0 "Это будет стоить 0.2 §Hмиллиарда§!"
 
  cost_0_25:0 "£treasury 0.25"
  cost_0_25_blocked:0 "£treasury §R0.25§!"
- cost_0_25_tooltip:0 "Эта покупка будет стоить 0.25 §Hмиллиарда§!"
+ cost_0_25_tooltip:0 "Это будет стоить 0.25 §Hмиллиарда§!"
 
  cost_0_3:0 "£treasury 0.3"
  cost_0_3_blocked:0 "£treasury §R0.3§!"
- cost_0_3_tooltip:0 "Эта покупка будет стоить 0.3 §Hмиллиарда§!"
+ cost_0_3_tooltip:0 "Это будет стоить 0.3 §Hмиллиарда§!"
 
  cost_0_35:0 "£treasury 0.35"
  cost_0_35_blocked:0 "£treasury §R0.35§!"
- cost_0_35_tooltip:0 "Эта покупка будет стоить 0.35 §Hмиллиарда§!"
+ cost_0_35_tooltip:0 "Это будет стоить 0.35 §Hмиллиарда§!"
 
  cost_0_4:0 "£treasury 0.4"
  cost_0_4_blocked:0 "£treasury §R0.4§!"
- cost_0_4_tooltip:0 "Эта покупка будет стоить 0.4 §Hмиллиарда§!"
+ cost_0_4_tooltip:0 "Это будет стоить 0.4 §Hмиллиарда§!"
 
  cost_0_5:0 "£treasury 0.5"
  cost_0_5_blocked:0 "£treasury §R0.5§!"
- cost_0_5_tooltip:0 "Эта покупка будет стоить 0.5 §Hмиллиарда§!"
+ cost_0_5_tooltip:0 "Это будет стоить 0.5 §Hмиллиарда§!"
 
  cost_0_7:0 "£treasury 0.7"
  cost_0_7_blocked:0 "£treasury §R0.7§!"
- cost_0_7_tooltip:0 "Эта покупка будет стоить 0.7 §Hмиллиарда§!"
+ cost_0_7_tooltip:0 "Это будет стоить 0.7 §Hмиллиарда§!"
  
  cost_0_75:0 "£treasury 0.75"
  cost_0_75_blocked:0 "£treasury §R0.75§!"
- cost_0_75_tooltip:0 "Эта покупка будет стоить 0.75 §Hмиллиарда§!"
+ cost_0_75_tooltip:0 "Это будет стоить 0.75 §Hмиллиарда§!"
 
  cost_1_0:0 "£treasury 1.0"
  cost_1_0_blocked:0 "£treasury §R1.0§!"
- cost_1_0_tooltip:0 "Эта покупка будет стоить 1.0 §Hмиллиард§!"
+ cost_1_0_tooltip:0 "Это будет стоить 1.0 §Hмиллиард§!"
  
  cost_1_5:0 "£treasury 1.5"
  cost_1_5_blocked:0 "£treasury §R1.5§!"
- cost_1_5_tooltip:0 "Эта покупка будет стоить 1.5 §Hмиллиарда§!"
+ cost_1_5_tooltip:0 "Это будет стоить 1.5 §Hмиллиарда§!"
  
  cost_1_7:0 "£treasury 1.7"
  cost_1_7_blocked:0 "£treasury §R1.7§!"
- cost_1_7_tooltip:0 "Эта покупка будет стоить 1.7 §Hмиллиарда§!"
+ cost_1_7_tooltip:0 "Это будет стоить 1.7 §Hмиллиарда§!"
 
  cost_2_0:0 "£treasury 2.0"
  cost_2_0_blocked:0 "£treasury §R2.0§!"
- cost_2_0_tooltip:0 "Эта покупка будет стоить 2 §Hмиллиарда§!"
+ cost_2_0_tooltip:0 "Это будет стоить 2 §Hмиллиарда§!"
 
  cost_2_1:0 "£treasury 2.1"
  cost_2_1_blocked:0 "£treasury §R2.1§!"
- cost_2_1_tooltip:0 "Эта покупка будет стоить 2.1 §Hмиллиарда§!"
+ cost_2_1_tooltip:0 "Это будет стоить 2.1 §Hмиллиарда§!"
 
  cost_2_2:0 "£treasury 2.2"
  cost_2_2_blocked:0 "£treasury §R2.2§!"
- cost_2_2_tooltip:0 "Эта покупка будет стоить 2.2 §Hмиллиарда§!"
+ cost_2_2_tooltip:0 "Это будет стоить 2.2 §Hмиллиарда§!"
 
  cost_2_5:0 "£treasury 2.5"
  cost_2_5_blocked:0 "£treasury §R2.5§!"
- cost_2_5_tooltip:0 "Эта покупка будет стоить 2.5 §Hмиллиарда§!"
+ cost_2_5_tooltip:0 "Это будет стоить 2.5 §Hмиллиарда§!"
  
  cost_2_7:0 "£treasury 2.7"
  cost_2_7_blocked:0 "£treasury §R2.7§!"
- cost_2_7_tooltip:0 "Эта покупка будет стоить 2.7 §Hмиллиарда§!"
+ cost_2_7_tooltip:0 "Это будет стоить 2.7 §Hмиллиарда§!"
 
  cost_3_0:0 "£treasury 3.0"
  cost_3_0_blocked:0 "£treasury §R3.0§!"
- cost_3_0_tooltip:0 "Эта покупка будет стоить 3 §Hмиллиарда§!"
+ cost_3_0_tooltip:0 "Это будет стоить 3 §Hмиллиарда§!"
  
  cost_3_5:0 "£treasury 3.5"
  cost_3_5_blocked:0 "£treasury §R3.5§!"
- cost_3_5_tooltip:0 "Эта покупка будет стоить 3.5 §Hмиллиардов§!"
+ cost_3_5_tooltip:0 "Это будет стоить 3.5 §Hмиллиардов§!"
  
  cost_3_8:0 "£treasury 3.8"
  cost_3_8_blocked:0 "£treasury §R3.8§!"
- cost_3_8_tooltip:0 "Эта покупка будет стоить 3.8 §Hмиллиардов§!"
+ cost_3_8_tooltip:0 "Это будет стоить 3.8 §Hмиллиардов§!"
 
  cost_4_0:0 "£treasury 4.0"
  cost_4_0_blocked:0 "£treasury §R4.0§!"
- cost_4_0_tooltip:0 "Эта покупка будет стоить 4 §Hмиллиарда§!"
+ cost_4_0_tooltip:0 "Это будет стоить 4 §Hмиллиарда§!"
 
  cost_4_1:0 "£treasury 4.1"
  cost_4_1_blocked:0 "£treasury §R4.1§!"
- cost_4_1_tooltip:0 "Эта покупка будет стоить 4.1 §Hмиллиарда§!"
+ cost_4_1_tooltip:0 "Это будет стоить 4.1 §Hмиллиарда§!"
 
  cost_4_5:0 "£treasury 4.5"
  cost_4_5_blocked:0 "£treasury §R4.5§!"
- cost_4_5_tooltip:0 "Эта покупка будет стоить 4.5 §Hмиллиарда§!"
+ cost_4_5_tooltip:0 "Это будет стоить 4.5 §Hмиллиарда§!"
 
  cost_5_0:0 "£treasury 5.0"
  cost_5_0_blocked:0 "£treasury §R5.0§!"
- cost_5_0_tooltip:0 "Эта покупка будет стоить 5 §Hмиллиардов§!"
+ cost_5_0_tooltip:0 "Это будет стоить 5 §Hмиллиардов§!"
  
  cost_5_5:0 "£treasury 5.5"
  cost_5_5_blocked:0 "£treasury §R5.5§!"
- cost_5_5_tooltip:0 "Эта покупка будет стоить 5 §Hмиллиардов§!"
+ cost_5_5_tooltip:0 "Это будет стоить 5 §Hмиллиардов§!"
  
  cost_6_0:0 "£treasury 6.0"
  cost_6_0_blocked:0 "£treasury §R6.0§!"
- cost_6_0_tooltip:0 "Эта покупка будет стоить 6 §Hмиллиардов§!"
+ cost_6_0_tooltip:0 "Это будет стоить 6 §Hмиллиардов§!"
  
  cost_7_0:0 "£treasury 7.0"
  cost_7_0_blocked:0 "§R7.0§!£treasury"
- cost_7_0_tooltip:0 "Эта покупка будет стоить 7 §Hмиллиардов§!"
+ cost_7_0_tooltip:0 "Это будет стоить 7 §Hмиллиардов§!"
  
  cost_7_5:0 "£treasury 7.5"
  cost_7_5_blocked:0 "£treasury §R7.5§!"
- cost_7_5_tooltip:0 "Эта покупка будет стоить 7.5 §Hмиллиарда§!"
+ cost_7_5_tooltip:0 "Это будет стоить 7.5 §Hмиллиарда§!"
  
  cost_8_0:0 "£treasury 8.0"
  cost_8_0_blocked:0 "£treasury §R8.0§!"
- cost_8_0_tooltip:0 "Эта покупка будет стоить 8 §Hмиллиардов§!"
+ cost_8_0_tooltip:0 "Это будет стоить 8 §Hмиллиардов§!"
  
  cost_9_0:0 "£treasury 9.0"
  cost_9_0_blocked:0 "£treasury §R9.0§!"
- cost_9_0_tooltip:0 "Эта покупка будет стоить 9 §Hмиллиардов§!"
+ cost_9_0_tooltip:0 "Это будет стоить 9 §Hмиллиардов§!"
  
  cost_10_0:0 "£treasury 10.0"
  cost_10_0_blocked:0 "£treasury §R10.0§!"
- cost_10_0_tooltip:0 "Эта покупка будет стоить 10 §Hмиллиардов§!"
+ cost_10_0_tooltip:0 "Это будет стоить 10 §Hмиллиардов§!"
  
  cost_12_0:0 "£treasury 12.0"
  cost_12_0_blocked:0 "£treasury §R12.0§!"
- cost_12_0_tooltip:0 "Эта покупка будет стоить 12 §Hмиллиардов§!"
+ cost_12_0_tooltip:0 "Это будет стоить 12 §Hмиллиардов§!"
  
  cost_12_5: "£treasury 12.50"
  cost_12_5_blocked: "£treasury §R12.50§!"
- cost_12_5_tooltip: "Эта покупка будет стоить 12.5 §Hмиллиарда§!"
+ cost_12_5_tooltip: "Это будет стоить 12.5 §Hмиллиарда§!"
+ 
  cost_15_0:0 "£treasury 15.0"
  cost_15_0_blocked:0 "£treasury §R15.0§!"
- cost_15_0_tooltip:0 "Эта покупка будет стоить 15 §Hмиллиардов§!"
+ cost_15_0_tooltip:0 "Это будет стоить 15 §Hмиллиардов§!"
  
  cost_17_5:0 "£treasury 17.5"
  cost_17_5_blocked:0 "£treasury §R17.5§!"
- cost_17_5_tooltip:0 "Эта покупка будет стоить 17.5 §Hмиллиарда§!"
+ cost_17_5_tooltip:0 "Это будет стоить 17.5 §Hмиллиарда§!"
  
  cost_18_0: "£treasury 18.0"
  cost_18_0_blocked: "£treasury §R18.0§!"
- cost_18_0_tooltip: "Эта покупка будет стоить 18 §Hмиллиардов§!"
+ cost_18_0_tooltip: "Это будет стоить 18 §Hмиллиардов§!"
+ 
  cost_20_0:0 "£treasury 20.0"
  cost_20_0_blocked:0 "£treasury §R20.0§!"
- cost_20_0_tooltip:0 "Эта покупка будет стоить 20 §Hмиллиардов§!"
+ cost_20_0_tooltip:0 "Это будет стоить 20 §Hмиллиардов§!"
  
  cost_22_5: "£treasury 22.5"
  cost_22_5_blocked: "£treasury §R22.5§!"
- cost_22_5_tooltip: "Эта покупка будет стоить 22.5 §Hмиллиарда§!"
+ cost_22_5_tooltip: "Это будет стоить 22.5 §Hмиллиарда§!"
 
  cost_25_0: "£treasury 25.0"
  cost_25_0_blocked: "£treasury §R25.0§!"
- cost_25_0_tooltip: "Эта покупка будет стоить 25 §Hмиллиардов§!"
+ cost_25_0_tooltip: "Это будет стоить 25 §Hмиллиардов§!"
 
  cost_27_5: "£treasury 27.50"
  cost_27_5_blocked: "£treasury §R27.50§!"
- cost_27_5_tooltip: "Эта покупка будет стоить 27.50 §Hмиллиарда§!"
+ cost_27_5_tooltip: "Это будет стоить 27.50 §Hмиллиарда§!"
 
  cost_30_0: "£treasury 30.0"
  cost_30_0_blocked: "£treasury §R30.0§!"
- cost_30_0_tooltip: "Эта покупка будет стоить 30 §Hмиллиардов§!"
+ cost_30_0_tooltip: "Это будет стоить 30 §Hмиллиардов§!"
 
  cost_35_0: "£treasury 35.0"
  cost_35_0_blocked: "£treasury §R35.0§!"
- cost_35_0_tooltip: "Эта покупка будет стоить 35 §Hмиллиардов§!"
+ cost_35_0_tooltip: "Это будет стоить 35 §Hмиллиардов§!"
 
  cost_40_0: "£treasury 40.0"
  cost_40_0_blocked: "£treasury §R40.0§!"
- cost_40_0_tooltip: "Эта покупка будет стоить 40 §Hмиллиардов§!"
+ cost_40_0_tooltip: "Это будет стоить 40 §Hмиллиардов§!"
 
  cost_45_0: "£treasury 45.0"
  cost_45_0_blocked: "£treasury §R45.0§!"
- cost_45_0_tooltip: "Эта покупка будет стоить 45 §Hмиллиардов§!"
+ cost_45_0_tooltip: "Это будет стоить 45 §Hмиллиардов§!"
 
  cost_50_0: "£treasury 50.0"
  cost_50_0_blocked: "£treasury §R50.0§!"
- cost_50_0_tooltip: "Эта покупка будет стоить 50 §Hмиллиардов§!"
+ cost_50_0_tooltip: "Это будет стоить 50 §Hмиллиардов§!"
 
  cost_60_0: "£treasury 60.0"
  cost_60_0_blocked: "£treasury §R60.0§!"
- cost_60_0_tooltip: "Эта покупка будет стоить 60 §Hмиллиардов§!"
+ cost_60_0_tooltip: "Это будет стоить 60 §Hмиллиардов§!"
 
  cost_75_0: "£treasury 75.0"
  cost_75_0_blocked: "£treasury §R75.0§!"
- cost_75_0_tooltip: "Эта покупка будет стоить 75 §Hмиллиардов§!"
+ cost_75_0_tooltip: "Это будет стоить 75 §Hмиллиардов§!"
 
  cost_80_0: "£treasury 80.0"
  cost_80_0_blocked: "£treasury §R80.0§!"
- cost_80_0_tooltip: "Эта покупка будет стоить 80 §Hмиллиардов§!"
+ cost_80_0_tooltip: "Это будет стоить 80 §Hмиллиардов§!"
 
  cost_100_0: "£treasury 100.0"
  cost_100_0_blocked: "£treasury §R100.0§!"
- cost_100_0_tooltip: "Эта покупка будет стоить 100 §Hмиллиардов§!"
+ cost_100_0_tooltip: "Это будет стоить 100 §Hмиллиардов§!"
 
  cost_150_0: "£treasury 150.0"
  cost_150_0_blocked: "£treasury §R150.0§!"
- cost_150_0_tooltip: "Эта покупка будет стоить 150 §Hмиллиардов§!"
+ cost_150_0_tooltip: "Это будет стоить 150 §Hмиллиардов§!"
  
  cost_200_0: "£treasury 200.0"
  cost_200_0_blocked: "£treasury §R200.0§!"
- cost_200_0_tooltip: "Tта покупка будет стоить 150 §Hмиллиардов§!"
+ cost_200_0_tooltip: "Это будет стоить 200 §Hмиллиардов§!"
 
  command_power_more_than_145: "§H145§!£command_power"
  command_power_more_than_145_blocked: "§R145§!£command_power"
