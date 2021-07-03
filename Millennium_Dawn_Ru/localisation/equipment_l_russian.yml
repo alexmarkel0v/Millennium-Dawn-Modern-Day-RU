@@ -3672,7 +3672,7 @@
  SOV_util_vehicle_0:0 "ЗИЛ-131" #truck
  SOV_util_vehicle_0_desc:0 "Грузовой автомобиль и транспорт для перевозки грузов, который используется многими военными во всем мире."
  SOV_util_vehicle_1:0 "УАЗ-469"
- SOV_util_vehicle_1_desc:0 "Используется для транспортировки VIP-персон на их бронированном шасси. Может быть оснащен пушкой."
+ SOV_util_vehicle_1_desc:0 "Используется для транспортировки VIP-персон на бронированном шасси. Может быть оснащен пушкой."
  SOV_util_vehicle_2:0 "УАЗ-3132"
  SOV_util_vehicle_2_desc:0 "То же самое, что и 469, но со съемными дверями и крышей."
  SOV_util_vehicle_3:0 "БМП-97"
@@ -4254,20 +4254,20 @@
  UKR_infantry_weapons4:0 "Vepr"
  UKR_infantry_weapons5:0 "M4-WAC-47"
 
- UKR_util_vehicle_0:0 "ZIL-131" #truck
- UKR_util_vehicle_0_desc:0 "A logistics truck and troop carrier used by many militaries around the world."
- UKR_util_vehicle_1:0 "UAZ-469"
- UKR_util_vehicle_1_desc:0 "Used to transport VIP's for their armored chasis, and can also fit a gun."
- UKR_util_vehicle_2:0 "UAZ-3132"
- UKR_util_vehicle_2_desc:0 "The same as the 469 but with removable doors and roof."
- UKR_util_vehicle_3:0 "BPM-97"
- UKR_util_vehicle_3_desc:0 "Much like the Volk this can carry 8 mean but also carry HMG's on the top of them. Used to lead convoys."
+ UKR_util_vehicle_0:0 "ЗИЛ-131" #truck
+ UKR_util_vehicle_0_desc:0 "Грузовой автомобиль и транспорт для перевозки грузов, который используется многими военными во всем мире."
+ UKR_util_vehicle_1:0 "УАЗ-469"
+ UKR_util_vehicle_1_desc:0 "Используется для транспортировки VIP-персон на бронированном шасси. Может быть оснащен пушкой."
+ UKR_util_vehicle_2:0 "УАЗ-3132"
+ UKR_util_vehicle_2_desc:0 "То же самое, что и 469, но со съемными дверями и крышей."
+ UKR_util_vehicle_3:0 "БМП-97"
+ UKR_util_vehicle_3_desc:0 "Так же как и Волк, может перевозить 8 человек, к тому же может иметь тяжелый пулемет на крыше. Используется для сопровождения конвоев."
  UKR_util_vehicle_4:0 "KrAZ Spartan"
  UKR_util_vehicle_5:0 "Dozor-B"
  UKR_util_vehicle_5_desc:0 "The Dozor-B is also used by special units of the armed forces (quick reaction forces and military police) to carry out reconnaissance, patrolling, and peace-keeping operations, as well as being used as the main transportation vehicle under combat conditions (including NBC environment)."
 
  UKR_APC_1:0 "БТР-60"
- UKR_APC_1_desc:0 "Один из старейших транспортных средств, все еще находящихся в эксплуатации, БТР-60 имеет 14,5-мм пулемет KPVT с 500 патронами. Вторичное оружие - спаренный пулемет 7,62 мм с 3,00 выстрелами. Отлично подходит для легких пехотных движений и QRF."
+ UKR_APC_1_desc:0 "Один из старейших транспортных средств, все еще находящихся в эксплуатации, БТР-60 имеет 14.5-мм пулемет КПВТ с 500 патронами. Вторичное оружие - спаренный пулемет 7.62 мм с 300 патронами. Отлично подходит для легких пехотных движений и QRF."
  UKR_APC_1_short:0 "БТР-60"
  UKR_APC_2:0 "МТ-ЛБ"
  UKR_APC_2_desc:0 "МТ-ЛБ был создан в 1970-х годах. Сконструирован дешево и быстро. Советы использовали их для легких противовоздушных и пехотных боев."
@@ -4282,7 +4282,7 @@
  UKR_APC_5_desc:0 "Разработан в 1994 году для борьбы с боевиками. Оснащен мощной 30-мм пушкой Шипунова 2А42 с 500 патронами."
  UKR_APC_5_short:0 "БТР-90"
  UKR_APC_6:0 "Курганец-25"
- UKR_APC_6_desc:0 "Один из самых современных российских автомобилей «Курганец-25» был изготовлен в 2015 году. Сделанный в качестве БМП имеет легкую пушку Бумеранг-БМ с 12,7-мм пулеметом Корд. По модели близко к американскому БМП Брэдли."
+ UKR_APC_6_desc:0 "Один из самых современных российских автомобилей «Курганец-25» был изготовлен в 2015 году. Сделанный в качестве БМП имеет легкую пушку Бумеранг-БМ с 12.7-мм пулеметом Корд. По модели близко к американскому БМП Брэдли."
  UKR_APC_6_short:0 "Курганец-25"
  UKR_APC_7:0 "Курганец-35"
  UKR_APC_7_desc:0 "Так же, как 25, который в первую очередь является БМП, 35 - БТР, который может перевозить 12 человек и делает примерно то же самое, что и 25 в операциях БМП."
@@ -4328,8 +4328,8 @@
  UKR_SP_arty_2_desc:0 "2С19M2 переносит платформу «Мста-С» в 21 век, оснащенную автоматической системой управления огнем, цифровыми дисплеями и поддержкой ГЛОНАСС."
  UKR_SP_arty_3:0 "2С22 «Богдана»"
 
- UKR_Rec_tank_0:0 "BRDM-2"
- UKR_Rec_tank_0_short:0 "BRDM-2"
+ UKR_Rec_tank_0:0 "БРДМ-2"
+ UKR_Rec_tank_0_short:0 "БРДМ-2"
 
  UKR_SP_Anti_Air_0:0 "ОТР-21 «Точка»"
 
@@ -4340,19 +4340,19 @@
 
  ### United States ###
  USA_infantry_weapons:0 "M14"
- USA_infantry_weapons_desc:0 "The M14 rifle, officially the United States Rifle, Caliber 7.62 mm, M14, is an American select-fire rifle that fires 7.62×51mm NATO (.308 in) ammunition. It became the standard-issued rifle for the U.S. military in 1959 replacing the M1 Garand rifle in the U.S. Army by 1961"
+ USA_infantry_weapons_desc:0 "Винтовка M14, официально обозначенная как Винтовка, калибр 7.62 мм, M14, является американской винтовкой с ограниченным режимом стрельбы, которая стреляет патронами 7.62 × 51 мм НАТО (0,308 дюйма). Она стала стандартной винтовкой для армии США в 1959 году, заменив винтовку M1 Garand в армии США к 1961 году."
  USA_infantry_weapons1:0 "M16A1"
- USA_infantry_weapons1_desc:0 "The M16 rifle, officially designated Rifle, Caliber 5.56 mm, M16, is a family of military rifles adapted from the ArmaLite AR-15 rifle for the United States military. The original M16 rifle was a 5.56mm automatic rifle with a 20-round magazine."
+ USA_infantry_weapons1_desc:0 "Винтовка M16, официально обозначенная как Винтовка, калибр 5.56 mm, M16, представляет собой семейство военных винтовок, адаптированных на основе винтовки ArmaLite AR-15 для вооруженных сил США. Первоначальная винтовка M16 была 5.56-мм автоматической винтовкой с магазином на 20 патронов."
  USA_infantry_weapons2:0 "M16A2"
- USA_infantry_weapons2_desc:0 "The development of the M16A2 rifle was originally requested by the United States Marine Corps as a result of combat experience in Vietnam with the XM16E1 and M16A1. It was officially adopted by the Department of Defense as the "US Rifle, 5.56mm, M16A2" in 1982. The Marines were the first branch of the U.S. Armed Forces to adopt it, in the early/mid-1980s, with the United States Army following suit in the late 1980s."
+ USA_infantry_weapons2_desc:0 "Разработка винтовки M16A2 была первоначально запрошена Корпусом морской пехоты США в результате боевого опыта во Вьетнаме с XM16E1 и M16A1. Она была официально принята на вооружение Министерством обороны США как «Американская винтовка, 5.56 мм, M16A2» в 1982 году. Морская пехота была первым видом вооруженных сил США, принявшим ее на вооружение в начале/середине 1980-х годов вместе с США. Армия последовала их примеру в конце 1980-х."
  USA_infantry_weapons3:0 "M16A4"
- USA_infantry_weapons3_desc:0 "The M16A4 is the fourth generation of the M16 series. It is equipped with a removable carrying handle and a full length quad Picatinny rail for mounting optics and other ancillary devices. The FN M16A4, using safe/semi/burst selective fire, became standard issue for the U.S. Marine Corps.Military issue rifles are also equipped with a Knight's Armament Company M5 RAS hand guard, allowing vertical grips, lasers, tactical lights, and other accessories to be attached, coining the designation M16A4 MWS (or Modular Weapon System) in U.S. Army field manuals."
+ USA_infantry_weapons3_desc:0 "M16A4 является четвертым поколением серии M16. Он оснащен съемной рукояткой для переноски и направляющей типа Пикатинни для установки оптики и других дополнительных устройств. Винтовки FN M16A4, использующие автоматику безопасного/полусвободного/взрывного переводчика огня, стали серийно выпускаться для Корпуса морской пехоты США. Винтовки военного выпуска также оснащаются защитным кожухом M5 RAS компании Knight's Armament Company, позволяющим устанавливать вертикальные рукоятки, лазеры, тактические фонари и другие аксессуары, что позволило ввести в полевые уставы армии США обозначение M16A4 MWS (или Модульная система вооружения)."
  USA_infantry_weapons4:0 "M4A1"
- USA_infantry_weapons4_desc:0 "The M4 carbine is a shorter and lighter variant of the M16 assault rifle. The M4 is a 5.56×45mm NATO, air-cooled, direct impingement gas-operated, magazine-fed carbine. It has a 14.5 in (370 mm) barrel and a telescoping stock."
+ USA_infantry_weapons4_desc:0 "Карабин M4 - это более короткий и легкий вариант штурмовой винтовки M16. M4 - это карабин под патрон 5.56×45 мм НАТО с воздушным охлаждением, газоотводным механизмом прямого столкновения и магазинным питанием. Он имеет ствол длиной 14.5 дюйма (370 мм) и выдвижной телескопический приклад."
  USA_infantry_weapons6:0 "MR24"
- USA_infantry_weapons6_desc:0 "A new revolutionary design that incorporates cutting edge materials and advanced balistics computer."
+ USA_infantry_weapons6_desc:0 "Новая революционная конструкция, в которой использованы самые современные материалы и передовой баллистический компьютер."
  USA_infantry_weapons5:0 "Mk 17"
- USA_infantry_weapons5_desc:0 "The Mk 17 is a gas-operated (short-stroke gas piston)self-loading rifle with a rotating bolt.It is constructed to be extremely modular, including barrel change to switch between calibers. The rifle was developed by Belgian manufacturer FN Herstal (FNH) for the United States Special Operations Command (SOCOM) to satisfy the requirements of the SCAR competition.This family of rifles consist of two main types. The SCAR-L, for "light," is chambered in 5.56×45mm NATO cartridge and the SCAR-H, for "heavy," is chambered in 7.62×51mm NATO. Both are available in Close Quarters Combat (CQC), Standard (STD), and Long Barrel (LB) variants."
+ USA_infantry_weapons5_desc:0 "Mk 17 - самозарядная винтовка с коротким ходом газового поршня и поворотным затвором. Она имеет чрезвычайно модульную конструкцию, включая смену ствола для переключения между калибрами. Винтовка была разработана бельгийским производителем FN Herstal (FNH) для Командования специальных операций США (SOCOM) для удовлетворения требований конкурса SCAR. Это семейство винтовок состоит из двух основных типов. SCAR-L, что означает «легкий», имеет патрон НАТО 5.56 × 45 мм, а SCAR-H, что означает «тяжелый», - патрон 7.62 × 51 мм. Оба доступны в вариантах ближний бой (CQC), стандарт (STD) и длинноствольном (LB)."
  USA_infantry_weapons7:0 "Titan APPL"			#Fictional
  USA_infantry_weapons7_desc:0 "This weapons platform incorporates the same American reliability of the M4 system but applies technology totally unique to the 21'st century. Not only is this system lightweight through the use of caseless ammunition, but it also utilizes a variant of miniaturized magnetic acceleration effectivley making the weapon an early handheld hybrid railgun"
 
