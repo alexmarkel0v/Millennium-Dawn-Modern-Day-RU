@@ -1801,10 +1801,10 @@
  HEZ_Heavy_Anti_tank_1: "AT-5 Konkurs"
  HEZ_Heavy_Anti_tank_2: "AT-14 Kornet"
 
- HEZ_IFV_1: "BMP-1"
- HEZ_IFV_1_short: "BMP-1"
- HEZ_IFV_3: "BMP-2"
- HEZ_IFV_3_short: "BMP-2"
+ HEZ_IFV_1: "БМП-1"
+ HEZ_IFV_1_short: "БМП-1"
+ HEZ_IFV_3: "БМП-2"
+ HEZ_IFV_3_short: "БМП-2"
 
  HEZ_APC_2: "M113 APC"
  HEZ_APC_2_short: "M113 APC"
@@ -1852,14 +1852,14 @@
  IND_APC_2:0 "Pindad APS-3"
  IND_APC_2_short:0 "Pindad APS-3"
 
- IND_IFV_1:0 "BMP-1"
- IND_IFV_1_short:0 "BMP-1"
+ IND_IFV_1:0 "БМП-1"
+ IND_IFV_1_short:0 "БМП-1"
  IND_IFV_2:0 "BMP-2 Sarath"
  IND_IFV_2_short:0 "BMP-2 Sarath"
  IND_IFV_3:0 "BMP-2M"
  IND_IFV_3_short:0 "BMP-2M"
- IND_IFV_4:0 "BMP-3"
- IND_IFV_4_short:0 "BMP-3"
+ IND_IFV_4:0 "БМП-3"
+ IND_IFV_4_short:0 "БМП-3"
  IND_IFV_5:0 "BMP-3M"
  IND_IFV_5_short:0 "BMP-3M"
  IND_IFV_6:0 "T-15 Armata"
@@ -2693,17 +2693,17 @@
  NKO_Anti_Air_0: "SA-7 Strela-2"
  NKO_Anti_Air_1: "SA-16 Igla"
  NKO_Anti_Air_2: "SA-24 Igla-S"
- NKO_Anti_Air_3: "SA-26"
- NKO_Anti_Air_4: "SA-28"
+ NKO_Anti_Air_3: "СА-26"
+ NKO_Anti_Air_4: "СА-28"
 
  NKO_APC_1: "VTT-323 Sinhung"
  NKO_APC_2: "ZSD-89"
- NKO_APC_3: "BTR-70"
+ NKO_APC_3: "БТР-70"
  NKO_APC_3_desc: "The BTR-70 has been in use since 1972, in the Soviet-Afgan War they were used to move in troops and then give fire support. The only difference from the BTR-60 is heavier armor."
- NKO_APC_3_short: "BTR-70"
- NKO_APC_4: "BTR-80"
+ NKO_APC_3_short: "БТР-70"
+ NKO_APC_4: "БТР-80"
  NKO_APC_4_desc: "The BTR-80 is an 8×8 wheeled amphibious APC designed in the USSR. It was adopted in 1986 and replaced the previous vehicles, the BTR-60 and BTR-70, in the Soviet Army. It was first deployed during the Soviet war in Afghanistan."
- NKO_APC_4_short: "BTR-80"
+ NKO_APC_4_short: "БТР-80"
  NKO_APC_5: "ZBL-09 Snow Leopard"
  NKO_APC_5_short: "ZBL-09"
  NKO_APC_6: "ZBL-19"
@@ -2755,7 +2755,7 @@
  NKO_Rec_tank_1: "PT-85 Shin'heung"
  NKO_Rec_tank_2: "PT-90"
 
- NKO_SP_Anti_Air_0: "ZSU-57-2"
+ NKO_SP_Anti_Air_0: "ЗСУ-57-2"
  NKO_SP_Anti_Air_1: "2K12 Kub"
  NKO_SP_Anti_Air_2: "9T29"
  NKO_SP_Anti_Air_3: "Pantsir-S1M"
@@ -2779,7 +2779,7 @@
  NKO_artillery_3: "D-50"
  NKO_artillery_4: "D-50"
 
- NKO_util_vehicle_0: "ZIL-131" #truck
+ NKO_util_vehicle_0: "ЗИЛ-131" #truck
  NKO_util_vehicle_1: "Ural-4320" #truck
  NKO_util_vehicle_2: "UAZ-3132"
  NKO_util_vehicle_3: "Dongfeng EQ2050"
@@ -2957,7 +2957,7 @@
  PER_Anti_Air_3:0 "Kosh"
  PER_Anti_Air_4:0 "Kosh-2"
 
- PER_SP_Anti_Air_0:0 "zsu-23 truck"
+ PER_SP_Anti_Air_0:0 "ЗСУ-23-4 «Шилка»"
  PER_SP_Anti_Air_1:0 "Shahab Thaqeb"
  PER_SP_Anti_Air_2:0 "Raad"
  PER_SP_Anti_Air_3:0 "Bavar-373"
@@ -3452,9 +3452,9 @@
  ### Russia ###
  SOV_infantry_weapons:0 "AKM"
  SOV_infantry_weapons_desc:0 "АКМ, разработанный в 1959 году, является наиболее распространенным модернизированным вариантом автомата АК-47, разработанного Михаилом Калашниковым. Он намного легче и точнее во время автоматического огня, чем его предшественник."
- SOV_infantry_weapons1:0 "AK-74"
+ SOV_infantry_weapons1:0 "АК-74"
  SOV_infantry_weapons1_desc:0 "АК-74 разработан на основе АКМ и имеет значительные улучшения по сравнению с его предшественником. Примечательно, что он использует патроны 5,45 мм вместо стандартного 7,62 мм по Варшавскому договору."
- SOV_infantry_weapons2:0 "AK-74M"
+ SOV_infantry_weapons2:0 "АК-74М"
  SOV_infantry_weapons2_desc:0 "В 1991 году на заводе «Ижмаш» в Ижевске началось серийное производство модернизированного варианта АК-74 - АК-74М. Оснащен облегченным затвором и затворной рамой, а также полиамидным штоком, наполненным стеклом."
  SOV_infantry_weapons3:0 "AK-103"
  SOV_infantry_weapons3_desc:0 "Штурмовая винтовка АК-103 является аналогом АК-74М под патрон М43 размером 7,62х39 мм. Как и старый AKM, 103 может использовать различные прицелы, включая ночное видение и телескоп. К нему подойдет штык или гранатомет. В отличии от большинства АК, 103-ий с пластиком и более дешевыми материалами."
@@ -3490,7 +3490,7 @@
  SOV_APC_4:0 "БТР-80"
  SOV_APC_4_desc:0 "БТР-80 - это колесный самолет-амфибия 8 × 8, разработанный в СССР. Он был принят в 1986 году и заменил предыдущие машины БТР-60 и БТР-70 в Советской Армии. Впервые он был развернут во время советской войны в Афганистане."
  SOV_APC_4_short:0 "БТР-80"
- #SOV_APC_4_variant:0 "BTR-82"
+ #SOV_APC_4_variant:0 "БТР-82"
  SOV_APC_5:0 "БТР-90"
  SOV_APC_5_desc:0 "Разработан в 1994 году для борьбы с боевиками. Оснащен мощной 30-мм пушкой Шипунова 2А42 с 500 патронами."
  SOV_APC_5_short:0 "БТР-90"
@@ -3869,57 +3869,57 @@
  SRI_APC_3_short:0 "Unibuffel"
 
  ### Syria (Arab Republic) ###
- SYR_Anti_Air_0:0 "SA-7 Strela-2"
- SYR_Anti_Air_1:0 "SA-16 Igla"
- SYR_Anti_Air_2:0 "SA-24 Igla-S"
+ SYR_Anti_Air_0:0 "СA-7 «Стрела-2»"
+ SYR_Anti_Air_1:0 "СA-16 «Игла»"
+ SYR_Anti_Air_2:0 "СA-24 «Игла-С»"
 
- SYR_APC_1:0 "BTR-60"
- SYR_APC_1_short:0 "BTR-60"
- SYR_APC_3:0 "BTR-70"
- SYR_APC_3_short:0 "BTR-70"
- SYR_APC_4:0 "BTR-82"
- SYR_APC_4_short:0 "BTR-82"
+ SYR_APC_1:0 "БТР-60"
+ SYR_APC_1_short:0 "БТР-60"
+ SYR_APC_3:0 "БТР-70"
+ SYR_APC_3_short:0 "БТР-70"
+ SYR_APC_4:0 "БТР-82"
+ SYR_APC_4_short:0 "БТР-82"
 
- SYR_Heavy_Anti_tank_0: "AT-3 Malyutka"
- SYR_Heavy_Anti_tank_1: "AT-5 Konkurs"
- SYR_Heavy_Anti_tank_2: "AT-14 Kornet"
+ SYR_Heavy_Anti_tank_0: "АТ-3 «Малютка»"
+ SYR_Heavy_Anti_tank_1: "АТ-5 «Конкурс»"
+ SYR_Heavy_Anti_tank_2: "АТ-14 «Корнет»"
 
- SYR_IFV_1: "BMP-1"
- SYR_IFV_1_short: "BMP-1"
- SYR_IFV_3: "BMP-2"
- SYR_IFV_3_short: "BMP-2"
+ SYR_IFV_1: "БМП-1"
+ SYR_IFV_1_short: "БМП-1"
+ SYR_IFV_3: "БМП-2"
+ SYR_IFV_3_short: "БМП-2"
 
- SYR_Anti_tank_0: "AT-3 Malyutka"
- SYR_Anti_tank_1: "AT-4 Fagot"
- SYR_Anti_tank_2: "AT-13 Metis-M"
+ SYR_Anti_tank_0: "АТ-3 «Малютка»"
+ SYR_Anti_tank_1: "АТ-4 «Фагот»"
+ SYR_Anti_tank_2: "АТ-13 «Метис-М»"
 
- SYR_MBT_1: "T-55"
- SYR_MBT_1_short: "T-55"
- SYR_MBT_2: "T-72"
- SYR_MBT_2_short: "T-72"
- SYR_MBT_3: "T-72AV"
- SYR_MBT_3_short: "T-72AV"
- SYR_MBT_4: "T-90"
- SYR_MBT_4_short: "T-90"
+ SYR_MBT_1: "Т-55"
+ SYR_MBT_1_short: "Т-55"
+ SYR_MBT_2: "Т-72"
+ SYR_MBT_2_short: "Т-72"
+ SYR_MBT_3: "Т-72АВ"
+ SYR_MBT_3_short: "Т-72АВ"
+ SYR_MBT_4: "Т-90"
+ SYR_MBT_4_short: "Т-90"
 
  SYR_Rec_tank_0: "BRDM-2"
 
- SYR_SP_Anti_Air_0: "ZSU23"
- SYR_SP_Anti_Air_1: "9K37 Buk"
- SYR_SP_Anti_Air_2: "2K22 Tunguska"
- SYR_SP_Anti_Air_3: "Pantsir-S1"
- SYR_SP_Anti_Air_4: "Pantsir-S2"
- SYR_SP_Anti_Air_2_variant: "SA-22 Pantsir"
+ SYR_SP_Anti_Air_0: "ЗСУ-23-4 «Шилка»"
+ SYR_SP_Anti_Air_1: "9К37 «Бук»"
+ SYR_SP_Anti_Air_2: "2K22 «Тунгуска»"
+ SYR_SP_Anti_Air_3: "Панцирь-С1"
+ SYR_SP_Anti_Air_4: "Панцирь-С2"
+ SYR_SP_Anti_Air_2_variant: "SA-22 «Панцирь»"
 
- SYR_SP_R_arty_0: "BM-21 Grad"
- SYR_SP_R_arty_1: "BM-27 Uragan"
+ SYR_SP_R_arty_0: "БМ-21 «Град»"
+ SYR_SP_R_arty_1: "БМ-27 «Ураган»"
 
- SYR_SP_arty_0: "T-34S"
+ SYR_SP_arty_0: "Т-34С"
 
- SYR_artillery_0: "D-30"
+ SYR_artillery_0: "Д-30"
 
- SYR_util_vehicle_0: "ZIL-131" #truck
- SYR_util_vehicle_1: "Ural-4320"
+ SYR_util_vehicle_0: "ЗИЛ-131" #truck
+ SYR_util_vehicle_1: "Урал-4320"
  SYR_util_vehicle_4: "Iveco LMV"
 
  ### Sudan ###
@@ -4472,7 +4472,7 @@
  USA_SP_Anti_Air_1: "AN/TWQ-1 Avenger"
  USA_SP_Anti_Air_2: "Stryker M1127 MSL"
  USA_SP_Anti_Air_3: "Stryker M1127 Arbalest"
- USA_SP_Anti_Air_4: "Scorpion SRLS" #Fictional
+ USA_SP_Anti_Air_4: "«Скорпион» SRLS" #Fictional
 
  USA_SP_R_arty_1: "M270 MLRS"
  USA_SP_R_arty_2: "M142 HIMARS"
@@ -6180,8 +6180,8 @@
 
  ### Vietnam ###
  VIE_infantry_weapons:0 "AKM"
- VIE_infantry_weapons1:0 "AK-74"
- VIE_infantry_weapons2:0 "AK-74M"
+ VIE_infantry_weapons1:0 "АК-74"
+ VIE_infantry_weapons2:0 "АК-74М"
  VIE_infantry_weapons3:0 "STL-1A"
  VIE_infantry_weapons4:0 "IWI ACE 31"
  VIE_infantry_weapons5:0 "STL-2A"
@@ -6829,110 +6829,110 @@
  CZE_transport_helicopter5: "V-41 Sokol" #Fictional
  CZE_transport_helicopter5_desc: "Stealth helicopter with aerodynamic airframe coated with radar absorbient materials, storing cargo and optionally mounted weapons inside internal weapons bay"
 
- CZE_MR_Fighter1: "Su-22M4"
- CZE_MR_Fighter1_desc: "Domestically produced Su-22 Modernization 4 with improved avionics and software allowing newest AGM missiles."
+ CZE_MR_Fighter1: "Су-22M4"
+ CZE_MR_Fighter1_desc: "Domestically produced Су-22 Modernization 4 with improved avionics and software allowing newest AGM missiles."
  CZE_MR_Fighter2: "Let-25K"
  CZE_MR_Fighter2_desc: "Czech multirole fighter designed with ground strike capabilities in mind, leaving air combat as secondary objective."
- CZE_MR_Fighter3: "Aero L-21 Sova" #Fictional
+ CZE_MR_Fighter3: "Аэро Л-21 Sova" #Fictional
  CZE_MR_Fighter3_desc: "Fighter featuring new afterburning engines able to speed up to 3000kph at 20km altitude. It can carry many variants of weapons on its pylons including precision ammunition and JDAM bombs. In tests, bomb dropped from that speed at that altitude hit moving target 57km from the plane."
  CZE_MR_Fighter4: "Let-35 Skřivan" #Fictional
  CZE_MR_Fighter4_desc: "Maneuverable multirole fighter with good energy retention. It focuses mainly on Air-to-Air combat."
  CZE_MR_Fighter5: "Let-55 Straka" #Fictional
  CZE_MR_Fighter5_desc: "Two engine-vectoring supermaneuverable fighter. Equips most modern ammunition due to its specially designed software composed of core code combined with modular parts of code from various weapon manufacturers allowing each weapon system piece to be coded specifically for its sole purpose. This also eases updates of the software and results in almost no incompatibility."
- CZE_MR_Fighter6: "Aero L-73 Špaček" #Fictional
+ CZE_MR_Fighter6: "Аэро Л-73 Špaček" #Fictional
  CZE_MR_Fighter6_desc: "Supercruise capable stealth multirole fighter with internal storage of 8 pylons designed for SEAD role."
  CZE_MR_Fighter7: "Let-81 Sup" #Fictional
  CZE_MR_Fighter7_desc: "Hypersonic interceptor with Energy-Directed Weapons on both offensive and defensive purposes and hypersonic missiles."
  CZE_MR_Fighter8: "Let-83 Slavík" #Fictional-The Tier 8 is not in game yet anyway....
  CZE_MR_Fighter8_desc: "Hypersonic morphing shape-shifting multirole plane with anti-sattelite weaponary and variable engine shaping capable of suborbital flight for big periods of time doubling as spyplane capable of shooting down any opponent trying to catch it at same time."
 
- CZE_CV_MR_Fighter1: "Yak-38"
- CZE_CV_MR_Fighter1_desc: "Domestically produced Yak-38 of the Soviet Union"
- CZE_CV_MR_Fighter2: "Su-30MK2"
- CZE_CV_MR_Fighter2_desc: "Domestically produced Su-30MK2 of the Soviet Union"
- CZE_CV_MR_Fighter3: "Su-33"
- CZE_CV_MR_Fighter3_desc: "Domestically produced Su-33 of the Soviet Union"
+ CZE_CV_MR_Fighter1: "Як-38"
+ CZE_CV_MR_Fighter1_desc: "Domestically produced Як-38 of the Soviet Union"
+ CZE_CV_MR_Fighter2: "Су-30MK2"
+ CZE_CV_MR_Fighter2_desc: "Domestically produced Су-30MK2 of the Soviet Union"
+ CZE_CV_MR_Fighter3: "Су-33"
+ CZE_CV_MR_Fighter3_desc: "Domestically produced Су-33 of the Soviet Union"
  CZE_CV_MR_Fighter4: "Let-35N Rehek" #Fictional
  CZE_CV_MR_Fighter4_desc: "Naval version of the Let-35 Skřivan"
  CZE_CV_MR_Fighter5: "Let-55N Rybák" #Fictional
  CZE_CV_MR_Fighter5_desc: "Naval version of the Let-55 Straka"
- CZE_CV_MR_Fighter6: "Aero L-73N Racek" #Fictional
+ CZE_CV_MR_Fighter6: "Аэро Л-73N Racek" #Fictional
  CZE_CV_MR_Fighter6_desc: "Naval version of the Let-73 Špaček"
  CZE_CV_MR_Fighter7: "Let-81N Rorýs" #Fictional
  CZE_CV_MR_Fighter7_desc: "Naval version of the Let-81 Sup"
  CZE_CV_MR_Fighter8: "Let-83N Rákosník" #Fictional
  CZE_CV_MR_Fighter8_desc: "Naval version of the Let-83 Slavík"
 
- CZE_AS_Fighter1: "MiG-21F-13"
- CZE_AS_Fighter1_desc: "Czech version of MiG-21 produced in Aero with improved armament and avionics."
- CZE_AS_Fighter2: "Aero L-23ML" #Fictional
+ CZE_AS_Fighter1: "МиГ-21F-13"
+ CZE_AS_Fighter1_desc: "Czech version of МиГ-21 produced in Aero with improved armament and avionics."
+ CZE_AS_Fighter2: "Аэро Л-23ML" #Fictional
  CZE_AS_Fighter2_desc: "Joint project between czech aerospace companies resulting in this new fighter plane."
- CZE_AS_Fighter3: "Aero L-39J G/C" #Fictional
- CZE_AS_Fighter4: "Aero L-41 Volavka" #Fictional
+ CZE_AS_Fighter3: "Аэро Л-39J G/C" #Fictional
+ CZE_AS_Fighter4: "Аэро Л-41 Volavka" #Fictional
  CZE_AS_Fighter4_desc: "Volavka is Mach 2.5+ Air Superiority Fighter with Beyond Visual Range weaponary."
  CZE_AS_Fighter5: "Let-47 Ořešník" #Fictional
  CZE_AS_Fighter5_desc: "Let-47 is Engine-vectoring supermaneuverable aircraft with sensior fusion made to know the enemies before they know the plane."
- CZE_AS_Fighter6: "Aero L-72 Vlaštovka" #Fictional
+ CZE_AS_Fighter6: "Аэро Л-72 Vlaštovka" #Fictional
  CZE_AS_Fighter6_desc: "Vlaštovka is supercruise stealth Air Superiority Fighter with modular software design composed of core code combined with modular parts of code from various weapon manufacturers allowing each weapon system piece to be coded specifically for its sole purpose. This also eases updates of the software and results in almost no incompatibility."
  CZE_AS_Fighter7: "Let-80 Orel" #Fictional
  CZE_AS_Fighter7_desc: "Orel is optionally manned, directer-energy-weapons morphing and shapeshifting Air Superiority Fighter with Artifical Intelligence pilot."
  CZE_AS_Fighter8: "Let-82 Ostříž" #Fictional-The Tier 8 is not in game yet anyway....
  CZE_AS_Fighter8_desc: ""
 
- CZE_Strike_fighter1: "Aero L-29R Delfín" #1965
- CZE_L_Strike_fighter1: "Aero L-29 Delfín"     #1965
- CZE_CV_L_Strike_fighter1: "Aero L-299 Delfín"     #1965
+ CZE_Strike_fighter1: "Аэро Л-29R «Дельфин»" #1965
+ CZE_L_Strike_fighter1: "Аэро Л-29 «Дельфин»"     #1965
+ CZE_CV_L_Strike_fighter1: "Аэро Л-299 «Дельфин»"     #1965
  CZE_L_Strike_fighter1_desc: "In response to a sizable requirement for a common jet-propelled trainer to be adopted across the diverse nations of the Eastern Block, Aero decided to embark upon their own design project with a view to suitably satisfying this demand. On 5 April 1959, an initial prototype, designated as the XL-29, performed its maiden flight. The L-29 was selected to become the standard trainer for the air forces of Warsaw Pact nations, for which it was delivered from the 1960s onwards."
  CZE_CV_L_Strike_fighter1_desc: "Naval version of L-29."
 
- CZE_Strike_fighter2: "Aero L-39C Albatros" #1985
- #CZE_Strike_fighter2_variant: "L-59 Super Albatros" #1985
- CZE_cas1: "Aero L-39ZA Albatros" #1985
+ CZE_Strike_fighter2: "Аэро Л-39C «Альбатрос»" #1985
+ #CZE_Strike_fighter2_variant: "L-59 Super «Альбатрос»" #1985
+ CZE_cas1: "Аэро Л-39ZA «Альбатрос»" #1985
  CZE_Strike_fighter2_desc: "Developed from the L-39 Alca, this plane got new, more powerful engine and strengthened airframe allowing it to take off and land basically anywhere with its STOL capability."
  CZE_cas1_desc: "Light maneuverable CAS plane developed from its basic light strike version."
 
 
- CZE_Strike_fighter3: "Aero L-159A Alca" #1995
- CZE_L_Strike_fighter2: "Aero L-39C Albatros"     #1995
- CZE_CV_L_Strike_fighter2: "Aero L-159E Alca" #1995 Fictional
+ CZE_Strike_fighter3: "Аэро Л-159A Alca" #1995
+ CZE_L_Strike_fighter2: "Аэро Л-39C «Альбатрос»"     #1995
+ CZE_CV_L_Strike_fighter2: "Аэро Л-159E Alca" #1995 Fictional
  CZE_Strike_fighter3_desc: "New development from L-39 and L-59 created this plane with new type of engines, overhauled airframe, modernized cockpit leaving the plane almost totally different from its precedessors."
  CZE_L_Strike_fighter2_desc: "Bomber version of L-159 with mounts for armament used also as training plane."
  CZE_CV_L_Strike_fighter2_desc: "Naval version of L-159."
 
- CZE_cas2: "Aero L-39M Albatros" #2005
+ CZE_cas2: "Аэро Л-39M «Альбатрос»" #2005
  CZE_cas2_desc: "Light maneuverable CAS plane developed from its basic light strike version including new modernized engine and cockpit with software."
 
 
- CZE_Strike_fighter4: "Aero L-39NG Albatros" #2015
- CZE_L_Strike_fighter3: "Aero L-39NGT Albatros" #2015
- CZE_CV_L_Strike_fighter3: "Aero L-39ZA Albatros" #2015
- CZE_cas3: "Aero L-159B Alca" #2015 Fictional
- CZE_Strike_fighter4_desc: "New generation(NG) of Albatros features newly designed airframe including new engine and composite materials allowing this plane to outmaneuver any opponents with its high thrust-to-weight ratio. It can carry many types of armament on its 6 pylons including guided GBU-12 Paveway II or newest AIM-9s. The plane also got new powerful detection, sensor and radar equipment."
+ CZE_Strike_fighter4: "Аэро Л-39NG «Альбатрос»" #2015
+ CZE_L_Strike_fighter3: "Аэро Л-39NGT «Альбатрос»" #2015
+ CZE_CV_L_Strike_fighter3: "Аэро Л-39ZA «Альбатрос»" #2015
+ CZE_cas3: "Аэро Л-159B Alca" #2015 Fictional
+ CZE_Strike_fighter4_desc: "New generation(NG) of «Альбатрос» features newly designed airframe including new engine and composite materials allowing this plane to outmaneuver any opponents with its high thrust-to-weight ratio. It can carry many types of armament on its 6 pylons including guided GBU-12 Paveway II or newest AIM-9s. The plane also got new powerful detection, sensor and radar equipment."
  CZE_L_Strike_fighter3_desc: "Bomber version of L-39NG with mounts for armament used also as training plane."
  CZE_CV_L_Strike_fighter3_desc: "Naval version of L-39NG."
  CZE_cas3_desc: "Light maneuverable CAS plane developed from its basic light strike version."
 
- CZE_Strike_fighter5: "Aero L-51 Datel" #Fictional #2025
- CZE_L_Strike_fighter4: "Aero L-51T Datel" #Fictional #2025
- CZE_L_Strike_fighter4_short: "Aero L-51T" #Fictional #2025
- CZE_CV_L_Strike_fighter4: "Aero L-51N Datel" #Fictional #2025
- CZE_cas4: "Aero L-52 Drozd" #Fictional #2025
+ CZE_Strike_fighter5: "Аэро Л-51 Datel" #Fictional #2025
+ CZE_L_Strike_fighter4: "Аэро Л-51T Datel" #Fictional #2025
+ CZE_L_Strike_fighter4_short: "Аэро Л-51T" #Fictional #2025
+ CZE_CV_L_Strike_fighter4: "Аэро Л-51N Datel" #Fictional #2025
+ CZE_cas4: "Аэро Л-52 Drozd" #Fictional #2025
  CZE_Strike_fighter5_desc: "Light maneuverable ground strike plane. The plane also doubles as training and advanced training plane due to its supermaneuverability."
  CZE_L_Strike_fighter4_desc: "Training version of the L-51."
  CZE_CV_L_Strike_fighter4_desc: "Naval version of L-51."
  CZE_cas4_desc: "Light maneuverable CAS plane developed from its predecessor L-51. The plane got new strengthened airframe allowing it to take more payload into fight."
 
- CZE_Strike_fighter6: "Aero L-72 Akát" #Fictional #2035
- CZE_L_Strike_fighter5: "Aero L-72T Akát" #Fictional #2035
- CZE_CV_L_Strike_fighter5: "Aero L-72N Akát" #Fictional #2035
- CZE_cas5: "Aero L-75 Dudek" #Fictional #2035
+ CZE_Strike_fighter6: "Аэро Л-72 Akát" #Fictional #2035
+ CZE_L_Strike_fighter5: "Аэро Л-72T Akát" #Fictional #2035
+ CZE_CV_L_Strike_fighter5: "Аэро Л-72N Akát" #Fictional #2035
+ CZE_cas5: "Аэро Л-75 Dudek" #Fictional #2035
  CZE_Strike_fighter6_desc: "Light maneuverable ground strike plane for low-intensity conflicts."
  CZE_L_Strike_fighter5_desc: "Training version of the L-72."
  CZE_CV_L_Strike_fighter5_desc: "Naval version of L-72."
  CZE_cas5_desc: "Light maneuverable CAS plane developed from its basic light strike version."
 
 
- CZE_Strike_fighter7: "Aero L-76 Ďábel" #Fictional #2045
+ CZE_Strike_fighter7: "Аэро Л-76 Ďábel" #Fictional #2045
  CZE_Strike_fighter7_desc: "Light maneuverable ground strike plane for high-intensity conflicts."
 
 
@@ -7225,8 +7225,8 @@
  FRA_cas5_short: "Condor" #Fictional
 
  ### Georgia ###
- GEO_cas2: "SU-25KM Scorpion"
- GEO_cas2_short: "SU-25KM Scorpion"
+ GEO_cas2: "Су-25KM «Скорпион»"
+ GEO_cas2_short: "Су-25KM «Скорпион»"
 
  ### Germany ###
  GER_AS_Fighter1: "F-4F ICE"
@@ -7269,8 +7269,8 @@
  GER_L_Strike_fighter2_short: "Alpha Jet"
 
  ### Indonesia ###
- IND_AS_Fighter3: "Su-30MKI"
- IND_AS_Fighter3_short: "Su-30MKI"
+ IND_AS_Fighter3: "Су-30MKI"
+ IND_AS_Fighter3_short: "Су-30MKI"
 
  IND_MR_Fighter3: "HAL Tejas"
  IND_MR_Fighter3_short: "HAL Tejas"
@@ -7640,16 +7640,16 @@
  KOR_transport_helicopter5: "UH-60SK"
 
  ### Korea DPR ###
- #NKO_AS_Fighter1:0 "MiG-23 Flogger"
- #NKO_AS_Fighter1_short:0 "MiG-23 Flogger"
+ #NKO_AS_Fighter1:0 "МиГ-23 «Бичеватель»"
+ #NKO_AS_Fighter1_short:0 "МиГ-23 «Бичеватель»"
 
- #NKO_MR_Fighter1:0 "MiG-21 Fishbed"
- #NKO_MR_Fighter1_short:0 "MiG-21 Fishbed"
- #NKO_MR_Fighter2:0 "MiG-29 Fulcrum"
- #NKO_MR_Fighter2_short:0 "MiG-29 Fulcrum"
+ #NKO_MR_Fighter1:0 "МиГ-21 «Фишбэд»"
+ #NKO_MR_Fighter1_short:0 "МиГ-21 «Фишбэд»"
+ #NKO_MR_Fighter2:0 "МиГ-29 «Точка опоры»"
+ #NKO_MR_Fighter2_short:0 "МиГ-29 «Точка опоры»"
 
- #NKO_Strike_fighter1:0 "Su-7 Fitter"
- #NKO_Strike_fighter1_short:0 "Su-7 Fitter"
+ #NKO_Strike_fighter1:0 "Су-7 «Слесарь»"
+ #NKO_Strike_fighter1_short:0 "Су-7 «Слесарь»"
 
  ### Norway ###
 
@@ -7691,17 +7691,17 @@
 
  PER_Strike_fighter1:0 "CF-7S"
  PER_Strike_fighter1_short:0 "CF-7S"
- #SOV_Strike_fighter1:0 "Su-22 Fitter"
- PER_Strike_fighter2:0 "Su-24 Fencer"
- PER_Strike_fighter2_short:0 "Su-24 Fencer"
- #SOV_Strike_fighter2_variant:0 "MiG-27 Flogger"
- #SOV_Strike_fighter2_short:0 "MiG-27 Flogger"
- PER_Strike_fighter3:0 "Su-34 Fullback"
- PER_Strike_fighter3_short:0 "Su-34 Fullback"
- PER_Strike_fighter4:0 "MiG-40 Flatback-S"
- PER_Strike_fighter4_short:0 "MiG-40 Flatback-S"
- PER_Strike_fighter5:0 "MiG-40C Flatpack-S"
- PER_Strike_fighter5_short:0 "MiG-40C Flatpack-S"
+ #SOV_Strike_fighter1:0 "Су-22 «Монтажник»"
+ PER_Strike_fighter2:0 "Су-24 «Фехтовальщик»"
+ PER_Strike_fighter2_short:0 "Су-24 «Фехтовальщик»"
+ #SOV_Strike_fighter2_variant:0 "МиГ-27 «Флоггер»"
+ #SOV_Strike_fighter2_short:0 "МиГ-27 «Флоггер»"
+ PER_Strike_fighter3:0 "Су-34 «Защитник»"
+ PER_Strike_fighter3_short:0 "Су-34 «Защитник»"
+ PER_Strike_fighter4:0 "МиГ-40 «Флэтбэк-С»"
+ PER_Strike_fighter4_short:0 "МиГ-40 «Флэтбэк-С»"
+ PER_Strike_fighter5:0 "МиГ-40C «Флэтпак-С»"
+ PER_Strike_fighter5_short:0 "МиГ-40C «Флэтпак-С»"
 
  PER_Int_Fighter1:0 "F-14"
  PER_Int_Fighter1_short:0 "F-14"
@@ -7756,24 +7756,24 @@
  SER_L_Strike_fighter1:0 "G-2 Galeb"
  SER_L_Strike_fighter2:0 "G-4 Super Galeb"
 
- SER_MR_Fighter1:0 "MiG-21 Fishbed"
- SER_MR_Fighter1_short:0 "MiG-21 Fishbed"
- SER_MR_Fighter2:0 "MiG-29 Fulcrum"
- SER_MR_Fighter2_short:0 "MiG-29 Fulcrum"
- SER_MR_Fighter3:0 "MiG-35 Fulcrum-F"
- SER_MR_Fighter3_short:0 "MiG-35 Fulcrum-F"
- SER_MR_Fighter4:0 "MiG-39 Flatback"
- SER_MR_Fighter4_short:0 "MiG-39 Flatback"
- SER_MR_Fighter5:0 "MiG-39 Flatback-B"
- SER_MR_Fighter5_short:0 "MiG-39 Flatback-B"
+ SER_MR_Fighter1:0 "МиГ-21 «Фишбэд»"
+ SER_MR_Fighter1_short:0 "МиГ-21 «Фишбэд»"
+ SER_MR_Fighter2:0 "МиГ-29 «Точка опоры»"
+ SER_MR_Fighter2_short:0 "МиГ-29 «Точка опоры»"
+ SER_MR_Fighter3:0 "МиГ-35 «Точка опоры-Ф»"
+ SER_MR_Fighter3_short:0 "МиГ-35 «Точка опоры-Ф»"
+ SER_MR_Fighter4:0 "МиГ-39 «Флэтбэк»"
+ SER_MR_Fighter4_short:0 "МиГ-39 «Флэтбэк»"
+ SER_MR_Fighter5:0 "МиГ-39 «Флэтбэк-Б»"
+ SER_MR_Fighter5_short:0 "МиГ-39 «Флэтбэк-Б»"
 
- SER_Strike_fighter1:0 "Su-17 Fitter"
- SER_Strike_fighter1_short:0 "Su-17 Fitter"
+ SER_Strike_fighter1:0 "Су-17 «Монтажник»"
+ SER_Strike_fighter1_short:0 "Су-17 «Монтажник»"
  SER_Strike_fighter2:0 "J-22 Orao"
  SER_Strike_fighter2_short:0 "J-22 Orao"
 
- SER_transport_plane1:0 "Antonov An-26"
- SER_transport_plane1_short:0 "An-26"
+ SER_transport_plane1:0 "Антонов Ан-26"
+ SER_transport_plane1_short:0 "Ан-26"
 
  ### Singapore ###
  #SIN_MR_Fighter1:0 "F-5S Tiger II"
@@ -7783,21 +7783,21 @@
  ### Russia ###
  SOV_AS_Fighter1:0 "МиГ-23 «Бичеватель»"
  SOV_AS_Fighter1_short:0 "МиГ-23 «Бичеватель»"
- SOV_AS_Fighter2:0 "Су-27 «Фланкёр»"
- SOV_AS_Fighter2_short:0 "Су-27 «Фланкёр»"
- SOV_AS_Fighter3:0 "Су-35 «Фланкёр-Ф»"
- SOV_AS_Fighter3_short:0 "Су-35 «Фланкёр-Ф»"
+ SOV_AS_Fighter2:0 "Су-27 «Фланкер»"
+ SOV_AS_Fighter2_short:0 "Су-27 «Фланкер»"
+ SOV_AS_Fighter3:0 "Су-35 «Фланкер-Ф»"
+ SOV_AS_Fighter3_short:0 "Су-35 «Фланкер-Ф»"
  SOV_AS_Fighter4:0 "Су-57 ПАК-ФА"
  SOV_AS_Fighter4_short:0 "Су-57 ПАК-ФА"
- SOV_AS_Fighter5:0 "Миг-41 ПАК-ДП"
- SOV_AS_Fighter5_short:0 "Миг-41 ПАК-ДП"
+ SOV_AS_Fighter5:0 "МиГ-41 ПАК-ДП"
+ SOV_AS_Fighter5_short:0 "МиГ-41 ПАК-ДП"
 
  SOV_CV_MR_Fighter1:0 "Як-38 «Кузнец»"
  SOV_CV_MR_Fighter1_short:0 "Як-38 «Кузнец»"
- SOV_CV_MR_Fighter2:0 "Су-30MK2 «Фланкёр-Г»"
- SOV_CV_MR_Fighter2_short:0 "Су-30MK2"
- SOV_CV_MR_Fighter3:0 "Су-33 «Фланкёр-Д»"
- SOV_CV_MR_Fighter3_short:0 "Су-33 «Фланкёр-Д»"
+ SOV_CV_MR_Fighter2:0 "Су-30MK2 «Фланкер-Г»"
+ SOV_CV_MR_Fighter2_short:0 "Су-30MK2 «Фланкер-Г»"
+ SOV_CV_MR_Fighter3:0 "Су-33 «Фланкер-Д»"
+ SOV_CV_MR_Fighter3_short:0 "Су-33 «Фланкер-Д»"
  SOV_CV_MR_Fighter4:0 "МиГ-39K «Флэтбэк»"
  SOV_CV_MR_Fighter4_short:0 "МиГ-39K «Флэтбэк»"
  SOV_CV_MR_Fighter5:0 "МиГ-39K «Флэтбэк-Б»"
@@ -7826,12 +7826,12 @@
  
  SOV_Strike_fighter1:0 "Су-17 «Монтажник»"
  SOV_Strike_fighter1_short:0 "Су-17 «Монтажник»"
- #SOV_Strike_fighter1:0 "Su-22 Fitter"
+ #SOV_Strike_fighter1:0 "Су-22 «Монтажник»"
  SOV_Strike_fighter2:0 "Су-24 «Фехтовальщик»"
  SOV_Strike_fighter2_short:0 "Су-24 «Фехтовальщик»"
                                              
- #SOV_Strike_fighter2_variant:0 "MiG-27 Flogger"
- #SOV_Strike_fighter2_short:0 "MiG-27 Flogger"
+ #SOV_Strike_fighter2_variant:0 "МиГ-27 «Флоггер»"
+ #SOV_Strike_fighter2_short:0 "МиГ-27 «Флоггер»"
  SOV_Strike_fighter3:0 "Су-34 «Защитник»"
  SOV_Strike_fighter3_short:0 "Су-34 «Защитник»"
  SOV_Strike_fighter4:0 "МиГ-40 «Флэтбэк-С»"
@@ -7846,20 +7846,20 @@
  
  SOV_strategic_bomber1:0 "Ту-95 «Медведь»"
  SOV_strategic_bomber1_short:0 "Ту-95 «Медведь»"
- SOV_strategic_bomber2:0 "Ту-22M «Блиндер»"
- SOV_strategic_bomber2_short:0 "Ту-22M «Блиндер»"
+ SOV_strategic_bomber2:0 "Ту-22М «Блиндер»"
+ SOV_strategic_bomber2_short:0 "Ту-22М «Блиндер»"
  SOV_strategic_bomber3:0 "Ту-160 «Блэкджек»"
  SOV_strategic_bomber3_short:0 "Ту-160 «Блэкджек»"
  SOV_strategic_bomber4:0 "Ту-180 «Бандит»"
  SOV_strategic_bomber4_short:0 "Ту-180 «Бандит»"
- SOV_strategic_bomber5:0 "Туполев ПАК-ДА"
- SOV_strategic_bomber5_short:0 "Туполев ПАК-ДА"
- SOV_strategic_bomber6:0 "Туполев ПАК-ДАM"
- SOV_strategic_bomber6_short:0 "Туполев ПАК-ДАM"
+ SOV_strategic_bomber5:0 "Туполев ПАК ДА"
+ SOV_strategic_bomber5_short:0 "Туполев ПАК ДА"
+ SOV_strategic_bomber6:0 "Туполев ПАК ДАM"
+ SOV_strategic_bomber6_short:0 "Туполев ПАК ДАM"
 
- SOV_cas1:0 "Су-25 «Фрогфут-A»"
+ SOV_cas1:0 "Су-25 «Лягушачья лапа-А»"
  SOV_cas1_short:0 "Су-25A"
- SOV_cas2:0 "Су-25 «Фрогфут-T»"
+ SOV_cas2:0 "Су-25 «Лягушачья лапа-Т»"
  SOV_cas2_short:0 "Су-25T"
  SOV_cas3:0 "Су-39"
  SOV_cas3_short:0 "Су-39"
@@ -7876,94 +7876,7 @@
  SOV_naval_plane3_short:0 "Ту-142M"
  SOV_naval_plane4:0 "Ту-142M2"
  SOV_naval_plane4_short:0 "Ту-142M2"
-
- UKR_AS_Fighter1:0 "MiG-23 Flogger"
- UKR_AS_Fighter1_short:0 "MiG-23 Flogger"
- UKR_AS_Fighter2:0 "Su-27 Flanker"
- UKR_AS_Fighter2_short:0 "Su-27 Flanker"
- UKR_AS_Fighter3:0 "Su-27UB"
- UKR_AS_Fighter3_short:0 "Su-27UB"
- UKR_AS_Fighter4:0 "Su-57 PAK FA"
- UKR_AS_Fighter4_short:0 "Su-57 PAK FA"
- UKR_AS_Fighter5:0 "MiG-41 PAK DP"
- UKR_AS_Fighter5_short:0 "MiG-41 PAK DP"
-
- UKR_CV_MR_Fighter1:0 "Yak-38 Forger"
- UKR_CV_MR_Fighter1_short:0 "Yak-38 Forger"
- UKR_CV_MR_Fighter2:0 "Su-33 Flanker-D"
- UKR_CV_MR_Fighter2_short:0 "Su-33 Flanker-D"
- UKR_CV_MR_Fighter3:0 "Mig 29K"
- UKR_CV_MR_Fighter3_short:0 "Mig 29K"
- UKR_CV_MR_Fighter4:0 "MiG-39K Flatback"
- UKR_CV_MR_Fighter4_short:0 "MiG-39K Flatback"
- UKR_CV_MR_Fighter5:0 "MiG-39K Flatback-B"
- UKR_CV_MR_Fighter5_short:0 "MiG-39K Flatback-B"
-
- UKR_Int_Fighter1:0 "MiG-31 Foxhound"
- UKR_Int_Fighter1_short:0 "MiG-31 Foxhound"
-
- UKR_L_Strike_fighter1:0 "Aero L-29 Delfín"
- UKR_L_Strike_fighter1_short:0 "Aero L-29"
- UKR_L_Strike_fighter2:0 "Aero L-39MS Albatros"
- UKR_L_Strike_fighter2_short:0 "Aero L-39MS"
- UKR_L_Strike_fighter3:0 "Yakovlev Yak-130"
- UKR_L_Strike_fighter3_short:0 "Yak-130"
-
- UKR_MR_Fighter1:0 "MiG-21 Fishbed"
- UKR_MR_Fighter1_short:0 "MiG-21 Fishbed"
- UKR_MR_Fighter2:0 "MiG-29 Fulcrum"
- UKR_MR_Fighter2_short:0 "MiG-29 Fulcrum"
- UKR_MR_Fighter3:0 "Su-30SM"
- UKR_MR_Fighter3_short:0 "Su-30SM"
- UKR_MR_Fighter4:0 "MiG-39 Foxglove"
- UKR_MR_Fighter4_short:0 "MiG-39 Foxglove"
- UKR_MR_Fighter5:0 "Mikoyan LMFS"
- UKR_MR_Fighter5_short:0 "Mikoyan LMFS"
-
- UKR_Strike_fighter1:0 "Su-17 Fitter"
- UKR_Strike_fighter1_short:0 "Su-17 Fitter"
- UKR_Strike_fighter2:0 "Su-24 Fencer"
- UKR_Strike_fighter2_short:0 "Su-24 Fencer"
- UKR_Strike_fighter3:0 "Su-34 Fullback"
- UKR_Strike_fighter3_short:0 "Su-34 Fullback"
- UKR_Strike_fighter4:0 "MiG-40 Flatback-S"
- UKR_Strike_fighter4_short:0 "MiG-40 Flatback-S"
- UKR_Strike_fighter5:0 "MiG-67"
- UKR_Strike_fighter5_short:0 "MiG-67"
-
- UKR_strategic_bomber1:0 "Tu-95 Bear"
- UKR_strategic_bomber1_short:0 "Tu-95 Bear"
- UKR_strategic_bomber2:0 "Tu-22M Blinder"
- UKR_strategic_bomber2_short:0 "Tu-22M Blinder"
- UKR_strategic_bomber3:0 "Tu-160 Blackjack"
- UKR_strategic_bomber3_short:0 "Tu-160 Blackjack"
- UKR_strategic_bomber4:0 "Tu-180 Bandit"
- UKR_strategic_bomber4_short:0 "Tu-180 Bandit"
- UKR_strategic_bomber5:0 "Tupolev PAK-DA"
- UKR_strategic_bomber5_short:0 "Tupolev PAK-DA"
- UKR_strategic_bomber6:0 "Tupolev PAK-DAM"
- UKR_strategic_bomber6_short:0 "Tupolev PAK-DAM"
-
- UKR_cas1:0 "Su-25 Frogfoot-A"
- UKR_cas1_short:0 "Su-25A"
- UKR_cas2:0 "Su-25 Frogfoot-T"
- UKR_cas2_short:0 "Su-25T"
- UKR_cas3:0 "Su-39"
- UKR_cas3_short:0 "Su-39"
- UKR_cas4:0 "Su-39M"
- UKR_cas4_short:0 "Su-39M"
- UKR_cas5:0 "Su-39M2"
- UKR_cas5_short:0 "Su-39M2"
-
- UKR_naval_plane1:0 "Ilyushin Il-38"
- UKR_naval_plane1_short:0 "Ilyushin Il-38"
- UKR_naval_plane2:0 "Tu-142"
- UKR_naval_plane2_short:0 "Tu-142"
- UKR_naval_plane3:0 "Tu-142M"
- UKR_naval_plane3_short:0 "Tu-142M"
- UKR_naval_plane4:0 "Tu-142M2"
- UKR_naval_plane4_short:0 "Tu-142M2"
-
+ 
  SOV_transport_plane1:0 "Антонов Ан-26"
  SOV_transport_plane1_short:0 "Ан-26"
  SOV_transport_plane2:0 "Ильюшин Ил-76"
@@ -7972,6 +7885,93 @@
  SOV_transport_plane3_short:0 "Ил-76MД"
  SOV_transport_plane4:0 "ПАК-TA"
  SOV_transport_plane4_short:0 "ПАК-TA"
+
+ UKR_AS_Fighter1:0 "МиГ-23 «Бичеватель»"
+ UKR_AS_Fighter1_short:0 "МиГ-23 «Бичеватель»"
+ UKR_AS_Fighter2:0 "Су-27 «Фланкер»"
+ UKR_AS_Fighter2_short:0 "Су-27 «Фланкер»"
+ UKR_AS_Fighter3:0 "Су-27УБ"
+ UKR_AS_Fighter3_short:0 "Су-27УБ"
+ UKR_AS_Fighter4:0 "Су-57 ПАК ФА"
+ UKR_AS_Fighter4_short:0 "Су-57 ПАК ФА"
+ UKR_AS_Fighter5:0 "МиГ-41 ПАК ДП"
+ UKR_AS_Fighter5_short:0 "МиГ-41 ПАК ДП"
+
+ UKR_CV_MR_Fighter1:0 "Як-38 «Кузнец»"
+ UKR_CV_MR_Fighter1_short:0 "Як-38 «Кузнец»"
+ UKR_CV_MR_Fighter2:0 "Су-33 «Фланкер-Д»"
+ UKR_CV_MR_Fighter2_short:0 "Су-33 «Фланкер-Д»"
+ UKR_CV_MR_Fighter3:0 "МиГ-29К"
+ UKR_CV_MR_Fighter3_short:0 "МиГ-29К"
+ UKR_CV_MR_Fighter4:0 "МиГ-39K «Флэтбэк»"
+ UKR_CV_MR_Fighter4_short:0 "МиГ-39K «Флэтбэк»"
+ UKR_CV_MR_Fighter5:0 "МиГ-39K «Флэтбэк-Б»"
+ UKR_CV_MR_Fighter5_short:0 "МиГ-39K «Флэтбэк-Б»"
+
+ UKR_Int_Fighter1:0 "МиГ-31 «Лисья Гончая»"
+ UKR_Int_Fighter1_short:0 "МиГ-31 «Лисья ГончаяС"
+
+ UKR_L_Strike_fighter1:0 "Аэро Л-29 «Дельфин»"
+ UKR_L_Strike_fighter1_short:0 "Аэро Л-29"
+ UKR_L_Strike_fighter2:0 "Аэро Л-39MS «Альбатрос»"
+ UKR_L_Strike_fighter2_short:0 "Аэро Л-39MS"
+ UKR_L_Strike_fighter3:0 "Яковлев Як-130"
+ UKR_L_Strike_fighter3_short:0 "Як-130"
+
+ UKR_MR_Fighter1:0 "МиГ-21 «Фишбэд»"
+ UKR_MR_Fighter1_short:0 "МиГ-21 «Фишбэд»"
+ UKR_MR_Fighter2:0 "МиГ-29 «Точка опоры»"
+ UKR_MR_Fighter2_short:0 "МиГ-29 «Точка опоры»"
+ UKR_MR_Fighter3:0 "Су-30СМ"
+ UKR_MR_Fighter3_short:0 "Су-30СМ"
+ UKR_MR_Fighter4:0 "МиГ-39 «Дигиталис»"
+ UKR_MR_Fighter4_short:0 "МиГ-39 «Дигиталис»"
+ UKR_MR_Fighter5:0 "Микоян ЛМФС"
+ UKR_MR_Fighter5_short:0 "Микоян ЛМФС"
+
+ UKR_Strike_fighter1:0 "Су-17 «Монтажник»"
+ UKR_Strike_fighter1_short:0 "Су-17 «Монтажник»"
+ UKR_Strike_fighter2:0 "Су-24 «Фехтовальщик»"
+ UKR_Strike_fighter2_short:0 "Су-24 «Фехтовальщик»"
+ UKR_Strike_fighter3:0 "Су-34 «Защитник»"
+ UKR_Strike_fighter3_short:0 "Су-34 «Защитник»"
+ UKR_Strike_fighter4:0 "МиГ-40 «Флэтбэк-С»"
+ UKR_Strike_fighter4_short:0 "МиГ-40 «Флэтбэк-С»"
+ UKR_Strike_fighter5:0 "МиГ-67"
+ UKR_Strike_fighter5_short:0 "МиГ-67"
+
+ UKR_strategic_bomber1:0 "Ту-95 «Медведь»"
+ UKR_strategic_bomber1_short:0 "Ту-95 «Медведь»"
+ UKR_strategic_bomber2:0 "Ту-22M «Блиндер»"
+ UKR_strategic_bomber2_short:0 "Ту-22M «Блиндер»"
+ UKR_strategic_bomber3:0 "Ту-160 «Блэкджек»"
+ UKR_strategic_bomber3_short:0 "Ту-160 «Блэкджек»"
+ UKR_strategic_bomber4:0 "Ту-180 «Бандит»"
+ UKR_strategic_bomber4_short:0 "Ту-180 «Бандит»"
+ UKR_strategic_bomber5:0 "Туполев ПАК ДА"
+ UKR_strategic_bomber5_short:0 "Туполев ПАК ДА"
+ UKR_strategic_bomber6:0 "Туполев ПАК ДАM"
+ UKR_strategic_bomber6_short:0 "Туполев ПАК ДАM"
+
+ UKR_cas1:0 "Су-25 «Лягушачья лапа-А»"
+ UKR_cas1_short:0 "Су-25А"
+ UKR_cas2:0 "Су-25 «Лягушачья лапа-Т»"
+ UKR_cas2_short:0 "Су-25Т"
+ UKR_cas3:0 "Су-39"
+ UKR_cas3_short:0 "Су-39"
+ UKR_cas4:0 "Су-39М"
+ UKR_cas4_short:0 "Су-39М"
+ UKR_cas5:0 "Су-39М2"
+ UKR_cas5_short:0 "Су-39М2"
+
+ UKR_naval_plane1:0 "Ильюшин Ил-38"
+ UKR_naval_plane1_short:0 "Ильюшин Ил-38"
+ UKR_naval_plane2:0 "Ту-142"
+ UKR_naval_plane2_short:0 "Ту-142"
+ UKR_naval_plane3:0 "Ту-142M"
+ UKR_naval_plane3_short:0 "Ту-142M"
+ UKR_naval_plane4:0 "Ту-142M2"
+ UKR_naval_plane4_short:0 "Ту-142M2"
 
  ### Spain ###
  SPR_AS_Fighter3:0 "EF-2000 Typhoon"
@@ -7991,93 +7991,93 @@
  SPR_L_Strike_fighter1_short:0 "CASA C-101"
 
  ### NORTH KOREA ###
- NKO_AS_Fighter1:0 "MiG-23 Flogger"
- NKO_AS_Fighter1_short:0 "MiG-23 Flogger"
- NKO_AS_Fighter2:0 "Su-27 Flanker"
- NKO_AS_Fighter2_short:0 "Su-27 Flanker"
- NKO_AS_Fighter3:0 "Su-35 Flanker-F"
- NKO_AS_Fighter3_short:0 "Su-35 Flanker-F"
- NKO_AS_Fighter4:0 "Su-57 PAK FA"
- NKO_AS_Fighter4_short:0 "Su-57 PAK FA"
- NKO_AS_Fighter5:0 "MiG-41 PAK DP"
- NKO_AS_Fighter5_short:0 "MiG-41 PAK DP"
+ NKO_AS_Fighter1:0 "МиГ-23 «Бичеватель»"
+ NKO_AS_Fighter1_short:0 "МиГ-23 «Бичеватель»"
+ NKO_AS_Fighter2:0 "Су-27 «Фланкер»"
+ NKO_AS_Fighter2_short:0 "Су-27 «Фланкер»"
+ NKO_AS_Fighter3:0 "Су-35 «Фланкер-Ф»"
+ NKO_AS_Fighter3_short:0 "Су-35 «Фланкер-Ф»"
+ NKO_AS_Fighter4:0 "Су-57 ПАК ФА"
+ NKO_AS_Fighter4_short:0 "Су-57 ПАК ФА"
+ NKO_AS_Fighter5:0 "МиГ-41 ПАК ДП"
+ NKO_AS_Fighter5_short:0 "МиГ-41 ПАК ДП"
 
- NKO_Int_Fighter1:0 "MiG-25 Foxbat"
- NKO_Int_Fighter1_short:0 "MiG-25 Foxbat"
+ NKO_Int_Fighter1:0 "МиГ-25 «Летучая лисица»"
+ NKO_Int_Fighter1_short:0 "МиГ-25 «Летучая лисица»"
 
- NKO_L_Strike_fighter1:0 "Aero L-29 Delfín"
- NKO_L_Strike_fighter1_short:0 "Aero L-29"
- NKO_L_Strike_fighter2:0 "Aero L-39MS Albatros"
- NKO_L_Strike_fighter2_short:0 "Aero L-39MS"
- NKO_L_Strike_fighter3:0 "Yakovlev Yak-130"
- NKO_L_Strike_fighter3_short:0 "Yak-130"
+ NKO_L_Strike_fighter1:0 "Аэро Л-29 «Дельфин»"
+ NKO_L_Strike_fighter1_short:0 "Аэро Л-29"
+ NKO_L_Strike_fighter2:0 "Аэро Л-39MS «Альбатрос»"
+ NKO_L_Strike_fighter2_short:0 "Аэро Л-39MS"
+ NKO_L_Strike_fighter3:0 "Яковлев Як-130"
+ NKO_L_Strike_fighter3_short:0 "Як-130"
 
- NKO_MR_Fighter1:0 "MiG-21 Fishbed"
- NKO_MR_Fighter1_short:0 "MiG-21 Fishbed"
- NKO_MR_Fighter2:0 "MiG-29 Fulcrum"
- NKO_MR_Fighter2_short:0 "MiG-29 Fulcrum"
- NKO_MR_Fighter3:0 "Su-30SM"
- NKO_MR_Fighter3_short:0 "Su-30SM"
- NKO_MR_Fighter4:0 "MiG-39 Foxglove"
- NKO_MR_Fighter4_short:0 "MiG-39 Foxglove"
- NKO_MR_Fighter5:0 "Mikoyan LMFS"
- NKO_MR_Fighter5_short:0 "Mikoyan LMFS"
+ NKO_MR_Fighter1:0 "МиГ-21 «Фишбэд»"
+ NKO_MR_Fighter1_short:0 "МиГ-21 «Фишбэд»"
+ NKO_MR_Fighter2:0 "МиГ-29 «Точка опоры»"
+ NKO_MR_Fighter2_short:0 "МиГ-29 «Точка опоры»"
+ NKO_MR_Fighter3:0 "Су-30СМ"
+ NKO_MR_Fighter3_short:0 "Су-30СМ"
+ NKO_MR_Fighter4:0 "МиГ-39 «Наперстянка»"
+ NKO_MR_Fighter4_short:0 "МиГ-39 «Наперстянка»"
+ NKO_MR_Fighter5:0 "Микоян ЛМФС"
+ NKO_MR_Fighter5_short:0 "Микоян ЛМФС"
 
- NKO_Strike_fighter1:0 "Su-17 Fitter"
- NKO_Strike_fighter1_short:0 "Su-17 Fitter"
- #SOV_Strike_fighter1:0 "Su-22 Fitter"
- NKO_Strike_fighter2:0 "Su-24 Fencer"
- NKO_Strike_fighter2_short:0 "Su-24 Fencer"
- #SOV_Strike_fighter2_variant:0 "MiG-27 Flogger"
- #SOV_Strike_fighter2_short:0 "MiG-27 Flogger"
- NKO_Strike_fighter3:0 "Su-34 Fullback"
- NKO_Strike_fighter3_short:0 "Su-34 Fullback"
- NKO_Strike_fighter4:0 "MiG-40 Flatback-S"
- NKO_Strike_fighter4_short:0 "MiG-40 Flatback-S"
- NKO_Strike_fighter5:0 "MiG-40C Flatpack-S"
- NKO_Strike_fighter5_short:0 "MiG-40C Flatpack-S"
+ NKO_Strike_fighter1:0 "Су-17 «Монтажник»"
+ NKO_Strike_fighter1_short:0 "Су-17 «Монтажник»"
+ #SOV_Strike_fighter1:0 "Су-22 «Монтажник»"
+ NKO_Strike_fighter2:0 "Су-24 «Фехтовальщик»"
+ NKO_Strike_fighter2_short:0 "Су-24 «Фехтовальщик»"
+ #SOV_Strike_fighter2_variant:0 "МиГ-27 «Флоггер»"
+ #SOV_Strike_fighter2_short:0 "МиГ-27 «Флоггер»"
+ NKO_Strike_fighter3:0 "Су-34 «Защитник»"
+ NKO_Strike_fighter3_short:0 "Су-34 «Защитник»"
+ NKO_Strike_fighter4:0 "МиГ-40 «Флэтбэк-С»"
+ NKO_Strike_fighter4_short:0 "МиГ-40 «Флэтбэк-С»"
+ NKO_Strike_fighter5:0 "МиГ-40C «Флэтпак-С»"
+ NKO_Strike_fighter5_short:0 "МиГ-40C «Флэтпак-С»"
 
- NKO_strategic_bomber1:0 "Tu-95 Bear"
- NKO_strategic_bomber1_short:0 "Tu-95 Bear"
- NKO_strategic_bomber2:0 "Tu-22M Blinder"
- NKO_strategic_bomber2_short:0 "Tu-22M Blinder"
- NKO_strategic_bomber3:0 "Tu-160 Blackjack"
- NKO_strategic_bomber3_short:0 "Tu-160 Blackjack"
- NKO_strategic_bomber4:0 "Tu-180 Bandit"
- NKO_strategic_bomber4_short:0 "Tu-180 Bandit"
- NKO_strategic_bomber5:0 "Tupolev PAK-DA"
- NKO_strategic_bomber5_short:0 "Tupolev PAK-DA"
- NKO_strategic_bomber6:0 "Tupolev PAK-DAM"
- NKO_strategic_bomber6_short:0 "Tupolev PAK-DAM"
+ NKO_strategic_bomber1:0 "Ту-95 «Медведь»"
+ NKO_strategic_bomber1_short:0 "Ту-95 «Медведь»"
+ NKO_strategic_bomber2:0 "Ту-22М «Блиндер»"
+ NKO_strategic_bomber2_short:0 "Ту-22М «Блиндер»"
+ NKO_strategic_bomber3:0 "Ту-160 «Блэкджек»"
+ NKO_strategic_bomber3_short:0 "Ту-160 «Блэкджек»"
+ NKO_strategic_bomber4:0 "Ту-180 «Бандит»"
+ NKO_strategic_bomber4_short:0 "Ту-180 «Бандит»"
+ NKO_strategic_bomber5:0 "Туполев ПАК ДА"
+ NKO_strategic_bomber5_short:0 "Туполев ПАК ДА"
+ NKO_strategic_bomber6:0 "Туполев ПАК ДАМ"
+ NKO_strategic_bomber6_short:0 "Туполев ПАК ДАМ"
 
- NKO_cas1:0 "YAK-38"
- NKO_cas1_short:0 "YAK-38"
- NKO_cas2:0 "Su-25 Frogfoot-T"
- NKO_cas2_short:0 "Su-25T"
- NKO_cas3:0 "Su-39"
- NKO_cas3_short:0 "Su-39"
- NKO_cas4:0 "Su-39M"
- NKO_cas4_short:0 "Su-39M"
- NKO_cas5:0 "Su-39M2"
- NKO_cas5_short:0 "Su-39M2"
+ NKO_cas1:0 "Як-38"
+ NKO_cas1_short:0 "Як-38"
+ NKO_cas2:0 "Су-25 «Лягушачья лапа-Т»"
+ NKO_cas2_short:0 "Су-25T"
+ NKO_cas3:0 "Су-39"
+ NKO_cas3_short:0 "Су-39"
+ NKO_cas4:0 "Су-39M"
+ NKO_cas4_short:0 "Су-39M"
+ NKO_cas5:0 "Су-39M2"
+ NKO_cas5_short:0 "Су-39M2"
 
- NKO_naval_plane1:0 "Ilyushin Il-38"
- NKO_naval_plane1_short:0 "Ilyushin Il-38"
- NKO_naval_plane2:0 "Tu-142"
- NKO_naval_plane2_short:0 "Tu-142"
- NKO_naval_plane3:0 "Tu-142M"
- NKO_naval_plane3_short:0 "Tu-142M"
- NKO_naval_plane4:0 "Tu-142M2"
- NKO_naval_plane4_short:0 "Tu-142M2"
+ NKO_naval_plane1:0 "Ильюшин Ил-38"
+ NKO_naval_plane1_short:0 "Ильюшин Ил-38"
+ NKO_naval_plane2:0 "Ту-142"
+ NKO_naval_plane2_short:0 "Ту-142"
+ NKO_naval_plane3:0 "Ту-142М"
+ NKO_naval_plane3_short:0 "Ту-142М"
+ NKO_naval_plane4:0 "Ту-142М2"
+ NKO_naval_plane4_short:0 "Ту-142М2"
 
- NKO_transport_plane1:0 "Antonov An-26"
- NKO_transport_plane1_short:0 "An-26"
- NKO_transport_plane2:0 "Ilyushin Il-76"
- NKO_transport_plane2_short:0 "Il-76"
- NKO_transport_plane3:0 "Ilyushin Il-76MD"
- NKO_transport_plane3_short:0 "Il-76MD"
- NKO_transport_plane4:0 "PAK-TA"
- NKO_transport_plane4_short:0 "PAK-TA"
+ NKO_transport_plane1:0 "Антонов Ан-26"
+ NKO_transport_plane1_short:0 "Ан-26"
+ NKO_transport_plane2:0 "Ильюшин Ил-76"
+ NKO_transport_plane2_short:0 "Ил-76"
+ NKO_transport_plane3:0 "Ильюшин Ил-76МД"
+ NKO_transport_plane3_short:0 "Ил-76МД"
+ NKO_transport_plane4:0 "ПАК ТА"
+ NKO_transport_plane4_short:0 "ПАК ТА"
 
  NKO_attack_helicopter1:0 "Hughes 500E"
  NKO_attack_helicopter1_short:0 "Hughes 500E"
@@ -8098,21 +8098,21 @@
  NKO_transport_helicopter4_short:0 "Mi-38"
 
  ### Syria ###
- SYR_AS_Fighter1:0 "MiG-23 Flogger"
- SYR_AS_Fighter1_short:0 "MiG-23 Flogger"
+ SYR_AS_Fighter1:0 "МиГ-23 «Бичеватель»"
+ SYR_AS_Fighter1_short:0 "МиГ-23 «Бичеватель»"
 
- SYR_L_Strike_fighter1:0 "Aero L-39 Albatros"
- SYR_L_Strike_fighter1_short:0 "Aero L-39"
+ SYR_L_Strike_fighter1:0 "Аэро Л-39 «Альбатрос»"
+ SYR_L_Strike_fighter1_short:0 "Аэро Л-39"
 
- SYR_MR_Fighter1:0 "MiG-21 Fishbed"
- SYR_MR_Fighter1_short:0 "MiG-21 Fishbed"
- SYR_MR_Fighter2:0 "MiG-29 Fulcrum"
- SYR_MR_Fighter2_short:0 "MiG-29 Fulcrum"
+ SYR_MR_Fighter1:0 "МиГ-21 «Фишбэд»"
+ SYR_MR_Fighter1_short:0 "МиГ-21 «Фишбэд»"
+ SYR_MR_Fighter2:0 "МиГ-29 «Точка опоры»"
+ SYR_MR_Fighter2_short:0 "МиГ-29 «Точка опоры»"
 
- SYR_Strike_fighter1:0 "Su-22 Fitter"
- SYR_Strike_fighter1_short:0 "Su-22 Fitter"
- SYR_Strike_fighter2:0 "Su-24 Fencer"
- SYR_Strike_fighter2_short:0 "Su-24 Fencer"
+ SYR_Strike_fighter1:0 "Су-22 «Монтажник»"
+ SYR_Strike_fighter1_short:0 "Су-22 «Монтажник»"
+ SYR_Strike_fighter2:0 "Су-24 «Фехтовальщик»"
+ SYR_Strike_fighter2_short:0 "Су-24 «Фехтовальщик»"
 
  ### Sweden ###
  SWE_AS_Fighter1:0 "J 35A Draken"
@@ -8540,18 +8540,18 @@
 
  ### Ukraine ###
 
- UKR_transport_plane1:0 "Antonov An-26"
- UKR_transport_plane1_short:0 "An-26"
- UKR_transport_plane2:0 "Antonov An-72"
- UKR_transport_plane2_short:0 "An-72"
- UKR_transport_plane3:0 "Antonov An-124 Ruslan"
- UKR_transport_plane3_short:0 "An-124 Ruslan"
- UKR_transport_plane4:0 "Antonov An-178"
- UKR_transport_plane4_short:0 "An-178"
+ UKR_transport_plane1:0 "Антонов Ан-26"
+ UKR_transport_plane1_short:0 "Ан-26"
+ UKR_transport_plane2:0 "Антонов Ан-72"
+ UKR_transport_plane2_short:0 "Ан-72"
+ UKR_transport_plane3:0 "Антонов Ан-124 «Руслан»"
+ UKR_transport_plane3_short:0 "Ан-124 «Руслан»"
+ UKR_transport_plane4:0 "Антонов Ан-178"
+ UKR_transport_plane4_short:0 "Ан-178"
 
  ### Vietnam ###
 
- #VIE_AS_Fighter2_variant:0 "Su-30MK2"
+ #VIE_AS_Fighter2_variant:0 "Су-30MK2"
 
  #####################Attack Helicopter####################
 
