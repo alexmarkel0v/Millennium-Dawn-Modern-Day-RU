@@ -2460,7 +2460,7 @@
  EUvote.4305.d: "Таков результат голосования по [EU_focus_name_Loc]:\nИз суммарного числа [?global.var_EUvoteTotal] государства-члены, проголосовавшие /"ЗА/" [?global.var_EUvoteYes] государства-члены, представляющие [?global.var_EUpopYes|%2] населения ЕС и проголосовавшие /"НЕТ/" [?global.var_EUvoteNo] государства-члены, представляющие [?global.var_EUpopNo|%2] населения ЕС.\n[EU_voting_majority_Loc][EU_voting_result_Loc]\nИндивидуальное голосование было следующим:\n[ALB_Vote_Loc][ARM_Vote_Loc][AUS_Vote_Loc][AZE_Vote_Loc][BEL_Vote_Loc][BLR_Vote_Loc][BOS_Vote_Loc][BUL_Vote_Loc][CAT_Vote_Loc][CRE_Vote_Loc][CRO_Vote_Loc][CYP_Vote_Loc][CZE_Vote_Loc][DEN_Vote_Loc][ENG_Vote_Loc][EST_Vote_Loc][FIN_Vote_Loc][FRA_Vote_Loc][FYR_Vote_Loc][GEO_Vote_Loc][GER_Vote_Loc][GRE_Vote_Loc][HOL_Vote_Loc][HUN_Vote_Loc][ICE_Vote_Loc][IRE_Vote_Loc][ITA_Vote_Loc][KOS_Vote_Loc][LAT_Vote_Loc][LIT_Vote_Loc][LUX_Vote_Loc][MLT_Vote_Loc][MLV_Vote_Loc][MNT_Vote_Loc][NOR_Vote_Loc][POL_Vote_Loc][POR_Vote_Loc][ROM_Vote_Loc][SCL_Vote_Loc][SCO_Vote_Loc][SER_Vote_Loc][SLO_Vote_Loc][SLV_Vote_Loc][SPR_Vote_Loc][SWE_Vote_Loc][SWI_Vote_Loc][TUR_Vote_Loc][UKR_Vote_Loc][WAS_Vote_Loc]"
  EUvote.4305.a: "Хорошо!"
  EUvote.5305.t: "Время повторить"
- EUvote.5305.d: "Enough time has passed since the vote on EuroArmy was dismissed. Every member state can put the proposal to the vote again."
+ EUvote.5305.d: "Прошло достаточно времени с тех пор, как голосование по Евроармии было отклонено. Каждое государство-член может снова поставить предложение на голосование."
  EUvote.5305.a: "Хорошо!"
 
  ### EuroNavy ###
@@ -2474,7 +2474,7 @@
  EUvote.4306.d: "Таков результат голосования по [EU_focus_name_Loc]:\nИз суммарного числа [?global.var_EUvoteTotal] государства-члены, проголосовавшие /"ЗА/" [?global.var_EUvoteYes] государства-члены, представляющие [?global.var_EUpopYes|%2] населения ЕС и проголосовавшие /"НЕТ/" [?global.var_EUvoteNo] государства-члены, представляющие [?global.var_EUpopNo|%2] населения ЕС.\n[EU_voting_majority_Loc][EU_voting_result_Loc]\nИндивидуальное голосование было следующим:\n[ALB_Vote_Loc][ARM_Vote_Loc][AUS_Vote_Loc][AZE_Vote_Loc][BEL_Vote_Loc][BLR_Vote_Loc][BOS_Vote_Loc][BUL_Vote_Loc][CAT_Vote_Loc][CRE_Vote_Loc][CRO_Vote_Loc][CYP_Vote_Loc][CZE_Vote_Loc][DEN_Vote_Loc][ENG_Vote_Loc][EST_Vote_Loc][FIN_Vote_Loc][FRA_Vote_Loc][FYR_Vote_Loc][GEO_Vote_Loc][GER_Vote_Loc][GRE_Vote_Loc][HOL_Vote_Loc][HUN_Vote_Loc][ICE_Vote_Loc][IRE_Vote_Loc][ITA_Vote_Loc][KOS_Vote_Loc][LAT_Vote_Loc][LIT_Vote_Loc][LUX_Vote_Loc][MLT_Vote_Loc][MLV_Vote_Loc][MNT_Vote_Loc][NOR_Vote_Loc][POL_Vote_Loc][POR_Vote_Loc][ROM_Vote_Loc][SCL_Vote_Loc][SCO_Vote_Loc][SER_Vote_Loc][SLO_Vote_Loc][SLV_Vote_Loc][SPR_Vote_Loc][SWE_Vote_Loc][SWI_Vote_Loc][TUR_Vote_Loc][UKR_Vote_Loc][WAS_Vote_Loc]"
  EUvote.4306.a: "Хорошо!"
  EUvote.5306.t: "Время повторить"
- EUvote.5306.d: "Enough time has passed since the vote on EuroNavy was dismissed. Every member state can put the proposal to the vote again."
+ EUvote.5306.d: "Прошло достаточно времени с тех пор, как голосование по Еврофлоту было отклонено. Каждое государство-член может снова поставить предложение на голосование."
  EUvote.5306.a: "Хорошо!"
 
  ### EU Permanent Member of the UNSC ###
@@ -2586,7 +2586,7 @@
  EUvote.4405.d: "Таков результат голосования по [EU_focus_name_Loc]:\nИз суммарного числа [?global.var_EUvoteTotal] государства-члены, проголосовавшие /"ЗА/" [?global.var_EUvoteYes] государства-члены, представляющие [?global.var_EUpopYes|%2] населения ЕС и проголосовавшие /"НЕТ/" [?global.var_EUvoteNo] государства-члены, представляющие [?global.var_EUpopNo|%2] населения ЕС.\n[EU_voting_majority_Loc][EU_voting_result_Loc]\nИндивидуальное голосование было следующим:\n[ALB_Vote_Loc][ARM_Vote_Loc][AUS_Vote_Loc][AZE_Vote_Loc][BEL_Vote_Loc][BLR_Vote_Loc][BOS_Vote_Loc][BUL_Vote_Loc][CAT_Vote_Loc][CRE_Vote_Loc][CRO_Vote_Loc][CYP_Vote_Loc][CZE_Vote_Loc][DEN_Vote_Loc][ENG_Vote_Loc][EST_Vote_Loc][FIN_Vote_Loc][FRA_Vote_Loc][FYR_Vote_Loc][GEO_Vote_Loc][GER_Vote_Loc][GRE_Vote_Loc][HOL_Vote_Loc][HUN_Vote_Loc][ICE_Vote_Loc][IRE_Vote_Loc][ITA_Vote_Loc][KOS_Vote_Loc][LAT_Vote_Loc][LIT_Vote_Loc][LUX_Vote_Loc][MLT_Vote_Loc][MLV_Vote_Loc][MNT_Vote_Loc][NOR_Vote_Loc][POL_Vote_Loc][POR_Vote_Loc][ROM_Vote_Loc][SCL_Vote_Loc][SCO_Vote_Loc][SER_Vote_Loc][SLO_Vote_Loc][SLV_Vote_Loc][SPR_Vote_Loc][SWE_Vote_Loc][SWI_Vote_Loc][TUR_Vote_Loc][UKR_Vote_Loc][WAS_Vote_Loc]"
  EUvote.4405.a: "Хорошо!"
  EUvote.5405.t: "Время повторить"
- EUvote.5405.d: "Enough time has passed since the vote on EU–Turkey deal was dismissed. Every member state can put the proposal to the vote again."
+ EUvote.5405.d: "Прошло достаточно времени с тех пор, как голосование по ЕС-Турция было отклонено. Каждое государство-член может снова поставить предложение на голосование."
  EUvote.5405.a: "Хорошо!"
 
  ### European Asylum Agency ###
@@ -2726,7 +2726,7 @@
  EUvote.4701.d: "Таков результат голосования по [EU_focus_name_Loc]:\nИз суммарного числа [?global.var_EUvoteTotal] государства-члены, проголосовавшие /"ЗА/" [?global.var_EUvoteYes] государства-члены, представляющие [?global.var_EUpopYes|%2] населения ЕС и проголосовавшие /"НЕТ/" [?global.var_EUvoteNo] государства-члены, представляющие [?global.var_EUpopNo|%2] населения ЕС.\n[EU_voting_majority_Loc][EU_voting_result_Loc]\nИндивидуальное голосование было следующим:\n[ALB_Vote_Loc][ARM_Vote_Loc][AUS_Vote_Loc][AZE_Vote_Loc][BEL_Vote_Loc][BLR_Vote_Loc][BOS_Vote_Loc][BUL_Vote_Loc][CAT_Vote_Loc][CRE_Vote_Loc][CRO_Vote_Loc][CYP_Vote_Loc][CZE_Vote_Loc][DEN_Vote_Loc][ENG_Vote_Loc][EST_Vote_Loc][FIN_Vote_Loc][FRA_Vote_Loc][FYR_Vote_Loc][GEO_Vote_Loc][GER_Vote_Loc][GRE_Vote_Loc][HOL_Vote_Loc][HUN_Vote_Loc][ICE_Vote_Loc][IRE_Vote_Loc][ITA_Vote_Loc][KOS_Vote_Loc][LAT_Vote_Loc][LIT_Vote_Loc][LUX_Vote_Loc][MLT_Vote_Loc][MLV_Vote_Loc][MNT_Vote_Loc][NOR_Vote_Loc][POL_Vote_Loc][POR_Vote_Loc][ROM_Vote_Loc][SCL_Vote_Loc][SCO_Vote_Loc][SER_Vote_Loc][SLO_Vote_Loc][SLV_Vote_Loc][SPR_Vote_Loc][SWE_Vote_Loc][SWI_Vote_Loc][TUR_Vote_Loc][UKR_Vote_Loc][WAS_Vote_Loc]"
  EUvote.4701.a: "Хорошо!"
  EUvote.5701.t: "Время повторить"
- EUvote.5701.d: "Enough time has passed since the vote on Article 50 was dismissed. Every member state can put the proposal to the vote again."
+ EUvote.5701.d: "Прошло достаточно времени с тех пор, как голосование по Статье 50 было отклонено. Каждое государство-член может снова поставить предложение на голосование."
  EUvote.5701.a: "Хорошо!"
 
  ### Withdrawal Treaty ###
@@ -2852,7 +2852,7 @@
  EUvote.4606.d: "Таков результат голосования по [EU_focus_name_Loc]:\nИз суммарного числа [?global.var_EUvoteTotal] государства-члены, проголосовавшие /"ЗА/" [?global.var_EUvoteYes] государства-члены, представляющие [?global.var_EUpopYes|%2] населения ЕС и проголосовавшие /"НЕТ/" [?global.var_EUvoteNo] государства-члены, представляющие [?global.var_EUpopNo|%2] населения ЕС.\n[EU_voting_majority_Loc][EU_voting_result_Loc]\nИндивидуальное голосование было следующим:\n[ALB_Vote_Loc][ARM_Vote_Loc][AUS_Vote_Loc][AZE_Vote_Loc][BEL_Vote_Loc][BLR_Vote_Loc][BOS_Vote_Loc][BUL_Vote_Loc][CAT_Vote_Loc][CRE_Vote_Loc][CRO_Vote_Loc][CYP_Vote_Loc][CZE_Vote_Loc][DEN_Vote_Loc][ENG_Vote_Loc][EST_Vote_Loc][FIN_Vote_Loc][FRA_Vote_Loc][FYR_Vote_Loc][GEO_Vote_Loc][GER_Vote_Loc][GRE_Vote_Loc][HOL_Vote_Loc][HUN_Vote_Loc][ICE_Vote_Loc][IRE_Vote_Loc][ITA_Vote_Loc][KOS_Vote_Loc][LAT_Vote_Loc][LIT_Vote_Loc][LUX_Vote_Loc][MLT_Vote_Loc][MLV_Vote_Loc][MNT_Vote_Loc][NOR_Vote_Loc][POL_Vote_Loc][POR_Vote_Loc][ROM_Vote_Loc][SCL_Vote_Loc][SCO_Vote_Loc][SER_Vote_Loc][SLO_Vote_Loc][SLV_Vote_Loc][SPR_Vote_Loc][SWE_Vote_Loc][SWI_Vote_Loc][TUR_Vote_Loc][UKR_Vote_Loc][WAS_Vote_Loc]"
  EUvote.4606.a: "Хорошо!"
  EUvote.5606.t: "Время повторить"
- EUvote.5606.d: "Enough time has passed since the vote on Turkey was dismissed. Every member state can put the proposal to the vote again."
+ EUvote.5606.d: "Прошло достаточно времени с тех пор, как голосование по Турции было отклонено. Каждое государство-член может снова поставить предложение на голосование."
  EUvote.5606.a: "Хорошо!"
 
  ### Black Sea Enlargement ###
@@ -2880,7 +2880,7 @@
  EUvote.4608.d: "Таков результат голосования по [EU_focus_name_Loc]:\nИз суммарного числа [?global.var_EUvoteTotal] государства-члены, проголосовавшие /"ЗА/" [?global.var_EUvoteYes] государства-члены, представляющие [?global.var_EUpopYes|%2] населения ЕС и проголосовавшие /"НЕТ/" [?global.var_EUvoteNo] государства-члены, представляющие [?global.var_EUpopNo|%2] населения ЕС.\n[EU_voting_majority_Loc][EU_voting_result_Loc]\nИндивидуальное голосование было следующим:\n[ALB_Vote_Loc][ARM_Vote_Loc][AUS_Vote_Loc][AZE_Vote_Loc][BEL_Vote_Loc][BLR_Vote_Loc][BOS_Vote_Loc][BUL_Vote_Loc][CAT_Vote_Loc][CRE_Vote_Loc][CRO_Vote_Loc][CYP_Vote_Loc][CZE_Vote_Loc][DEN_Vote_Loc][ENG_Vote_Loc][EST_Vote_Loc][FIN_Vote_Loc][FRA_Vote_Loc][FYR_Vote_Loc][GEO_Vote_Loc][GER_Vote_Loc][GRE_Vote_Loc][HOL_Vote_Loc][HUN_Vote_Loc][ICE_Vote_Loc][IRE_Vote_Loc][ITA_Vote_Loc][KOS_Vote_Loc][LAT_Vote_Loc][LIT_Vote_Loc][LUX_Vote_Loc][MLT_Vote_Loc][MLV_Vote_Loc][MNT_Vote_Loc][NOR_Vote_Loc][POL_Vote_Loc][POR_Vote_Loc][ROM_Vote_Loc][SCL_Vote_Loc][SCO_Vote_Loc][SER_Vote_Loc][SLO_Vote_Loc][SLV_Vote_Loc][SPR_Vote_Loc][SWE_Vote_Loc][SWI_Vote_Loc][TUR_Vote_Loc][UKR_Vote_Loc][WAS_Vote_Loc]"
  EUvote.4608.a: "Хорошо!"
  EUvote.5608.t: "Время повторить"
- EUvote.5608.d: "Enough time has passed since the vote on Caucasus Enlargement was dismissed. Every member state can put the proposal to the vote again."
+ EUvote.5608.d: "Прошло достаточно времени с тех пор, как голосование по Кавказскому расширению было отклонено. Каждое государство-член может снова поставить предложение на голосование."
  EUvote.5608.a: "Хорошо!"
 
  ### European Economic Area ###
@@ -2894,7 +2894,7 @@
  EUvote.4609.d: "Таков результат голосования по [EU_focus_name_Loc]:\nИз суммарного числа [?global.var_EUvoteTotal] государства-члены, проголосовавшие /"ЗА/" [?global.var_EUvoteYes] государства-члены, представляющие [?global.var_EUpopYes|%2] населения ЕС и проголосовавшие /"НЕТ/" [?global.var_EUvoteNo] государства-члены, представляющие [?global.var_EUpopNo|%2] населения ЕС.\n[EU_voting_majority_Loc][EU_voting_result_Loc]\nИндивидуальное голосование было следующим:\n[ALB_Vote_Loc][ARM_Vote_Loc][AUS_Vote_Loc][AZE_Vote_Loc][BEL_Vote_Loc][BLR_Vote_Loc][BOS_Vote_Loc][BUL_Vote_Loc][CAT_Vote_Loc][CRE_Vote_Loc][CRO_Vote_Loc][CYP_Vote_Loc][CZE_Vote_Loc][DEN_Vote_Loc][ENG_Vote_Loc][EST_Vote_Loc][FIN_Vote_Loc][FRA_Vote_Loc][FYR_Vote_Loc][GEO_Vote_Loc][GER_Vote_Loc][GRE_Vote_Loc][HOL_Vote_Loc][HUN_Vote_Loc][ICE_Vote_Loc][IRE_Vote_Loc][ITA_Vote_Loc][KOS_Vote_Loc][LAT_Vote_Loc][LIT_Vote_Loc][LUX_Vote_Loc][MLT_Vote_Loc][MLV_Vote_Loc][MNT_Vote_Loc][NOR_Vote_Loc][POL_Vote_Loc][POR_Vote_Loc][ROM_Vote_Loc][SCL_Vote_Loc][SCO_Vote_Loc][SER_Vote_Loc][SLO_Vote_Loc][SLV_Vote_Loc][SPR_Vote_Loc][SWE_Vote_Loc][SWI_Vote_Loc][TUR_Vote_Loc][UKR_Vote_Loc][WAS_Vote_Loc]"
  EUvote.4609.a: "Хорошо!"
  EUvote.5609.t: "Время повторить"
- EUvote.5609.d: "Enough time has passed since the vote on European Economic Area was dismissed. Every member state can put the proposal to the vote again."
+ EUvote.5609.d: "Прошло достаточно времени с тех пор, как голосование по Европейской Экономической Зоне было отклонено. Каждое государство-член может снова поставить предложение на голосование."
  EUvote.5609.a: "Хорошо!"
 
  ### Belarus ###
@@ -2908,7 +2908,7 @@
  EUvote.4610.d: "Таков результат голосования по [EU_focus_name_Loc]:\nИз суммарного числа [?global.var_EUvoteTotal] государства-члены, проголосовавшие /"ЗА/" [?global.var_EUvoteYes] государства-члены, представляющие [?global.var_EUpopYes|%2] населения ЕС и проголосовавшие /"НЕТ/" [?global.var_EUvoteNo] государства-члены, представляющие [?global.var_EUpopNo|%2] населения ЕС.\n[EU_voting_majority_Loc][EU_voting_result_Loc]\nИндивидуальное голосование было следующим:\n[ALB_Vote_Loc][ARM_Vote_Loc][AUS_Vote_Loc][AZE_Vote_Loc][BEL_Vote_Loc][BLR_Vote_Loc][BOS_Vote_Loc][BUL_Vote_Loc][CAT_Vote_Loc][CRE_Vote_Loc][CRO_Vote_Loc][CYP_Vote_Loc][CZE_Vote_Loc][DEN_Vote_Loc][ENG_Vote_Loc][EST_Vote_Loc][FIN_Vote_Loc][FRA_Vote_Loc][FYR_Vote_Loc][GEO_Vote_Loc][GER_Vote_Loc][GRE_Vote_Loc][HOL_Vote_Loc][HUN_Vote_Loc][ICE_Vote_Loc][IRE_Vote_Loc][ITA_Vote_Loc][KOS_Vote_Loc][LAT_Vote_Loc][LIT_Vote_Loc][LUX_Vote_Loc][MLT_Vote_Loc][MLV_Vote_Loc][MNT_Vote_Loc][NOR_Vote_Loc][POL_Vote_Loc][POR_Vote_Loc][ROM_Vote_Loc][SCL_Vote_Loc][SCO_Vote_Loc][SER_Vote_Loc][SLO_Vote_Loc][SLV_Vote_Loc][SPR_Vote_Loc][SWE_Vote_Loc][SWI_Vote_Loc][TUR_Vote_Loc][UKR_Vote_Loc][WAS_Vote_Loc]"
  EUvote.4610.a: "Хорошо!"
  EUvote.5610.t: "Время повторить"
- EUvote.5610.d: "Enough time has passed since the vote on Belarus was dismissed. Every member state can put the proposal to the vote again."
+ EUvote.5610.d: "Прошло достаточно времени с тех пор, как было отклонено голосование по Беларуси. Каждое государство-член может снова поставить это предложение на голосование."
  EUvote.5610.a: "Хорошо!"
 
  ### Internal Enlargement ###
@@ -2922,7 +2922,7 @@
  EUvote.4611.d: "Таков результат голосования по [EU_focus_name_Loc]:\nИз суммарного числа [?global.var_EUvoteTotal] государства-члены, проголосовавшие /"ЗА/" [?global.var_EUvoteYes] государства-члены, представляющие [?global.var_EUpopYes|%2] населения ЕС и проголосовавшие /"НЕТ/" [?global.var_EUvoteNo] государства-члены, представляющие [?global.var_EUpopNo|%2] населения ЕС.\n[EU_voting_majority_Loc][EU_voting_result_Loc]\nИндивидуальное голосование было следующим:\n[ALB_Vote_Loc][ARM_Vote_Loc][AUS_Vote_Loc][AZE_Vote_Loc][BEL_Vote_Loc][BLR_Vote_Loc][BOS_Vote_Loc][BUL_Vote_Loc][CAT_Vote_Loc][CRE_Vote_Loc][CRO_Vote_Loc][CYP_Vote_Loc][CZE_Vote_Loc][DEN_Vote_Loc][ENG_Vote_Loc][EST_Vote_Loc][FIN_Vote_Loc][FRA_Vote_Loc][FYR_Vote_Loc][GEO_Vote_Loc][GER_Vote_Loc][GRE_Vote_Loc][HOL_Vote_Loc][HUN_Vote_Loc][ICE_Vote_Loc][IRE_Vote_Loc][ITA_Vote_Loc][KOS_Vote_Loc][LAT_Vote_Loc][LIT_Vote_Loc][LUX_Vote_Loc][MLT_Vote_Loc][MLV_Vote_Loc][MNT_Vote_Loc][NOR_Vote_Loc][POL_Vote_Loc][POR_Vote_Loc][ROM_Vote_Loc][SCL_Vote_Loc][SCO_Vote_Loc][SER_Vote_Loc][SLO_Vote_Loc][SLV_Vote_Loc][SPR_Vote_Loc][SWE_Vote_Loc][SWI_Vote_Loc][TUR_Vote_Loc][UKR_Vote_Loc][WAS_Vote_Loc]"
  EUvote.4611.a: "Хорошо!"
  EUvote.5611.t: "Время повторить"
- EUvote.5611.d: "Enough time has passed since the vote on Internal Enlargement was dismissed. Every member state can put the proposal to the vote again."
+ EUvote.5611.d: "Прошло достаточно времени с тех пор, как было отклонено голосование по внутреннему расширению. Каждое государство-член может снова поставить это предложение на голосование."
  EUvote.5611.a: "Хорошо!"
 
 
@@ -2932,19 +2932,19 @@
  EUvote_news.2.a: "Хорошо!"
 
  ### EU Majority Voting ###
- EU_unanimity_voting: "This was a unanimity voting."
- EU_qualified_majority_voting: "This was a qualified majority voting."
- EU_majority_voting: "This was a majority voting."
+ EU_unanimity_voting: "Это было единогласное голосование."
+ EU_qualified_majority_voting: "Это было голосование квалифицированным большинством."
+ EU_majority_voting: "Это было голосование большинством."
 
  ### EU Majority Voting YES ###
- EU_unanimity_voting_YES: "So the proposal was ACCEPTED!"
- EU_qualified_majority_voting_YES: "So the proposal was ACCEPTED!"
- EU_majority_voting_YES: "So the proposal was ACCEPTED!"
+ EU_unanimity_voting_YES: "Итак, предложение было ПРИНЯТО!"
+ EU_qualified_majority_voting_YES: "Итак, предложение было ПРИНЯТО!"
+ EU_majority_voting_YES: "Итак, предложение было ПРИНЯТО!"
 
  ### EU Majority Voting NO ###
- EU_unanimity_voting_NO: "So the proposal was DISMISSED!"
- EU_qualified_majority_voting_NO: "So the proposal was DISMISSED!"
- EU_majority_voting_NO: "So the proposal was DISMISSED!"
+ EU_unanimity_voting_NO: "Итак, предложение было ОТКЛОНЕНО!"
+ EU_qualified_majority_voting_NO: "Итак, предложение было ОТКЛОНЕНО!"
+ EU_majority_voting_NO: "Итак, предложение было ОТКЛОНЕНО!"
 
  ### Vote_YES ### adding new memberstates via EU_Memberstates.xlsx sheet Vote_YES&NO
  ALB_Vote_YES:0 "[ALB.GetNameWithFlag] ДА "
