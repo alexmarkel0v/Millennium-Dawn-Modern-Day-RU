@@ -15,7 +15,7 @@
  RECALL_VOLUNTEERS_ACTION_DESC: "В какой-то момент мы можем отозвать нашу интервенционную группу."
  RECALL_VOLUNTEERS_TOOLTIP: "§Y[This.GetNameWithFlag]§! §Rдолжны иметь активные силы вмешательства от нас, чтобы мы могли отступить.§!"
  RECALL_VOLUNTEERS_TOOLTIP_G: "§Y[This.GetNameWithFlag]§! должны иметь активные силы вмешательства от нас, чтобы мы могли отступить."
- RECALL_VOLUNTEERS_SEND_DESC: "Битва §Y[This.GetNameWithFlag]§! оказалась не в нашей битве. Пришло время вывести наши силы из конфликта.\n\n§YЭта акция выведет наши силы вмешательства из §Y[This.GetNameWithFlag]§!"
+ RECALL_VOLUNTEERS_SEND_DESC: "Битва §Y[This.GetNameWithFlag]§! оказалась не в наших интересах. Пришло время вывести наши силы из конфликта.\n\n§YЭта акция выведет наши силы вмешательства из §Y[This.GetNameWithFlag]§!"
 
  #TRADE AGREEMENT
  condition_two: "Нежелание из-за правительственного типа"
