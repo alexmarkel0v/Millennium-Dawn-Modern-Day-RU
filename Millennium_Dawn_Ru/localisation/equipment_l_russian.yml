@@ -2184,33 +2184,33 @@
  ITA_infantry_weapons7: "ARX260A1"
 
  ITA_command_control_equipment: "BFT"
- ITA_command_control_equipment_desc: "C&C Equipment from Cold-war era produced with Slovakia at the Czechoslovak era."
+ ITA_command_control_equipment_desc: "Оборудование C&C времен холодной войны, произведенное в Словакии в эпоху Чехословакии."
  ITA_command_control_equipment1: "LC2"
- ITA_command_control_equipment1_desc: "C2 (Command and Control) is the first generation of C2 equipment. Command and Control Equipment is the system empowering leadership to exercise authority and direction over assigned forces for the accomplishment of missions and tasks. Efficient Command and Control leads to greater organization and morale. "
+ ITA_command_control_equipment1_desc: "C2 (Command and Control) - первое поколение оборудования C2. Средства командования и управления - это система, позволяющая руководству осуществлять власть и управление над назначенными силами для выполнения миссий и задач. Эффективное командование и управление ведет к повышению организованности и морального духа."
  ITA_command_control_equipment2: "LC2EVO"
- ITA_command_control_equipment2_desc: "C3 (Command, Control & Communication) is the second generation of C2 equipment. Command and Control Equipment is the system empowering leadership to exercise authority and direction over assigned forces for the accomplishment of missions and tasks. Efficient Command and Control leads to greater organization and morale. "
+ ITA_command_control_equipment2_desc: "C3 (Command, Control & Communication) - это второе поколение оборудования C2. Средства командования и управления - это система, позволяющая руководству осуществлять власть и управление над назначенными силами для выполнения миссий и задач. Эффективное командование и управление ведет к повышению организованности и морального духа."
  ITA_command_control_equipment3: "SICCONA"
- ITA_command_control_equipment3_desc: "C3ISTAR (Command, Control & Communication, Intelligence, Surveillance, Target Acquisition, and Reconnaissance) is the third generation of C2 equipment. Command and Control Equipment is the system empowering leadership to exercise authority and direction over assigned forces for the accomplishment of missions and tasks. Efficient Command and Control leads to greater organization and morale."
+ ITA_command_control_equipment3_desc: "C3ISTAR (Command, Control & Communication, Intelligence, Surveillance, Target Acquisition, and Reconnaissance) - это третье поколение оборудования C2. Средства командования и управления - это система, позволяющая руководству осуществлять власть и управление над назначенными силами для выполнения миссий и задач. Эффективное командование и управление ведет к повышению организованности и морального духа."
  ITA_command_control_equipment4: "SIACCON ADV"
- ITA_command_control_equipment4_desc: "C4I (Command, Control, Communications, Computers, Intelligence, and Interoperability) is the fourth generation of C2 equipment. Command and Control Equipment is the system empowering leadership to exercise authority and direction over assigned forces for the accomplishment of missions and tasks. Efficient Command and Control leads to greater organization and morale. C4I (Command, Control, Communications, Computers, Intelligence, and Interoperability) is the fourth generation of C2 equipment."
+ ITA_command_control_equipment4_desc: "C4I (Command, Control, Communications, Computers, Intelligence, and Interoperability) - это четвертое поколение оборудования C2. Средства командования и управления - это система, позволяющая руководству осуществлять власть и управление над назначенными силами для выполнения миссий и задач. Эффективное командование и управление ведет к повышению организованности и морального духа. C4I (Command, Control, Communications, Computers, Intelligence, and Interoperability) - это четвертое поколение оборудования C2."
  ITA_command_control_equipment5: "SIACCON NCW"
- ITA_command_control_equipment5_desc: "C4ISTAR (Command, Control, Communications, Computers, Intelligence, Interoperability, Surveillance, Target Acquisition, and Reconnaissance) is the Fifth generation of C2 equipment. Command and Control Equipment is the system empowering leadership to exercise authority and direction over assigned forces for the accomplishment of missions and tasks. Efficient Command and Control leads to greater organization and morale."
+ ITA_command_control_equipment5_desc: "C4ISTAR (Command, Control, Communications, Computers, Intelligence, Interoperability, Surveillance, Target Acquisition, and Reconnaissance) - это пятое поколение оборудования C2. Средства командования и управления - это система, позволяющая руководству осуществлять власть и управление над назначенными силами для выполнения миссий и задач. Эффективное командование и управление ведет к повышению организованности и морального духа."
  ITA_command_control_equipment6: "SIACCON NCW ADV"
- ITA_command_control_equipment6_desc: "C4ISTAR (Command, Control, Communications, Computers, Collaboration, Intelligence, Interoperability, Surveillance, Target Acquisition, and Reconnaissance ) is the Seventh generation of C2 equipment. Command and Control Equipment is the system empowering leadership to exercise authority and direction over assigned forces for the accomplishment of missions and tasks. Efficient Command and Control leads to greater organization and morale."
+ ITA_command_control_equipment6_desc: "C4ISTAR (Command, Control, Communications, Computers, Collaboration, Intelligence, Interoperability, Surveillance, Target Acquisition, and Reconnaissance) - это седьмое поколение оборудования C2. Средства командования и управления - это система, позволяющая руководству осуществлять власть и управление над назначенными силами для выполнения миссий и задач. Эффективное командование и управление ведет к повышению организованности и морального духа."
 
 
  ITA_land_Drone_equipment: "Sistema Micro-APR RQ-9A/B" #Fictional
- ITA_land_Drone_equipment_desc: "First-generation hand-launched drone equipped with basic reconnaissance optics enabling real-time link to the operator's field control computer. It has internal storage for half hour of taken video and fuel for 30 min of flight. It is launched by hand and also used for searching for radio signals."
+ ITA_land_Drone_equipment_desc: "Ручной беспилотник первого поколения, оснащенный базовой разведывательной оптикой, обеспечивающей связь в реальном времени с компьютером полевого управления оператора. Имеет внутреннюю память видеосъемки и топливо на полчаса. Запускается вручную, а также используется для поиска радиосигналов."
  ITA_land_Drone_equipment1: "Sistema Micro-APR RQ-11B/C “RAVEN B/DDL”"
- ITA_land_Drone_equipment1_desc: "Second-generation drone launched with rocket engine from launcher vehicle. The drone is operated from monitoring vehicle and can be also used for target acquisition and jamming. The drone has height ceiling of 4km and 120km range."
+ ITA_land_Drone_equipment1_desc: "Беспилотник второго поколения запускается с помощью ракетного двигателя с пусковой установки. Дрон управляется из машины наблюдения и может также использоваться для захвата целей и постановки помех. Беспилотник имеет потолок высоты 4 км и радиус действия 120 км."
  ITA_land_Drone_equipment2: "Sistema Micro-APR STRIX-C"
- ITA_land_Drone_equipment2_desc: "Upgraded version of RAVEN drone with more endurance, fuel load and increased reliability in sand and dust environments. The drone is made from composite materials extending its range to over 180km "
+ ITA_land_Drone_equipment2_desc: "Модернизированная версия беспилотника RAVEN с увеличенной выносливостью, запасом топлива и повышенной надежностью в условиях песка и пыли. Беспилотник изготовлен из композитных материалов, что увеличивает его дальность полета до 180 км."
  ITA_land_Drone_equipment3: "Sistema Tattico-APR RQ-7C “SHADOW 200”"
- ITA_land_Drone_equipment3_desc: "Surveillance drone designed specially into urban areas equipped with 2nd generation IR/NV and latest jamming devices. Capable of carrying some cargo of his platoon to ease and mostly speed travel times between destinations and objectives.."
+ ITA_land_Drone_equipment3_desc: "Дрон наблюдения, разработанный специально для городских районов, оснащенный ИК/НВ-излучателями 2-го поколения и новейшими устройствами глушения. Может перевозить некоторые грузы своего взвода, чтобы облегчить и, в основном, ускорить время передвижения между пунктами назначения и целями."
  ITA_land_Drone_equipment4: "Sistema Micro-APR SIXTON-A"
- ITA_land_Drone_equipment4_desc: "Drone utilizing advancements in stealth technologies, making this small target even smaller. It has High altitude-capable propeller engine and is capable of taking control of less advanced drones by using its directed signals. Its ceiling is 10km and RCS bellow 0.0001."
+ ITA_land_Drone_equipment4_desc: "Дрон, использующий достижения в области стелс-технологий, делает эту маленькую цель еще меньше. Он оснащен винтовым двигателем, способным работать на большой высоте, и способен брать под контроль менее продвинутые дроны, используя свои направленные сигналы. Его потолок составляет 10 км, а RCS ниже 0,0001."
  ITA_land_Drone_equipment5: "Sistema Tattico-APR RQ-9A “SHADOW 300”" #Fictional
- ITA_land_Drone_equipment5_desc: "Invisible drone with internal storage. It is capable of flying to its objective unspotted because it has projectors on its skin mimicking the sky and clouds or other obstacles. The drone can then utilize its cargo, sensors or equipment inside its cargo bay. It has very quiet rotor blades allowing him to be unheard 1km above ground."
+ ITA_land_Drone_equipment5_desc: "Невидимый дрон с внутренней памятью. Он способен долететь до цели незамеченным, поскольку на его коже расположены проекторы, имитирующие небо, облака или другие препятствия. Затем дрон может использовать свой груз, датчики или оборудование в грузовом отсеке. У него очень тихие лопасти ротора, что позволяет ему быть неслышным на высоте 1 км над землей."
 
 
  ITA_APC_1: "M-113"
@@ -2231,21 +2231,21 @@
  ITA_APC_8_short: "VBM Freccia II"
 
  ITA_Air_APC_1: "M113 ATL" #Fictional
- ITA_Air_APC_1_desc: "Airborne version of the M113 Skot. It main difference is replacement of two passenger seats with parachute boxes with hatches behind the vehicle's turret. It reduces the passenger capacity to 16 or 4x Fire Squadron."
+ ITA_Air_APC_1_desc: "Десантный вариант M113 Skot. Основное отличие - замена двух пассажирских сидений на парашютные ящики с люками за башней машины. Это уменьшает пассажировместимость до 16 человек или 4x огневых эскадрилий."
  ITA_Air_APC_2: "FIAT 6614 ATL" #Fictional
- ITA_Air_APC_2_desc: "Airborne version of the FIAT 6614. Has same features but has slightly reduced internal space due to parachutes fitted inside of the vehicle."
+ ITA_Air_APC_2_desc: "Десантная версия FIAT 6614. Имеет те же характеристики, но немного уменьшенное внутреннее пространство из-за парашютов, установленных внутри машины."
  ITA_Air_APC_3: "FIAT 6616 ATL" #Fictional
- ITA_Air_APC_3_desc: "Airborne version of the FIAT 6616."
+ ITA_Air_APC_3_desc: "Десантная версия FIAT 6616."
  ITA_Air_APC_4: "VBLM Puma 4x4 ATL" #Fictional
- ITA_Air_APC_4_desc: "The VBLM Puma 4x4 is Airbone"
+ ITA_Air_APC_4_desc: "VBLM Puma 4x4 - это десантная машина для ВДВ."
  ITA_Air_APC_5: "VBLM Puma 6x6 ATL" #Fictional
- ITA_Air_APC_5_desc: "The VBLM Puma 6x6 is Airbone"
+ ITA_Air_APC_5_desc: "VBLM Puma 6x6 - это десантная машина для ВДВ."
  ITA_Air_APC_6: "VBM 8x8 Freccia ATL" #Fictional
- ITA_Air_APC_6_desc: "Airborne version of the VBM Freccia with Armor Package ATL, the lightened composite armor to enable the vehicle to be lighter."
+ ITA_Air_APC_6_desc: "Десантный вариант VBM Freccia с бронепакетом ATL - облегченной композитной броней, позволяющей сделать машину более легкой."
  ITA_Air_APC_7: "VBM 8x8 Freccia Hitfist ATL" #Fictional
- ITA_Air_APC_7_desc: "Airborne version of the Freccia Hitfist with Armor Package ATL."
+ ITA_Air_APC_7_desc: "Десантная версия Freccia Hitfist с бронепакетом ATL."
  ITA_Air_APC_8: "VBM Freccia II" #Fictional
- ITA_Air_APC_8_desc: "Airborne version of the Freccia II features only auto-cannon due to weight restraints."
+ ITA_Air_APC_8_desc: "Десантная версия Freccia II оснащена только автоматической пушкой из-за ограничений по весу."
 
 
  ITA_Amph_APC_2: "VCC-1"
@@ -2365,15 +2365,15 @@
  ITA_Heavy_Anti_tank_4_short: "Freccia II SPIKE LR III"
 
  ITA_Anti_Air_0: "FIM-43"
- ITA_Anti_Air_0_desc: "Developed by our own General Dynamics, this missile system uses passive infared homing to track aircraft based on the heat from their exhaust, after the operator tracks their target visually as they would any other small arms. Requiring a direct hit to be lethal, this weapon is crude yet effective."
+ ITA_Anti_Air_0_desc: "Разработанная нашей компанией General Dynamics, эта ракетная система использует пассивное инфракрасное самонаведение для отслеживания самолетов на основе тепла от их выхлопа, после чего оператор отслеживает цель визуально, как и при использовании любого другого стрелкового оружия. Это оружие, требующее прямого попадания для получения летального исхода, является грубым, но эффективным."
  ITA_Anti_Air_1: "FIM-92"
- ITA_Anti_Air_1_desc: "Designed much like its predecessor, this passive air-to-surface missile features several new upgrades from the earlier model such as improved ballistics, software, and a variant with dual IR and UV detection."
+ ITA_Anti_Air_1_desc: "Эта пассивная ракета класса "воздух-поверхность", разработанная так же, как и ее предшественница, имеет несколько новых усовершенствований по сравнению с предыдущей моделью, таких как улучшенная баллистика, программное обеспечение, а также вариант с двойным ИК- и УФ-обнаружением."
  ITA_Anti_Air_2: "FIM-92E"
- ITA_Anti_Air_2_desc: "Continuing on the reliability of the \"Stinger\" platform, General dynamics has improved the system by adding a new rollover sensor and revised control software, the flight behavior has also significantly improved. Additionally, the performance against small targets such as drones, cruise missiles and light reconnaissance helicopters has increased dramatically."
+ ITA_Anti_Air_2_desc: "Продолжая развивать надежность платформы \"Stinger\", компания General Dynamics усовершенствовала систему, добавив новый датчик переворачивания и пересмотрев программное обеспечение управления, поведение в полете также значительно улучшилось. Кроме того, значительно повысилась эффективность борьбы с небольшими целями, такими как беспилотники, крылатые ракеты и легкие разведывательные вертолеты."
  ITA_Anti_Air_3: "FIM-194" #Fictional
- ITA_Anti_Air_3_desc: "As 5'th generation aircraft have made a noticeable presence in the battlefield, this latest iteration of our MANPAD system implements a host of changes to address this new foe. Most notably it's targeting capabilities which range from Command Line of Sight, Laser Guided, as well as UV and IR targeting."
+ ITA_Anti_Air_3_desc: "Поскольку самолеты 5-го поколения стали заметно проявлять себя на поле боя, последняя итерация нашей системы ПЗРК вносит множество изменений для борьбы с этим новым противником. Прежде всего, это возможности наведения на цель, которые варьируются от командной линии видимости, лазерного наведения, а также ультрафиолетового и инфракрасного наведения."
  ITA_Anti_Air_4: "FIM-245" #Fictional
- ITA_Anti_Air_4_desc: "This system created by a DARPA effort is the pinnacle of our MANPAD weapons platforms. With recent advances as well as miniaturizations of sensors our engineers have enabled 1 man with the effective power to destroy or disable some of the stealthiest aircraft available to our adversaries."
+ ITA_Anti_Air_4_desc: "Эта система, созданная в рамках проекта DARPA, является вершиной наших оружейных платформ ПЗРК. Благодаря последним достижениям, а также миниатюризации датчиков наши инженеры позволили одному человеку с эффективной мощностью уничтожить или вывести из строя некоторые из самых скрытных самолетов, имеющихся у наших противников."
 
 
  ITA_util_vehicle_0: "FIAT AR59"
