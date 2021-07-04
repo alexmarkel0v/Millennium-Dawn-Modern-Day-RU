@@ -1065,7 +1065,7 @@
  CHI_minimum_opinion_enthusiastic_CC_tt: "§YКоммунистические партии§! имеют §Gвосторженное§! мнение о [CHI.Getleader]"
  CHI_minimum_opinion_enthusiastic_industry_tt: "§YПромышленные конгломераты§! имеют §Gвосторженное§! мнение о [CHI.Getleader]"
  CHI_shift_away_shanghai_clique_tt: "Власть §YШанхайской Клики§! уменьшится\n"
- CHI_shift_away_youth_league_tt: "Власть §YКоммунистической Лиги Молодежи§! увеличится\n"
+ CHI_shift_away_youth_league_tt: "Власть §YКоммунистической Лиги Молодежи§! уменьшится\n"
 
  CHI_unchained_tt: "The £CHI_pro_emerging_autocrat  §YДемократическая лига Китая§!, £CHI_left_wing_radical  §YРеволюционный комитет Гоминьдана§! и £CHI_neutral_social_democrat  §YАссоциация содействия развитию демократии Китая§! получают §Y5.00%§! поддержки\n"
  CHI_fifth_international_5_tt: "The £generic_Communist_State_small  §YКоммунисты§! получит §Y5.00%§! поддержки\n"
