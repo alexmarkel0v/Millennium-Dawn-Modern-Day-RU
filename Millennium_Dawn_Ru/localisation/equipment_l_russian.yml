@@ -1829,7 +1829,7 @@
  HEZ_artillery_0: "Hadid HM 40"
  HEZ_artillery_1: "Hadid HM 41"
 
- HEZ_Anti_Air_0: "SA-7 Strela-2"
+ HEZ_Anti_Air_0: "СA-7 «Стрела-2»"
  HEZ_Anti_Air_1: "Misagh-1"
  HEZ_Anti_Air_2: "Misagh-2"
  HEZ_SP_Anti_Air_0: "MIM-23 Hawk"
@@ -2184,33 +2184,33 @@
  ITA_infantry_weapons7: "ARX260A1"
 
  ITA_command_control_equipment: "BFT"
- ITA_command_control_equipment_desc: "C&C Equipment from Cold-war era produced with Slovakia at the Czechoslovak era."
+ ITA_command_control_equipment_desc: "Оборудование C&C времен холодной войны, произведенное в Словакии в эпоху Чехословакии."
  ITA_command_control_equipment1: "LC2"
- ITA_command_control_equipment1_desc: "C2 (Command and Control) is the first generation of C2 equipment. Command and Control Equipment is the system empowering leadership to exercise authority and direction over assigned forces for the accomplishment of missions and tasks. Efficient Command and Control leads to greater organization and morale. "
+ ITA_command_control_equipment1_desc: "C2 (Command and Control) - первое поколение оборудования C2. Средства командования и управления - это система, позволяющая руководству осуществлять власть и управление над назначенными силами для выполнения миссий и задач. Эффективное командование и управление ведет к повышению организованности и морального духа."
  ITA_command_control_equipment2: "LC2EVO"
- ITA_command_control_equipment2_desc: "C3 (Command, Control & Communication) is the second generation of C2 equipment. Command and Control Equipment is the system empowering leadership to exercise authority and direction over assigned forces for the accomplishment of missions and tasks. Efficient Command and Control leads to greater organization and morale. "
+ ITA_command_control_equipment2_desc: "C3 (Command, Control & Communication) - это второе поколение оборудования C2. Средства командования и управления - это система, позволяющая руководству осуществлять власть и управление над назначенными силами для выполнения миссий и задач. Эффективное командование и управление ведет к повышению организованности и морального духа."
  ITA_command_control_equipment3: "SICCONA"
- ITA_command_control_equipment3_desc: "C3ISTAR (Command, Control & Communication, Intelligence, Surveillance, Target Acquisition, and Reconnaissance) is the third generation of C2 equipment. Command and Control Equipment is the system empowering leadership to exercise authority and direction over assigned forces for the accomplishment of missions and tasks. Efficient Command and Control leads to greater organization and morale."
+ ITA_command_control_equipment3_desc: "C3ISTAR (Command, Control & Communication, Intelligence, Surveillance, Target Acquisition, and Reconnaissance) - это третье поколение оборудования C2. Средства командования и управления - это система, позволяющая руководству осуществлять власть и управление над назначенными силами для выполнения миссий и задач. Эффективное командование и управление ведет к повышению организованности и морального духа."
  ITA_command_control_equipment4: "SIACCON ADV"
- ITA_command_control_equipment4_desc: "C4I (Command, Control, Communications, Computers, Intelligence, and Interoperability) is the fourth generation of C2 equipment. Command and Control Equipment is the system empowering leadership to exercise authority and direction over assigned forces for the accomplishment of missions and tasks. Efficient Command and Control leads to greater organization and morale. C4I (Command, Control, Communications, Computers, Intelligence, and Interoperability) is the fourth generation of C2 equipment."
+ ITA_command_control_equipment4_desc: "C4I (Command, Control, Communications, Computers, Intelligence, and Interoperability) - это четвертое поколение оборудования C2. Средства командования и управления - это система, позволяющая руководству осуществлять власть и управление над назначенными силами для выполнения миссий и задач. Эффективное командование и управление ведет к повышению организованности и морального духа. C4I (Command, Control, Communications, Computers, Intelligence, and Interoperability) - это четвертое поколение оборудования C2."
  ITA_command_control_equipment5: "SIACCON NCW"
- ITA_command_control_equipment5_desc: "C4ISTAR (Command, Control, Communications, Computers, Intelligence, Interoperability, Surveillance, Target Acquisition, and Reconnaissance) is the Fifth generation of C2 equipment. Command and Control Equipment is the system empowering leadership to exercise authority and direction over assigned forces for the accomplishment of missions and tasks. Efficient Command and Control leads to greater organization and morale."
+ ITA_command_control_equipment5_desc: "C4ISTAR (Command, Control, Communications, Computers, Intelligence, Interoperability, Surveillance, Target Acquisition, and Reconnaissance) - это пятое поколение оборудования C2. Средства командования и управления - это система, позволяющая руководству осуществлять власть и управление над назначенными силами для выполнения миссий и задач. Эффективное командование и управление ведет к повышению организованности и морального духа."
  ITA_command_control_equipment6: "SIACCON NCW ADV"
- ITA_command_control_equipment6_desc: "C4ISTAR (Command, Control, Communications, Computers, Collaboration, Intelligence, Interoperability, Surveillance, Target Acquisition, and Reconnaissance ) is the Seventh generation of C2 equipment. Command and Control Equipment is the system empowering leadership to exercise authority and direction over assigned forces for the accomplishment of missions and tasks. Efficient Command and Control leads to greater organization and morale."
+ ITA_command_control_equipment6_desc: "C4ISTAR (Command, Control, Communications, Computers, Collaboration, Intelligence, Interoperability, Surveillance, Target Acquisition, and Reconnaissance) - это седьмое поколение оборудования C2. Средства командования и управления - это система, позволяющая руководству осуществлять власть и управление над назначенными силами для выполнения миссий и задач. Эффективное командование и управление ведет к повышению организованности и морального духа."
 
 
  ITA_land_Drone_equipment: "Sistema Micro-APR RQ-9A/B" #Fictional
- ITA_land_Drone_equipment_desc: "First-generation hand-launched drone equipped with basic reconnaissance optics enabling real-time link to the operator's field control computer. It has internal storage for half hour of taken video and fuel for 30 min of flight. It is launched by hand and also used for searching for radio signals."
+ ITA_land_Drone_equipment_desc: "Ручной беспилотник первого поколения, оснащенный базовой разведывательной оптикой, обеспечивающей связь в реальном времени с компьютером полевого управления оператора. Имеет внутреннюю память видеосъемки и топливо на полчаса. Запускается вручную, а также используется для поиска радиосигналов."
  ITA_land_Drone_equipment1: "Sistema Micro-APR RQ-11B/C “RAVEN B/DDL”"
- ITA_land_Drone_equipment1_desc: "Second-generation drone launched with rocket engine from launcher vehicle. The drone is operated from monitoring vehicle and can be also used for target acquisition and jamming. The drone has height ceiling of 4km and 120km range."
+ ITA_land_Drone_equipment1_desc: "Беспилотник второго поколения запускается с помощью ракетного двигателя с пусковой установки. Дрон управляется из машины наблюдения и может также использоваться для захвата целей и постановки помех. Беспилотник имеет потолок высоты 4 км и радиус действия 120 км."
  ITA_land_Drone_equipment2: "Sistema Micro-APR STRIX-C"
- ITA_land_Drone_equipment2_desc: "Upgraded version of RAVEN drone with more endurance, fuel load and increased reliability in sand and dust environments. The drone is made from composite materials extending its range to over 180km "
+ ITA_land_Drone_equipment2_desc: "Модернизированная версия беспилотника RAVEN с увеличенной выносливостью, запасом топлива и повышенной надежностью в условиях песка и пыли. Беспилотник изготовлен из композитных материалов, что увеличивает его дальность полета до 180 км."
  ITA_land_Drone_equipment3: "Sistema Tattico-APR RQ-7C “SHADOW 200”"
- ITA_land_Drone_equipment3_desc: "Surveillance drone designed specially into urban areas equipped with 2nd generation IR/NV and latest jamming devices. Capable of carrying some cargo of his platoon to ease and mostly speed travel times between destinations and objectives.."
+ ITA_land_Drone_equipment3_desc: "Дрон наблюдения, разработанный специально для городских районов, оснащенный ИК/НВ-излучателями 2-го поколения и новейшими устройствами глушения. Может перевозить некоторые грузы своего взвода, чтобы облегчить и, в основном, ускорить время передвижения между пунктами назначения и целями."
  ITA_land_Drone_equipment4: "Sistema Micro-APR SIXTON-A"
- ITA_land_Drone_equipment4_desc: "Drone utilizing advancements in stealth technologies, making this small target even smaller. It has High altitude-capable propeller engine and is capable of taking control of less advanced drones by using its directed signals. Its ceiling is 10km and RCS bellow 0.0001."
+ ITA_land_Drone_equipment4_desc: "Дрон, использующий достижения в области стелс-технологий, делает эту маленькую цель еще меньше. Он оснащен винтовым двигателем, способным работать на большой высоте, и способен брать под контроль менее продвинутые дроны, используя свои направленные сигналы. Его потолок составляет 10 км, а RCS ниже 0,0001."
  ITA_land_Drone_equipment5: "Sistema Tattico-APR RQ-9A “SHADOW 300”" #Fictional
- ITA_land_Drone_equipment5_desc: "Invisible drone with internal storage. It is capable of flying to its objective unspotted because it has projectors on its skin mimicking the sky and clouds or other obstacles. The drone can then utilize its cargo, sensors or equipment inside its cargo bay. It has very quiet rotor blades allowing him to be unheard 1km above ground."
+ ITA_land_Drone_equipment5_desc: "Невидимый дрон с внутренней памятью. Он способен долететь до цели незамеченным, поскольку на его коже расположены проекторы, имитирующие небо, облака или другие препятствия. Затем дрон может использовать свой груз, датчики или оборудование в грузовом отсеке. У него очень тихие лопасти ротора, что позволяет ему быть неслышным на высоте 1 км над землей."
 
 
  ITA_APC_1: "M-113"
@@ -2231,21 +2231,21 @@
  ITA_APC_8_short: "VBM Freccia II"
 
  ITA_Air_APC_1: "M113 ATL" #Fictional
- ITA_Air_APC_1_desc: "Airborne version of the M113 Skot. It main difference is replacement of two passenger seats with parachute boxes with hatches behind the vehicle's turret. It reduces the passenger capacity to 16 or 4x Fire Squadron."
+ ITA_Air_APC_1_desc: "Десантный вариант M113 Skot. Основное отличие - замена двух пассажирских сидений на парашютные ящики с люками за башней машины. Это уменьшает пассажировместимость до 16 человек или 4x огневых эскадрилий."
  ITA_Air_APC_2: "FIAT 6614 ATL" #Fictional
- ITA_Air_APC_2_desc: "Airborne version of the FIAT 6614. Has same features but has slightly reduced internal space due to parachutes fitted inside of the vehicle."
+ ITA_Air_APC_2_desc: "Десантная версия FIAT 6614. Имеет те же характеристики, но немного уменьшенное внутреннее пространство из-за парашютов, установленных внутри машины."
  ITA_Air_APC_3: "FIAT 6616 ATL" #Fictional
- ITA_Air_APC_3_desc: "Airborne version of the FIAT 6616."
+ ITA_Air_APC_3_desc: "Десантная версия FIAT 6616."
  ITA_Air_APC_4: "VBLM Puma 4x4 ATL" #Fictional
- ITA_Air_APC_4_desc: "The VBLM Puma 4x4 is Airbone"
+ ITA_Air_APC_4_desc: "VBLM Puma 4x4 - это десантная машина для ВДВ."
  ITA_Air_APC_5: "VBLM Puma 6x6 ATL" #Fictional
- ITA_Air_APC_5_desc: "The VBLM Puma 6x6 is Airbone"
+ ITA_Air_APC_5_desc: "VBLM Puma 6x6 - это десантная машина для ВДВ."
  ITA_Air_APC_6: "VBM 8x8 Freccia ATL" #Fictional
- ITA_Air_APC_6_desc: "Airborne version of the VBM Freccia with Armor Package ATL, the lightened composite armor to enable the vehicle to be lighter."
+ ITA_Air_APC_6_desc: "Десантный вариант VBM Freccia с бронепакетом ATL - облегченной композитной броней, позволяющей сделать машину более легкой."
  ITA_Air_APC_7: "VBM 8x8 Freccia Hitfist ATL" #Fictional
- ITA_Air_APC_7_desc: "Airborne version of the Freccia Hitfist with Armor Package ATL."
+ ITA_Air_APC_7_desc: "Десантная версия Freccia Hitfist с бронепакетом ATL."
  ITA_Air_APC_8: "VBM Freccia II" #Fictional
- ITA_Air_APC_8_desc: "Airborne version of the Freccia II features only auto-cannon due to weight restraints."
+ ITA_Air_APC_8_desc: "Десантная версия Freccia II оснащена только автоматической пушкой из-за ограничений по весу."
 
 
  ITA_Amph_APC_2: "VCC-1"
@@ -2365,15 +2365,15 @@
  ITA_Heavy_Anti_tank_4_short: "Freccia II SPIKE LR III"
 
  ITA_Anti_Air_0: "FIM-43"
- ITA_Anti_Air_0_desc: "Developed by our own General Dynamics, this missile system uses passive infared homing to track aircraft based on the heat from their exhaust, after the operator tracks their target visually as they would any other small arms. Requiring a direct hit to be lethal, this weapon is crude yet effective."
+ ITA_Anti_Air_0_desc: "Разработанная нашей компанией General Dynamics, эта ракетная система использует пассивное инфракрасное самонаведение для отслеживания самолетов на основе тепла от их выхлопа, после чего оператор отслеживает цель визуально, как и при использовании любого другого стрелкового оружия. Это оружие, требующее прямого попадания для получения летального исхода, является грубым, но эффективным."
  ITA_Anti_Air_1: "FIM-92"
- ITA_Anti_Air_1_desc: "Designed much like its predecessor, this passive air-to-surface missile features several new upgrades from the earlier model such as improved ballistics, software, and a variant with dual IR and UV detection."
+ ITA_Anti_Air_1_desc: "Эта пассивная ракета класса "воздух-поверхность", разработанная так же, как и ее предшественница, имеет несколько новых усовершенствований по сравнению с предыдущей моделью, таких как улучшенная баллистика, программное обеспечение, а также вариант с двойным ИК- и УФ-обнаружением."
  ITA_Anti_Air_2: "FIM-92E"
- ITA_Anti_Air_2_desc: "Continuing on the reliability of the \"Stinger\" platform, General dynamics has improved the system by adding a new rollover sensor and revised control software, the flight behavior has also significantly improved. Additionally, the performance against small targets such as drones, cruise missiles and light reconnaissance helicopters has increased dramatically."
+ ITA_Anti_Air_2_desc: "Продолжая развивать надежность платформы \"Stinger\", компания General Dynamics усовершенствовала систему, добавив новый датчик переворачивания и пересмотрев программное обеспечение управления, поведение в полете также значительно улучшилось. Кроме того, значительно повысилась эффективность борьбы с небольшими целями, такими как беспилотники, крылатые ракеты и легкие разведывательные вертолеты."
  ITA_Anti_Air_3: "FIM-194" #Fictional
- ITA_Anti_Air_3_desc: "As 5'th generation aircraft have made a noticeable presence in the battlefield, this latest iteration of our MANPAD system implements a host of changes to address this new foe. Most notably it's targeting capabilities which range from Command Line of Sight, Laser Guided, as well as UV and IR targeting."
+ ITA_Anti_Air_3_desc: "Поскольку самолеты 5-го поколения стали заметно проявлять себя на поле боя, последняя итерация нашей системы ПЗРК вносит множество изменений для борьбы с этим новым противником. Прежде всего, это возможности наведения на цель, которые варьируются от командной линии видимости, лазерного наведения, а также ультрафиолетового и инфракрасного наведения."
  ITA_Anti_Air_4: "FIM-245" #Fictional
- ITA_Anti_Air_4_desc: "This system created by a DARPA effort is the pinnacle of our MANPAD weapons platforms. With recent advances as well as miniaturizations of sensors our engineers have enabled 1 man with the effective power to destroy or disable some of the stealthiest aircraft available to our adversaries."
+ ITA_Anti_Air_4_desc: "Эта система, созданная в рамках проекта DARPA, является вершиной наших оружейных платформ ПЗРК. Благодаря последним достижениям, а также миниатюризации датчиков наши инженеры позволили одному человеку с эффективной мощностью уничтожить или вывести из строя некоторые из самых скрытных самолетов, имеющихся у наших противников."
 
 
  ITA_util_vehicle_0: "FIAT AR59"
@@ -2690,9 +2690,9 @@
  NKO_infantry_weapons6: "Type 123"
  NKO_infantry_weapons7: "Type 134"
 
- NKO_Anti_Air_0: "SA-7 Strela-2"
- NKO_Anti_Air_1: "SA-16 Igla"
- NKO_Anti_Air_2: "SA-24 Igla-S"
+ NKO_Anti_Air_0: "СA-7 «Стрела-2»"
+ NKO_Anti_Air_1: "СА-16 «Игла»"
+ NKO_Anti_Air_2: "СА-24 «Игла-С»"
  NKO_Anti_Air_3: "СА-26"
  NKO_Anti_Air_4: "СА-28"
 
@@ -3447,7 +3447,7 @@
  SOO_infantry_weapons2:0 "Стрелковое оружие 1985 года"
  SOO_infantry_weapons3:0 "Стрелковое оружие 1995 года"
  SOO_infantry_weapons4:0 "Стрелковое оружие 2005 года"
- SOO_infantry_weapons5:0 "Grad AR"
+ SOO_infantry_weapons5:0 "Автомат «Град»"
 
  ### Russia ###
  SOV_infantry_weapons:0 "AKM"
@@ -3457,7 +3457,7 @@
  SOV_infantry_weapons2:0 "АК-74М"
  SOV_infantry_weapons2_desc:0 "В 1991 году на заводе «Ижмаш» в Ижевске началось серийное производство модернизированного варианта АК-74 - АК-74М. Оснащен облегченным затвором и затворной рамой, а также полиамидным штоком, наполненным стеклом."
  SOV_infantry_weapons3:0 "AK-103"
- SOV_infantry_weapons3_desc:0 "Штурмовая винтовка АК-103 является аналогом АК-74М под патрон М43 размером 7,62х39 мм. Как и старый AKM, 103 может использовать различные прицелы, включая ночное видение и телескоп. К нему подойдет штык или гранатомет. В отличии от большинства АК, 103-ий с пластиком и более дешевыми материалами."
+ SOV_infantry_weapons3_desc:0 "Штурмовая винтовка АК-103 является аналогом АК-74М под патрон М43 размером 7,62х39 мм. Как и старый AKM, 103 может использовать различные прицелы, включая ночное видение и телескоп. К нему подойдет штык или гранатомет. В отличии от большинства АК, 103-ий сделан из пластика и более дешевых материалов."
  SOV_infantry_weapons4:0 "AK-9"
  SOV_infantry_weapons4_desc:0 "АК-9 создан на базе ста серий автоматов Калашникова, таких как АК-104, но с некоторыми усовершенствованиями. Это компактный штурмовой винтовка с селективной стрельбой с использованием дозвукового патрона 9×39мм."
  SOV_infantry_weapons5:0 "AK-12"
@@ -3477,25 +3477,25 @@
  SOV_Anti_Air_4:0 "СА-28"
 
  SOV_APC_1:0 "БТР-60"
- SOV_APC_1_desc:0 "Один из старейших транспортных средств, все еще находящихся в эксплуатации, БТР-60 имеет 14,5-мм пулемет KPVT с 500 патронами. Вторичное оружие - спаренный пулемет 7,62 мм с 3,00 выстрелами. Отлично подходит для легких пехотных движений и QRF."
+ SOV_APC_1_desc:0 "Один из старейших транспортных средств, все еще находящихся в эксплуатации, БТР-60 имеет 14.5-мм пулемет КПВТ с 500 патронами. Вторичное оружие - спаренный пулемет 7.62 мм с 300 патронами. Отлично подходит для передвижения легкой пехоты и сил быстрого реагирования."
  #SOV_APC_1_variant:0 "BRDM-2"
  #SOV_APC_1_variant:0 "BTR-50"
  SOV_APC_1_short:0 "БТР-60"
  SOV_APC_2:0 "МТ-ЛБ"
- SOV_APC_2_desc:0 "МТ-ЛБ был создан в 1970-х годах. Сконструирован дешево и быстро. Советы использовали их для легких противовоздушных и пехотных боев."
+ SOV_APC_2_desc:0 "МТ-ЛБ был создан в 1970-х годах. Изготовлены дешево и быстро. Советы использовали их для легких противовоздушных и пехотных боев."
  SOV_APC_2_short:0 "МТ-ЛБ"
  SOV_APC_3:0 "БТР-70"
  SOV_APC_3_desc:0 "БТР-70 используется с 1972 года. В советско-афганскую войну они применялись для передвижения войск, а затем для оказания огневой поддержки. Единственное отличие от БТР-60 - это более тяжелая броня."
  SOV_APC_3_short:0 "БТР-70"
  SOV_APC_4:0 "БТР-80"
- SOV_APC_4_desc:0 "БТР-80 - это колесный самолет-амфибия 8 × 8, разработанный в СССР. Он был принят в 1986 году и заменил предыдущие машины БТР-60 и БТР-70 в Советской Армии. Впервые он был развернут во время советской войны в Афганистане."
+ SOV_APC_4_desc:0 "БТР-80 - это колесный бронетранспортер-амфибия 8x8, разработанный в СССР. Он был принят в 1986 году и заменил предыдущие машины БТР-60 и БТР-70 в Советской Армии. Впервые он был развернут во время советской войны в Афганистане."
  SOV_APC_4_short:0 "БТР-80"
  #SOV_APC_4_variant:0 "БТР-82"
  SOV_APC_5:0 "БТР-90"
  SOV_APC_5_desc:0 "Разработан в 1994 году для борьбы с боевиками. Оснащен мощной 30-мм пушкой Шипунова 2А42 с 500 патронами."
  SOV_APC_5_short:0 "БТР-90"
  SOV_APC_6:0 "Курганец-25"
- SOV_APC_6_desc:0 "Один из самых современных российских автомобилей «Курганец-25» был изготовлен в 2015 году. Сделанный в качестве БМП имеет легкую пушку Бумеранг-БМ с 12,7-мм пулеметом Корд. По модели близко к американскому БМП Брэдли."
+ SOV_APC_6_desc:0 "Один из самых современных российских автомобилей «Курганец-25» был изготовлен в 2015 году. Сделанный в качестве БМП имеет легкую пушку Бумеранг-БМ с 12.7-мм пулеметом Корд. По модели близко к американскому БМП Брэдли."
  SOV_APC_6_short:0 "Курганец-25"
  SOV_APC_7:0 "Курганец-35"
  SOV_APC_7_desc:0 "Так же, как 25, который в первую очередь является БМП, 35 - БТР, который может перевозить 12 человек и делает примерно то же самое, что и 25 в операциях БМП."
@@ -3511,7 +3511,7 @@
  SOV_Air_APC_6_desc:0 "Очень легкий БТР, который использовался в 2015 году на парадах. Используется для сбрасывания с воздушно-десантными войсками, чтобы иметь поддержку транспортных средств."
  SOV_Air_APC_6_short:0 "БТР-МДМ"
  SOV_Air_IFV_1:0 "БМД-1"
- SOV_Air_IFV_1_desc:0 "Используется в качестве воздушно-десантного БМП, изготовленного в 1969 году для борьбы с десантниками США. Оснащен 73-мм пушкой 2A28 Grom и пусковой установкой ПТУР."
+ SOV_Air_IFV_1_desc:0 "Используется в качестве воздушно-десантного БМП, изготовленного в 1969 году для борьбы с десантниками США. Оснащен 73-мм пушкой 2A28 «Гром» и пусковой установкой ПТУР."
  SOV_Air_IFV_1_short:0 "БМД-1"
  SOV_Air_IFV_3:0 "БМД-2"
  SOV_Air_IFV_3_desc:0 "Используется в 1985 году как воздушно-десантный БМП. Оснащен 30-мм пушкой 2А42 и пусковой установкой ПТУР. Он намного быстрее и лучше бронирован, чем его предшественник."
@@ -3520,14 +3520,14 @@
  SOV_Air_IFV_4_desc:0 "БМП использовалась в 1990-х годах для борьбы с терроризмом. Основным вооружением была 30-мм пушка 2А42, отлично подходящая для выбивания пехоты из укрытия."
  SOV_Air_IFV_4_short:0 "БМД-3"
  SOV_Air_IFV_5:0 "БМД-4"
- SOV_Air_IFV_5_desc:0 "Изготовлен в 2004 году и используется для выбивания позиций прикрытия пехоты. Оснащен 100-мм пулеметом для пехоты противника и ПТО для танков. В боевых действиях в основном использовались."
+ SOV_Air_IFV_5_desc:0 "Изготовлен в 2004 году и используется для выбивания пехоты с позиций прикрытия. Оснащен 100-мм осколочно-фугасные снарядами для пехоты противника и бронебойными для танков. В боевых действиях в основном использовались осколочно-фугасные."
  SOV_Air_IFV_5_short:0 "БМД-4"
  
  SOV_Amph_APC_1:0 "БТР-50" #All soviet APC were amphibious
  SOV_Amph_APC_1_desc:0 "БТР-50 - самый старый БТР, используемый Россией. Является одним из самых распространенных БТР в мире. Дешевый и востребованный."
  SOV_Amph_APC_1_short:0 "БТР-50"
  SOV_Amph_APC_2:0 "МТ-ЛБ"
- SOV_Amph_APC_2_desc:0 "МТ-ЛБ был разработан в 1970-х годах. Сконструирован дешево и быстро. Советы использовали их для легких противовоздушных и пехотных боев."
+ SOV_Amph_APC_2_desc:0 "МТ-ЛБ был разработан в 1970-х годах. Изготовлены дешево и быстро. Советы использовали их для легких противовоздушных и пехотных боев."
  SOV_Amph_APC_2_short:0 "МТ-ЛБ"
  SOV_Amph_APC_3:0 "БТР-70"
  SOV_Amph_APC_3_desc:0 "БТР-70 используется с 1972 года, в советско-афганскую войну они применялись для передвижения войск, а затем для оказания огневой поддержки. Единственное отличие от БТР-60 - это более тяжелая броня."
@@ -3628,8 +3628,8 @@
  SOV_Rec_tank_3_short:0 "Курганец-46"
 
  SOV_SP_Anti_Air_0:0 "ЗСУ-23-4 «Шилка»"
- SOV_SP_Anti_Air_1:0 "SA-11 «Бук»"
- SOV_SP_Anti_Air_2:0 "SA-19 «Тунгуска»"
+ SOV_SP_Anti_Air_1:0 "СА-11 «Бук»"
+ SOV_SP_Anti_Air_2:0 "СА-19 «Тунгуска»"
  SOV_SP_Anti_Air_2_desc:0 "Выпуская до 8 ракет, эта машина может уничтожить любой самолет, который попадется на его пути. Более того, он может также уничтожить транспортные самолеты с их автопушками."
  SOV_SP_Anti_Air_3:0 "Панцирь-С1M"
  SOV_SP_Anti_Air_4:0 "Панцирь-С4Л"
@@ -3909,7 +3909,7 @@
  SYR_SP_Anti_Air_2: "2K22 «Тунгуска»"
  SYR_SP_Anti_Air_3: "Панцирь-С1"
  SYR_SP_Anti_Air_4: "Панцирь-С2"
- SYR_SP_Anti_Air_2_variant: "SA-22 «Панцирь»"
+ SYR_SP_Anti_Air_2_variant: "СА-22 «Панцирь»"
 
  SYR_SP_R_arty_0: "БМ-21 «Град»"
  SYR_SP_R_arty_1: "БМ-27 «Ураган»"
@@ -4268,7 +4268,7 @@
  UKR_APC_1_desc:0 "Один из старейших транспортных средств, все еще находящихся в эксплуатации, БТР-60 имеет 14.5-мм пулемет КПВТ с 500 патронами. Вторичное оружие - спаренный пулемет 7.62 мм с 300 патронами. Отлично подходит для легких пехотных движений и QRF."
  UKR_APC_1_short:0 "БТР-60"
  UKR_APC_2:0 "МТ-ЛБ"
- UKR_APC_2_desc:0 "МТ-ЛБ был создан в 1970-х годах. Сконструирован дешево и быстро. Советы использовали их для легких противовоздушных и пехотных боев."
+ UKR_APC_2_desc:0 "МТ-ЛБ был создан в 1970-х годах. Изготовлены дешево и быстро. Советы использовали их для легких противовоздушных и пехотных боев."
  UKR_APC_2_short:0 "МТ-ЛБ"
  UKR_APC_3:0 "БТР-70"
  UKR_APC_3_desc:0 "БТР-70 используется с 1972 года. В советско-афганскую войну они применялись для передвижения войск, а затем для оказания огневой поддержки. Единственное отличие от БТР-60 - это более тяжелая броня."
@@ -8636,9 +8636,9 @@
  SOV_attack_helicopter3:0 "Миль Ми-28 «Опустошитель»"
  SOV_attack_helicopter3_short:0 "Ми-28 «Опустошитель»"
  SOV_attack_helicopter4:0 "Камов Ка-52 «Аллигатор»"
- SOV_attack_helicopter4_short:0 "Ka-52 «Аллигатор»"
+ SOV_attack_helicopter4_short:0 "Ка-52 «Аллигатор»"
  SOV_attack_helicopter5:0 "Камов Ка-60 «Аллигатор»"
- SOV_attack_helicopter5_short:0 "Ka-60 «Аллигатор»"
+ SOV_attack_helicopter5_short:0 "Ка-60 «Аллигатор»"
 
  UKR_attack_helicopter1:0 "Миль Ми-24A «Лань»"
  UKR_attack_helicopter1_short:0 "Ми-24A"
@@ -8647,9 +8647,9 @@
  UKR_attack_helicopter3:0 "Миль Ми-28 «Опустошитель»"
  UKR_attack_helicopter3_short:0 "Ми-28 «Опустошитель»"
  UKR_attack_helicopter4:0 "Камов Ка-52 «Аллигатор»"
- UKR_attack_helicopter4_short:0 "Ka-52 «Аллигатор»"
+ UKR_attack_helicopter4_short:0 "Ка-52 «Аллигатор»"
  UKR_attack_helicopter5:0 "Камов Ка-60 «Аллигатор»"
- UKR_attack_helicopter5_short:0 "Ka-60 «Аллигатор»"
+ UKR_attack_helicopter5_short:0 "Ка-60 «Аллигатор»"
 
  SYR_attack_helicopter1:0 "Миля Ми-24 «Лань»"
  SYR_attack_helicopter1_short:0 "Ми-24"
