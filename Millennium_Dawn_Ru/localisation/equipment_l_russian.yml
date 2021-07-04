@@ -1829,7 +1829,7 @@
  HEZ_artillery_0: "Hadid HM 40"
  HEZ_artillery_1: "Hadid HM 41"
 
- HEZ_Anti_Air_0: "SA-7 Strela-2"
+ HEZ_Anti_Air_0: "СA-7 «Стрела-2»"
  HEZ_Anti_Air_1: "Misagh-1"
  HEZ_Anti_Air_2: "Misagh-2"
  HEZ_SP_Anti_Air_0: "MIM-23 Hawk"
@@ -2690,9 +2690,9 @@
  NKO_infantry_weapons6: "Type 123"
  NKO_infantry_weapons7: "Type 134"
 
- NKO_Anti_Air_0: "SA-7 Strela-2"
- NKO_Anti_Air_1: "SA-16 Igla"
- NKO_Anti_Air_2: "SA-24 Igla-S"
+ NKO_Anti_Air_0: "СA-7 «Стрела-2»"
+ NKO_Anti_Air_1: "СА-16 «Игла»"
+ NKO_Anti_Air_2: "СА-24 «Игла-С»"
  NKO_Anti_Air_3: "СА-26"
  NKO_Anti_Air_4: "СА-28"
 
@@ -3628,8 +3628,8 @@
  SOV_Rec_tank_3_short:0 "Курганец-46"
 
  SOV_SP_Anti_Air_0:0 "ЗСУ-23-4 «Шилка»"
- SOV_SP_Anti_Air_1:0 "SA-11 «Бук»"
- SOV_SP_Anti_Air_2:0 "SA-19 «Тунгуска»"
+ SOV_SP_Anti_Air_1:0 "СА-11 «Бук»"
+ SOV_SP_Anti_Air_2:0 "СА-19 «Тунгуска»"
  SOV_SP_Anti_Air_2_desc:0 "Выпуская до 8 ракет, эта машина может уничтожить любой самолет, который попадется на его пути. Более того, он может также уничтожить транспортные самолеты с их автопушками."
  SOV_SP_Anti_Air_3:0 "Панцирь-С1M"
  SOV_SP_Anti_Air_4:0 "Панцирь-С4Л"
@@ -3909,7 +3909,7 @@
  SYR_SP_Anti_Air_2: "2K22 «Тунгуска»"
  SYR_SP_Anti_Air_3: "Панцирь-С1"
  SYR_SP_Anti_Air_4: "Панцирь-С2"
- SYR_SP_Anti_Air_2_variant: "SA-22 «Панцирь»"
+ SYR_SP_Anti_Air_2_variant: "СА-22 «Панцирь»"
 
  SYR_SP_R_arty_0: "БМ-21 «Град»"
  SYR_SP_R_arty_1: "БМ-27 «Ураган»"
