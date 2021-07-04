@@ -1364,8 +1364,8 @@
  ###Soviet Tooltips###
  
  ##Internal Factions
- SOV_fossil_fuel_increase_TT: "§Y[SOV.GetAdjective] энергетические предприятия§! - мнение §GУвеличивается§!\n"
- SOV_fossil_fuel_decrease_TT: "§Y[SOV.GetAdjective] энергетические предприятия§! - мнение §RУменьшается§!\n"
+ SOV_fossil_fuel_increase_TT: "§Y[SOV.GetAdjective] энергетические предприятия§! - мнение §Gувеличивается§!\n"
+ SOV_fossil_fuel_decrease_TT: "§Y[SOV.GetAdjective] энергетические предприятия§! - мнение §Rуменьшается§!\n"
  SOV_has_oligarchs_TT: "Имеет внутреннюю фракцию §Y[SOV.GetAdjective] предприниматели§!.\n"
  SOV_oligarchs_increase_TT: "§Y[SOV.GetAdjective] предприниматели§! - мнение §GУвеличивается§!\n"
  SOV_oligarchs_decrease_TT: "§Y[SOV.GetAdjective] предприниматели§! - мнение §RУменьшается§!\n"
@@ -1375,7 +1375,7 @@
  ##Эффекты фокусировки
  SOV_more_than_30_support_for_united_russia_TT: "£SOV_emerging_reactionary §YЕдиная Россия§! имеет более 30% поддержки"
  SOV_more_than_60_support_for_united_russia_TT: "£SOV_emerging_reactionary §YЕдиная Россия§! имеет более 60% поддержки"
- SOV_NOV_more_than_80_percent_influence_TT: "§Y[SOV.GetAdjective]§! Влияние в [NOV.GetNameWithFlag] составляет более 80%"
+ SOV_NOV_more_than_80_percent_influence_TT: "§Y[SOV.GetAdjective]§! влияние в [NOV.GetNameWithFlag] составляет более 80%"
  SOV_putin_elected_2000_flag: "Путин избран!"
  SOV_zhirinovsky_elected_2000_flag: "Жириновский избран!"
  SOV_more_than_30_support_for_nationals_TT: "£SOV_nationalist_right_wing_populist §YЛДПР§! имеет более 30% поддержки"
@@ -1383,10 +1383,10 @@
  SOV_more_than_30_support_for_commies_TT: "£SOV_emerging_communism §YКПРФ§! имеет более 30% поддержки"
  SOV_yavlinsky_elected_2000_flag: "Явлинский избран!"
  SOV_more_than_30_support_for_liberals_TT: "£SOV_western_liberal §YЯблоко§! имеет более 30% поддержки"
- SOV_ban_the_communist_party_TT: "Запрещает £SOV_emerging_communism §YКПРФ§!\n"
+ SOV_ban_the_communist_party_TT: "Запрет £SOV_emerging_communism §YКПРФ§!\n"
  SOV_the_dictatorship_TT: "§GДума будет распущена, а Путин станет пожизненным президентом!§!\n"
  SOV_secure_putins_position_TT: "Популярность £SOV_emerging_communism §YКПРФ§! снижена вдвое и добавлена в £SOV_emerging_reactionary §YЕдиная Россия§! по мере того, как их избиратели стекаются к Путину.\n"
- SOV_has_positive_oligarchs_TT: "§Y[SOV.GetAdjective] Подрядчики§! мнение §GПоложительное§!\n"
+ SOV_has_positive_oligarchs_TT: "§Y[SOV.GetAdjective] предприниматели§! - мнение, по крайней мере, §Gодобрительное§!\n"
  SOV_root_out_the_nationalists_TT: "§YНационалисты!§! будут искорены внутри государства и будет запрещена партия £SOV_nationalist_right_wing_populist §YЛДПР§!"
  ##Подсказки по фокусировке##
  SOV_baltic_econ_tooltip_TT: "Каждое §Yбалтийское государство§!, которое принимает, удалит §Y$10 Миллиардов§! из нашей Казначейства.\n"
@@ -1394,7 +1394,7 @@
  SOV_nationalize_foreign_industry_TT: "Национализирует §Yтри фабрики§! от иностранных компаний!\n"
  SOV_end_of_republic_TT: "§YДума§! будет распущена, а Жириновский станет §Yпожизненным президентом§!.\n"
  SOV_claim_the_crown_TT: "§YЖириновский§! будет претендовать на корону §YРоссийской Империи§! и объявит себя §YЦарем§! России!\n"
- SOV_ban_the_nationalist_party_TT: "Запрещает £SOV_nationalist_right_wing_populist §YЛДПР§!\n"
+ SOV_ban_the_nationalist_party_TT: "Запрет £SOV_nationalist_right_wing_populist §YЛДПР§!\n"
  SOV_the_fifth_international_TT: "Пусть будет больше потенциальных членов, чем больше иностранных коммунистов и чем лучше их мнение о нас."
  SOV_territorial_demands_cores_TT: "Все территории бывшего §YСоветского Союза§! становятся национальными."
  SOV_bastion_of_democracy_TT: "£SOV_western_liberal §YЯблоко§! получает §G5%§! поддержки, и £SOV_western_conservative §YСоюз Правых Сил§! получает §G5%§! поддержки (Относительная популярность).\n"
