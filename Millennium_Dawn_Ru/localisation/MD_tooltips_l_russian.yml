@@ -19,46 +19,46 @@
  ### Nukes
  LAUNCH_NUKE_TOOLTIP: "§GНажмите,§! чтобы сбросить ядерную бомбу"
  LAUNCH_NUKE_TOOLTIP_DELAYED: "Требования:\n[GetNukeStatus]\n[GetNuclearStatus]\n[GerWarStatus]\n[GetBomberStatus]\n[GetPPStatus]\n\n§YБоеприпасы пока недоступны.§!"
- #§YNOTE: Due to PDX modding limitations, nuking specific provinces is not possible. The game will decide a random province within [This.GetName]§!
- has_nukes_yes_TT: "£trigger_yes  ядерное оружие на складе"
- has_nukes_no_TT: "£trigger_no  ядерное оружие на складе"
- has_nuclear_idea: "£trigger_yes  Есть идея: §YNuclear Power§!"
- not_has_nuclear_idea: "£trigger_no  Есть идея: §YNuclear Power§!"
+ #§YNOTE: Из-за ограничений моддинга PDX ядерная бомбардировка определенных провинций невозможна. Игра будет решать и выбирать случайную провинцию внутри [This.GetName]§!
+ has_nukes_yes_TT: "£trigger_yes  Ядерное оружие на складе"
+ has_nukes_no_TT: "£trigger_no  Ядерное оружие на складе"
+ has_nuclear_idea: "£trigger_yes  Есть идея: §YЯдерная мощь§!"
+ not_has_nuclear_idea: "£trigger_no  Есть идея: §YЯдерная мощь§!"
  has_war_TT: "£trigger_yes  §Y[This.GetName]§! контролируется вражеской нацией"
  not_has_war_TT: "£trigger_no  §Y[This.GetName]§! контролируется вражеской нацией"
- has_bombers_TT: "£trigger_yes  At least §Y1 Strategic Bomber§! in reserve"
- not_has_bombers_TT: "£trigger_no  At least §Y1 Strategic Bomber§! in reserve"
- has_pp: "£trigger_yes  Как минимум £pol_power_icon §Y100 Политическая власть§!"
- not_has_pp: "£trigger_no  Как минимум £pol_power_icon §Y100 Политическая власть§!"
+ has_bombers_TT: "£trigger_yes  По крайней мере §Y1 стратегический бомбардировщик§! в резерве"
+ not_has_bombers_TT: "£trigger_no  По крайней мере §Y1 стратегический бомбардировщик§! в резерве"
+ has_pp: "£trigger_yes  Как минимум £pol_power_icon §Y100 политическая власть§!"
+ not_has_pp: "£trigger_no  Как минимум £pol_power_icon §Y100 политическая власть§!"
  TT_game_over_warning: "§RИгра закончится при выборе этого§!\n"
 
  ##Custom Triggers for Scripted file -- common/scripted_triggers/01_political_triggers.txt
  ruling_party_popularity_change_focus_TT: "Изменение популярности, вызванное этим эффектом, будет применено к правящей партии."
  #Has X government - For Custom Triggers
- has_pro_western_autocrat_government_TT: "§Y[Western_Autocracy_L]§! у власти." #0
- has_conservatism_government_TT: "§Y[conservatism_L]§! у власти." #1
- has_liberalism_government_TT: "§Y[liberalism_L]§! у власти." #2
- has_socialism_government_TT: "§Y[socialism_L]§! у власти." #3
- has_communist_state_government_TT: "§Y[Communist-State_L]§! у власти." #4
- has_anarchist_communism_government_TT: "§Y[anarchist_communism_L]§! у власти." #5
- has_conserv_reactionary_government_TT: "§Y[Conservative_L]§! у власти." #6
- has_autocracy_government_TT: "§Y[Autocracy_L]§! у власти." #7
- has_mod_vilayat_e_faqih_government_TT: "§Y[Mod_Vilayat_e_Faqih_L]§! у власти." #8
- has_vilayat_e_faqih_government_TT: "§Y[Vilayat_e_Faqih_L]§! у власти." #9
- has_kingdom_government_TT: "§Y[Kingdom_L]§! у власти." #10
- has_caliphate_government_TT: "§Y[Caliphate_L]§! у власти." #11
- has_neutral_muslim_brotherhood_government_TT: "§Y[Neutral_Muslim_Brotherhood_L]§! у власти." #12
- has_neutral_autocracy_government_TT: "§Y[Neutral_Autocracy_L]§! у власти." #13
- has_neutral_conservatism_government_TT: "§Y[Neutral_conservatism_L]§! у власти." #14
- has_oligarchism_government_TT: "§Y[oligarchism_L]§! у власти." #15
- has_neutral_libertarian_government_TT: "§Y[Neutral_Libertarian_L]§! у власти." #16
- has_neutral_green_government_TT: "§Y[Neutral_green_L]§! у власти." #17
- has_neutral_social_government_TT: "§Y[neutral_Social_L]§! у власти." #18
- has_neutral_communism_government_TT: "§Y[Neutral_Communism_L]§! у власти." #19
- has_nat_populism_TT: "§Y[Nat_Populism_L]§! у власти." #20
- has_fascist_government_TT: "§Y[Nat_Fascism_L]§! у власти." #21
- has_nat_autocracy_government_TT: "§Y[Nat_Autocracy_L]§! у власти." #22
- has_monarchist_government_TT: "§Y[Monarchist_L]§! у власти." #23
+ has_pro_western_autocrat_government_TT: "§Y[Western_Autocracy_L]§! находится у власти." #0
+ has_conservatism_government_TT: "§Y[conservatism_L]§! находится у власти." #1
+ has_liberalism_government_TT: "§Y[liberalism_L]§! находится у власти." #2
+ has_socialism_government_TT: "§Y[socialism_L]§! находится у власти." #3
+ has_communist_state_government_TT: "§Y[Communist-State_L]§! находится у власти." #4
+ has_anarchist_communism_government_TT: "§Y[anarchist_communism_L]§! находится у власти." #5
+ has_conserv_reactionary_government_TT: "§Y[Conservative_L]§! находится у власти." #6
+ has_autocracy_government_TT: "§Y[Autocracy_L]§! находится у власти." #7
+ has_mod_vilayat_e_faqih_government_TT: "§Y[Mod_Vilayat_e_Faqih_L]§! находится у власти." #8
+ has_vilayat_e_faqih_government_TT: "§Y[Vilayat_e_Faqih_L]§! находится у власти." #9
+ has_kingdom_government_TT: "§Y[Kingdom_L]§! находится у власти." #10
+ has_caliphate_government_TT: "§Y[Caliphate_L]§! находится у власти." #11
+ has_neutral_muslim_brotherhood_government_TT: "§Y[Neutral_Muslim_Brotherhood_L]§! находится у власти." #12
+ has_neutral_autocracy_government_TT: "§Y[Neutral_Autocracy_L]§! находится у власти." #13
+ has_neutral_conservatism_government_TT: "§Y[Neutral_conservatism_L]§! находится у власти." #14
+ has_oligarchism_government_TT: "§Y[oligarchism_L]§! находится у власти." #15
+ has_neutral_libertarian_government_TT: "§Y[Neutral_Libertarian_L]§! находится у власти." #16
+ has_neutral_green_government_TT: "§Y[Neutral_green_L]§! находится у власти." #17
+ has_neutral_social_government_TT: "§Y[neutral_Social_L]§! находится у власти." #18
+ has_neutral_communism_government_TT: "§Y[Neutral_Communism_L]§! находится у власти." #19
+ has_nat_populism_TT: "§Y[Nat_Populism_L]§! находится у власти." #20
+ has_fascist_government_TT: "§Y[Nat_Fascism_L]§! находится у власти." #21
+ has_nat_autocracy_government_TT: "§Y[Nat_Autocracy_L]§! находится у власти." #22
+ has_monarchist_government_TT: "§Y[Monarchist_L]§! находится у власти." #23
 
  ### Has Government
  has_socialist_government_TT: "Правящая партия - социалистическая"
@@ -79,40 +79,40 @@
  has_autocratic_in_coalition_TT: "Автократы в коалиции"
  has_totalitarian_in_coalition_TT: "Тоталитаристы в коалиции"
 
- has_socialist_government_or_in_coalition_TT: "Socialist coalition or ruling party"
- has_communist_government_or_in_coalition_TT: "Communist coalition or ruling party"
- has_environmentalist_government_or_in_coalition_TT: "Environmentalist coalition or ruling party"
- has_liberal_government_or_in_coalition_TT: "Liberal coalition or ruling party"
- has_conservative_governemnt_or_in_coalition_TT: "Have a conservative ruling party"
- has_reactionary_governemnt_or_in_coalition_TT: "Have a reactionary ruling party"
- has_autocratic_governemnt_or_in_coalition_TT: "Autocratic coalition or ruling party"
- has_totalitarian_government_or_in_coalition_TT: "Totalitarians in coalition"
+ has_socialist_government_or_in_coalition_TT: "Социалистическая коалиция или правящая партия"
+ has_communist_government_or_in_coalition_TT: "Коммунистическая коалиция или правящая партия"
+ has_environmentalist_government_or_in_coalition_TT: "Экологическая коалиция или правящая партия"
+ has_liberal_government_or_in_coalition_TT: "Либеральная коалиция или правящая партия"
+ has_conservative_governemnt_or_in_coalition_TT: "Иметь консервативную правящую партию"
+ has_reactionary_governemnt_or_in_coalition_TT: "Имеет реакционную правящую партию"
+ has_autocratic_governemnt_or_in_coalition_TT: "Автократическая коалиция или правящая партия"
+ has_totalitarian_government_or_in_coalition_TT: "Тоталитаристы в коалиции"
  
  #Not has X government - For Custom Triggers
- not_has_pro_western_autocrat_government_TT: "§Y[Western_Autocracy_L]§! не у власти." #0
- not_has_conservatism_government_TT: "§Y[conservatism_L]§! не у власти." #1
- not_has_liberalism_government_TT: "§Y[liberalism_L]§! не у власти." #2
- not_has_socialism_government_TT: "§Y[socialism_L]§! не у власти." #3
- not_has_communist_state_government_TT: "§Y[Communist-State_L]§! не у власти." #4
- not_has_anarchist_communism_government_TT: "§Y[anarchist_communism_L]§! не у власти." #5
- not_has_conservative_government_TT: "§Y[Conservative_L]§! не у власти." #6
- not_has_autocracy_government_TT: "§Y[Autocracy_L]§! не у власти." #7
- not_has_mod_vilayat_e_faqih_government_TT: "§Y[Mod_Vilayat_e_Faqih_L]§! не у власти." #8
- not_has_vilayat_e_faqih_government_TT: "§Y[Vilayat_e_Faqih_L]§! не у власти." #9
- not_has_kingdom_government_TT: "§Y[Kingdom_L]§! не у власти." #10
- not_has_caliphate_government_TT: "§Y[Caliphate_L]§! не у власти." #11
- not_has_neutral_muslim_brotherhood_government_TT: "§Y[Neutral_Muslim_Brotherhood_L]§! не у власти." #12
- not_has_neutral_autocracy_government_TT: "§Y[Neutral_Autocracy_L]§! не у власти." #13
- not_has_neutral_conservatism_government_TT: "§Y[Neutral_conservatism_L]§! не у власти." #14
- not_has_oligarchism_government_TT: "§Y[oligarchism_L]§! не у власти." #15
- not_has_neutral_libertarian_government_TT: "§Y[Neutral_Libertarian_L]§! не у власти." #16
- not_has_neutral_green_government_TT: "§Y[Neutral_green_L]§! не у власти." #17
- not_has_neutral_social_government_TT: "§Y[neutral_Social_L]§! не у власти." #18
- not_has_neutral_communism_government_TT: "§Y[Neutral_Communism_L]§! не у власти." #19
- not_has_nat_populism_TT: "§Y[Nat_Populism_L]§! не у власти." #20
- not_has_fascist_government_TT: "§Y[Nat_Fascism_L]§! не у власти." #21
- not_has_nat_autocracy_government_TT: "§Y[Nat_Autocracy_L]§! не у власти." #22
- not_has_monarchist_government_TT: "§Y[Monarchist_L]§! не у власти." #23
+ not_has_pro_western_autocrat_government_TT: "§Y[Western_Autocracy_L]§! не находится у власти." #0
+ not_has_conservatism_government_TT: "§Y[conservatism_L]§! не находится у власти." #1
+ not_has_liberalism_government_TT: "§Y[liberalism_L]§! не находится у власти." #2
+ not_has_socialism_government_TT: "§Y[socialism_L]§! не находится у власти." #3
+ not_has_communist_state_government_TT: "§Y[Communist-State_L]§! не находится у власти." #4
+ not_has_anarchist_communism_government_TT: "§Y[anarchist_communism_L]§! не находится у власти." #5
+ not_has_conservative_government_TT: "§Y[Conservative_L]§! не находится у власти." #6
+ not_has_autocracy_government_TT: "§Y[Autocracy_L]§! не находится у власти." #7
+ not_has_mod_vilayat_e_faqih_government_TT: "§Y[Mod_Vilayat_e_Faqih_L]§! не находится у власти." #8
+ not_has_vilayat_e_faqih_government_TT: "§Y[Vilayat_e_Faqih_L]§! не находится у власти." #9
+ not_has_kingdom_government_TT: "§Y[Kingdom_L]§! не находится у власти." #10
+ not_has_caliphate_government_TT: "§Y[Caliphate_L]§! не находится у власти." #11
+ not_has_neutral_muslim_brotherhood_government_TT: "§Y[Neutral_Muslim_Brotherhood_L]§! не находится у власти." #12
+ not_has_neutral_autocracy_government_TT: "§Y[Neutral_Autocracy_L]§! не находится у власти." #13
+ not_has_neutral_conservatism_government_TT: "§Y[Neutral_conservatism_L]§! не находится у власти." #14
+ not_has_oligarchism_government_TT: "§Y[oligarchism_L]§! не находится у власти." #15
+ not_has_neutral_libertarian_government_TT: "§Y[Neutral_Libertarian_L]§! не находится у власти." #16
+ not_has_neutral_green_government_TT: "§Y[Neutral_green_L]§! не находится у власти." #17
+ not_has_neutral_social_government_TT: "§Y[neutral_Social_L]§! не находится у власти." #18
+ not_has_neutral_communism_government_TT: "§Y[Neutral_Communism_L]§! не находится у власти." #19
+ not_has_nat_populism_TT: "§Y[Nat_Populism_L]§! не находится у власти." #20
+ not_has_fascist_government_TT: "§Y[Nat_Fascism_L]§! не находится у власти." #21
+ not_has_nat_autocracy_government_TT: "§Y[Nat_Autocracy_L]§! не находится у власти." #22
+ not_has_monarchist_government_TT: "§Y[Monarchist_L]§! не находится у власти." #23
  
  #add_2_5_popularity_sub in scripted_effects
  2_5_increase_0_TT: "§Y[Western_Autocracy_L]§! получит §G2.5%§! поддержки.\n"
@@ -1591,31 +1591,31 @@
  UKR_has_cor_over_5_tooltip: "Требуется свыше 5 £generic_anarchist_communism_small §YВероятность восстания (ВВ)§! на Украине"
  ###Шанс восстания (COR)
  ####Add
- UKR_raise_chance_of_revolt_by_1_TT: "§RRaises§! £generic_anarchist_communism_small §YВероятность восстания (ВВ)§! на 1\n"
- UKR_raise_chance_of_revolt_by_2_TT: "§RRaises§! £generic_anarchist_communism_small §YВероятность восстания (ВВ)§! на 2\n"
- UKR_raise_chance_of_revolt_by_3_TT: "§RRaises§! £generic_anarchist_communism_small §YВероятность восстания (ВВ)§! на 3\n"
- UKR_raise_chance_of_revolt_by_4_TT: "§RRaises§! £generic_anarchist_communism_small §YВероятность восстания (ВВ)§! на 4\n"
- UKR_raise_chance_of_revolt_by_5_TT: "§RRaises§! £generic_anarchist_communism_small §YВероятность восстания (ВВ)§! на 5\n"
- UKR_raise_chance_of_revolt_by_10_TT: "§RRaises§! £generic_anarchist_communism_small §YВероятность восстания (ВВ)§! на 10\n"
+ UKR_raise_chance_of_revolt_by_1_TT: "§RВырастет§! £generic_anarchist_communism_small §Yвероятность восстания (ВВ)§! на 1\n"
+ UKR_raise_chance_of_revolt_by_2_TT: "§RВырастет§! £generic_anarchist_communism_small §Yвероятность восстания (ВВ)§! на 2\n"
+ UKR_raise_chance_of_revolt_by_3_TT: "§RВырастет§! £generic_anarchist_communism_small §Yвероятность восстания (ВВ)§! на 3\n"
+ UKR_raise_chance_of_revolt_by_4_TT: "§RВырастет§! £generic_anarchist_communism_small §Yвероятность восстания (ВВ)§! на 4\n"
+ UKR_raise_chance_of_revolt_by_5_TT: "§RВырастет§! £generic_anarchist_communism_small §Yвероятность восстания (ВВ)§! на 5\n"
+ UKR_raise_chance_of_revolt_by_10_TT: "§RВырастет§! £generic_anarchist_communism_small §Yвероятность восстания (ВВ)§! на 10\n"
  ####Subtract
- UKR_lowers_chance_of_revolt_by_1_TT: "§GLowers§! £generic_anarchist_communism_small §YВероятность восстания (ВВ)§! на 1\n"
- UKR_lowers_chance_of_revolt_by_2_TT: "§GLowers§! £generic_anarchist_communism_small §YВероятность восстания (ВВ)§! на 2\n"
- UKR_lowers_chance_of_revolt_by_3_TT: "§GLowers§! £generic_anarchist_communism_small §YВероятность восстания (ВВ)§! на 3\n"
- UKR_lowers_chance_of_revolt_by_4_TT: "§GLowers§! £generic_anarchist_communism_small §YВероятность восстания (ВВ)§! на 4\n"
- UKR_lowers_chance_of_revolt_by_5_TT: "§GLowers§! £generic_anarchist_communism_small §YВероятность восстания (ВВ)§! на 5\n"
+ UKR_lowers_chance_of_revolt_by_1_TT: "§GСнизится§! £generic_anarchist_communism_small §Yвероятность восстания (ВВ)§! на 1\n"
+ UKR_lowers_chance_of_revolt_by_2_TT: "§GСнизится§! £generic_anarchist_communism_small §Yвероятность восстания (ВВ)§! на 2\n"
+ UKR_lowers_chance_of_revolt_by_3_TT: "§GСнизится§! £generic_anarchist_communism_small §Yвероятность восстания (ВВ)§! на 3\n"
+ UKR_lowers_chance_of_revolt_by_4_TT: "§GСнизится§! £generic_anarchist_communism_small §Yвероятность восстания (ВВ)§! на 4\n"
+ UKR_lowers_chance_of_revolt_by_5_TT: "§GСнизится§! £generic_anarchist_communism_small §Yвероятность восстания (ВВ)§! на 5\n"
  ###Stability of Regime (SOR)
  ####Add
- UKR_stability_of_ukraine_var_raises_by_1_TT: "§GRaises§! £stability_texticon §YСтабильность режима (СР)§! на 1\n"
- UKR_stability_of_ukraine_var_raises_by_2_TT: "§GRaises§! £stability_texticon §YСтабильность режима (СР)§! на 2\n"
- UKR_stability_of_ukraine_var_raises_by_3_TT: "§GRaises§! £stability_texticon §YСтабильность режима (СР)§! на 3\n"
- UKR_stability_of_ukraine_var_raises_by_4_TT: "§GRaises§! £stability_texticon §YСтабильность режима (СР)§! на 4\n"
- UKR_stability_of_ukraine_var_raises_by_5_TT: "§GRaises§! £stability_texticon §YСтабильность режима (СР)§! на 5\n"
+ UKR_stability_of_ukraine_var_raises_by_1_TT: "§GВырастет§! £stability_texticon §Yстабильность режима (СР)§! на 1\n"
+ UKR_stability_of_ukraine_var_raises_by_2_TT: "§GВырастет§! £stability_texticon §Yстабильность режима (СР)§! на 2\n"
+ UKR_stability_of_ukraine_var_raises_by_3_TT: "§GВырастет§! £stability_texticon §Yстабильность режима (СР)§! на 3\n"
+ UKR_stability_of_ukraine_var_raises_by_4_TT: "§GВырастет§! £stability_texticon §Yстабильность режима (СР)§! на 4\n"
+ UKR_stability_of_ukraine_var_raises_by_5_TT: "§GВырастет§! £stability_texticon §Yстабильность режима (СР)§! на 5\n"
  ####Subtract
- UKR_stability_of_ukraine_var_lowers_by_1_TT: "§RLowers§! £stability_texticon §YСтабильность режима (СР)§! на 1\n"
- UKR_stability_of_ukraine_var_lowers_by_2_TT: "§RLowers§! £stability_texticon §YСтабильность режима (СР)§! на 2\n"
- UKR_stability_of_ukraine_var_lowers_by_3_TT: "§RLowers§! £stability_texticon §YСтабильность режима (СР)§! на 3\n"
- UKR_stability_of_ukraine_var_lowers_by_4_TT: "§RLowers§! £stability_texticon §YСтабильность режима (СР)§! на 4\n"
- UKR_stability_of_ukraine_var_lowers_by_5_TT: "§RLowers§! £stability_texticon §YСтабильность режима (СР)§! на 5\n"
+ UKR_stability_of_ukraine_var_lowers_by_1_TT: "§RСнизится§! £stability_texticon §Yстабильность режима (СР)§! на 1\n"
+ UKR_stability_of_ukraine_var_lowers_by_2_TT: "§RСнизится§! £stability_texticon §Yстабильность режима (СР)§! на 2\n"
+ UKR_stability_of_ukraine_var_lowers_by_3_TT: "§RСнизится§! £stability_texticon §Yстабильность режима (СР)§! на 3\n"
+ UKR_stability_of_ukraine_var_lowers_by_4_TT: "§RСнизится§! £stability_texticon §Yстабильность режима (СР)§! на 4\n"
+ UKR_stability_of_ukraine_var_lowers_by_5_TT: "§RСнизится§! £stability_texticon §Yстабильность режима (СР)§! на 5\n"
 
  ###Фокус-инструменты
  ##эффекты
