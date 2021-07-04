@@ -1649,7 +1649,7 @@
  ENG_break_the_banks_TT: "Меняет внутреннюю фракцию §Yмеждународные банкиры§! на §Yпрофсоюзы§!"
 
 
- ##Швитерсланд
+ ##Швейцария
  SWI_italian_forts_TT: "Будет выделено §Y$5.6 миллиарда§! из нашей казны\n"
  SWI_german_forts_TT: "Будет выделено §Y$2.2 миллиарда§! из нашей казны\n"
  SWI_french_forts_TT: "Будет выделено §Y$3.2 миллиарда§! из нашей казны\n"
@@ -1657,10 +1657,10 @@
 
  ##
  ##Iran
- PER_increase_influence_5_TT: "Увеличить 5 иранское влияние"
+ PER_increase_influence_5_TT: "Иранское влияние увеличится на 5"
 
  #Custom Econoimc trigger
- consumes_more_than_produced_steel_tt: "[ROOT.GetNameWithFlag] Consumes more Steel than Produced."
- consumes_more_than_produced_aluminium_tt: "[ROOT.GetNameWithFlag] Consumes more Light Metals than Produced."
- consumes_more_than_produced_oil_tt: "[ROOT.GetNameWithFlag] Consumes more Oil than Produced."
- consumes_more_than_produced_tungsten_tt: "[ROOT.GetNameWithFlag] Consumes more Technology Metals than Produced."
+ consumes_more_than_produced_steel_tt: "[ROOT.GetNameWithFlag] потребляет больше стали, чем производится."
+ consumes_more_than_produced_aluminium_tt: "[ROOT.GetNameWithFlag] потребляет больше легких металлов, чем производится."
+ consumes_more_than_produced_oil_tt: "[ROOT.GetNameWithFlag] потребляет больше нефти, чем производится."
+ consumes_more_than_produced_tungsten_tt: "[ROOT.GetNameWithFlag] потребляет больше технологические материалы, чем производится."
