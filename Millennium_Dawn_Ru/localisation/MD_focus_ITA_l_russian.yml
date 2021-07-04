@@ -908,11 +908,11 @@
 
  #ideas
  ITA_election_tips: "Советы по выборам"
- ITA_election_tips_desc: "Постоянный приток денег направляется в "бонусы за потребление", более приемлемый способ описать процесс покупки голосов людей за деньги налогоплательщиков."
+ ITA_election_tips_desc: "Постоянный приток денег направляется в \"бонусы за потребление\", более приемлемый способ описать процесс покупки голосов людей за деньги налогоплательщиков."
  ITA_election_tips_2: "Советы по выборам"
- ITA_election_tips_2_desc: "Постоянный приток денег направляется в "бонусы за потребление", более приемлемый способ описать процесс покупки голосов людей за деньги налогоплательщиков."
+ ITA_election_tips_2_desc: "Постоянный приток денег направляется в \"бонусы за потребление\", более приемлемый способ описать процесс покупки голосов людей за деньги налогоплательщиков."
  ITA_election_tips_3: "Советы по выборам"
- ITA_election_tips_3_desc: "Постоянный приток денег направляется в "бонусы за потребление", более приемлемый способ описать процесс покупки голосов людей за деньги налогоплательщиков."
+ ITA_election_tips_3_desc: "Постоянный приток денег направляется в \"бонусы за потребление\", более приемлемый способ описать процесс покупки голосов людей за деньги налогоплательщиков."
  ITA_vatican_support: "Поддержка от Святого Престола"
  ITA_vatican_support_desc: "Возобновление Латеранских договоров обеспечило нам большую поддержку со стороны Святого Престола, что особенно важно, учитывая, насколько набожно все еще подавляющее большинство нашего населения."
  ITA_royal_family: "Королевская семья"
@@ -1145,7 +1145,7 @@
  
  #generic italy decisions
  generic_ITA: "Итальянские решения"
- bonus_to_stimulate_consumption: "Бонус к "стимулированию потребления""
+ bonus_to_stimulate_consumption: "Бонус к \"стимулированию потребления\""
  bonus_to_stimulate_consumption_desc: "Под предлогом стимулирования внутреннего потребления мы можем дать большую денежную прибавку и повысить удовлетворенность населения сложившейся ситуацией."
  one_time_paycheck_bonus: "Одноразовая прибавка к зарплате"
  one_time_paycheck_bonus_desc: "Под предлогом стимулирования внутреннего потребления мы можем обеспечить большую разовую прибавку к зарплате наших рабочих, чтобы повысить нашу популярность."
@@ -1316,8 +1316,8 @@
  police_effectivness_calabria_variable: "[?police_effectivness_calabria]"
  police_effectivness_puglia_variable: "[?police_effectivness_puglia]"
  families_text: "[cosa_nostra]\n[camorra]\n[ndrangheta]\n[sacra_corona_unita]\n"
- families_title_text: "§YСемьи§!"
- mafia_strength_title_text: "§RСила мафии§!"
+ families_title_text: "§YFamilies§!"
+ mafia_strength_title_text: "§RMafia Strength§!"
  mafia_strength_text: "[cosa_nostra_strength_text]\n[camorra_strength_text]\n[ndrangheta_strength_text]\n[sacra_corona_unita_strength_text]\n"
  mafia_strength_variables_text: "[cosa_nostra_strength_var_text]\n[camorra_strength_var_text]\n[ndrangheta_strength_var_text]\n[sacra_corona_unita_strength_var_text]\n"
  undercover_agents_title_text: "§GUndercover \n Agents§!"
