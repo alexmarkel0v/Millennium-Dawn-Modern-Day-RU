@@ -222,7 +222,7 @@
  improve_ROOT_influence_10_percent_TT: "Повышение §Y[ROOT.GetNamewithFlag]§! влияния от §Y[THIS.GetNamewithFlag]§! примерно на §G~10%§!\n"
  decrease_ROOT_influence_10_percent_TT: "Снижение §Y[ROOT.GetNamewithFlag]§! влияния от §Y[THIS.GetNamewithFlag]§! примерно на §G~10%§!\n"
  ##Generic Scripted Effect
- improve_CURRENT_SCOPE_influence_1_percent_TT: "Повышение §Y[THIS.GetNamewithFlag]§! влияния в §Y[ROOT.GetNamewithFlag]§! примерно §G~1%§!\n"
+ improve_CURRENT_SCOPE_influence_1_percent_TT: "Повышение §Y[THIS.GetNamewithFlag]§! влияния в §Y[ROOT.GetNamewithFlag]§! примерно на §G~1%§!\n"
  improve_CURRENT_SCOPE_influence_2_percent_TT: "Повышение §Y[THIS.GetNamewithFlag]§! влияния в §Y[ROOT.GetNamewithFlag]§! примерно на §G~2%§!\n"
  improve_CURRENT_SCOPE_influence_3_percent_TT: "Повышение §Y[THIS.GetNamewithFlag]§! влияния в §Y[ROOT.GetNamewithFlag]§! примерно на §G~3%§!\n"
  improve_CURRENT_SCOPE_influence_4_percent_TT: "Повышение §Y[THIS.GetNamewithFlag]§! влияния в §Y[ROOT.GetNamewithFlag]§! примерно на §G~4%§!\n"
