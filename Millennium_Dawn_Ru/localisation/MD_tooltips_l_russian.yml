@@ -1591,31 +1591,31 @@
  UKR_has_cor_over_5_tooltip: "Требуется свыше 5 £generic_anarchist_communism_small §YВероятность восстания (ВВ)§! на Украине"
  ###Шанс восстания (COR)
  ####Add
- UKR_raise_chance_of_revolt_by_1_TT: "§RRaises§! £generic_anarchist_communism_small §YВероятность восстания (ВВ)§! на 1\n"
- UKR_raise_chance_of_revolt_by_2_TT: "§RRaises§! £generic_anarchist_communism_small §YВероятность восстания (ВВ)§! на 2\n"
- UKR_raise_chance_of_revolt_by_3_TT: "§RRaises§! £generic_anarchist_communism_small §YВероятность восстания (ВВ)§! на 3\n"
- UKR_raise_chance_of_revolt_by_4_TT: "§RRaises§! £generic_anarchist_communism_small §YВероятность восстания (ВВ)§! на 4\n"
- UKR_raise_chance_of_revolt_by_5_TT: "§RRaises§! £generic_anarchist_communism_small §YВероятность восстания (ВВ)§! на 5\n"
- UKR_raise_chance_of_revolt_by_10_TT: "§RRaises§! £generic_anarchist_communism_small §YВероятность восстания (ВВ)§! на 10\n"
+ UKR_raise_chance_of_revolt_by_1_TT: "§RВырастет§! £generic_anarchist_communism_small §Yвероятность восстания (ВВ)§! на 1\n"
+ UKR_raise_chance_of_revolt_by_2_TT: "§RВырастет§! £generic_anarchist_communism_small §Yвероятность восстания (ВВ)§! на 2\n"
+ UKR_raise_chance_of_revolt_by_3_TT: "§RВырастет§! £generic_anarchist_communism_small §Yвероятность восстания (ВВ)§! на 3\n"
+ UKR_raise_chance_of_revolt_by_4_TT: "§RВырастет§! £generic_anarchist_communism_small §Yвероятность восстания (ВВ)§! на 4\n"
+ UKR_raise_chance_of_revolt_by_5_TT: "§RВырастет§! £generic_anarchist_communism_small §Yвероятность восстания (ВВ)§! на 5\n"
+ UKR_raise_chance_of_revolt_by_10_TT: "§RВырастет§! £generic_anarchist_communism_small §Yвероятность восстания (ВВ)§! на 10\n"
  ####Subtract
- UKR_lowers_chance_of_revolt_by_1_TT: "§GLowers§! £generic_anarchist_communism_small §YВероятность восстания (ВВ)§! на 1\n"
- UKR_lowers_chance_of_revolt_by_2_TT: "§GLowers§! £generic_anarchist_communism_small §YВероятность восстания (ВВ)§! на 2\n"
- UKR_lowers_chance_of_revolt_by_3_TT: "§GLowers§! £generic_anarchist_communism_small §YВероятность восстания (ВВ)§! на 3\n"
- UKR_lowers_chance_of_revolt_by_4_TT: "§GLowers§! £generic_anarchist_communism_small §YВероятность восстания (ВВ)§! на 4\n"
- UKR_lowers_chance_of_revolt_by_5_TT: "§GLowers§! £generic_anarchist_communism_small §YВероятность восстания (ВВ)§! на 5\n"
+ UKR_lowers_chance_of_revolt_by_1_TT: "§GСнизится§! £generic_anarchist_communism_small §Yвероятность восстания (ВВ)§! на 1\n"
+ UKR_lowers_chance_of_revolt_by_2_TT: "§GСнизится§! £generic_anarchist_communism_small §Yвероятность восстания (ВВ)§! на 2\n"
+ UKR_lowers_chance_of_revolt_by_3_TT: "§GСнизится§! £generic_anarchist_communism_small §Yвероятность восстания (ВВ)§! на 3\n"
+ UKR_lowers_chance_of_revolt_by_4_TT: "§GСнизится§! £generic_anarchist_communism_small §Yвероятность восстания (ВВ)§! на 4\n"
+ UKR_lowers_chance_of_revolt_by_5_TT: "§GСнизится§! £generic_anarchist_communism_small §Yвероятность восстания (ВВ)§! на 5\n"
  ###Stability of Regime (SOR)
  ####Add
- UKR_stability_of_ukraine_var_raises_by_1_TT: "§GRaises§! £stability_texticon §YСтабильность режима (СР)§! на 1\n"
- UKR_stability_of_ukraine_var_raises_by_2_TT: "§GRaises§! £stability_texticon §YСтабильность режима (СР)§! на 2\n"
- UKR_stability_of_ukraine_var_raises_by_3_TT: "§GRaises§! £stability_texticon §YСтабильность режима (СР)§! на 3\n"
- UKR_stability_of_ukraine_var_raises_by_4_TT: "§GRaises§! £stability_texticon §YСтабильность режима (СР)§! на 4\n"
- UKR_stability_of_ukraine_var_raises_by_5_TT: "§GRaises§! £stability_texticon §YСтабильность режима (СР)§! на 5\n"
+ UKR_stability_of_ukraine_var_raises_by_1_TT: "§GВырастет§! £stability_texticon §Yстабильность режима (СР)§! на 1\n"
+ UKR_stability_of_ukraine_var_raises_by_2_TT: "§GВырастет§! £stability_texticon §Yстабильность режима (СР)§! на 2\n"
+ UKR_stability_of_ukraine_var_raises_by_3_TT: "§GВырастет§! £stability_texticon §Yстабильность режима (СР)§! на 3\n"
+ UKR_stability_of_ukraine_var_raises_by_4_TT: "§GВырастет§! £stability_texticon §Yстабильность режима (СР)§! на 4\n"
+ UKR_stability_of_ukraine_var_raises_by_5_TT: "§GВырастет§! £stability_texticon §Yстабильность режима (СР)§! на 5\n"
  ####Subtract
- UKR_stability_of_ukraine_var_lowers_by_1_TT: "§RLowers§! £stability_texticon §YСтабильность режима (СР)§! на 1\n"
- UKR_stability_of_ukraine_var_lowers_by_2_TT: "§RLowers§! £stability_texticon §YСтабильность режима (СР)§! на 2\n"
- UKR_stability_of_ukraine_var_lowers_by_3_TT: "§RLowers§! £stability_texticon §YСтабильность режима (СР)§! на 3\n"
- UKR_stability_of_ukraine_var_lowers_by_4_TT: "§RLowers§! £stability_texticon §YСтабильность режима (СР)§! на 4\n"
- UKR_stability_of_ukraine_var_lowers_by_5_TT: "§RLowers§! £stability_texticon §YСтабильность режима (СР)§! на 5\n"
+ UKR_stability_of_ukraine_var_lowers_by_1_TT: "§RСнизится§! £stability_texticon §Yстабильность режима (СР)§! на 1\n"
+ UKR_stability_of_ukraine_var_lowers_by_2_TT: "§RСнизится§! £stability_texticon §Yстабильность режима (СР)§! на 2\n"
+ UKR_stability_of_ukraine_var_lowers_by_3_TT: "§RСнизится§! £stability_texticon §Yстабильность режима (СР)§! на 3\n"
+ UKR_stability_of_ukraine_var_lowers_by_4_TT: "§RСнизится§! £stability_texticon §Yстабильность режима (СР)§! на 4\n"
+ UKR_stability_of_ukraine_var_lowers_by_5_TT: "§RСнизится§! £stability_texticon §Yстабильность режима (СР)§! на 5\n"
 
  ###Фокус-инструменты
  ##эффекты
