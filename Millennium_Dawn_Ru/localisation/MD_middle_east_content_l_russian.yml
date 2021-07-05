@@ -580,7 +580,6 @@
  terror.16.d3: "Ранее сегодня самолеты [ROOT.GetAdjective] пытались обнаружить и уничтожить несколько джихадистских укрытий, расположенных в сельской местности. Однако ряд непредвиденных событий привел к ошибочному выбору цели для [ROOT.GetAdjective] деревни, в результате чего погибли и получили ранения десятки мирных жителей. Эксперты высоко оценили уровень наших пилотов, которые сохраняли свой профессионализм на протяжении всего рейда и делали все возможное для того, чтобы избежать жертв среди гражданского населения, как только они осознали характер своей цели. Тем не менее имевшие место случаи гибели гражданских лиц спровоцировали значительный резонанс против правительства, что заставило многих больше сочувствовать делу джихадистов."
  terror.16.a: "Джихадисты живут, чтобы сражаться в другой день..."
  
- 
  #Gulf
  gulf.5.t: "IPO компании [fossil_fuel_industry_name]"
  gulf.5.d: "[FROM.GetLeader] официально объявил о долгожданном первичном размещении акций прибыльной нефтяной компании [FROM.GetAdjective] государства. Успех этого рискованного предприятия еще предстоит увидеть, и некоторые аналитики прогнозируют ограниченный интерес инвесторов к этому IPO. [FROM.GetAdjective] правительство отвергло эти прогнозы и пыталось сохранить уверенность в это время неопределенности, призывая инвесторов как дома, так и за рубежом покупать акции."
@@ -595,41 +594,41 @@
  gulf.8.a: "Печальный день для нашей страны..."
 
  gulf.9.t: "Уникальное предложение от нового [FROM.GetAdjective] руководства"
- gulf.9.d: "Following radical changes to the government of [FROM.GetNameDef], the new leadership of that country has close ideological connections to our own government. The country's leader, [FROM.GetLeader], has quietly extended an offer to forge a close military partnership between our two countries. We must decide whether to accept or deny this unique offer."
- gulf.9.a: "Brothers in arms!"
- gulf.9.b: "We have no need of an alliance."
+ gulf.9.d: "После радикальных изменений в правительстве [FROM.GetNameDef], новое руководство этого государства имеет тесные идеологические связи с нашим собственным правительством. Лидер государства, [FROM.GetLeader], втихомолку сделал предложение наладить тесное военное партнерство между нашими двумя странами. Мы должны решить, принять или отклонить это уникальное предложение."
+ gulf.9.a: "Братья по оружию!"
+ gulf.9.b: "Мы не нуждаемся в союзе."
 
- gulf.10.t: "Alliance Established!"
- gulf.10.d: "Our country and [FROM.GetNameDef] now share an unbreakable bond!"
- gulf.10.a: "Truly a joyous occasion!"
+ gulf.10.t: "Альянс создан!"
+ gulf.10.d: "Наша страна и [FROM.GetNameDef] теперь связаны неразрывной связью!"
+ gulf.10.a: "Поистине радостное событие!"
 
- gulf.11.t: "Our offer has been rejected..."
- gulf.11.d: "The government of [FROM.GetNameDef] has not even shown us the common courtesy of replying to our offer to form an alliance."
- gulf.11.a: "We must find allies elsewhere..."
+ gulf.11.t: "Наше предложение было отклонено..."
+ gulf.11.d: "Правительство [FROM.GetNameDef] даже не проявило обычной вежливости, ответив на наше предложение о создании альянса."
+ gulf.11.a: "Мы должны найти союзников в других местах..."
 
  gulf.12.t: "[FROM.GetAdjective] Irredentism Threatens our Sovereignty"
  gulf.12.d: "Following major changes in the [FROM.GetAdjective] government, the country's new leader, [FROM.GetLeader] has made a speech reviving [FROM.GetNameDef]'s claims to territory that is rightfully ours. Many [ROOT.GetAdjective]s fear that this speech is the prelude to a [FROM.GetAdjective] attempt to annex our territory by force."
  gulf.12.a: "We should criticize this declaration!"
- gulf.12.b: "We must strike first!"
+ gulf.12.b: "Мы должны нанести удар первыми!"
 
- gulf.13.t: "The Establishment of [FROM.GetNameDef]"
- gulf.13.d: "Just a few years ago what is now officially known as [FROM.GetNameDef] was a repressive monarchy. Since then the country has undergone a massive transformation, with the monarchy taking a step back from politics and giving way to fully democratic elections. Now the government of [FROM.GetLeader] has gone one step further by announcing the dissolution of the [FROM.GetAdjective] monarchy, to the surprise of many outside observers."
- gulf.13.a: "A republican triumph."
+ gulf.13.t: "Основание [FROM.GetNameDef]"
+ gulf.13.d: "Всего несколько лет назад то, что сейчас официально известно как [FROM.GetNameDef], было репрессивной монархией. С тех пор страна претерпела массированную трансформацию, когда монархия сделала шаг назад от политики и уступила место полностью демократическим выборам. Сейчас правительство [FROM.GetLeader] пошло на шаг дальше, объявив о роспуске [FROM.GetAdjective] монархии, к удивлению многих сторонних наблюдателей."
+ gulf.13.a: "Республиканский триумф."
 
- gulf.14.t: "Саммит высокого уровня, проведенный между Турцией и [FROM.GetNameDef]"
+ gulf.14.t: "Саммит между Турцией и [FROM.GetNameDef]"
  gulf.14.d: "После нескольких недель закулисных переговоров президент Турции [TUR.GetLeader] прибыл в [FROM.GetNameDef], чтобы встретиться со своим коллегой [FROM.GetLeader]. Многие видят в этом саммите первый шаг к более широкому [FROM.GetAdjective] - Турецкому сотрудничеству, возможно, предвещая значительные изменения в геополитике Ближнего Востока и заметный рост регионального влияния Турции."
  gulf.14.a: "Динамика мощности меняется."
 
- gulf.15.t: "[FROM.GetLeader] Criticizes Turkish Foreign Policy"
- gulf.15.d: "Amid a notable increase in Turkish activity in the Middle East, the leader of [FROM.GetNameDef] has lambasted Turkish "meddling" and "interference" in the affairs of Arab states. [FROM.GetLeader] accused Turkey of seeing to "revive the Ottoman Empire" through its actions, drawing a hostile response from [TUR.GetLeader]. World leaders, including [USA.GetLeader] and [SOV.GetLeader], have called on both sides to exercise restraint and preserve regional stability."
- gulf.15.a: "Turkish ambitions are being challenged..."
+ gulf.15.t: "[FROM.GetLeader] критикует внешнюю политику Турции"
+ gulf.15.d: "AНа фоне заметного роста активности Турции на Ближнем Востоке лидер [FROM.GetNameDef] раскритиковал турецкое «вмешательство» и «интервенцию» в дела арабских государств. [FROM.GetLeader] обвинил Турцию в стремлении своими действиями \"возродить Османскую империю\", что вызвало враждебную реакцию со стороны [TUR.GetLeader]. Мировые лидеры, включая [USA.GetLeader] и [SOV.GetLeader], призвали обе стороны к сдержанности и сохранению региональной стабильности."
+ gulf.15.a: "Турецким амбициям брошен вызов..."
 
  gulf.16.t: "The [FROM.GetAdjective] Leadership is Pushing for Regime Change in Syria!"
  gulf.16.d: "[FROM.GetLeader] has sought our support for a coalition to topple [SYR.GetLeader]. While seeking regime change in Syria could help lead to a government in that country that is more conducive to our interests, we should consider the international and domestic ramifications of such a move."
  gulf.16.a: "Time to bring down the dictator!"
  gulf.16.b: "The risks are too great."
 
- gulf.17.t: "[USA.GetLeader] Отказался поддерживать антиасадовую коалицию.!"
+ gulf.17.t: "[USA.GetLeader] отказался поддерживать антиасадовую коалицию!"
  gulf.17.d: "Undoubtedly privileging the views of the Russian government over those of the Syrian people, the Americans have chosen to decline our proposal for humanitarian intervention in Syria."
  gulf.17.a: "We must take matters into our own hands!"
  gulf.17.b: "We are not ready for an operation of this magnitude..."
