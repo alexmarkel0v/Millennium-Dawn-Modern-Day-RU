@@ -860,31 +860,31 @@
  gcc.20.d11: "После секретной конференции, созванной другими членами Совета сотрудничества арабских государств Персидского залива [YEM.GetNameDef] была исключена из этой организации. Остальные члены ССАГПЗ назвали причиной своего решения \"политическую нестабильность\" в [YEM.GetNameDef]. [YEM.GetLeader] гневно отреагировал, назвав это событие еще одним доказательством заговора других стран Персидского залива с целью сдержать распространение политической идеологии [YEM.GetNameDef]."
  gcc.20.a: "Неопределенные времена для Персидского залива."
 
- gcc.21.t: "[FROM.GetName] Joins Gulf Cooperation Council"
+ gcc.21.t: "[FROM.GetName] присоединяется к ССАГПЗ"
  gcc.21.d: "Following a long accession process, [FROM.GetName] has managed to secure membership of the Gulf Cooperation Council, a regional organization founded by [SAU.GetNameDef], [BHR.GetNameDef]. [KUW.GetNameDef], [OMA.GetNameDef], [QAT.GetNameDef] and [UAE.GetNameDef]. This development represents a significant expansion of the GCC which for a long time remained wary of accepting new members into its ranks. [FROM.GetName] will now be able to take advantage of a range of economic, political and military benefits that GCC membership confers."
  gcc.21.a: "ССАГПЗ становится сильнее..."
 
  gcc.22.t: "The [FROM.GetAdjective]s are requesting bloc arms sales to the GCC"
  gcc.22.d: "The Gulf Cooperation Council has historically aligned itself with the [ROOT.GetAdjective] government, and is therefore an important [ROOT.GetAdjective] ally in the Arab world. The [FROM.GetAdjective]s have argued that granting bloc arms sales to the GCC will help them defend against our shared enemies by providing GCC members with much needed arms and enhacing their force interoperability."
- gcc.22.a: "Let's give them the guns."
- gcc.22.b: "We need them for ourselves."
+ gcc.22.a: "Давайте отдадим им оружие."
+ gcc.22.b: "Они нужны нам самим."
 
  gcc.23.t: "[FROM.GetName] Finalizes GCC Bloc Arms Sale"
  gcc.23.d: "Following up on a request by member states of the Gulf Cooperation Council, the [FROM.GetAdjective] has aproved a bloc arms sale to the organization as a whole. This move has been touted as a signal of the GCC's growing unity, as in the past the various militaries of the GCC were unintegrated and uncoordinated, a phenomenon which was exacerbated by their procurement of arms from different suppliers. [FROM.GetLeader] has expressed hope that this sale would help the GCC to combat shared threats in the Middle East more effectively. The Arab Gulf states that make up the GCC, for their part, have expressed delight at the success of this deal."
 
  gcc.24.t: "[FROM.GetName] is Pressuring Us to Support New GCC Member"
  gcc.24.d: "[pressured_to_accept] is currently seeking membership of the Gulf Cooperation Council, and is being supported in this endeavor by [FROM.GetNameDef]. We should consider whether to also support [pressured_to_accept]'s efforts.'"
- gcc.24.a: "This state deserves membership!"
- gcc.24.b: "We refuse to support this country's membership!"
+ gcc.24.a: "Это государство заслуживает членства!"
+ gcc.24.b: "Мы не поддерживаем членство этого государства!"
 
  gcc.25.t: "GCC Formally Extends Invitation to [FROM.GetName]"
  gcc.25.d: "The Gulf Cooperation Council, once limited to the six founding members of [BHR.GetNameDef], [KUW.GetNameDef], [OMA.GetNameDef], [QAT.GetNameDef], [SAU.GetNameDef] and [UAE.GetNameDef], has moved to accept a new member state. The Secretary General of the GCC announced today that [FROM.GetName] has been formally invited to begin an accession process culminating in GCC membership, once certain economic requirements are met. [FROM.GetName] will reportedly be required to demonstrate progress in development by achieving a GDP per capita of $10,000. Current GCC members have pledged to help [FROM.GetName] achieve this goal by investing in its economy."
- gcc.25.a: "The Council expands..."
+ gcc.25.a: "Совет расширяется..."
 
  gcc.26.t: "[FROM.GetName] Offers to Host Joint GCC Exercises"
  gcc.26.d: "The delegation of [FROM.GetNameDef] has proposed a joint exercise between Gulf Cooperation Council member states to help guard against external threats. This could be an opportunity for [ROOT.GetAdjective] troops to gain useful experience."
- gcc.26.a: "Our troops will appreciate the practice!"
- gcc.26.b: "We refuse to participate!"
+ gcc.26.a: "Наши войска оценят эту практику!"
+ gcc.26.b: "Мы отказываемся участвовать!"
 
  #Middle East Peace
  peace_plan.1.t: "[FROM.GetName] Proposes Middle East Peace Plan"
