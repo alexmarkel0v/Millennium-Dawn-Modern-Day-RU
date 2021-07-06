@@ -7,8 +7,8 @@
  EMBARGO_SEND_DESC_EVERYONE: "Вступление §Y[This.GetNameWithFlag]§! уменьшит торговое влияние и мнение с §Y[This.GetNameWithFlag]§! с помощью §R100§!.\n\nЭто не ограничивает страну в поиске ресурсов другими способами...."
 
  LIFT_EMBARGO_COUNTRY_TITLE: "Снять эмбарго"
- LIFT_EMBARGO_COUNTRY_ACTION_DESC: "Снятие эмбарго с этим государством позволит нормализовать экономические отношения и торговые связи."
- LIFT_EMBARGO_TOOLTIP: "Снятие эмбарго §Y[This.GetNameWithFlag]§!"
+ LIFT_EMBARGO_COUNTRY_ACTION_DESC: "Снятие эмбарго с этого государства позволит нормализовать экономические отношения и торговые связи."
+ LIFT_EMBARGO_TOOLTIP: "Снятие эмбарго с §Y[This.GetNameWithFlag]§!"
  LIFT_EMBARGO_SEND_DESC: "Снятие блокады с §Y[This.GetNameWithFlag]§! увеличит торговое влияние и отношения на §G100§!. Однако, §Y[This.GetNameWithFlag]§! получит мнение §R-50§! в связи с недавно введенным эмбарго.\n"
  ##Taken from Yard1's mod
  RECALL_VOLUNTEERS_TITLE: "Вспомнить о силе вмешательства"
