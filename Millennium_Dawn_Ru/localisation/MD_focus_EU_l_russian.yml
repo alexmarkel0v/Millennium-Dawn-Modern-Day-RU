@@ -3827,7 +3827,7 @@
 
  ### ECB_Outright_Monetary_Transactions Category and Decsisions ###
  EU_ECB_category: "Европейский Центральный Банк (ЕЦБ)"
- EU_ECB_category_desc: "[EUU.GetFlag] The European Central Bank (ECB)\n\nПрямые денежные операции (ПДО) - это программа Европейского центрального банка, в рамках которой банк осуществляет покупку (прямые операции) на вторичных рынках суверенных облигаций, при определенных условиях, облигаций, выпущенных государствами-членами Еврозоны. ЕЦБ хочет стабилизировать государства-члены, процентные ставки которых находятся под давлением мировых финансовых рынков.\n\nРазмер лимита ПДО: [?global.OMT_size_limit|§G1]\nОбщее значение ПДО: [?global.OMT_total_value|§C1]\n\nФлаг - Название - §YДолги§! в млрд - §RПроцентная ставка§! в % - §CСчет ПДО§! в млрд\n\n[ALB_ECB_OMT_Loc][ARM_ECB_OMT_Loc][AUS_ECB_OMT_Loc][AZE_ECB_OMT_Loc][BEL_ECB_OMT_Loc][BLR_ECB_OMT_Loc][BOS_ECB_OMT_Loc][BUL_ECB_OMT_Loc][CAT_ECB_OMT_Loc][CRE_ECB_OMT_Loc][CRO_ECB_OMT_Loc][CYP_ECB_OMT_Loc][CZE_ECB_OMT_Loc][DEN_ECB_OMT_Loc][ENG_ECB_OMT_Loc][EST_ECB_OMT_Loc][FIN_ECB_OMT_Loc][FRA_ECB_OMT_Loc][FYR_ECB_OMT_Loc][GEO_ECB_OMT_Loc][GER_ECB_OMT_Loc][GRE_ECB_OMT_Loc][HOL_ECB_OMT_Loc][HUN_ECB_OMT_Loc][ICE_ECB_OMT_Loc][IRE_ECB_OMT_Loc][ITA_ECB_OMT_Loc][KOS_ECB_OMT_Loc][LAT_ECB_OMT_Loc][LIT_ECB_OMT_Loc][LUX_ECB_OMT_Loc][MLT_ECB_OMT_Loc][MLV_ECB_OMT_Loc][MNT_ECB_OMT_Loc][NOR_ECB_OMT_Loc][POL_ECB_OMT_Loc][POR_ECB_OMT_Loc][ROM_ECB_OMT_Loc][SCL_ECB_OMT_Loc][SCO_ECB_OMT_Loc][SER_ECB_OMT_Loc][SLO_ECB_OMT_Loc][SLV_ECB_OMT_Loc][SPR_ECB_OMT_Loc][SWE_ECB_OMT_Loc][SWI_ECB_OMT_Loc][TUR_ECB_OMT_Loc][UKR_ECB_OMT_Loc][WAS_ECB_OMT_Loc]"
+ EU_ECB_category_desc: "[EUU.GetFlag] Европейский Центральный Банк (ЕЦБ)\n\nПрямые денежные операции (ПДО) - это программа Европейского центрального банка, в рамках которой банк осуществляет покупку (прямые операции) на вторичных рынках суверенных облигаций, при определенных условиях, облигаций, выпущенных государствами-членами Еврозоны. ЕЦБ хочет стабилизировать государства-члены, процентные ставки которых находятся под давлением мировых финансовых рынков.\n\nРазмер лимита ПДО: [?global.OMT_size_limit|§G1]\nОбщее значение ПДО: [?global.OMT_total_value|§C1]\n\nФлаг - Название - §YДолги§! в млрд - §RПроцентная ставка§! в % - §CСчет ПДО§! в млрд\n\n[ALB_ECB_OMT_Loc][ARM_ECB_OMT_Loc][AUS_ECB_OMT_Loc][AZE_ECB_OMT_Loc][BEL_ECB_OMT_Loc][BLR_ECB_OMT_Loc][BOS_ECB_OMT_Loc][BUL_ECB_OMT_Loc][CAT_ECB_OMT_Loc][CRE_ECB_OMT_Loc][CRO_ECB_OMT_Loc][CYP_ECB_OMT_Loc][CZE_ECB_OMT_Loc][DEN_ECB_OMT_Loc][ENG_ECB_OMT_Loc][EST_ECB_OMT_Loc][FIN_ECB_OMT_Loc][FRA_ECB_OMT_Loc][FYR_ECB_OMT_Loc][GEO_ECB_OMT_Loc][GER_ECB_OMT_Loc][GRE_ECB_OMT_Loc][HOL_ECB_OMT_Loc][HUN_ECB_OMT_Loc][ICE_ECB_OMT_Loc][IRE_ECB_OMT_Loc][ITA_ECB_OMT_Loc][KOS_ECB_OMT_Loc][LAT_ECB_OMT_Loc][LIT_ECB_OMT_Loc][LUX_ECB_OMT_Loc][MLT_ECB_OMT_Loc][MLV_ECB_OMT_Loc][MNT_ECB_OMT_Loc][NOR_ECB_OMT_Loc][POL_ECB_OMT_Loc][POR_ECB_OMT_Loc][ROM_ECB_OMT_Loc][SCL_ECB_OMT_Loc][SCO_ECB_OMT_Loc][SER_ECB_OMT_Loc][SLO_ECB_OMT_Loc][SLV_ECB_OMT_Loc][SPR_ECB_OMT_Loc][SWE_ECB_OMT_Loc][SWI_ECB_OMT_Loc][TUR_ECB_OMT_Loc][UKR_ECB_OMT_Loc][WAS_ECB_OMT_Loc]"
  ECB_Start_OMT: "Чего бы это ни стоило!"
  ECB_Start_OMT_desc: "ЕЦБ сделает все, чтобы спасти евро\n\n\"В рамках своего мандата ЕЦБ готов сделать все, что потребуется, чтобы сохранить евро. И поверьте мне, этого будет достаточно, (...)\"\n- Марио Драги, Председатель ЕЦБ\n\n"
  ECB_expand_OMT_limit: "Расширить программу ПДО"
@@ -6980,9 +6980,9 @@ EU_parliament_focus_EU001_loc_key: "\n[EU_council_focus_name_EU001]: [?global.fo
 
  EU_parliament_update: "Обновить парламент ЕС"
  EU_parliament_update_desc: "Парламент ЕС обновляется автоматически после выборов. С помощью этого решения его можно обновлять вручную."
- EU_parliament_hide_members: "Скрыть стороны-члены"
+ EU_parliament_hide_members: "Скрыть партии-члены"
  EU_parliament_hide_members_desc: "Скрыть партии, входящие в политические группы и альянсы"
- EU_parliament_show_members: "Показать стороны-члены"
+ EU_parliament_show_members: "Показать партии-члены"
  EU_parliament_show_members_desc: "Показать партии, входящие в политические группы и альянсы"
 
  ### EP focus Decisions loc ###
@@ -7332,8 +7332,8 @@ EU_parliament_focus_EU001_loc_key: "\n[EU_council_focus_name_EU001]: [?global.fo
  ### EU Budget / EP ###
  ######################
 
- EU_mff: "Multiannual Financial Framework"
- EU_budget: "Budget of the next fiscal year"
+ EU_mff: "Многолетняя финансовая программа"
+ EU_budget: "Бюджет на следующий финансовый год"
 
 
  ###############################
