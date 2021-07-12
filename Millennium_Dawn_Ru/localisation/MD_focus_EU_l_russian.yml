@@ -3790,7 +3790,7 @@
  EU_news.5.d:0 "[FROM.GetNameWithFlag] теперь будет занимать пост Председателя Европейского парламента в течение следующих 5 лет."
  EU_news.5.a:0 "Надеемся на плодотворное сотрудничество!"
  ### President of the European Central Bank ###
- EU_news.6.t:0 "Президент Европейского центрального банка"
+ EU_news.6.t:0 "Председатель Европейского центрального банка"
  EU_news.6.d:0 "[FROM.GetNameWithFlag] теперь будет занимать пост Председателя Европейского центрального банка в течение следующих 8 лет."
  EU_news.6.a:0 "Надеемся на плодотворное сотрудничество!"
  ### European Minister of Economy and Finance ###
@@ -3826,24 +3826,24 @@
 
 
  ### ECB_Outright_Monetary_Transactions Category and Decsisions ###
- EU_ECB_category: "The European Central Bank (ECB)"
- EU_ECB_category_desc: "[EUU.GetFlag] The European Central Bank (ECB)\n\nOutright Monetary Transactions (OMT) is a program of the European Central Bank under which the bank makes purchases (outright transactions) in secondary, sovereign bond markets, under certain conditions, of bonds issued by Eurozone member states. The ECB want to stabilize member states, which interest rates are under the pressure of the global financial markets.\n\nOMT Size Limit: [?global.OMT_size_limit|§G1]\nOMT Total Value: [?global.OMT_total_value|§C1]\n\nFlag - Name - §YDebts§! in billion - §RInterest Rate§! in % - §COMT Account§! in billion\n\n[ALB_ECB_OMT_Loc][ARM_ECB_OMT_Loc][AUS_ECB_OMT_Loc][AZE_ECB_OMT_Loc][BEL_ECB_OMT_Loc][BLR_ECB_OMT_Loc][BOS_ECB_OMT_Loc][BUL_ECB_OMT_Loc][CAT_ECB_OMT_Loc][CRE_ECB_OMT_Loc][CRO_ECB_OMT_Loc][CYP_ECB_OMT_Loc][CZE_ECB_OMT_Loc][DEN_ECB_OMT_Loc][ENG_ECB_OMT_Loc][EST_ECB_OMT_Loc][FIN_ECB_OMT_Loc][FRA_ECB_OMT_Loc][FYR_ECB_OMT_Loc][GEO_ECB_OMT_Loc][GER_ECB_OMT_Loc][GRE_ECB_OMT_Loc][HOL_ECB_OMT_Loc][HUN_ECB_OMT_Loc][ICE_ECB_OMT_Loc][IRE_ECB_OMT_Loc][ITA_ECB_OMT_Loc][KOS_ECB_OMT_Loc][LAT_ECB_OMT_Loc][LIT_ECB_OMT_Loc][LUX_ECB_OMT_Loc][MLT_ECB_OMT_Loc][MLV_ECB_OMT_Loc][MNT_ECB_OMT_Loc][NOR_ECB_OMT_Loc][POL_ECB_OMT_Loc][POR_ECB_OMT_Loc][ROM_ECB_OMT_Loc][SCL_ECB_OMT_Loc][SCO_ECB_OMT_Loc][SER_ECB_OMT_Loc][SLO_ECB_OMT_Loc][SLV_ECB_OMT_Loc][SPR_ECB_OMT_Loc][SWE_ECB_OMT_Loc][SWI_ECB_OMT_Loc][TUR_ECB_OMT_Loc][UKR_ECB_OMT_Loc][WAS_ECB_OMT_Loc]"
- ECB_Start_OMT: "Whatever it takes!"
- ECB_Start_OMT_desc: "The ECB will do everything to save the Euro\n\n\"Within our mandate, the ECB is ready to do whatever it takes to preserve the euro. And believe me, it will be enough, (...)\"\n- Mario Draghi, President of the ECB\n\n"
- ECB_expand_OMT_limit: "Expand the OMT Program"
- ECB_expand_OMT_limit_desc: "Expand the limit of purchases (outright transactions) in secondary, sovereign bond markets unter the OMT Program."
- ECB_reduce_OMT_limit: "Reduce the OMT Program"
- ECB_reduce_OMT_limit_desc: "Reduce the limit of purchases (outright transactions) in secondary, sovereign bond markets unter the OMT Program."
- ECB_Outright_Monetary_Transactions: "Start the OMT Program"
- ECB_Outright_Monetary_Transactions_desc: "Start purchases (outright transactions) in secondary, sovereign bond markets till all member states have an interest rate below 4% or the OMT Size Limit is reached."
+ EU_ECB_category: "Европейский Центральный Банк (ЕЦБ)"
+ EU_ECB_category_desc: "[EUU.GetFlag] The European Central Bank (ECB)\n\nПрямые денежные операции (ПДО) - это программа Европейского центрального банка, в рамках которой банк осуществляет покупку (прямые операции) на вторичных рынках суверенных облигаций, при определенных условиях, облигаций, выпущенных государствами-членами Еврозоны. ЕЦБ хочет стабилизировать государства-члены, процентные ставки которых находятся под давлением мировых финансовых рынков.\n\nРазмер лимита ПДО: [?global.OMT_size_limit|§G1]\nОбщее значение ПДО: [?global.OMT_total_value|§C1]\n\nФлаг - Название - §YДолги§! в млрд - §RПроцентная ставка§! в % - §CСчет ПДО§! в млрд\n\n[ALB_ECB_OMT_Loc][ARM_ECB_OMT_Loc][AUS_ECB_OMT_Loc][AZE_ECB_OMT_Loc][BEL_ECB_OMT_Loc][BLR_ECB_OMT_Loc][BOS_ECB_OMT_Loc][BUL_ECB_OMT_Loc][CAT_ECB_OMT_Loc][CRE_ECB_OMT_Loc][CRO_ECB_OMT_Loc][CYP_ECB_OMT_Loc][CZE_ECB_OMT_Loc][DEN_ECB_OMT_Loc][ENG_ECB_OMT_Loc][EST_ECB_OMT_Loc][FIN_ECB_OMT_Loc][FRA_ECB_OMT_Loc][FYR_ECB_OMT_Loc][GEO_ECB_OMT_Loc][GER_ECB_OMT_Loc][GRE_ECB_OMT_Loc][HOL_ECB_OMT_Loc][HUN_ECB_OMT_Loc][ICE_ECB_OMT_Loc][IRE_ECB_OMT_Loc][ITA_ECB_OMT_Loc][KOS_ECB_OMT_Loc][LAT_ECB_OMT_Loc][LIT_ECB_OMT_Loc][LUX_ECB_OMT_Loc][MLT_ECB_OMT_Loc][MLV_ECB_OMT_Loc][MNT_ECB_OMT_Loc][NOR_ECB_OMT_Loc][POL_ECB_OMT_Loc][POR_ECB_OMT_Loc][ROM_ECB_OMT_Loc][SCL_ECB_OMT_Loc][SCO_ECB_OMT_Loc][SER_ECB_OMT_Loc][SLO_ECB_OMT_Loc][SLV_ECB_OMT_Loc][SPR_ECB_OMT_Loc][SWE_ECB_OMT_Loc][SWI_ECB_OMT_Loc][TUR_ECB_OMT_Loc][UKR_ECB_OMT_Loc][WAS_ECB_OMT_Loc]"
+ ECB_Start_OMT: "Чего бы это ни стоило!"
+ ECB_Start_OMT_desc: "ЕЦБ сделает все, чтобы спасти евро\n\n\"В рамках своего мандата ЕЦБ готов сделать все, что потребуется, чтобы сохранить евро. И поверьте мне, этого будет достаточно, (...)\"\n- Марио Драги, Председатель ЕЦБ\n\n"
+ ECB_expand_OMT_limit: "Расширить программу ПДО"
+ ECB_expand_OMT_limit_desc: "Расширить лимит покупок (прямых сделок) на вторичных рынках суверенных облигаций в рамках программы ПДО."
+ ECB_reduce_OMT_limit: "Сократить программу ПДО"
+ ECB_reduce_OMT_limit_desc: "Снизить лимит покупок (прямых сделок) на вторичных рынках суверенных облигаций в рамках программы ПДО."
+ ECB_Outright_Monetary_Transactions: "Начать программу ПДО"
+ ECB_Outright_Monetary_Transactions_desc: "Начать покупки (прямые сделки) на вторичных рынках суверенных облигаций до тех пор, пока процентная ставка во всех государствах-членах не станет ниже 4% или пока не будет достигнут лимит размера ПДО."
 
- tooltip_ECB_Start_OMT_effect: "§YOMT Program§! becomes available."
- tooltip_ECB_expand_OMT_limit_effect: "§YOMT Size Limit§!: Add §G+$200§! billion.\nAll member states with §Yinterest rate§! < §R4.0%§!: добавит §R+5%§! евроскептицизма.\nAll member states with §Yinterest rate§! > §R4.0%§!: добавит §G-5%§! евроскептицизма.\n"
- tooltip_ECB_reduce_OMT_limit_effect: "§YOMT Size Limit§!: Add §R-$200§! billion.\nAll member states with §Yinterest rate§! < §R4.0%§!: добавит §G-5%§! евроскептицизма.\nAll member states with §Yinterest rate§! > §R4.0%§!: добавит §R+5%§! евроскептицизма.\n"
+ tooltip_ECB_Start_OMT_effect: "§YПрограмма ПДО§! станет доступной."
+ tooltip_ECB_expand_OMT_limit_effect: "§YРазмер лимита ПДО§!: добавит §G+$200§! миллиардов.\nВсе государства-члены с §Yпроцентной ставкой§! < §R4.0%§!: добавит §R+5%§! евроскептицизма.\nВсе государства-члены с §Yпроцентной ставкой§! > §R4.0%§!: добавит §G-5%§! евроскептицизма.\n"
+ tooltip_ECB_reduce_OMT_limit_effect: "§YРазмер лимита ПДО§!: добавит §R-$200§! миллиардов.\nВсе государства-члены с §Yпроцентной ставкой§! < §R4.0%§!: добавит §G-5%§! евроскептицизма.\nВсе государства-члены с §Yпроцентной ставкой§! > §R4.0%§!: добавит §R+5%§! евроскептицизма.\n"
 
- tooltip_ECB_Outright_Monetary_Transactions_available: "§YOMT Size Limit§! > $0."
- tooltip_ECB_Outright_Monetary_Transactions_complete_effect: "All member states with §Yinterest rate§! > §R4.0%§!: Get debt are reduced till §Yinterest rate§! < §R4.0%§! AND §GOMT Size Limit§! > §BOMT Total Value§!.\n"
- tooltip_ECB_Outright_Monetary_Transactions_remove_effect: "All member states with §BOMT Account§! > $0: §RAdd§! §BOMT Account§! to debt.\n"
+ tooltip_ECB_Outright_Monetary_Transactions_available: "§YОграничение по размеру ПДО§! > $0."
+ tooltip_ECB_Outright_Monetary_Transactions_complete_effect: "Все государства-члены с §Yпроцентной ставкой§! > §R4.0%§!: получение долга снижается до §Yпроцентной ставки§! < §R4.0%§! и §Gразмер лимита ПДО§! > §Bобщего значения ПДО§!.\n"
+ tooltip_ECB_Outright_Monetary_Transactions_remove_effect: "Все государства-члены со §Bсчетом ПДО§! > $0: §Rдобавит§! §Bсчет ПДО§! в долг.\n"
 
  ### ECB_OMT_YES ###
  ALB_ECB_OMT_YES: "[ALB.GetNameWithFlag]: [?ALB.debt|§Y] - [?ALB.interest_rate|§R] - [?ALB.OMT_account|§C]\n"
@@ -3949,8 +3949,8 @@
 
  ### EU_exit_category & Decisions ###
 
- EU_exit_category: "Withdrawal from The European Union"
- EU_exit_category_desc: "With rising Euroscepticism throughout the Union some member states will think about leaving §Y[EUU.GetFlag] The European Union§!.\n\nFlag and Name from member states that triggered Article 50:\n\n [ALB_EU_exit_Loc][ARM_EU_exit_Loc][AUS_EU_exit_Loc][AZE_EU_exit_Loc][BEL_EU_exit_Loc][BLR_EU_exit_Loc][BOS_EU_exit_Loc][BUL_EU_exit_Loc][CAT_EU_exit_Loc][CRE_EU_exit_Loc][CRO_EU_exit_Loc][CYP_EU_exit_Loc][CZE_EU_exit_Loc][DEN_EU_exit_Loc][ENG_EU_exit_Loc][EST_EU_exit_Loc][FIN_EU_exit_Loc][FRA_EU_exit_Loc][FYR_EU_exit_Loc][GEO_EU_exit_Loc][GER_EU_exit_Loc][GRE_EU_exit_Loc][HOL_EU_exit_Loc][HUN_EU_exit_Loc][ICE_EU_exit_Loc][IRE_EU_exit_Loc][ITA_EU_exit_Loc][KOS_EU_exit_Loc][LAT_EU_exit_Loc][LIT_EU_exit_Loc][LUX_EU_exit_Loc][MLT_EU_exit_Loc][MLV_EU_exit_Loc][MNT_EU_exit_Loc][NOR_EU_exit_Loc][POL_EU_exit_Loc][POR_EU_exit_Loc][ROM_EU_exit_Loc][SCL_EU_exit_Loc][SCO_EU_exit_Loc][SER_EU_exit_Loc][SLO_EU_exit_Loc][SLV_EU_exit_Loc][SPR_EU_exit_Loc][SWE_EU_exit_Loc][SWI_EU_exit_Loc][TUR_EU_exit_Loc][UKR_EU_exit_Loc][WAS_EU_exit_Loc]"
+ EU_exit_category: "Выход из Европейского Союза"
+ EU_exit_category_desc: "С ростом евроскептицизма по всему Союзу некоторые государства-члены задумаются о выходе из §Y[EUU.GetFlag] Европейского Союза§!.\n\nФлаг и название государств-членов ЕС, которые инициировали статью 50:\n\n [ALB_EU_exit_Loc][ARM_EU_exit_Loc][AUS_EU_exit_Loc][AZE_EU_exit_Loc][BEL_EU_exit_Loc][BLR_EU_exit_Loc][BOS_EU_exit_Loc][BUL_EU_exit_Loc][CAT_EU_exit_Loc][CRE_EU_exit_Loc][CRO_EU_exit_Loc][CYP_EU_exit_Loc][CZE_EU_exit_Loc][DEN_EU_exit_Loc][ENG_EU_exit_Loc][EST_EU_exit_Loc][FIN_EU_exit_Loc][FRA_EU_exit_Loc][FYR_EU_exit_Loc][GEO_EU_exit_Loc][GER_EU_exit_Loc][GRE_EU_exit_Loc][HOL_EU_exit_Loc][HUN_EU_exit_Loc][ICE_EU_exit_Loc][IRE_EU_exit_Loc][ITA_EU_exit_Loc][KOS_EU_exit_Loc][LAT_EU_exit_Loc][LIT_EU_exit_Loc][LUX_EU_exit_Loc][MLT_EU_exit_Loc][MLV_EU_exit_Loc][MNT_EU_exit_Loc][NOR_EU_exit_Loc][POL_EU_exit_Loc][POR_EU_exit_Loc][ROM_EU_exit_Loc][SCL_EU_exit_Loc][SCO_EU_exit_Loc][SER_EU_exit_Loc][SLO_EU_exit_Loc][SLV_EU_exit_Loc][SPR_EU_exit_Loc][SWE_EU_exit_Loc][SWI_EU_exit_Loc][TUR_EU_exit_Loc][UKR_EU_exit_Loc][WAS_EU_exit_Loc]"
 
  ALB_Article_50_YES: "§Y[ALB.GetNameWithFlag]§!\n"
  ARM_Article_50_YES: "§Y[ARM.GetNameWithFlag]§!\n"
