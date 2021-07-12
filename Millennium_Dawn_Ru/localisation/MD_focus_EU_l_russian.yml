@@ -5378,15 +5378,15 @@
  ######################
 
  ### EU Parliament category ###
- EU_parliament_category: "European Parliament (EP)"
- EU_parliament_category_desc: "European Parliament:\nTotal MEP: [?global.MEP_Total|C0]\nMajority: [?global.MEP_Majority|O0][EU_parliament_Supermajority]\n\nPolitical groups of the European Parliament:\n\nName - MEP Total - MEP % -  Parliamentary Influence (PI)  - Member Parties (Flag MEP)\n\n§YPolitical Groups:§!\n[EU_parliament_political_groups]§YIndependent MEP:§!\n[EU_parliament_independent_MEP]\n[EU_parliament_agenda]"
+ EU_parliament_category: "Европейский парламент (EP)"
+ EU_parliament_category_desc: "Европейский парламент:\nВсего депутатов: [?global.MEP_Total|C0]\nБольшинство: [?global.MEP_Majority|O0][EU_parliament_Supermajority]\n\nПолитические группы Европейского парламента:\n\nНазвание - Всего депутатов - Кол-во депутатов в % -  Парламентское влияние (ПВ)  - Стороны-члены (Флаги государств)\n\n§YПолитические группы:§!\n[EU_parliament_political_groups]§YНезависимые депутаты:§!\n[EU_parliament_independent_MEP]\n[EU_parliament_agenda]"
 
- EU_parliament_Supermajority_loc_key: "\nSupermajority: [?global.MEP_Supermajority|O0]"
+ EU_parliament_Supermajority_loc_key: "\nКвалифицированное большинство: [?global.MEP_Supermajority|O0]"
 
  EU_parliament_political_groups_loc_key: "[EU_parliament_PG_Western_Autocracy][EU_parliament_PG_conservatism][EU_parliament_PG_liberalism][EU_parliament_PG_socialism][EU_parliament_PG_Communist-State][EU_parliament_PG_anarchist_communism][EU_parliament_PG_Conservative][EU_parliament_PG_Autocracy][EU_parliament_PG_Mod_Vilayat_e_Faqih][EU_parliament_PG_Vilayat_e_Faqih][EU_parliament_PG_Kingdom][EU_parliament_PG_Caliphate][EU_parliament_PG_Neutral_Muslim_Brotherhood][EU_parliament_PG_Neutral_Autocracy][EU_parliament_PG_Neutral_conservatism]\n[EU_parliament_PG_oligarchism][EU_parliament_PG_Neutral_Libertarian][EU_parliament_PG_Neutral_green][EU_parliament_PG_neutral_Social][EU_parliament_PG_Neutral_Communism][EU_parliament_PG_Nat_Populism][EU_parliament_PG_Nat_Fascism][EU_parliament_PG_Nat_Autocracy]\n[EU_parliament_PG_Monarchist]"
  EU_parliament_independent_MEP_loc_key: "[EU_parliament_IND_Western_Autocracy][EU_parliament_IND_conservatism][EU_parliament_IND_liberalism][EU_parliament_IND_socialism][EU_parliament_IND_Communist-State][EU_parliament_IND_anarchist_communism][EU_parliament_IND_Conservative][EU_parliament_IND_Autocracy][EU_parliament_IND_Mod_Vilayat_e_Faqih][EU_parliament_IND_Vilayat_e_Faqih][EU_parliament_IND_Kingdom][EU_parliament_IND_Caliphate][EU_parliament_IND_Neutral_Muslim_Brotherhood][EU_parliament_IND_Neutral_Autocracy][EU_parliament_IND_Neutral_conservatism][EU_parliament_IND_oligarchism][EU_parliament_IND_Neutral_Libertarian][EU_parliament_IND_Neutral_green][EU_parliament_IND_neutral_Social][EU_parliament_IND_Neutral_Communism][EU_parliament_IND_Nat_Populism][EU_parliament_IND_Nat_Fascism][EU_parliament_IND_Nat_Autocracy][EU_parliament_IND_Monarchist]"
 
- EU_parliament_agenda_loc_key: "\nAgenda of the European Parliament:\nName - §CSupporting MEP§! / §OMajority§! - Supporting Political Groups\n[EU_parliament_focus_EU001][EU_parliament_focus_EU002][EU_parliament_focus_EU100][EU_parliament_focus_EU101][EU_parliament_focus_EU102][EU_parliament_focus_EU103][EU_parliament_focus_EU104][EU_parliament_focus_EU105][EU_parliament_focus_EU200][EU_parliament_focus_EU201][EU_parliament_focus_EU202][EU_parliament_focus_EU203][EU_parliament_focus_EU204][EU_parliament_focus_EU205][EU_parliament_focus_EU206][EU_parliament_focus_EU207][EU_parliament_focus_EU208][EU_parliament_focus_EU300][EU_parliament_focus_EU301][EU_parliament_focus_EU302][EU_parliament_focus_EU303][EU_parliament_focus_EU304][EU_parliament_focus_EU305][EU_parliament_focus_EU306][EU_parliament_focus_EU307][EU_parliament_focus_EU308][EU_parliament_focus_EU400][EU_parliament_focus_EU401][EU_parliament_focus_EU402][EU_parliament_focus_EU403][EU_parliament_focus_EU404][EU_parliament_focus_EU405][EU_parliament_focus_EU406][EU_parliament_focus_EU407][EU_parliament_focus_EU408][EU_parliament_focus_EU500][EU_parliament_focus_EU600][EU_parliament_focus_EU601][EU_parliament_focus_EU602][EU_parliament_focus_EU603][EU_parliament_focus_EU700][EU_parliament_focus_EU701][EU_parliament_focus_EU702][EU_parliament_focus_EU703][EU_parliament_focus_EU110][EU_parliament_focus_EU111][EU_parliament_focus_EU112][EU_parliament_focus_EU113][EU_parliament_focus_EU604][EU_parliament_focus_EU605][EU_parliament_focus_EU606][EU_parliament_focus_EU607][EU_parliament_focus_EU608][EU_parliament_focus_EU609][EU_parliament_focus_EU610][EU_parliament_focus_EU611][EU_parliament_focus_EU_mff][EU_parliament_focus_EU_budget]"
+ EU_parliament_agenda_loc_key: "\nПовестка дня Европейского парламента:\nНазвание - §CПоддержка депутатов§! / §OБольшинство§! - Поддержка политических групп\n[EU_parliament_focus_EU001][EU_parliament_focus_EU002][EU_parliament_focus_EU100][EU_parliament_focus_EU101][EU_parliament_focus_EU102][EU_parliament_focus_EU103][EU_parliament_focus_EU104][EU_parliament_focus_EU105][EU_parliament_focus_EU200][EU_parliament_focus_EU201][EU_parliament_focus_EU202][EU_parliament_focus_EU203][EU_parliament_focus_EU204][EU_parliament_focus_EU205][EU_parliament_focus_EU206][EU_parliament_focus_EU207][EU_parliament_focus_EU208][EU_parliament_focus_EU300][EU_parliament_focus_EU301][EU_parliament_focus_EU302][EU_parliament_focus_EU303][EU_parliament_focus_EU304][EU_parliament_focus_EU305][EU_parliament_focus_EU306][EU_parliament_focus_EU307][EU_parliament_focus_EU308][EU_parliament_focus_EU400][EU_parliament_focus_EU401][EU_parliament_focus_EU402][EU_parliament_focus_EU403][EU_parliament_focus_EU404][EU_parliament_focus_EU405][EU_parliament_focus_EU406][EU_parliament_focus_EU407][EU_parliament_focus_EU408][EU_parliament_focus_EU500][EU_parliament_focus_EU600][EU_parliament_focus_EU601][EU_parliament_focus_EU602][EU_parliament_focus_EU603][EU_parliament_focus_EU700][EU_parliament_focus_EU701][EU_parliament_focus_EU702][EU_parliament_focus_EU703][EU_parliament_focus_EU110][EU_parliament_focus_EU111][EU_parliament_focus_EU112][EU_parliament_focus_EU113][EU_parliament_focus_EU604][EU_parliament_focus_EU605][EU_parliament_focus_EU606][EU_parliament_focus_EU607][EU_parliament_focus_EU608][EU_parliament_focus_EU609][EU_parliament_focus_EU610][EU_parliament_focus_EU611][EU_parliament_focus_EU_mff][EU_parliament_focus_EU_budget]"
 
  ############################
  ### political groups loc ###
@@ -5502,7 +5502,7 @@
  EU_parliament_PG_Neutral_green_name_loc_key: "Зеленые/Европейский свободный альянс"
  EU_parliament_PG_neutral_Social_name_loc_key: "Альянс социалистических демократов"
  EU_parliament_PG_Neutral_Communism_name_loc_key: "Европейские объединённые левые/Левые северные зеленые"
- EU_parliament_PG_Nat_Populism_name_loc_key: "Европа демократий и разнообразия"
+ EU_parliament_PG_Nat_Populism_name_loc_key: "Европа демократий и разнообразий"
  EU_parliament_PG_Nat_Fascism_name_loc_key: "Альянс фашистов"
  EU_parliament_PG_Nat_Autocracy_name_loc_key: "Военный штаб Европейского Союза"
  EU_parliament_PG_Monarchist_name_loc_key: "Альянс монархистов"
@@ -6978,12 +6978,12 @@ EU_parliament_focus_EU001_loc_key: "\n[EU_council_focus_name_EU001]: [?global.fo
  ### EU Parliament Decisions loc ###
  ###################################
 
- EU_parliament_update: "Update EU Parliament"
- EU_parliament_update_desc: "EU Parliament is updated automatically after election. With this decision it can be updated manually."
- EU_parliament_hide_members: "Hide Member Parties"
- EU_parliament_hide_members_desc: "Hide the member parties of the political groups and alliances"
- EU_parliament_show_members: "Show Member Parties"
- EU_parliament_show_members_desc: "Show the member parties of the political groups and alliances"
+ EU_parliament_update: "Обновить парламент ЕС"
+ EU_parliament_update_desc: "Парламент ЕС обновляется автоматически после выборов. С помощью этого решения его можно обновлять вручную."
+ EU_parliament_hide_members: "Скрыть стороны-члены"
+ EU_parliament_hide_members_desc: "Скрыть партии, входящие в политические группы и альянсы"
+ EU_parliament_show_members: "Показать стороны-члены"
+ EU_parliament_show_members_desc: "Показать партии, входящие в политические группы и альянсы"
 
  ### EP focus Decisions loc ###
 
@@ -7212,68 +7212,68 @@ EU_parliament_focus_EU001_loc_key: "\n[EU_council_focus_name_EU001]: [?global.fo
  ##################
 
  ### EU Budget category ###
- EU_budget_category: "Budget of the European Union"
- EU_budget_category_desc: "Budget of the European Union\n\nGDP of the European Union: [?global.EU_gdp|§Y0] billion\nGDP/C: [?global.EU_gdp_capita|§Y0]\n\n§YMultiannual Financial Framework:§!\nDraft: [EU_mff_draft] [draft_status_EU_mff]\nTotal invested PP: [?global.EU_mff_draft_invested_PP|§Y0]\nTotal: [?global.EU_mff_total|§G2] billion\nper year:\nEU budget GDP-based call rate: [?global.EU_budget_call_rate|§C2]§C%§! \nEU annual total budget: [?global.EU_total_budget|§G2] billion\n[EU_contribution_member_states]\n\n§YBudget of the next fiscal year:§!\nDraft: [EU_budget_draft] [draft_status_EU_budget]\nTotal invested PP: [?global.EU_budget_draft_invested_PP|§Y0]\n\nExpenditure: [?global.EU_total_exp|§G2] billion\nCategory - Total - Ratio\n§OGrowth§!: [?global.EU_growth_exp_total|§Y0] billion - [?global.EU_growth_exp_ratio|§O%2]\n§GNatural resources§!: [?global.EU_natural_exp_total|§Y0] billion - [?global.EU_natural_exp_ratio|§G%2]\n§LGlobal Europe§!: [?global.EU_global_exp_total|§Y0] billion - [?global.EU_global_exp_ratio|§L%2]\n§gAdministration, security and citizenship§!: [?global.EU_admin_exp_total|§Y0] billion - [?global.EU_admin_exp_ratio|§g%2]\n[EU_distribution_member_states]\n"
+ EU_budget_category: "Бюджет Европейского Союза"
+ EU_budget_category_desc: "Бюджет Европейского Союза\n\nВВП Европейского Союза: [?global.EU_gdp|§Y0] млрд\nВВП/Д: [?global.EU_gdp_capita|§Y0]\n\n§YМноголетняя финансовая программа:§!\nПроект: [EU_mff_draft] [draft_status_EU_mff]\nВсего инвестировано ПП: [?global.EU_mff_draft_invested_PP|§Y0]\nВсего: [?global.EU_mff_total|§G2] млрд\nв год:\nВклад в бюджет ЕС в процентах от ВВП : [?global.EU_budget_call_rate|§C2]§C%§! \nОбщий годовой бюджет ЕС: [?global.EU_total_budget|§G2] млрд\n[EU_contribution_member_states]\n\n§YБюджет на следующий финансовый год:§!\nПроект: [EU_budget_draft] [draft_status_EU_budget]\nВсего инвестировано ПП: [?global.EU_budget_draft_invested_PP|§Y0]\n\nРасходы: [?global.EU_total_exp|§G2] млрд\nКатегория - Всего - Соотношение\n§OУстойчивый рост§!: [?global.EU_growth_exp_total|§Y0] млрд - [?global.EU_growth_exp_ratio|§O%2]\n§GУправление природными ресурсами§!: [?global.EU_natural_exp_total|§Y0] млрд - [?global.EU_natural_exp_ratio|§G%2]\n§LВнешняя политика§!: [?global.EU_global_exp_total|§Y0] млрд - [?global.EU_global_exp_ratio|§L%2]\n§gАдминистрация, безопасность и гражданство§!: [?global.EU_admin_exp_total|§Y0] млрд - [?global.EU_admin_exp_ratio|§g%2]\n[EU_distribution_member_states]\n"
 
  ### Contribution ###
 
- EU_contribution_member_states_loc_key: "\nContribution of the member states:\n\nFlag - Name - §YContribution§! - §CGDP-based call rate§! - §gRatio of Budget§!\n[EU_contribution_member_states_TAG_loc]\n"
+ EU_contribution_member_states_loc_key: "\nВклад государств-членов:\n\nФлаг - Название - §YВклад§! - §CВклад в процентах от ВВП§! - §gСоотношение бюджета§!\n[EU_contribution_member_states_TAG_loc]\n"
 
  EU_contribution_member_states_TAG_loc_key: "[ALB_EU_contribution][ARM_EU_contribution][AUS_EU_contribution][AZE_EU_contribution][BEL_EU_contribution][BLR_EU_contribution][BOS_EU_contribution][BUL_EU_contribution][CAT_EU_contribution][CRE_EU_contribution][CRO_EU_contribution][CYP_EU_contribution][CZE_EU_contribution][DEN_EU_contribution][ENG_EU_contribution][EST_EU_contribution][FIN_EU_contribution][FRA_EU_contribution][FYR_EU_contribution][GEO_EU_contribution][GER_EU_contribution][GRE_EU_contribution][HOL_EU_contribution][HUN_EU_contribution][ICE_EU_contribution][IRE_EU_contribution][ITA_EU_contribution][KOS_EU_contribution][LAT_EU_contribution][LIT_EU_contribution][LUX_EU_contribution][MLT_EU_contribution][MLV_EU_contribution][MNT_EU_contribution][NOR_EU_contribution][POL_EU_contribution][POR_EU_contribution][ROM_EU_contribution][SCL_EU_contribution][SCO_EU_contribution][SER_EU_contribution][SLO_EU_contribution][SLV_EU_contribution][SPR_EU_contribution][SWE_EU_contribution][SWI_EU_contribution][TUR_EU_contribution][UKR_EU_contribution][WAS_EU_contribution]"
 
- ALB_EU_contribution: "[ALB.GetNameWithFlag] - [?ALB.EU_budget_contribution|§Y0] billion - [?ALB.EU_budget_call_rate|§C2]§C%§! - [?ALB.EU_budget_ratio|§g%2]\n"
- ARM_EU_contribution: "[ARM.GetNameWithFlag] - [?ARM.EU_budget_contribution|§Y0] billion - [?ARM.EU_budget_call_rate|§C2]§C%§! - [?ARM.EU_budget_ratio|§g%2]\n"
- AUS_EU_contribution: "[AUS.GetNameWithFlag] - [?AUS.EU_budget_contribution|§Y0] billion - [?AUS.EU_budget_call_rate|§C2]§C%§! - [?AUS.EU_budget_ratio|§g%2]\n"
- AZE_EU_contribution: "[AZE.GetNameWithFlag] - [?AZE.EU_budget_contribution|§Y0] billion - [?AZE.EU_budget_call_rate|§C2]§C%§! - [?AZE.EU_budget_ratio|§g%2]\n"
- BEL_EU_contribution: "[BEL.GetNameWithFlag] - [?BEL.EU_budget_contribution|§Y0] billion - [?BEL.EU_budget_call_rate|§C2]§C%§! - [?BEL.EU_budget_ratio|§g%2]\n"
- BLR_EU_contribution: "[BLR.GetNameWithFlag] - [?BLR.EU_budget_contribution|§Y0] billion - [?BLR.EU_budget_call_rate|§C2]§C%§! - [?BLR.EU_budget_ratio|§g%2]\n"
- BOS_EU_contribution: "[BOS.GetNameWithFlag] - [?BOS.EU_budget_contribution|§Y0] billion - [?BOS.EU_budget_call_rate|§C2]§C%§! - [?BOS.EU_budget_ratio|§g%2]\n"
- BUL_EU_contribution: "[BUL.GetNameWithFlag] - [?BUL.EU_budget_contribution|§Y0] billion - [?BUL.EU_budget_call_rate|§C2]§C%§! - [?BUL.EU_budget_ratio|§g%2]\n"
- CAT_EU_contribution: "[CAT.GetNameWithFlag] - [?CAT.EU_budget_contribution|§Y0] billion - [?CAT.EU_budget_call_rate|§C2]§C%§! - [?CAT.EU_budget_ratio|§g%2]\n"
- CRE_EU_contribution: "[CRE.GetNameWithFlag] - [?CRE.EU_budget_contribution|§Y0] billion - [?CRE.EU_budget_call_rate|§C2]§C%§! - [?CRE.EU_budget_ratio|§g%2]\n"
- CRO_EU_contribution: "[CRO.GetNameWithFlag] - [?CRO.EU_budget_contribution|§Y0] billion - [?CRO.EU_budget_call_rate|§C2]§C%§! - [?CRO.EU_budget_ratio|§g%2]\n"
- CYP_EU_contribution: "[CYP.GetNameWithFlag] - [?CYP.EU_budget_contribution|§Y0] billion - [?CYP.EU_budget_call_rate|§C2]§C%§! - [?CYP.EU_budget_ratio|§g%2]\n"
- CZE_EU_contribution: "[CZE.GetNameWithFlag] - [?CZE.EU_budget_contribution|§Y0] billion - [?CZE.EU_budget_call_rate|§C2]§C%§! - [?CZE.EU_budget_ratio|§g%2]\n"
- DEN_EU_contribution: "[DEN.GetNameWithFlag] - [?DEN.EU_budget_contribution|§Y0] billion - [?DEN.EU_budget_call_rate|§C2]§C%§! - [?DEN.EU_budget_ratio|§g%2]\n"
- ENG_EU_contribution: "[ENG.GetNameWithFlag] - [?ENG.EU_budget_contribution|§Y0] billion - [?ENG.EU_budget_call_rate|§C2]§C%§! - [?ENG.EU_budget_ratio|§g%2]\n"
- EST_EU_contribution: "[EST.GetNameWithFlag] - [?EST.EU_budget_contribution|§Y0] billion - [?EST.EU_budget_call_rate|§C2]§C%§! - [?EST.EU_budget_ratio|§g%2]\n"
- FIN_EU_contribution: "[FIN.GetNameWithFlag] - [?FIN.EU_budget_contribution|§Y0] billion - [?FIN.EU_budget_call_rate|§C2]§C%§! - [?FIN.EU_budget_ratio|§g%2]\n"
- FRA_EU_contribution: "[FRA.GetNameWithFlag] - [?FRA.EU_budget_contribution|§Y0] billion - [?FRA.EU_budget_call_rate|§C2]§C%§! - [?FRA.EU_budget_ratio|§g%2]\n"
- FYR_EU_contribution: "[FYR.GetNameWithFlag] - [?FYR.EU_budget_contribution|§Y0] billion - [?FYR.EU_budget_call_rate|§C2]§C%§! - [?FYR.EU_budget_ratio|§g%2]\n"
- GEO_EU_contribution: "[GEO.GetNameWithFlag] - [?GEO.EU_budget_contribution|§Y0] billion - [?GEO.EU_budget_call_rate|§C2]§C%§! - [?GEO.EU_budget_ratio|§g%2]\n"
- GER_EU_contribution: "[GER.GetNameWithFlag] - [?GER.EU_budget_contribution|§Y0] billion - [?GER.EU_budget_call_rate|§C2]§C%§! - [?GER.EU_budget_ratio|§g%2]\n"
- GRE_EU_contribution: "[GRE.GetNameWithFlag] - [?GRE.EU_budget_contribution|§Y0] billion - [?GRE.EU_budget_call_rate|§C2]§C%§! - [?GRE.EU_budget_ratio|§g%2]\n"
- HOL_EU_contribution: "[HOL.GetNameWithFlag] - [?HOL.EU_budget_contribution|§Y0] billion - [?HOL.EU_budget_call_rate|§C2]§C%§! - [?HOL.EU_budget_ratio|§g%2]\n"
- HUN_EU_contribution: "[HUN.GetNameWithFlag] - [?HUN.EU_budget_contribution|§Y0] billion - [?HUN.EU_budget_call_rate|§C2]§C%§! - [?HUN.EU_budget_ratio|§g%2]\n"
- ICE_EU_contribution: "[ICE.GetNameWithFlag] - [?ICE.EU_budget_contribution|§Y0] billion - [?ICE.EU_budget_call_rate|§C2]§C%§! - [?ICE.EU_budget_ratio|§g%2]\n"
- IRE_EU_contribution: "[IRE.GetNameWithFlag] - [?IRE.EU_budget_contribution|§Y0] billion - [?IRE.EU_budget_call_rate|§C2]§C%§! - [?IRE.EU_budget_ratio|§g%2]\n"
- ITA_EU_contribution: "[ITA.GetNameWithFlag] - [?ITA.EU_budget_contribution|§Y0] billion - [?ITA.EU_budget_call_rate|§C2]§C%§! - [?ITA.EU_budget_ratio|§g%2]\n"
- KOS_EU_contribution: "[KOS.GetNameWithFlag] - [?KOS.EU_budget_contribution|§Y0] billion - [?KOS.EU_budget_call_rate|§C2]§C%§! - [?KOS.EU_budget_ratio|§g%2]\n"
- LAT_EU_contribution: "[LAT.GetNameWithFlag] - [?LAT.EU_budget_contribution|§Y0] billion - [?LAT.EU_budget_call_rate|§C2]§C%§! - [?LAT.EU_budget_ratio|§g%2]\n"
- LIT_EU_contribution: "[LIT.GetNameWithFlag] - [?LIT.EU_budget_contribution|§Y0] billion - [?LIT.EU_budget_call_rate|§C2]§C%§! - [?LIT.EU_budget_ratio|§g%2]\n"
- LUX_EU_contribution: "[LUX.GetNameWithFlag] - [?LUX.EU_budget_contribution|§Y0] billion - [?LUX.EU_budget_call_rate|§C2]§C%§! - [?LUX.EU_budget_ratio|§g%2]\n"
- MLT_EU_contribution: "[MLT.GetNameWithFlag] - [?MLT.EU_budget_contribution|§Y0] billion - [?MLT.EU_budget_call_rate|§C2]§C%§! - [?MLT.EU_budget_ratio|§g%2]\n"
- MLV_EU_contribution: "[MLV.GetNameWithFlag] - [?MLV.EU_budget_contribution|§Y0] billion - [?MLV.EU_budget_call_rate|§C2]§C%§! - [?MLV.EU_budget_ratio|§g%2]\n"
- MNT_EU_contribution: "[MNT.GetNameWithFlag] - [?MNT.EU_budget_contribution|§Y0] billion - [?MNT.EU_budget_call_rate|§C2]§C%§! - [?MNT.EU_budget_ratio|§g%2]\n"
- NOR_EU_contribution: "[NOR.GetNameWithFlag] - [?NOR.EU_budget_contribution|§Y0] billion - [?NOR.EU_budget_call_rate|§C2]§C%§! - [?NOR.EU_budget_ratio|§g%2]\n"
- POL_EU_contribution: "[POL.GetNameWithFlag] - [?POL.EU_budget_contribution|§Y0] billion - [?POL.EU_budget_call_rate|§C2]§C%§! - [?POL.EU_budget_ratio|§g%2]\n"
- POR_EU_contribution: "[POR.GetNameWithFlag] - [?POR.EU_budget_contribution|§Y0] billion - [?POR.EU_budget_call_rate|§C2]§C%§! - [?POR.EU_budget_ratio|§g%2]\n"
- ROM_EU_contribution: "[ROM.GetNameWithFlag] - [?ROM.EU_budget_contribution|§Y0] billion - [?ROM.EU_budget_call_rate|§C2]§C%§! - [?ROM.EU_budget_ratio|§g%2]\n"
- SCL_EU_contribution: "[SCL.GetNameWithFlag] - [?SCL.EU_budget_contribution|§Y0] billion - [?SCL.EU_budget_call_rate|§C2]§C%§! - [?SCL.EU_budget_ratio|§g%2]\n"
- SCO_EU_contribution: "[SCO.GetNameWithFlag] - [?SCO.EU_budget_contribution|§Y0] billion - [?SCO.EU_budget_call_rate|§C2]§C%§! - [?SCO.EU_budget_ratio|§g%2]\n"
- SER_EU_contribution: "[SER.GetNameWithFlag] - [?SER.EU_budget_contribution|§Y0] billion - [?SER.EU_budget_call_rate|§C2]§C%§! - [?SER.EU_budget_ratio|§g%2]\n"
- SLO_EU_contribution: "[SLO.GetNameWithFlag] - [?SLO.EU_budget_contribution|§Y0] billion - [?SLO.EU_budget_call_rate|§C2]§C%§! - [?SLO.EU_budget_ratio|§g%2]\n"
- SLV_EU_contribution: "[SLV.GetNameWithFlag] - [?SLV.EU_budget_contribution|§Y0] billion - [?SLV.EU_budget_call_rate|§C2]§C%§! - [?SLV.EU_budget_ratio|§g%2]\n"
- SPR_EU_contribution: "[SPR.GetNameWithFlag] - [?SPR.EU_budget_contribution|§Y0] billion - [?SPR.EU_budget_call_rate|§C2]§C%§! - [?SPR.EU_budget_ratio|§g%2]\n"
- SWE_EU_contribution: "[SWE.GetNameWithFlag] - [?SWE.EU_budget_contribution|§Y0] billion - [?SWE.EU_budget_call_rate|§C2]§C%§! - [?SWE.EU_budget_ratio|§g%2]\n"
- SWI_EU_contribution: "[SWI.GetNameWithFlag] - [?SWI.EU_budget_contribution|§Y0] billion - [?SWI.EU_budget_call_rate|§C2]§C%§! - [?SWI.EU_budget_ratio|§g%2]\n"
- TUR_EU_contribution: "[TUR.GetNameWithFlag] - [?TUR.EU_budget_contribution|§Y0] billion - [?TUR.EU_budget_call_rate|§C2]§C%§! - [?TUR.EU_budget_ratio|§g%2]\n"
- UKR_EU_contribution: "[UKR.GetNameWithFlag] - [?UKR.EU_budget_contribution|§Y0] billion - [?UKR.EU_budget_call_rate|§C2]§C%§! - [?UKR.EU_budget_ratio|§g%2]\n"
- WAS_EU_contribution: "[WAS.GetNameWithFlag] - [?WAS.EU_budget_contribution|§Y0] billion - [?WAS.EU_budget_call_rate|§C2]§C%§! - [?WAS.EU_budget_ratio|§g%2]\n"
+ ALB_EU_contribution: "[ALB.GetNameWithFlag] - [?ALB.EU_budget_contribution|§Y0] млрд - [?ALB.EU_budget_call_rate|§C2]§C%§! - [?ALB.EU_budget_ratio|§g%2]\n"
+ ARM_EU_contribution: "[ARM.GetNameWithFlag] - [?ARM.EU_budget_contribution|§Y0] млрд - [?ARM.EU_budget_call_rate|§C2]§C%§! - [?ARM.EU_budget_ratio|§g%2]\n"
+ AUS_EU_contribution: "[AUS.GetNameWithFlag] - [?AUS.EU_budget_contribution|§Y0] млрд - [?AUS.EU_budget_call_rate|§C2]§C%§! - [?AUS.EU_budget_ratio|§g%2]\n"
+ AZE_EU_contribution: "[AZE.GetNameWithFlag] - [?AZE.EU_budget_contribution|§Y0] млрд - [?AZE.EU_budget_call_rate|§C2]§C%§! - [?AZE.EU_budget_ratio|§g%2]\n"
+ BEL_EU_contribution: "[BEL.GetNameWithFlag] - [?BEL.EU_budget_contribution|§Y0] млрд - [?BEL.EU_budget_call_rate|§C2]§C%§! - [?BEL.EU_budget_ratio|§g%2]\n"
+ BLR_EU_contribution: "[BLR.GetNameWithFlag] - [?BLR.EU_budget_contribution|§Y0] млрд - [?BLR.EU_budget_call_rate|§C2]§C%§! - [?BLR.EU_budget_ratio|§g%2]\n"
+ BOS_EU_contribution: "[BOS.GetNameWithFlag] - [?BOS.EU_budget_contribution|§Y0] млрд - [?BOS.EU_budget_call_rate|§C2]§C%§! - [?BOS.EU_budget_ratio|§g%2]\n"
+ BUL_EU_contribution: "[BUL.GetNameWithFlag] - [?BUL.EU_budget_contribution|§Y0] млрд - [?BUL.EU_budget_call_rate|§C2]§C%§! - [?BUL.EU_budget_ratio|§g%2]\n"
+ CAT_EU_contribution: "[CAT.GetNameWithFlag] - [?CAT.EU_budget_contribution|§Y0] млрд - [?CAT.EU_budget_call_rate|§C2]§C%§! - [?CAT.EU_budget_ratio|§g%2]\n"
+ CRE_EU_contribution: "[CRE.GetNameWithFlag] - [?CRE.EU_budget_contribution|§Y0] млрд - [?CRE.EU_budget_call_rate|§C2]§C%§! - [?CRE.EU_budget_ratio|§g%2]\n"
+ CRO_EU_contribution: "[CRO.GetNameWithFlag] - [?CRO.EU_budget_contribution|§Y0] млрд - [?CRO.EU_budget_call_rate|§C2]§C%§! - [?CRO.EU_budget_ratio|§g%2]\n"
+ CYP_EU_contribution: "[CYP.GetNameWithFlag] - [?CYP.EU_budget_contribution|§Y0] млрд - [?CYP.EU_budget_call_rate|§C2]§C%§! - [?CYP.EU_budget_ratio|§g%2]\n"
+ CZE_EU_contribution: "[CZE.GetNameWithFlag] - [?CZE.EU_budget_contribution|§Y0] млрд - [?CZE.EU_budget_call_rate|§C2]§C%§! - [?CZE.EU_budget_ratio|§g%2]\n"
+ DEN_EU_contribution: "[DEN.GetNameWithFlag] - [?DEN.EU_budget_contribution|§Y0] млрд - [?DEN.EU_budget_call_rate|§C2]§C%§! - [?DEN.EU_budget_ratio|§g%2]\n"
+ ENG_EU_contribution: "[ENG.GetNameWithFlag] - [?ENG.EU_budget_contribution|§Y0] млрд - [?ENG.EU_budget_call_rate|§C2]§C%§! - [?ENG.EU_budget_ratio|§g%2]\n"
+ EST_EU_contribution: "[EST.GetNameWithFlag] - [?EST.EU_budget_contribution|§Y0] млрд - [?EST.EU_budget_call_rate|§C2]§C%§! - [?EST.EU_budget_ratio|§g%2]\n"
+ FIN_EU_contribution: "[FIN.GetNameWithFlag] - [?FIN.EU_budget_contribution|§Y0] млрд - [?FIN.EU_budget_call_rate|§C2]§C%§! - [?FIN.EU_budget_ratio|§g%2]\n"
+ FRA_EU_contribution: "[FRA.GetNameWithFlag] - [?FRA.EU_budget_contribution|§Y0] млрд - [?FRA.EU_budget_call_rate|§C2]§C%§! - [?FRA.EU_budget_ratio|§g%2]\n"
+ FYR_EU_contribution: "[FYR.GetNameWithFlag] - [?FYR.EU_budget_contribution|§Y0] млрд - [?FYR.EU_budget_call_rate|§C2]§C%§! - [?FYR.EU_budget_ratio|§g%2]\n"
+ GEO_EU_contribution: "[GEO.GetNameWithFlag] - [?GEO.EU_budget_contribution|§Y0] млрд - [?GEO.EU_budget_call_rate|§C2]§C%§! - [?GEO.EU_budget_ratio|§g%2]\n"
+ GER_EU_contribution: "[GER.GetNameWithFlag] - [?GER.EU_budget_contribution|§Y0] млрд - [?GER.EU_budget_call_rate|§C2]§C%§! - [?GER.EU_budget_ratio|§g%2]\n"
+ GRE_EU_contribution: "[GRE.GetNameWithFlag] - [?GRE.EU_budget_contribution|§Y0] млрд - [?GRE.EU_budget_call_rate|§C2]§C%§! - [?GRE.EU_budget_ratio|§g%2]\n"
+ HOL_EU_contribution: "[HOL.GetNameWithFlag] - [?HOL.EU_budget_contribution|§Y0] млрд - [?HOL.EU_budget_call_rate|§C2]§C%§! - [?HOL.EU_budget_ratio|§g%2]\n"
+ HUN_EU_contribution: "[HUN.GetNameWithFlag] - [?HUN.EU_budget_contribution|§Y0] млрд - [?HUN.EU_budget_call_rate|§C2]§C%§! - [?HUN.EU_budget_ratio|§g%2]\n"
+ ICE_EU_contribution: "[ICE.GetNameWithFlag] - [?ICE.EU_budget_contribution|§Y0] млрд - [?ICE.EU_budget_call_rate|§C2]§C%§! - [?ICE.EU_budget_ratio|§g%2]\n"
+ IRE_EU_contribution: "[IRE.GetNameWithFlag] - [?IRE.EU_budget_contribution|§Y0] млрд - [?IRE.EU_budget_call_rate|§C2]§C%§! - [?IRE.EU_budget_ratio|§g%2]\n"
+ ITA_EU_contribution: "[ITA.GetNameWithFlag] - [?ITA.EU_budget_contribution|§Y0] млрд - [?ITA.EU_budget_call_rate|§C2]§C%§! - [?ITA.EU_budget_ratio|§g%2]\n"
+ KOS_EU_contribution: "[KOS.GetNameWithFlag] - [?KOS.EU_budget_contribution|§Y0] млрд - [?KOS.EU_budget_call_rate|§C2]§C%§! - [?KOS.EU_budget_ratio|§g%2]\n"
+ LAT_EU_contribution: "[LAT.GetNameWithFlag] - [?LAT.EU_budget_contribution|§Y0] млрд - [?LAT.EU_budget_call_rate|§C2]§C%§! - [?LAT.EU_budget_ratio|§g%2]\n"
+ LIT_EU_contribution: "[LIT.GetNameWithFlag] - [?LIT.EU_budget_contribution|§Y0] млрд - [?LIT.EU_budget_call_rate|§C2]§C%§! - [?LIT.EU_budget_ratio|§g%2]\n"
+ LUX_EU_contribution: "[LUX.GetNameWithFlag] - [?LUX.EU_budget_contribution|§Y0] млрд - [?LUX.EU_budget_call_rate|§C2]§C%§! - [?LUX.EU_budget_ratio|§g%2]\n"
+ MLT_EU_contribution: "[MLT.GetNameWithFlag] - [?MLT.EU_budget_contribution|§Y0] млрд - [?MLT.EU_budget_call_rate|§C2]§C%§! - [?MLT.EU_budget_ratio|§g%2]\n"
+ MLV_EU_contribution: "[MLV.GetNameWithFlag] - [?MLV.EU_budget_contribution|§Y0] млрд - [?MLV.EU_budget_call_rate|§C2]§C%§! - [?MLV.EU_budget_ratio|§g%2]\n"
+ MNT_EU_contribution: "[MNT.GetNameWithFlag] - [?MNT.EU_budget_contribution|§Y0] млрд - [?MNT.EU_budget_call_rate|§C2]§C%§! - [?MNT.EU_budget_ratio|§g%2]\n"
+ NOR_EU_contribution: "[NOR.GetNameWithFlag] - [?NOR.EU_budget_contribution|§Y0] млрд - [?NOR.EU_budget_call_rate|§C2]§C%§! - [?NOR.EU_budget_ratio|§g%2]\n"
+ POL_EU_contribution: "[POL.GetNameWithFlag] - [?POL.EU_budget_contribution|§Y0] млрд - [?POL.EU_budget_call_rate|§C2]§C%§! - [?POL.EU_budget_ratio|§g%2]\n"
+ POR_EU_contribution: "[POR.GetNameWithFlag] - [?POR.EU_budget_contribution|§Y0] млрд - [?POR.EU_budget_call_rate|§C2]§C%§! - [?POR.EU_budget_ratio|§g%2]\n"
+ ROM_EU_contribution: "[ROM.GetNameWithFlag] - [?ROM.EU_budget_contribution|§Y0] млрд - [?ROM.EU_budget_call_rate|§C2]§C%§! - [?ROM.EU_budget_ratio|§g%2]\n"
+ SCL_EU_contribution: "[SCL.GetNameWithFlag] - [?SCL.EU_budget_contribution|§Y0] млрд - [?SCL.EU_budget_call_rate|§C2]§C%§! - [?SCL.EU_budget_ratio|§g%2]\n"
+ SCO_EU_contribution: "[SCO.GetNameWithFlag] - [?SCO.EU_budget_contribution|§Y0] млрд - [?SCO.EU_budget_call_rate|§C2]§C%§! - [?SCO.EU_budget_ratio|§g%2]\n"
+ SER_EU_contribution: "[SER.GetNameWithFlag] - [?SER.EU_budget_contribution|§Y0] млрд - [?SER.EU_budget_call_rate|§C2]§C%§! - [?SER.EU_budget_ratio|§g%2]\n"
+ SLO_EU_contribution: "[SLO.GetNameWithFlag] - [?SLO.EU_budget_contribution|§Y0] млрд - [?SLO.EU_budget_call_rate|§C2]§C%§! - [?SLO.EU_budget_ratio|§g%2]\n"
+ SLV_EU_contribution: "[SLV.GetNameWithFlag] - [?SLV.EU_budget_contribution|§Y0] млрд - [?SLV.EU_budget_call_rate|§C2]§C%§! - [?SLV.EU_budget_ratio|§g%2]\n"
+ SPR_EU_contribution: "[SPR.GetNameWithFlag] - [?SPR.EU_budget_contribution|§Y0] млрд - [?SPR.EU_budget_call_rate|§C2]§C%§! - [?SPR.EU_budget_ratio|§g%2]\n"
+ SWE_EU_contribution: "[SWE.GetNameWithFlag] - [?SWE.EU_budget_contribution|§Y0] млрд - [?SWE.EU_budget_call_rate|§C2]§C%§! - [?SWE.EU_budget_ratio|§g%2]\n"
+ SWI_EU_contribution: "[SWI.GetNameWithFlag] - [?SWI.EU_budget_contribution|§Y0] млрд - [?SWI.EU_budget_call_rate|§C2]§C%§! - [?SWI.EU_budget_ratio|§g%2]\n"
+ TUR_EU_contribution: "[TUR.GetNameWithFlag] - [?TUR.EU_budget_contribution|§Y0] млрд - [?TUR.EU_budget_call_rate|§C2]§C%§! - [?TUR.EU_budget_ratio|§g%2]\n"
+ UKR_EU_contribution: "[UKR.GetNameWithFlag] - [?UKR.EU_budget_contribution|§Y0] млрд - [?UKR.EU_budget_call_rate|§C2]§C%§! - [?UKR.EU_budget_ratio|§g%2]\n"
+ WAS_EU_contribution: "[WAS.GetNameWithFlag] - [?WAS.EU_budget_contribution|§Y0] млрд - [?WAS.EU_budget_call_rate|§C2]§C%§! - [?WAS.EU_budget_ratio|§g%2]\n"
 
  ### Distribution ###
 
- EU_distribution_member_states_loc_key: "\nDistribution to the member states:\n\nFlag - Name - §YTotal§! - §CRatio§! - §OGrowth§! - §GNatural resources§! - §LGlobal Europe§! - §gAdmin., etc.§! - §Rnet payer§!/§Gnet receiver§! in billion\n\n[EU_distribution_member_states_TAG_loc]\n"
+ EU_distribution_member_states_loc_key: "\nДотации государствам-членам:\n\nФлаг - Название - §YВсего§! - §CСоотношение§! - §OУстойчивый рост§! - §GУправление природными ресурсами§! - §LВнешняя политика§! - §gАдминистрация и остальное§! - §Rпотрачено§!/§Gполучено§! в млрд\n\n[EU_distribution_member_states_TAG_loc]\n"
 
  EU_distribution_member_states_TAG_loc_key: "[ALB_EU_distribution][ARM_EU_distribution][AUS_EU_distribution][AZE_EU_distribution][BEL_EU_distribution][BLR_EU_distribution][BOS_EU_distribution][BUL_EU_distribution][CAT_EU_distribution][CRE_EU_distribution][CRO_EU_distribution][CYP_EU_distribution][CZE_EU_distribution][DEN_EU_distribution][ENG_EU_distribution][EST_EU_distribution][FIN_EU_distribution][FRA_EU_distribution][FYR_EU_distribution][GEO_EU_distribution][GER_EU_distribution][GRE_EU_distribution][HOL_EU_distribution][HUN_EU_distribution][ICE_EU_distribution][IRE_EU_distribution][ITA_EU_distribution][KOS_EU_distribution][LAT_EU_distribution][LIT_EU_distribution][LUX_EU_distribution][MLT_EU_distribution][MLV_EU_distribution][MNT_EU_distribution][NOR_EU_distribution][POL_EU_distribution][POR_EU_distribution][ROM_EU_distribution][SCL_EU_distribution][SCO_EU_distribution][SER_EU_distribution][SLO_EU_distribution][SLV_EU_distribution][SPR_EU_distribution][SWE_EU_distribution][SWI_EU_distribution][TUR_EU_distribution][UKR_EU_distribution][WAS_EU_distribution]"
 
@@ -7340,85 +7340,85 @@ EU_parliament_focus_EU001_loc_key: "\n[EU_council_focus_name_EU001]: [?global.fo
  ### EU Budget Decisions loc ###
  ###############################
 
- EU_budget_update: "Update EU Budget"
- EU_budget_update_desc: "EU Budget is updated automatically every year. With this decision it can be updated manually."
+ EU_budget_update: "Обновить бюджет ЕС"
+ EU_budget_update_desc: "Бюджет ЕС обновляется автоматически каждый год. С помощью этого решения его можно обновлять вручную."
 
- EU_budget_show_contribution_member_states: "Show contribution of the member states"
- EU_budget_show_contribution_member_states_desc: "Show contribution of the member states"
+ EU_budget_show_contribution_member_states: "Показать вклад государств-членов"
+ EU_budget_show_contribution_member_states_desc: "Показать вклад государств-членов"
 
- EU_budget_hide_contribution_member_states: "Hide contribution of the member states"
- EU_budget_hide_contribution_member_states_desc: "Hide contribution of the member states"
+ EU_budget_hide_contribution_member_states: "Скрыть вклад государств-членов"
+ EU_budget_hide_contribution_member_states_desc: "Скрыть вклад государств-членов"
 
- EU_budget_show_distribution_member_states: "Show distribution to the member states"
- EU_budget_show_distribution_member_states_desc: "Show distribution to the member states"
+ EU_budget_show_distribution_member_states: "Показать дотации государствам-членам"
+ EU_budget_show_distribution_member_states_desc: "Показать дотации государствам-членам"
 
- EU_budget_hide_distribution_member_states: "Hide distribution to the member states"
- EU_budget_hide_distribution_member_states_desc: "Hide distribution to the member states"
+ EU_budget_hide_distribution_member_states: "Скрыть дотации государствам-членам"
+ EU_budget_hide_distribution_member_states_desc: "Скрыть дотации государствам-членам"
 
  ###
 
- EU_mff_preparations: "Multiannual Financial Framework Preparations"
- EU_mff_preparations_desc: "During the Preparation process the member states negotiate on the draft of the Multiannual Financial Framework. At the end of the process the draft is accepted or a provisionally (standard) Multiannual Financial Framework is put into effect."
+ EU_mff_preparations: "Подготовка многолетней финансовой программы"
+ EU_mff_preparations_desc: "В процессе подготовки государства-члены ведут переговоры по проекту многолетней финансовой программы. В конце процесса проект принимается или вводится в действие предварительная (стандартная) многолетняя финансовая программа."
 
- EU_budget_mff_active: "Multiannual Financial Framework"
- EU_budget_mff_active_desc: "Current Multiannual Financial Framework"
+ EU_budget_mff_active: "Многолетняя финансовая программа"
+ EU_budget_mff_active_desc: "Текущие многолетняя финансовая программа"
 
- EU_budget_mff_renegotiate: "Renegotiate Multiannual Financial Framework"
- EU_budget_mff_renegotiate_desc: "The Multiannual Financial Framework runs for five years, but in some circumstances it needs to be renegotiated earlier."
+ EU_budget_mff_renegotiate: "Пересмотреть многолетнюю финансовую программу"
+ EU_budget_mff_renegotiate_desc: "Многолетняя финансовая программа рассчитана на пять лет, но в некоторых обстоятельствах ее необходимо перезаключить раньше."
 
- EU_budget_mff_draft: "Draft Multiannual Financial Framework"
- EU_budget_mff_draft_desc: "The member state which drafts the Multiannual Financial Framework has to put the draft on the agenda of the European Parliament at the end of the negotiations. As reward the drafting member state get the total invested political power, when the Multiannual Financial Framework is approved and put into effect."
+ EU_budget_mff_draft: "Проект многолетней финансовой программы"
+ EU_budget_mff_draft_desc: "Государство-член, которое разрабатывает проект многолетней финансовой программы, должно включить его в повестку дня Европейского парламента в конце переговоров. В качестве вознаграждения государство-член, подготовившее проект, получает полную политическую власть, когда многолетняя финансовая программа утверждается и вводится в действие."
 
- EU_mff_draft_mission: "Multiannual Financial Framework Negotiations"
+ EU_mff_draft_mission: "Переговоры по многолетней финансовой программе"
  EU_mff_draft_mission_desc: "During the Negotiations all member states can invest political power to change the draft to their conception. Changes to the draft will influence the view of the political groups of the European Parliament to the draft."
 
- EU_budget_raise_global_call_rate: "Raise global call rate"
- EU_budget_raise_global_call_rate_desc: "Raise global call rate"
+ EU_budget_raise_global_call_rate: "Повысить общий вклад"
+ EU_budget_raise_global_call_rate_desc: "Повысить общий вклад"
  
- EU_budget_lower_global_call_rate: "Lower global call rate"
- EU_budget_lower_global_call_rate_desc: "Lower global call rate"
+ EU_budget_lower_global_call_rate: "Понизить общий вклад"
+ EU_budget_lower_global_call_rate_desc: "Понизить общий вклад"
 
- EU_budget_raise_THIS_call_rate: "Raise [THIS.GetAdjective] call rate"
- EU_budget_raise_THIS_call_rate_desc: "Raise [THIS.GetAdjective] call rate"
+ EU_budget_raise_THIS_call_rate: "Повысить [THIS.GetAdjective] вклад"
+ EU_budget_raise_THIS_call_rate_desc: "Повысить [THIS.GetAdjective] вклад"
 
- EU_budget_lower_THIS_call_rate: "Lower [THIS.GetAdjective] call rate"
- EU_budget_lower_THIS_call_rate_desc: "Lower [THIS.GetAdjective] call rate"
+ EU_budget_lower_THIS_call_rate: "Понизить [THIS.GetAdjective] вклад"
+ EU_budget_lower_THIS_call_rate_desc: "Понизить [THIS.GetAdjective] вклад"
 
- EU_budget_raise_FROM_call_rate: "Raise [FROM.GetAdjective] call rate"
- EU_budget_raise_FROM_call_rate_desc: "Raise [FROM.GetAdjective] call rate"
+ EU_budget_raise_FROM_call_rate: "Повысить [FROM.GetAdjective] вклад"
+ EU_budget_raise_FROM_call_rate_desc: "Повысить [FROM.GetAdjective] вклад"
 
- EU_budget_lower_FROM_call_rate: "Lower [FROM.GetAdjective] call rate"
- EU_budget_lower_FROM_call_rate_desc: "Lower [FROM.GetAdjective] call rate"
+ EU_budget_lower_FROM_call_rate: "Понизить [FROM.GetAdjective] вклад"
+ EU_budget_lower_FROM_call_rate_desc: "Понизить [FROM.GetAdjective] вклад"
 
  EU_budget_preparations: "EU Budget Preparations"
  EU_budget_preparations_desc: "During the Preparation process the member states negotiate on the draft of the EU Budget for the next fiscal year. At the end of the process the draft is accepted or a provisionally (standard) EU Budget is put into effect."
 
- EU_budget_nfy_active: "EU Budget of [GetYear]"
- EU_budget_nfy_active_desc: "EU Budget of the fiscal year [GetYear]"
+ EU_budget_nfy_active: "Бюджет ЕС на [GetYear]"
+ EU_budget_nfy_active_desc: "Бюджет ЕС на финансовый [GetYear] год"
 
- EU_budget_draft: "Draft EU Budget"
+ EU_budget_draft: "Проект бюджета ЕС"
  EU_budget_draft_desc: "The member state which drafts the EU Budget of the next fiscal year has to put the draft on the agenda of the European Parliament at the end of the negotiations. As reward the drafting member state get the total invested political power, when the EU Budget is approved and put into effect."
 
  EU_budget_draft_mission: "EU Budget Negotiations"
  EU_budget_draft_mission_desc: "During the Negotiations all member states can invest political power to change the draft to their conception. Changes to the draft will influence the view of the political groups of the European Parliament to the draft."
 
- EU_budget_growth_up_natural_down: "Raise Growth Subsidies"
- EU_budget_growth_up_natural_down_desc: "Raise Growth Subsidies"
+ EU_budget_growth_up_natural_down: "Повысить субсидий на устойчивый рост"
+ EU_budget_growth_up_natural_down_desc: "Повысить субсидий на устойчивый рост"
 
- EU_budget_growth_down_natural_up: "Raise Natural Subsidies"
- EU_budget_growth_down_natural_up_desc: "Raise Natural Subsidies"
+ EU_budget_growth_down_natural_up: "Повысить субсидий на природные ресурсы"
+ EU_budget_growth_down_natural_up_desc: "Повысить субсидий на природные ресурсы"
 
- EU_budget_raise_global_exp: "Raise Expenses for Global EU"
- EU_budget_raise_global_exp_desc: "Raise Expenses for Global EU"
+ EU_budget_raise_global_exp: "Повысить расходов на внешнюю политику ЕС"
+ EU_budget_raise_global_exp_desc: "Повысить расходов на внешнюю политику ЕС"
 
- EU_budget_lower_global_exp: "Lower Expenses for Global EU"
- EU_budget_lower_global_exp_desc: "Lower Expenses for Global EU"
+ EU_budget_lower_global_exp: "Понизить расходов на внешнюю политику ЕС"
+ EU_budget_lower_global_exp_desc: "Понизить расходов на внешнюю политику ЕС"
 
- EU_budget_raise_admin_exp: "Raise Expenses for Admin., etc."
- EU_budget_raise_admin_exp_desc: "Raise Expenses for Administration, security and citizenship"
+ EU_budget_raise_admin_exp: "Повысить расходы на администрацию и т.д."
+ EU_budget_raise_admin_exp_desc: "Повысить расходы на администрацию, безопасность и гражданство"
 
- EU_budget_lower_admin_exp: "Lower Expenses for Admin., etc."
- EU_budget_lower_admin_exp_desc: "Lower Expenses for Administration, security and citizenship"
+ EU_budget_lower_admin_exp: "Понизить расходы на администрацию и т.д."
+ EU_budget_lower_admin_exp_desc: "Понизить расходы на администрацию, безопасность и гражданство"
 
  ### effect tooltips ###
 
