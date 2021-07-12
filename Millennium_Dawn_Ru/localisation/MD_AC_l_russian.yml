@@ -264,6 +264,7 @@
  AC_construction_target_CIC_decision9_desc: "Щелкните правой кнопкой мыши, чтобы увидеть прогресс строительства."
  AC_construction_target_CIC_decision10: "[From.GetName] строит биотопливный завод в [From.From.GetName]"
  AC_construction_target_CIC_decision10_desc: "Щелкните правой кнопкой мыши, чтобы увидеть прогресс строительства."
+ 
  AC_construction_opinion:0 "Строительные проекты"
  AC_construction_opinion1:0 "Строительные проекты"
  AC_construction_opinion2:0 "Строительные проекты"
