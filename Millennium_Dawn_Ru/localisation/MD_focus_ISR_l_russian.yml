@@ -224,9 +224,9 @@
  ISR_state_gaza:0 "§YGaza§!"
 
  #tooltips
- likud_in_power_tt: "Likud will be put in power"
- kadima_in_power_tt: "Kadima will be put in power"
- increase_missile_defence_cost_tt: "This will increase our defence against missiles however will cost us money to maintain"
- decrease_missile_defence_cost_tt: "This will further bolster our missile defence while also decreasing the cost"
- further_missile_defence_tt: "This will further bolster our missile defence and help against longer range missiles"
- less_occupation_tt: "This will change the state of conflict away from occupation"
+ likud_in_power_tt: "Ликуд придет к власти"
+ kadima_in_power_tt: "Кадима придет к власти"
+ increase_missile_defence_cost_tt: "Это повысит нашу защиту от ракет, но будет стоить нам денег на содержание"
+ decrease_missile_defence_cost_tt: "Это еще больше укрепит нашу противоракетную оборону и одновременно снизит затраты"
+ further_missile_defence_tt: "Это еще больше укрепит нашу противоракетную оборону и поможет в борьбе с ракетами большей дальности"
+ less_occupation_tt: "Это изменит состояние конфликта в сторону от оккупации"

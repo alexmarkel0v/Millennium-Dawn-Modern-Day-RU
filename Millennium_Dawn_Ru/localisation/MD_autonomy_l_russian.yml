@@ -9,7 +9,7 @@
  autonomy_terrorist_mintaqah:0 "Минтака"
  autonomy_annex:0 "Аннексированная территория"
  autonomy_free:0 "Свободное государство"
- autonomy_special_administrative_region:0 "S.A.R."
+ autonomy_special_administrative_region:0 "С.А.Р."
  
  subject_hates:0 "Мнение о повелителе: ненависть"
  subject_hates_desc:0 "[Root.GetNameDef] имеет глубокую ненависть к своему повелителю. Вполне вероятно, что начнется восстание в ближайшее время, если ситуация не изменится."
