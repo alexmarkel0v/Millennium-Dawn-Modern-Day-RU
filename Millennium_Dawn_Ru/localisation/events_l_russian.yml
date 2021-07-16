@@ -3120,5 +3120,5 @@
  cartel_event.12.a: "Проклятые наркоманы"
 
  #adding this extra stuff because russia is strong
- accept_money: "If accepted you will receive the following in [THIS.GetName]:"
- has_foreign_influence: "Foreign Influence is present"
+ accept_money: "В случае принятия вы получите следующее в [THIS.GetName]:"
+ has_foreign_influence: "Присутствует иностранное влияние"
