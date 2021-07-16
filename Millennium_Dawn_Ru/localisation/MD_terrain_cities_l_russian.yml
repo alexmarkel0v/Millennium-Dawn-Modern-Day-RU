@@ -48,5 +48,79 @@
  terrain_vatican: "Ватикан"
  terrain_cagilari: "Кальяри, Италия"
  terrain_palermo: "Палермо, Италия"
+ 
  #Ukraine
  terrain_kiev: "Киев, Украина"
+ terrain_chernivtsi: "Черновцы, Украина"
+ terrain_odessa: "Одесса, Украина"
+ terrain_ivanofrankvisk: "Ивано-Франковск, Украина"
+ 
+ #Poland
+ terrain_warsaw: "Варшава, Польша"
+ terrain_gdansk: "Гданьск, Польша"
+ terrain_bialystok: "Белосток, Польша"
+ terrain_bydgoszcz: "Быдгощ, Польша"
+ terrain_czestochowa: "Ченстохова, Польша"
+ terrain_katowice: "Катовице, Польша"
+ terrain_krakow: "Краков, Польша"
+ terrain_lodz: "Лодзь, Польша"
+ terrain_lublin: "Люблин, Польша"
+ terrain_poznan: "Познань, Польша"
+ terrain_szczecin: "Щецин, Польша" 
+ terrain_wroclaw: "Вроцлав, Польша"
+ terrain_slupsk: "Слупск, Польша"
+ terrain_elblag: "Эльблонг, Польша"
+ terrain_olsztyn: "Ольштын, Польша"
+ terrain_suwalki: "Сувалки, Польша"
+ terrain_torun: "Торунь, Польша"
+ terrain_plock: "Плоцк, Польша"
+ terrain_wloclawek: "Влоцлавек, Польша"
+
+ #Romania
+ terrain_bucharest: "Бухарест, Румыния"
+ terrain_constanta: "Констанца, Румыния"
+ terrain_timisoara: "Тимишоара, Румыния"
+ terrain_oradea: "Орадя, Румыния"
+ terrain_iasi: "Яссы, Румыния"
+ terrain_arad: "Арад, Румыния"
+ terrain_baia_mare: "Бая-Маре, Румыния"
+ terrain_sibiu: "Сибиу, Румыния"
+ terrain_cluj_napoca: "Клуж-Напока, Румыния"
+ terrain_craiova: "Крайова, Румыния"
+ terrain_galati: "Галац, Румыния"
+ terrain_bacau: "Бакэу, Румыния"
+ terrain_brasov: "Брашов, Румыния"
+ terrain_buzau: "Бузэу, Румыния"
+ terrain_targu_mures: "Таргу-Мурес, Румыния"
+ terrain_braila: "Браила, Румыния"
+ terrain_botosani: "Ботошани, Румыния"
+ terrain_satu_mare: "Сату-Маре, Румыния"
+ terrain_ploiesti: "Плоешти, Румыния"
+ terrain_pitesti: "Питешти, Румыния"
+
+ #transnistria
+ terrain_tiraspol: "Тирасполь, Приднестровье"
+
+ #moldova
+ terrain_komrat: "Комрат, Молдова"
+ terrain_kishinev: "Кишинёв, Молдова"
+ terrain_cahul: "Кагул, Молдова"
+ terrain_balti: "Бельцы, Молдова"
+
+ #Lithuania
+ terrain_vilnius: "Вильнюс, Литва"
+ terrain_kaunas: "Каунас, Литва"
+
+ #Hungary
+ terrain_budapest: "Будапешт, Венгрия"
+ terrain_szeged: "Сегед, Венгрия"
+ terrain_debrecen: "Дебрецен, Венгрия"
+
+ #Czech Republic
+ terrain_prague: "Прага, Чехия"
+ terrain_ostrava: "Острава, Чехия"
+ terrain_brno: "Брно, Чехия"
+
+ #Slovakia
+ terrain_bratislava: "Братислава, Словакия"
+ terrain_kosice: "Кошице, Словакия"
