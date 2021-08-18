@@ -106,8 +106,8 @@
  trigger3_make_puppet_button_false:0 "£trigger_no  [From.GetNameWithFlag] в мире"
  trigger4_make_puppet_button_true:0 "£trigger_yes  [From.GetNameWithFlag] не является субъектом [Root.GetNameWithFlag]"
  trigger4_make_puppet_button_false:0 "£trigger_no  [From.GetNameWithFlag] не является субъектом [Root.GetNameWithFlag]"
- trigger5_make_puppet_button_true: "£trigger_yes  [From.GetNameWithFlag] is independent"
- trigger5_make_puppet_button_false: "£trigger_no  [From.GetNameWithFlag] is independent"
+ trigger5_make_puppet_button_true: "£trigger_yes  [From.GetNameWithFlag] независимы"
+ trigger5_make_puppet_button_false: "£trigger_no  [From.GetNameWithFlag] независимы"
  influence_multiplier_display: "[influence_multiplier_display]"
  influence_multiplier_display_non_power: "§R-25%§!
  influence_multiplier_display_minor_power: "§G+10%§!"
@@ -143,7 +143,7 @@
  influence_pp_requirement_15: "240"
  influence_pp_requirement_16: "260"
  influence_pp_requirement_17: "280"
- they_will_receive_tt: "They Will Recieve the Following:\n"
+ they_will_receive_tt: "Они получат следующее:\n"
 
  ##Generic Tooltips
  increase_domestic_influence_1_percent_tt: "Повышение внутренней независимости на §G1%§!\n"
