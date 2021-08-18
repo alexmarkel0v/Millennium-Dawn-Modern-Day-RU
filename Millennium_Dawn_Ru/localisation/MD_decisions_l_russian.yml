@@ -907,8 +907,8 @@
  EP_ENG_rec_1:0 "FV101 Scorpion (1985)"
  EP_ENG_rec_2:0 "FV107 Scimitar (2005)"
  EP_ENG_rec_3:0 "Ajax LT (2015)"
- EP_ENG_rec_4:0 "Recon Tank 2025 (2025)"
- EP_ENG_rec_5:0 "Recon Tank 2035 (2035)"
+ EP_ENG_rec_4:0 "Разведывательный танк 2025 года (2025)"
+ EP_ENG_rec_5:0 "Разведывательный танк 2035 года (2035)"
  EP_buy_ENG_rec_1:0 "[Root.EP_buy_ENG_rec]"
 
  EP_CHI_rec_0:0 "Type-62 (1965)"
@@ -970,12 +970,12 @@
  EP_SOV_attack_helicopter_1: "Ми-24 (1965)"
  EP_SOV_attack_helicopter_2: "Ми-28 (1995)"
  EP_SOV_attack_helicopter_3: "Ka-50 (2005)"
- EP_SOV_attack_helicopter_4: "ATK Helicopter 2015 (2015)"
- EP_SOV_attack_helicopter_5: "ATK Helicopter 2035 (2035)"
+ EP_SOV_attack_helicopter_4: "Штурмовой вертолет 2015 года (2015)"
+ EP_SOV_attack_helicopter_5: "Штурмовой вертолет 2035 года (2035)"
  EP_buy_SOV_attack_helicopter_1: "[Root.EP_buy_SOV_attack_helicopter_1]"
 
  #### TRA helicopters ####
- EP_USA_transport_helicopter_1: "TRA Helicopter 1965 (1965)"
+ EP_USA_transport_helicopter_1: "Транспортный вертолет 1965 года (1965)"
  EP_USA_transport_helicopter_2: "Ми-26 (1995)"
  EP_USA_transport_helicopter_3: "CH-47 Chinook (2005)"
  EP_USA_transport_helicopter_4: "CH-53K King Stallion (2015)"
@@ -986,7 +986,7 @@
  EP_SOV_transport_helicopter_2: "Ми-26 (1995)"
  EP_SOV_transport_helicopter_3: "Ми-38 (2005)"
  EP_SOV_transport_helicopter_4: "Ми-60 (2015)"
- EP_SOV_transport_helicopter_5: "TRA helicopter 2035 (2035)"
+ EP_SOV_transport_helicopter_5: "Транспортный вертолет 2035 года (2035)"
  EP_buy_SOV_transport_helicopter_1: "[Root.EP_buy_SOV_transport_helicopter_1]"
 
  #### Air Superiority Fighters ####
@@ -999,20 +999,20 @@
  EP_USA_AS_Fighter_7: "F158 Starcharge (2045)"
  EP_buy_USA_AS_Fighter_1: "[Root.EP_buy_USA_AS_Fighter_1]"
 
- EP_SOV_AS_Fighter_1: "MiG-23 Flogger (1965)"
- EP_SOV_AS_Fighter_2: "Su-27 (1985)"
- EP_SOV_AS_Fighter_3: "Su-35 (1995)"
- EP_SOV_AS_Fighter_4: "Su-37 (2015)"
- EP_SOV_AS_Fighter_5: "Su-57 (2025)"
- EP_SOV_AS_Fighter_6: "MiG-41 (2035)"
- EP_SOV_AS_Fighter_7: "6.5th Gen AS (2045)"
+ EP_SOV_AS_Fighter_1: "МиГ-23 Flogger (1965)"
+ EP_SOV_AS_Fighter_2: "Су-27 (1985)"
+ EP_SOV_AS_Fighter_3: "Су-35 (1995)"
+ EP_SOV_AS_Fighter_4: "Су-37 (2015)"
+ EP_SOV_AS_Fighter_5: "Су-57 (2025)"
+ EP_SOV_AS_Fighter_6: "МиГ-41 (2035)"
+ EP_SOV_AS_Fighter_7: "Истребитель превосходства 6.5 поколения (2045)"
  EP_buy_SOV_AS_Fighter_1: "[Root.EP_buy_SOV_AS_Fighter_1]"
 
  #### Interceptors ####
  EP_USA_interceptor_1: "F-14 Tomcat (1985)"
  EP_buy_USA_interceptor_1: "[Root.EP_buy_USA_interceptor_1]"
 
- EP_SOV_interceptor_1: "MiG-31 (1985)"
+ EP_SOV_interceptor_1: "МиГ-31 (1985)"
  EP_buy_SOV_interceptor_1: "[Root.EP_buy_SOV_interceptor_1]"
 
  #### Multi-Role Fighters ####
@@ -1025,13 +1025,13 @@
  EP_USA_MR_Fighter_7: "Dragonflare (2045)"
  EP_buy_USA_MR_Fighter_1: "[Root.EP_buy_USA_MR_Fighter_1]"
 
- EP_SOV_MR_Fighter_1: "MiG-21 Fishbed (1965)"
- EP_SOV_MR_Fighter_2: "MiG-29 Fulcrum (1985)"
- EP_SOV_MR_Fighter_3: "MiG-35 Fulcrum-B (1995)"
- EP_SOV_MR_Fighter_4: "MiG-39 Foxglove (2015)"
- EP_SOV_MR_Fighter_5: "Mikoyan LMFS (2025)"
- EP_SOV_MR_Fighter_6: "6th Gen MR (2035)"
- EP_SOV_MR_Fighter_7: "6.5th Gen MR (2045)"
+ EP_SOV_MR_Fighter_1: "МиГ-21 «Фишбэд» (1965)"
+ EP_SOV_MR_Fighter_2: "МиГ-29 «Точка опоры» (1985)"
+ EP_SOV_MR_Fighter_3: "МиГ-35 «Точка опоры-Ф» (1995)"
+ EP_SOV_MR_Fighter_4: "МиГ-39 «Дигиталис» (2015)"
+ EP_SOV_MR_Fighter_5: "Микоян ЛМФС (2025)"
+ EP_SOV_MR_Fighter_6: "Многоцелевой истребитель 6 поколения (2035)"
+ EP_SOV_MR_Fighter_7: "Многоцелевой истребитель 6.5 поколения (2045)"
  EP_buy_SOV_MR_Fighter_1: "[Root.EP_buy_SOV_MR_Fighter_1]"
 
  #### Carrier MR Fighters ####
@@ -1044,13 +1044,13 @@
  EP_USA_CV_MR_7: "F/A-159 Hellcry (2045)"
  EP_buy_USA_MR_Fighter_1: "[Root.EP_buy_USA_MR_Fighter_1]"
 
- EP_SOV_CV_MR_1: "Yak-38 (1965)"
- EP_SOV_CV_MR_2: "Su-30MK2 (1985)"
- EP_SOV_CV_MR_3: "Su-33 Flanker-D(1995)"
- EP_SOV_CV_MR_4: "MiG-39K Flatback (2015)"
- EP_SOV_CV_MR_5: "MiG-39MK Flatback-B (2025)" ### Russian classification for M is Modification. Logically, it will be called MK - Modificirovanniy Korabelniy (K for CV) @Sumimoto
- EP_SOV_CV_MR_6: "6th Gen CV MR (2035)"
- EP_SOV_CV_MR_7: "6.5th Gen CV MR (2045)"
+ EP_SOV_CV_MR_1: "Як-38 (1965)"
+ EP_SOV_CV_MR_2: "Су-30MK2 (1985)"
+ EP_SOV_CV_MR_3: "Су-33 «Фланкер-Д» (1995)"
+ EP_SOV_CV_MR_4: "МиГ-39K «Флэтбэк» (2015)"
+ EP_SOV_CV_MR_5: "МиГ-39MK «Флэтбэк-Б» (2025)" ### Russian classification for M is Modification. Logically, it will be called MK - Modificirovanniy Korabelniy (K for CV) @Sumimoto
+ EP_SOV_CV_MR_6: "Палубный многоцелевой истребитель 6 поколения (2035)"
+ EP_SOV_CV_MR_7: "Палубный многоцелевой истребитель 6.5 поколения (2045)"
  EP_buy_SOV_MR_Fighter_1: "[Root.EP_buy_SOV_MR_Fighter_1]"
 
  #### Strike Fighters ####
@@ -1064,13 +1064,13 @@
  EP_USA_strike_7: "F-132 Heavenshade (2045)"
  EP_buy_USA_strike_1: "[Root.EP_buy_SOV_MR_Fighter_1]"
 
- EP_SOV_strike_1: "Su-17 Fitter (1965)"
- EP_SOV_strike_2: "Su-24 Fencer (1985)"
- EP_SOV_strike_3: "Su-34 Fullback (1995) "
- EP_SOV_strike_4: "MiG-40 Flatback-S  (2015)"
- EP_SOV_strike_5: "MiG-40C Flatback-S (2025)"
- EP_SOV_strike_6: "6th Gen STR (2035)"
- EP_SOV_strike_7: "6.5th Gen STR (2045)"
+ EP_SOV_strike_1: "Су-17 «Монтажник» (1965)"
+ EP_SOV_strike_2: "Су-24 «Фехтовальщик» (1985)"
+ EP_SOV_strike_3: "Су-34 «Защитник» (1995) "
+ EP_SOV_strike_4: "МиГ-40 «Флэтбэк-С» (2015)"
+ EP_SOV_strike_5: "МиГ-40C «Флэтбэк-С» (2025)"
+ EP_SOV_strike_6: "Ударный истребитель 6 поколения (2035)"
+ EP_SOV_strike_7: "Ударный истребитель 6.5 поколения (2045)"
  EP_buy_SOV_strike_1: "[Root.EP_buy_SOV_MR_Fighter_1]"
 
  #### Light Strike Fighters ####
@@ -1081,11 +1081,11 @@
  EP_USA_trainer_5: "T-100 (2035)"
  EP_buy_USA_trainer_1: "[Root.EP_buy_USA_trainer_1]"
 
- EP_SOV_trainer_1: "Aero L-29(1965)"
- EP_SOV_trainer_2: "Aero L-39MS (1995)"
- EP_SOV_trainer_3: "Yak-130 (2015)"
- EP_SOV_trainer_4: "Light Jet 2025 (2025)"
- EP_SOV_trainer_5: "Light Jet 2035 (2035)"
+ EP_SOV_trainer_1: "Аэро Л-29 (1965)"
+ EP_SOV_trainer_2: "Аэро Л-39МС (1995)"
+ EP_SOV_trainer_3: "Як-130 (2015)"
+ EP_SOV_trainer_4: "Легкий истребитель 2025 года (2025)"
+ EP_SOV_trainer_5: "Легкий истребитель 2035 года (2035)"
  EP_buy_SOV_trainer_1: "[Root.EP_buy_SOV_trainer_1]"
 
  #### Carrier LSF ####
@@ -1097,11 +1097,11 @@
  EP_USA_CV_trainer_5: "CT-100 (2035)"
  EP_buy_USA_CV_trainer_1: "[Root.EP_buy_USA_CV_trainer_1]"
 
- EP_SOV_CV_trainer_1: "Light Jet CV 1965 (1965)"
- EP_SOV_CV_trainer_2: "Light Jet CV 1995 (1995)"
- EP_SOV_CV_trainer_3: "Light Jet CV 2015 (2015)"
- EP_SOV_CV_trainer_4: "Light Jet CV 2025 (2025)"
- EP_SOV_CV_trainer_5: "Light Jet CV 2035 (2035)"
+ EP_SOV_CV_trainer_1: "Палубный легкий истребитель 1965 года (1965)"
+ EP_SOV_CV_trainer_2: "Палубный легкий истребитель 1995 года (1995)"
+ EP_SOV_CV_trainer_3: "Палубный легкий истребитель 2015 года (2015)"
+ EP_SOV_CV_trainer_4: "Палубный легкий истребитель 2025 года (2025)"
+ EP_SOV_CV_trainer_5: "Палубный легкий истребитель 2035 года (2035)"
  EP_buy_SOV_CV_trainer_1: "[Root.EP_buy_SOV_CV_trainer_1]"
 
  #### Close Air Support ####
@@ -1112,28 +1112,28 @@
  EP_USA_CAS_5: "A-25 (2035)"
  EP_buy_USA_CAS_1: "[Root.EP_buy_USA_CAS_1]"
 
- EP_SOV_CAS_1: "SU-25A (1975)"
- EP_SOV_CAS_2: "SU-25T (1995)"
- EP_SOV_CAS_3: "CAS 2015 (2015)"
- EP_SOV_CAS_4: "CAS 2025 (2025)"
- EP_SOV_CAS_5: "CAS 2035 (2035)"
+ EP_SOV_CAS_1: "Су-25A (1975)"
+ EP_SOV_CAS_2: "Су-25T (1995)"
+ EP_SOV_CAS_3: "Штурмовик 2015 года (2015)"
+ EP_SOV_CAS_4: "Штурмовик 2025 года (2025)"
+ EP_SOV_CAS_5: "Штурмовик 2035 года (2035)"
  EP_buy_SOV_CAS_1: "[Root.EP_buy_SOV_CAS_1]"
 
  #### Marine Patrol Aircraft ####
  EP_USA_MAR_1: "P-3 Orion (1965)"
  EP_USA_MAR_2: "P-3C Orion (1975)"
- EP_USA_MAR_3: "MAR Patrol 1985 (1985)"
+ EP_USA_MAR_3: "Морской патрульный самолет 1985 года (1985)"
  EP_USA_MAR_4: "P-8 Poseidon (2015)"
  EP_USA_MAR_5: "MQ-4C Triton (2025)"
  EP_USA_MAR_6: "MQ-20 Triteia (2035)"
  EP_buy_USA_MAR_1: "[Root.EP_buy_USA_MAR_1]"
 
- EP_SOV_MAR_1: "Il-38 (1965)"
- EP_SOV_MAR_2: "Tu-142M (1975)"
- EP_SOV_MAR_3: "MAR Patrol 1985 (1985)"
+ EP_SOV_MAR_1: "Ил-38 (1965)"
+ EP_SOV_MAR_2: "Ту-142M (1975)"
+ EP_SOV_MAR_3: "Морской патрульный самолет 1985 года (1985)"
  EP_SOV_MAR_4: "Be-220 (2015)"
- EP_SOV_MAR_5: "MAR Patrol 2025 (2025)"
- EP_SOV_MAR_6: "MAR Patrol 2035 (2035)"
+ EP_SOV_MAR_5: "Морской патрульный самолет 2025 года (2025)"
+ EP_SOV_MAR_6: "Морской патрульный самолет 2035 года (2035)"
  EP_buy_SOV_MAR_1: "[Root.EP_buy_SOV_MAR_1]"
 
  #### Transport Plane ####
@@ -1145,27 +1145,27 @@
  EP_USA_TRA_6: "C-216 Anemoi (2035)"
  EP_buy_USA_TRA_1: "[Root.EP_buy_USA_TRA_1]"
 
- EP_SOV_TRA_1: "An-26 (1965)"
- EP_SOV_TRA_2: "IL-76 (1985)"
- EP_SOV_TRA_3: "IL-76MD 1985 (1995)"
- EP_SOV_TRA_4: "PАК-TA (2015)"
- EP_SOV_TRA_5: "TRA 2025 (2025)"
- EP_SOV_TRA_6: "TRA 2035 (2035)"
+ EP_SOV_TRA_1: "Ан-26 (1965)"
+ EP_SOV_TRA_2: "Ил-76 (1985)"
+ EP_SOV_TRA_3: "Ил-76MD 1985 (1995)"
+ EP_SOV_TRA_4: "ПАК-ТА (2015)"
+ EP_SOV_TRA_5: "Транспортный самолет 2025 года (2025)"
+ EP_SOV_TRA_6: "Транспортный самолет 2035 года (2035)"
  EP_buy_SOV_TRA_1: "[Root.EP_buy_SOV_TRA_1]"
 
  #### Strategic Bomber ####
  EP_USA_STR_1: "B-52H (1965)"
- EP_USA_STR_2: "STR Bomber 1975 (1975)"
+ EP_USA_STR_2: "Стратегический бомбардировщик 1975 года (1975)"
  EP_USA_STR_3: "B-1 Lancer (1985)"
  EP_USA_STR_4: "B-2 Spirit (2015)"
  EP_USA_STR_5: "B-21 Raider (2025)"
  EP_USA_STR_6: "B-40 Brute (2035)"
  EP_buy_USA_STR_1: "[Root.EP_buy_USA_STR_1]"
 
- EP_SOV_STR_1: "Tu-95 (1965)"
- EP_SOV_STR_2: "Tu-22М (1975)"
- EP_SOV_STR_3: "Tu-160 (1985)"
- EP_SOV_STR_4: "Tu-180(2015)"
+ EP_SOV_STR_1: "Ту-95 (1965)"
+ EP_SOV_STR_2: "Ту-22М (1975)"
+ EP_SOV_STR_3: "Ту-160 (1985)"
+ EP_SOV_STR_4: "Ту-180 (2015)"
  EP_SOV_STR_5: "Туполев ПАК-ДА (2025)"
  EP_SOV_STR_6: "Стратегический бомбардировщик 2035 года (2035)"
  EP_buy_SOV_STR_1: "[Root.EP_buy_SOV_STR_1]"
