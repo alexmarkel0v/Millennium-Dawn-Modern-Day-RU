@@ -1650,8 +1650,8 @@
  EU_news.20.a:0 "До свидания!"
  
  ### EU Exit by accident (no deal exit) ###
- EU_news.21.t:0 "A member state leaves The European Union"
- EU_news.21.d:0 "[FROM.GetNameWithFlag] leaves §Y[EUU.GetFlag] The European Union§!."
+ EU_news.21.t:0 "Государство-член покинуло Европейский Союз"
+ EU_news.21.d:0 "[FROM.GetNameWithFlag] покинул §Y[EUU.GetFlag] Европейский Союз§!."
  EU_news.21.a:0 "До свидания!" 
  
  ### Article 50 is revoked ###
@@ -4060,18 +4060,18 @@
  EU_withdrawal_treaty_desc: "§Y[ROOT.GetNameWithFlag]§! и государства-члены §Y[EUU.GetFlag] Европейского Союза§! согласовали Договор о выходе."
 
 
- tooltip_EU_Article_50_available: "§Y[ROOT.GetNameWithFlag]§! has national focus §YСтатья 50§! completed AND NOT has Mission §YLeaving the EU...§!"
+ tooltip_EU_Article_50_available: "§Y[ROOT.GetNameWithFlag]§! выполнил национальный фокус §YСтатья 50§! и не имеет миссию §YПокинуть ЕС...§!"
 
- tooltip_EU_exit_available: "§Y[ROOT.GetNameWithFlag]§! has national focus §YДоговор о выходе из ЕС§! completed AND has decision §YДоговор о выходе из ЕС§! activated."
+ tooltip_EU_exit_available: "§Y[ROOT.GetNameWithFlag]§! выполнил национальный фокус §YДоговор о выходе из ЕС§! и имеет решение §YДоговор о выходе из ЕС§! активированным."
 
- tooltip_EU_exit_cancel_trigger: "§Y[ROOT.GetNameWithFlag]§! has decision §YRevoke Статья 50§! activated."
+ tooltip_EU_exit_cancel_trigger: "§Y[ROOT.GetNameWithFlag]§! выполнил решение §YОтменить статью 50§!."
 
- tooltip_EU_Revoke_Article_50_available: "§Y[ROOT.GetNameWithFlag]§! has Mission §YLeaving the EU...§! OR has Mission §YThree month extension...§!."
- tooltip_EU_Revoke_Article_50_effect: "§Y[ROOT.GetNameWithFlag]§! stays in §Y[EUU.GetFlag] The European Union§!. Mission §YLeaving the EU...§! AND Mission §YThree month extension...§! убран."
+ tooltip_EU_Revoke_Article_50_available: "§Y[ROOT.GetNameWithFlag]§! имеет миссию §YПокинуть ЕС...§! или §YПродление на три месяца...§!."
+ tooltip_EU_Revoke_Article_50_effect: "§Y[ROOT.GetNameWithFlag]§! остается в §Y[EUU.GetFlag] Европейском Союзе§!. Миссия §YПокинуть ЕС...§! и миссия §YПродление на три месяца...§! убраны."
 
- tooltip_EU_extend_Article_50_available: "§Y[ROOT.GetNameWithFlag]§! has national focus §YСтатья 50§! completed AND has Mission §YLeaving the EU...§! OR has Mission §YThree month extension...§!  \nAND [ROOT.GetNameWithFlag] must have > 5% influence on all member states."
+ tooltip_EU_extend_Article_50_available: "§Y[ROOT.GetNameWithFlag]§! выполнил национальный фокус §YСтатья 50§! и имеет миссию §YПокинуть ЕС...§! или §YПродление на три месяца...§!\nИ [ROOT.GetNameWithFlag] должно иметь > 5% влияния во всех государствах-членах."
 
- tooltip_EU_remove_laws_and_offices: "Все §Yзаконы ЕС и офисы§! будут убраны.\n"
+ tooltip_EU_remove_laws_and_offices: "Все §Yзаконы ЕС и должности§! будут убраны.\n"
 
 
 
@@ -4422,10 +4422,10 @@
  tooltip_focus_EU403_EP_approval: "Законопроект §YДублинский регламент II§! §Gпринят§! Европейским Парламентом.\n"
  tooltip_focus_EU403_EP_overrule_option: "Европейский парламент имеет возможность §Oотменить§! решение Совета (§YЕвропейская Конституция§! или §YЕвропейская Федерация§! были §Cприняты§! и Законопроект §YДублинский регламент II§! был §Rотклонен§! и предпринята повторная попытка).\n"
  ### EU404 ###
- tooltip_focus_EU404_draft: "Законопроект §YRelocation и Resettlement of Asylum Seekers§! §Lразработан§! (любое государство завершило национальный фокус §YRelocation и Resettlement of Asylum Seekers§!).\n"
- tooltip_focus_EU404_accepted: "Законопроект §YRelocation и Resettlement of Asylum Seekers§! §Cодобрен§! Советом.\n"
- tooltip_focus_EU404_EP_approval: "Законопроект §YRelocation и Resettlement of Asylum Seekers§! §Gпринят§! Европейским Парламентом.\n"
- tooltip_focus_EU404_EP_overrule_option: "Европейский парламент имеет возможность §Oотменить§! решение Совета (§YЕвропейская Конституция§! или §YЕвропейская Федерация§! были §Cприняты§! и Законопроект §YRelocation и Resettlement of Asylum Seekers§! был §Rотклонен§! и предпринята повторная попытка).\n"
+ tooltip_focus_EU404_draft: "Законопроект §YПереселение и расселение лиц, ищущих убежищаs§! §Lразработан§! (любое государство завершило национальный фокус §YПереселение и расселение лиц, ищущих убежища§!).\n"
+ tooltip_focus_EU404_accepted: "Законопроект §YПереселение и расселение лиц, ищущих убежищаs§! §Cодобрен§! Советом.\n"
+ tooltip_focus_EU404_EP_approval: "Законопроект §YПереселение и расселение лиц, ищущих убежищаs§! §Gпринят§! Европейским Парламентом.\n"
+ tooltip_focus_EU404_EP_overrule_option: "Европейский парламент имеет возможность §Oотменить§! решение Совета (§YЕвропейская Конституция§! или §YЕвропейская Федерация§! были §Cприняты§! и Законопроект §YПереселение и расселение лиц, ищущих убежищаs§! был §Rотклонен§! и предпринята повторная попытка).\n"
  ### EU405 ###
  tooltip_focus_EU405_draft: "Законопроект §YСделка между ЕС и Турцией§! §Lразработан§! (любое государство завершило национальный фокус §YСделка между ЕС и Турцией§!).\n"
  tooltip_focus_EU405_accepted: "Законопроект §YСделка между ЕС и Турцией§! §Cодобрен§! Советом.\n"
@@ -4442,10 +4442,10 @@
  tooltip_focus_EU407_EP_approval: "Законопроект §YФронтекс§! §Gпринят§! Европейским Парламентом.\n"
  tooltip_focus_EU407_EP_overrule_option: "Европейский парламент имеет возможность §Oотменить§! решение Совета (§YЕвропейская Конституция§! или §YЕвропейская Федерация§! были §Cприняты§! и Законопроект §YФронтекс§! был §Rотклонен§! и предпринята повторная попытка).\n"
  ### EU408 ###
- tooltip_focus_EU408_draft: "Законопроект §YEuropean Border и Coast Guard Agency§! §Lразработан§! (любое государство завершило национальный фокус §YEuropean Border и Coast Guard Agency§!).\n"
- tooltip_focus_EU408_accepted: "Законопроект §YEuropean Border и Coast Guard Agency§! §Cодобрен§! Советом.\n"
- tooltip_focus_EU408_EP_approval: "Законопроект §YEuropean Border и Coast Guard Agency§! §Gпринят§! Европейским Парламентом.\n"
- tooltip_focus_EU408_EP_overrule_option: "Европейский парламент имеет возможность §Oотменить§! решение Совета (§YЕвропейская Конституция§! или §YЕвропейская Федерация§! были §Cприняты§! и Законопроект §YEuropean Border и Coast Guard Agency§! был §Rотклонен§! и предпринята повторная попытка).\n"
+ tooltip_focus_EU408_draft: "Законопроект §YЕвропейское агентство пограничной и береговой охраны§! §Lразработан§! (любое государство завершило национальный фокус §YЕвропейское агентство пограничной и береговой охраны§!).\n"
+ tooltip_focus_EU408_accepted: "Законопроект §YЕвропейское агентство пограничной и береговой охраны§! §Cодобрен§! Советом.\n"
+ tooltip_focus_EU408_EP_approval: "Законопроект §YЕвропейское агентство пограничной и береговой охраны§! §Gпринят§! Европейским Парламентом.\n"
+ tooltip_focus_EU408_EP_overrule_option: "Европейский парламент имеет возможность §Oотменить§! решение Совета (§YЕвропейская Конституция§! или §YЕвропейская Федерация§! были §Cприняты§! и Законопроект §YЕвропейское агентство пограничной и береговой охраны§! был §Rотклонен§! и предпринята повторная попытка).\n"
  ### EU500 ###
  tooltip_focus_EU500_draft: "Законопроект §YПолитика Европейской комиссии §! §Lразработан§! (любое государство завершило национальный фокус §YПолитика Европейской комиссии §!).\n"
  tooltip_focus_EU500_accepted: "Законопроект §YПолитика Европейской комиссии §! §Cодобрен§! Советом.\n"
