@@ -1867,11 +1867,11 @@
  add_republican_scotus_justice_tt: "Добавляет республиканское правосудие в Верховный суд Соединенных Штатов"
 
  ####USA
- USA_green_more_than_10_TT: "The £USA_Neutral_green_small §YПартия зеленых§! имеет более чем §Y10%§! поддержки\n"
- USA_libertarian_more_than_10_TT: "The §Y[Neutral_Libertarian_L]§! имеет более чем §Y10%§! поддержки\n"
- USA_reactionary_more_than_10_TT: "The §Y[Conservative_L]§! имеет более чем §Y10%§! поддержки\n"
- USA_bans_the_democratic_party_TT: "Запрет §Y[liberalism_L]§!.\n"
- USA_bans_the_republican_party_TT: "Запрет §Y[conservatism_L]§!.\n"
+ USA_green_more_than_10_TT: "£USA_Neutral_green_small §YПартия зеленых§! имеет более чем §Y10%§! поддержки\n"
+ USA_libertarian_more_than_10_TT: "§Y[Neutral_Libertarian_L]§! имеет более чем §Y10%§! поддержки\n"
+ USA_reactionary_more_than_10_TT: "§Y[Conservative_L]§! имеет более чем §Y10%§! поддержки\n"
+ USA_bans_the_democratic_party_TT: "Будет запрещена §Y[liberalism_L]§!.\n"
+ USA_bans_the_republican_party_TT: "Будет запрещена §Y[conservatism_L]§!.\n"
  USA_tpp_member_flag: "Участник ТПП"
  usa.7.o1_tt: "Маленький шанс, что §YЭлиан Гонсалес§! Рейд может §Yпровалиться§!\n"
  USA_not_total_support_tt: "Не имеет полной поддержки §YСената§! и §YПалаты членов Палаты представителей§!"
