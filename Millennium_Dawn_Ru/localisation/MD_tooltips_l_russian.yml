@@ -1586,9 +1586,9 @@
  UKR_requires_over_70_variable_stab_TT: "Требуется свыше 70% £stability_texticon §Yстабильности режима (СР)§! на Украине"
  UKR_requires_over_80_variable_stab_TT: "Требуется свыше 80% £stability_texticon §Yстабильности режима (СР)§! на Украине"
  ###Через шанс на восстание
- UKR_requires_under_15_cor_TT: "Требуется меньше £generic_anarchist_communism_small §YВероятность восстания (ВВ)§! на Украине\n"
+ UKR_requires_under_15_cor_TT: "Требуется меньше 15 £generic_anarchist_communism_small §Yвероятности восстания (ВВ)§! на Украине\n"
  ##х шанс на восстание
- UKR_has_cor_over_5_tooltip: "Требуется свыше 5 £generic_anarchist_communism_small §YВероятность восстания (ВВ)§! на Украине"
+ UKR_has_cor_over_5_tooltip: "Требуется свыше 5 £generic_anarchist_communism_small §Yвероятности восстания (ВВ)§! на Украине"
  ###Шанс восстания (COR)
  ####Add
  UKR_raise_chance_of_revolt_by_1_TT: "§RВырастет§! £generic_anarchist_communism_small §Yвероятность восстания (ВВ)§! на 1\n"
