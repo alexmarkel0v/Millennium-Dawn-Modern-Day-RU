@@ -1,4 +1,4 @@
-Русская локализация для мода Millennium Dawn: Modern Day
+Millennium Dawn: Modern Day RU - это русская локализация для мода Millennium Dawn: Modern Day, переносящий игру в современный мир.
 
 Актуальная версия: 1.03
 
