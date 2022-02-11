@@ -1163,7 +1163,7 @@
  CSTO_all_democratic_tt: "Каждый член ОДКБ §Yпрозападный§!"
  SCO_all_emerging_tt: "Каждый член ШОС §Yразвивающийся§!"
  SCO_all_democratic_tt: "Каждый член ШОС §Yпрозападный§!"
- lower_gdp_tt: "Имеет более низкий ВВП/С, чем §Y[CHI.GetNamewithFlag]§!"
+ lower_gdp_tt: "Имеет более низкий ВВП на душу населения, чем §Y[CHI.GetNamewithFlag]§!"
  CHI_influence_central_asia_tt: "§Y[CHI.GetName]§! имеет больше влияния в Центральной Азии, чем §Y[SOV.GetName]§!"
  USA_influence_lower_than_CHI_tt: "§Y[CHI.GetName]§! имеет больше влияния в Африканских и Азиатских государствах, чем §Y[USA.GetName]§!"
  USA_influence_lower_tt: "§Y[USA.GetName]§! больше не являются самыми влиятельными в Африканских и Азиатских государствах"
