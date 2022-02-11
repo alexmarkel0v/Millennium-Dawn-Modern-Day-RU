@@ -856,12 +856,12 @@
  possible2_tt: "§HФинансовый центр§!"
  TT_NO_BUILDING_SLOTS: "Во всех наших регионах 0 незанятых §Yячеек для строительства§!"
  TT_MAX_1_BUILDING_SLOTS: "Во всех наших регионах не больше 1 незанятой §Yячейки для строительства§!"
- cyber_gdp_requirement_0_tt: "Имеет §Y4.000$ ВВП/Д§! или выше"
- cyber_gdp_requirement_1_tt: "Имеет §Y7.000$ ВВП/Д§! или выше"
- cyber_gdp_requirement_2_tt: "Имеет §Y15.000$ ВВП/Д§! или выше"
- cyber_gdp_requirement_3_tt: "Имеет §Y20.000$ ВВП/Д§! или выше"
- cyber_gdp_requirement_4_tt: "Имеет §Y30.000$ ВВП/Д§! или выше"
- gdp_requirement_10_tt: "Имеет §Y10.000$ ВВП/Д§! или выше"
+ cyber_gdp_requirement_0_tt: "Имеет §Y4.000$ ВВП/ДН§! или выше"
+ cyber_gdp_requirement_1_tt: "Имеет §Y7.000$ ВВП/ДН§! или выше"
+ cyber_gdp_requirement_2_tt: "Имеет §Y15.000$ ВВП/ДН§! или выше"
+ cyber_gdp_requirement_3_tt: "Имеет §Y20.000$ ВВП/ДН§! или выше"
+ cyber_gdp_requirement_4_tt: "Имеет §Y30.000$ ВВП/ДН§! или выше"
+ gdp_requirement_10_tt: "Имеет §Y10.000$ ВВП/ДН§! или выше"
 
  #Tax Rate
  ##Reduce tax rate
