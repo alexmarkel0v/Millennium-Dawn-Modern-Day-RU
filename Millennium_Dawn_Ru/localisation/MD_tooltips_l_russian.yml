@@ -1279,19 +1279,19 @@
  
  ### Japan
  JAP_int_investment_5_bil_tt:0 "Международные инвестиции: §Y+$5 миллиард долларов§!.\n"
- JAP_treasury_10_bil_tt: "Treasury: §Y-$10 Billion Dollars§!.\n"
- JAP_add_pop_Nat_Autocracy_5_TT: "The §Y[Nat_Autocracy_L]§! gains §Y5% Popularity§! \n"
- JAP_add_pop_western_5_TT: "Various [Western_Autocracy_L_icon] Pro-Western parties gain §G+5.00%§! Popularity (Relative Popularity)\n"
- JAP_add_pop_fascist_5_TT: "The §Y[Nat_Fascism_L]§! gains §G+5.00%§! Popularity (Relative Popularity)\n"
- JAP_add_pop_fascist_10_TT: "The §Y[Nat_Fascism_L]§! gains §G+10.00%§! Popularity (Relative Popularity)\n"
+ JAP_treasury_10_bil_tt: "Казна: §Y-$10 миллиардов долларов§!.\n"
+ JAP_add_pop_Nat_Autocracy_5_TT: "§Y[Nat_Autocracy_L]§! получит §Y5% поддержки§! \n"
+ JAP_add_pop_western_5_TT: "Различные [Western_Autocracy_L_icon] прозападные партии получат §G+5.00%§! поддержки (Относительная популярность)\n"
+ JAP_add_pop_fascist_5_TT: "§Y[Nat_Fascism_L]§! получит §G+5.00%§! поддержки (Относительная популярность)\n"
+ JAP_add_pop_fascist_10_TT: "§Y[Nat_Fascism_L]§! получит §G+10.00%§! поддержки (Относительная популярность)\n"
  
- JAP_add_pop_Monarchist_10_TT: "The §Y[Monarchist_L]§! gains §G+10.00%§! Popularity (Relative Popularity)\n"
- JAP_add_pop_Communist_State_75_TT: "The §Y[Communist-State_L]§! gains §G+7.50%§! Popularity (Relative Popularity)\n"
- JAP_add_pop_neutrality_communism_25_TT: "The §Y[Neutral_Communism_L]§! gains §G+2.50%§! Popularity (Relative Popularity)\n"
+ JAP_add_pop_Monarchist_10_TT: "§Y[Monarchist_L]§! получит §G+10.00%§! поддержки (Относительная популярность)\n"
+ JAP_add_pop_Communist_State_75_TT: "§Y[Communist-State_L]§! получит §G+7.50%§! поддержки (Относительная популярность)\n"
+ JAP_add_pop_neutrality_communism_25_TT: "§Y[Neutral_Communism_L]§! получит §G+2.50%§! поддержки (Относительная популярность)\n"
  
- JAP_new_emperor_TT: "Puts the §Y[Monarchist_L]§! in power, restoring our old ways of monarchy and the good days of Hirohito."
- TT_korea_united_under_democracy: "Korea is united under a democratric government"
- TT_china_united_under_democracy: "China is united under a democractic government"
+ JAP_new_emperor_TT: "Приводит §Y[Monarchist_L]§! к власти, восстанавливая наши старые монархические порядки и добрые времена Хирохито."
+ TT_korea_united_under_democracy: "Корея объединена под властью демократического правительства"
+ TT_china_united_under_democracy: "Китай объединен под властью демократического правительства"
  ###Ukraine
  UKR_referendum_results_implementation_TT: "§BРезультаты могут быть введены в действие только после референдума§!\n"
 
@@ -1477,21 +1477,21 @@
  add_5_billion_debt_tt: "Долг будет увеличен на §R$5 миллиардов§!\n"
  subtract_6_billion_debt_tt: "Будет списано §G$6 миллиардов§! долга\n"
  subtract_11_billion_debt_tt: "Будет списано §G$11 миллиардов§! долга\n"
- 30_billion_debt_tt: "Имеет более §Y$30 миллиардов§! долга\n"
+ 30_billion_debt_tt: "Имеют более §Y$30 миллиардов§! долга\n"
 
  #Poland#
- POL_newpath_TT: "§YДля того, чтобы успешно пройти этот путь, Вам необходимо использовать как Фокус, так и Политическую Систему!§!"
+ POL_newpath_TT: "§YДля того, чтобы успешно пройти этот путь, Вам необходимо использовать как фокусы, так и политическую систему!§!"
  POL_PO_TT: "§YТакой фокус позволит партии "Гражданская платформа" захватить власть в Польше!§!"
  POL_monarchist_empowered_TT: "§YМонархисты захватывают власть в Польше!§!"
  POL_PIS_TT: "§YЭто позволит партии "Закон и Справедливость" прийти к власти в Польше!§!"
- POL_farmerincrease_TT: "§YThe Farmers§! §Gincrease their opinion§! of the government§!"
- POL_russianfort_TT: "§YThis focus will add fortifications to our border with Kaliningrad!"
- POL_radicalcamp_TT: "§YThis focus will allow the National Radical Camp to take power in Poland!§!\n"
- POL_polish_influence_5_TT: "§Y[POL.GetAdjective]§! Influence Rises.§!\n"
- POL_polish_influence_10_TT: "§Y[POL.GetAdjective]§! Influence Rises.§!\n"
- POL_lit_addmoney_10_TT: "Add §Y$10 Billion§! to their Treasury§!\n"
- POL_form_plc_TT: "§Y Польша станет Речь Посполитой и литовские земли станут национальными.§!\n"
- POL_reunification_TT: "§B Чем выше влияние на Литву, тем выше шансы, что они примут Ваше предложение!§!\n"
+ POL_farmerincrease_TT: "§YФермеры§! - §Gулучшают мнение§! о правительстве§!"
+ POL_russianfort_TT: "§YЭтот фокус добавит укреплений к нашей границе с Калининградом!"
+ POL_radicalcamp_TT: "§YЭтот фокус позволит Национал-радикальному лагерю прийти к власти в Польше!§!\n"
+ POL_polish_influence_5_TT: "§Y[POL.GetAdjective]§! влияние возрастет.§!\n"
+ POL_polish_influence_10_TT: "§Y[POL.GetAdjective]§! влияние возрастет.§!\n"
+ POL_lit_addmoney_10_TT: "Добавит §Y$10 миллиардов§! в их казну§!\n"
+ POL_form_plc_TT: "§YПольша станет Речью Посполитой и литовские земли станут национальными.§!\n"
+ POL_reunification_TT: "§BЧем выше влияние на Литву, тем выше шансы, что они примут наше предложение!§!\n"
 
  ###Soviet Tooltips###
  
@@ -1529,7 +1529,7 @@
  SOV_ban_the_nationalist_party_TT: "Будет запрещена партия £SOV_nationalist_right_wing_populist §YЛДПР§!\n"
  SOV_the_fifth_international_TT: "Пусть будет больше потенциальных членов, чем больше иностранных коммунистов и чем лучше их мнение о нас."
  SOV_territorial_demands_cores_TT: "Все территории бывшего §YСоветского Союза§! становятся национальными."
- SOV_bastion_of_democracy_TT: "£SOV_western_liberal §YЯблоко§! получает §G5%§! поддержки, и £SOV_western_conservative §YСоюз Правых Сил§! получает §G5%§! поддержки (Относительная популярность).\n"
+ SOV_bastion_of_democracy_TT: "£SOV_western_liberal §YЯблоко§! получит §G5%§! поддержки, и £SOV_western_conservative §YСоюз Правых Сил§! получит §G5%§! поддержки (Относительная популярность).\n"
  SOV_reduction_of_interest_rate_TT: "Введены в действие пакеты по снижению процентных ставок.\n"
  ##Конкретные подсказки для сторон, получающих поддержку
  #Единая Россия Популярность
