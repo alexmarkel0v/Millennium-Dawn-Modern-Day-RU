@@ -1,4 +1,4 @@
-version="1.03"
+version="1.04"
 name="Millennium Dawn: Modern Day RU"
 tags={
 	"Translation"
